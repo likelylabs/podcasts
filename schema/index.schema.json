@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "podcasts index.json (PODCASTS.md §3.1 / §3.1a)",
+  "type": "object",
+  "required": ["generatedAt", "catalogVersion", "markets", "shows"],
+  "properties": {
+    "generatedAt": {"type": "string"},
+    "catalogVersion": {"type": "integer"},
+    "replay": {"description": "provenance of the RTHK data (null until REPLAY_BASE_URL is set)",
+               "type": ["object", "null"],
+               "properties": {"generatedAt": {"type": ["string", "null"]}, "streamTemplate": {"type": ["string", "null"]}, "streamVersion": {"type": ["integer", "null"]}}},
+    "markets": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["shelves"],
+        "properties": {"shelves": {"type": "array", "items": {
+          "type": "object",
+          "required": ["id", "title_zh", "title_en", "shows"],
+          "properties": {
+            "id": {"type": "string"}, "title_zh": {"type": "string"}, "title_en": {"type": "string"},
+            "shows": {"type": "array", "items": {"type": "string"}},
+            "gate": {"enum": ["replay"], "description": "render only when the client's ReplayGate.isVisible"},
+            "source": {"enum": ["rthk"]}
+          }}}}
+      }
+    },
+    "shows": {
+      "type": "object",
+      "additionalProperties": {"oneOf": [
+        {"type": "object", "required": ["title", "artwork", "feedUrl", "lang", "explicit", "category", "enclosureHost"],
+         "properties": {
+           "title": {"type": "string"}, "author": {"type": "string"}, "artwork": {"type": "string"},
+           "feedUrl": {"type": "string"}, "lang": {"type": "string", "description": "publisher-declared, NOT trusted for shelving"},
+           "explicit": {"type": "boolean"}, "category": {"type": "string"}, "itunesId": {"type": "integer"},
+           "description": {"type": "string"},
+           "enclosureHost": {"type": "string", "description": "host of the latest enclosure — the in-region reachability key (§7)"},
+           "latestEpisode": {"type": "object", "required": ["title", "date", "enclosure"],
+                             "properties": {"title": {"type": "string"}, "date": {"type": "string"}, "enclosure": {"type": "string"}, "durationSec": {"type": "integer"}}}}},
+        {"type": "object", "required": ["source", "channel", "slug", "title_zh", "title_en", "episodesUrl"],
+         "properties": {
+           "source": {"const": "rthk"}, "channel": {"type": "string"}, "slug": {"type": "string"},
+           "title_zh": {"type": "string"}, "title_en": {"type": "string"}, "artwork": {"type": "string"},
+           "active": {"type": "boolean"}, "episodeCount": {"type": "integer"},
+           "episodesUrl": {"type": "string", "description": "'{replayBase}/prog/{channel}/{slug}.json' — the client substitutes its replayCatalogBaseUrl RC value"},
+           "latestEpisode": {"type": "object", "properties": {"title": {"type": "string"}, "date": {"type": "string"}}}}}
+      ]}
+    }
+  }
+}

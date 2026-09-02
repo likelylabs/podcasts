@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "podcasts search.json (PODCASTS.md §3.3) — loaded once, searched locally",
+  "type": "object",
+  "required": ["generatedAt", "markets"],
+  "properties": {
+    "generatedAt": {"type": "string"},
+    "rthkEpisodesTrimmed": {"type": "boolean", "description": "present when the oldest RTHK months were dropped to fit the size budget"},
+    "markets": {"type": "object", "additionalProperties": {
+      "type": "object", "required": ["entries"],
+      "properties": {"entries": {"type": "array", "items": {
+        "type": "object", "required": ["t", "type", "id"],
+        "properties": {
+          "t": {"type": "string", "description": "the text to contains-match (CJK-aware, client-side)"},
+          "type": {"enum": ["show", "episode"]},
+          "id": {"type": "string", "description": "show id in index.shows"},
+          "eid": {"type": "string", "description": "episode id (RTHK episodes only)"},
+          "date": {"type": "string", "description": "episode date (RTHK episodes only) — with the show's channel/slug this is enough to derive the stream URL"}
+        }}}}}}
+  }
+}

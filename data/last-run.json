@@ -1,0 +1,30 @@
+{
+ "aborted": null,
+ "budget": 150,
+ "failures": 0,
+ "feeds_bad": 6,
+ "feeds_ok": 34,
+ "feeds_validated": 40,
+ "finishedAt": "2026-09-02T12:53:04+08:00",
+ "markets": {
+  "hk": {
+   "chart": 100,
+   "chart_resolved": 100,
+   "keyword_hits": {
+    "廣東話": 49,
+    "粵語": 50,
+    "香港": 48
+   },
+   "seeds": 1
+  }
+ },
+ "podcastindex": "skipped (no PODCASTINDEX_KEY/SECRET)",
+ "pool": 226,
+ "pool_forgotten": 0,
+ "requests": 46,
+ "rthk_episodes": 349,
+ "rthk_programmes": 4,
+ "seconds": 41,
+ "startedAt": "2026-09-02T12:52:24+08:00",
+ "warnings": []
+}

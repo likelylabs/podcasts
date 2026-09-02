@@ -1,0 +1,515 @@
+{
+ "generatedAt": "2026-09-02T12:53:42+08:00",
+ "catalogVersion": 1,
+ "replay": null,
+ "markets": {
+  "hk": {
+   "shelves": [
+    {
+     "id": "top",
+     "title_zh": "熱門",
+     "title_en": "Top Podcasts",
+     "shows": [
+      "itunes_1529670928",
+      "itunes_1522773953",
+      "itunes_1895661416",
+      "itunes_1749781362",
+      "itunes_1533238835",
+      "itunes_1574441855",
+      "itunes_1602844524",
+      "itunes_1491146223",
+      "itunes_1647139037",
+      "itunes_1455784513",
+      "itunes_1582119137",
+      "itunes_6805913745",
+      "itunes_1585375783",
+      "itunes_1528446263",
+      "itunes_1751211014",
+      "itunes_1524503405",
+      "itunes_1861393257",
+      "itunes_1797203050",
+      "itunes_1712064916",
+      "itunes_1896311142",
+      "itunes_1559695855",
+      "itunes_1659605645",
+      "itunes_1757540827",
+      "itunes_1588512726",
+      "itunes_1536374746"
+     ]
+    },
+    {
+     "id": "cantonese",
+     "title_zh": "廣東話",
+     "title_en": "Cantonese",
+     "shows": [
+      "itunes_1529670928",
+      "itunes_1491146223",
+      "itunes_1896311142",
+      "itunes_1659605645"
+     ]
+    }
+   ]
+  },
+  "tw": {
+   "shelves": []
+  },
+  "sg": {
+   "shelves": []
+  },
+  "my": {
+   "shelves": []
+  }
+ },
+ "shows": {
+  "itunes_1455784513": {
+   "title": "凹凸电波",
+   "author": "凹凸电波",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/30/24/93/302493e7-be1c-958c-366e-8d13c2fc698c/mza_10993420535667969042.jpg/600x600bb.jpg",
+   "feedUrl": "http://www.ximalaya.com/album/19206382.xml",
+   "lang": "zh-cn",
+   "explicit": true,
+   "category": "搞笑",
+   "enclosureHost": "jt.ximalaya.com",
+   "itunesId": 1455784513,
+   "description": "《凹凸电波》是一档打破传统认知的两性杂谈类脱口秀节目。这里是属于当代男女的情感自留地。我们热衷于剖析那些微妙又有趣的情感话题，分享每个人成长经历中那些不可思议的爆笑瞬间。在快节奏的日常里，我们希望《凹凸电波》能成为你繁忙生活中的一个小小避风港。没有压力，只有共鸣，在这里，让我们一起通过欢笑找回最真实的自己。别着急，慢慢来。本节目由播客厂牌——凹凸宇宙出品公众号：凹凸电波微博：凹凸电波商务合作： aotu_hezuo@163.com版权所有，保留一切权利。禁止未经授权的二次上传、修改及任何商业用途，包括AI学习、采样或训练。基于本作品的二次创作，请在明确标注原始出处的前提下进行，感谢理解。如需举报侵权行为，请通过官方渠道向我们联系。",
+   "latestEpisode": {
+    "title": "情侣互喷大赏：要吵出去吵！这点屁事也要胡闹？！",
+    "date": "2026-08-31",
+    "enclosure": "https://jt.ximalaya.com//GKwRIW4OaX1LAh0J7QTPJ0cJ.m4a?channel=rss&album_id=19206382&track_id=1009770666&uid=96384113&jt=https://aod.cos.tx.xmcdn.com/storages/81f4-audiofreehighqps/6B/E5/GKwRIW4OaX1LAh0J7QTPJ0cJ.m4a",
+    "durationSec": 4380
+   }
+  },
+  "itunes_1491146223": {
+   "title": "五分鐘心理學 - 樹洞香港 Podcast",
+   "author": "樹洞香港 TreeholeHK",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b2/8d/60/b28d60f4-c09b-db5a-bfb8-a162523d5599/mza_1561152526416110742.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/13b71908/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "教育",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1491146223,
+   "description": "樹洞香港是一所推進心理學發展的企業。我們提供全面的心理學服務，並致力推進心理科技研發及應用。\n我們的完整配套令個人或組織可以運用心理學的力量，超越自身限制，並以真誠磊落的態度追尋使命。\n-\n我們的心理學 Podcast 頻道，為你提供準確、實用的心理學知識。\n我們提供的服務包括：\n👨🏻‍⚕️ 心理治療服務： treehole.hk/coun/心理治療-psychotherapy\n👔 企業培訓： treehole.hk/corp\n📲 MindForest App: mindforest.ai/download\n-\n如有合作及業務查詢，請電郵至 i@treehole.hk",
+   "latestEpisode": {
+    "title": "唔做嘅遺憾永遠大過做錯事｜你會點揀？｜難度★☆☆｜#五分鐘心理學",
+    "date": "2026-08-28",
+    "enclosure": "https://anchor.fm/s/13b71908/podcast/play/124850771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F430702125-44100-2-5b3f544862cff.mp3",
+    "durationSec": 787
+   }
+  },
+  "itunes_1522773953": {
+   "title": "好味小姐開束縛我還你原形",
+   "author": "好味小姐",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/84/4a/ef/844aefba-e78b-0094-b833-cff2d909e0df/mza_11212217927980159612.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/adf29720-e93b-4856-a09e-b73544147ec4.xml",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "社會與文化",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1522773953,
+   "description": "名字有夠長\n\n合作邀約｜ladyflavor.pet@gmail.com\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "EP326 🍞國小早餐爭奪戰與東京甩尾復仇🏎️",
+    "date": "2026-09-01",
+    "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/5a9e5313-0dd1-49d0-a0de-4e2fa513f68d/rssFileVip.mp3?timestamp=1788289463553",
+    "durationSec": 3458
+   }
+  },
+  "itunes_1524503405": {
+   "title": "拾壹每週聽 Subyub Per Week Listen to",
+   "author": "李拾壹／陳每",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/81/17/1c/81171c3d-2e91-18bc-542c-bde7735dcd69/mza_9695198413795204771.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/6caafcca-f43a-4459-8fc0-cc065723f46a.xml",
+   "lang": "zh",
+   "explicit": false,
+   "category": "感情關係",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1524503405,
+   "description": "李拾壹學長＋Per老師\n兩個搬到台北的香港人\n分享你（以為）你不需要知道的生活小事\n如果 you don't wanna sleep at all\n不要滑手機了\n聽這個吧！\n\n2021年到了嗎？\n\n甚麼？差不多過了一半？\n\n由小強到米奇把我們從舊家迫遷\n\n到終於找到（暫時）最理想的家園\n\n今集跟大家好好交代一下！！！！！\n______________\nPatreon 支持我們 /成為乾爹 / 收聽自己限定Podcast\nhttps://www.patreon.com/subyub\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "【拾壹每週聽（廣東話）S3】Ep95 - 福岡美食推介（公開版）",
+    "date": "2026-06-20",
+    "enclosure": "https://rss.soundon.fm/rssf/6caafcca-f43a-4459-8fc0-cc065723f46a/feedurl/480968d5-4b0a-4424-90ac-e72082944270/rssFileVip.mp3?timestamp=1781962459033",
+    "durationSec": 3426
+   }
+  },
+  "itunes_1528446263": {
+   "title": "投資唔講廢話",
+   "author": "阿樂",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ad/48/f4/ad48f48d-ee8f-bdf2-3ffe-af415f2e646c/mza_7068532466493827109.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/e0e275d9-9a69-49c2-8c16-cbdfb914e9e7.xml",
+   "lang": "zh-HK",
+   "explicit": false,
+   "category": "商業",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1528446263,
+   "description": "全職Trader，分享美國股市/政經大事/生活趣事\n🎧 全球首個廣東話投資Podcast \n📖 暢銷書《投資唔講廢話: 只講選股》作者\n📑《美股日報》編輯\n\n📡每週更新 \n✍無開啟廣告盈利，頻道由《美股日報》支持自負盈虧\n\n⭐訂閱全網最詳盡的美股中文簡報 \n《美股日報》⬇️\nhttps://www.patreon.com/investnobullshit/membership\n\n🏠Instagram專頁: \nhttps://www.instagram.com/invest.no.bullshit/\n\n🎥Youtube: \nlinktr.ee/investnobullshit\n\nApple Podcast / Spotify / Google Podcast / Castbox / KKBOX / Youtube\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "第305集 | 口裡說不，身體卻很誠實! Kevin Warsh的首個央行大會發言出現人格分裂，但市場反而如釋重負?",
+    "date": "2026-08-31",
+    "enclosure": "https://rss.soundon.fm/rssf/e0e275d9-9a69-49c2-8c16-cbdfb914e9e7/feedurl/c28620e3-7e1a-40f6-b817-5b3142a72a88/rssFileVip.mp3?timestamp=1788117577268",
+    "durationSec": 795
+   }
+  },
+  "itunes_1529670928": {
+   "title": "吹水奇懸",
+   "author": "吹水奇懸 ｜ 廣東話podcast",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/0c/9f/7c/0c9f7c52-6be7-80ab-ccf4-8c8991074107/mza_11155853878908864603.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/3147e0d8/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": true,
+   "category": "真實犯罪",
+   "enclosureHost": "traffic.megaphone.fm",
+   "itunesId": 1529670928,
+   "description": "兩個女人講吓世界各地嘅奇案、懸案嘅廣東話podcast。吹水為主，唔好太認真。\n隔個星期四更新。\n內容涉及敏感題材，未成年者需由家長陪同收聽。\nLinktree: https://linktr.ee/waterblowingmysteries\n若果想支持我哋，可以請我哋飲返杯咖啡：http://buymeacoffee.com/WBmysteries\n|| IG: waterblowingmysteries || FB: waterbl0wingmysteries || MeWe: 吹水奇懸 || \n主題音樂：Curiosity by Hye In Jeong (https://youtu.be/mv4Sw9B7kPQ)",
+   "latestEpisode": {
+    "title": "Bonus #6 六年一遇Live",
+    "date": "2026-08-30",
+    "enclosure": "https://traffic.megaphone.fm/APO1211769141.mp3",
+    "durationSec": 5135
+   }
+  },
+  "itunes_1533238835": {
+   "title": "勵志鷹",
+   "author": "@laichieagle",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e8/a1/88/e8a188f3-2495-fd39-103b-c44353cc0305/mza_15205747671840825282.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/83838d49-9f4f-43a8-95e9-921174e2730c.xml",
+   "lang": "zh-HK",
+   "explicit": false,
+   "category": "搞笑",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1533238835,
+   "description": "香港第一Podcast, 又頹又勵志嘅鳩笑節目, 逢二，四更新🦅\nIG: @laichieagle\n合作聯絡: laichieagle@gmail.com\n特別鳴謝(☞ﾟ∀ﾟ)☞刀仔 @knifesonyu 贈圖\n#香港podcast #廣東話podcast\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "頭腦大戰：陰險的推理大師｜邊個笑容令人心都寒埋｜EP594｜勵志鷹laichieagle",
+    "date": "2026-09-01",
+    "enclosure": "https://rss.soundon.fm/rssf/83838d49-9f4f-43a8-95e9-921174e2730c/feedurl/960ecfea-9e4c-4ea8-8a26-68b8478986c6/rssFileVip.mp3?timestamp=1788288745414",
+    "durationSec": 4266
+   }
+  },
+  "itunes_1536374746": {
+   "title": "唐陽雞酒屋",
+   "author": "唐綺陽",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/2e/d9/c0/2ed9c06b-2e98-4be3-9b31-ddff2e877160/mza_5281959019959189785.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/ckga7ibs77fgl0875bxwgl0y0",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "感情關係",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1536374746,
+   "description": "2026年共時曆回來囉✨陪伴你的每一天 🔗 https://dmkk.tw/jt01DmeA3  我以為我的podcast是治失眠，但好多人跟我說聽了睡不著。 好吧，失眠不要聽！  🐧每週日：更新週報 🐧每週二、五：更新社會觀察（盡量啦XD）  🔎 FB：唐綺陽占星幫 🔎 YT：唐綺陽官方專屬頻道 🔎 IG：jessetang11  *本節目使用 Firstory 發佈，Firstory 讓你輕鬆被世界聽見。",
+   "latestEpisode": {
+    "title": "【本週提醒】關係與利益進入整理期🧹",
+    "date": "2026-08-31",
+    "enclosure": "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmtgo5bh20ur801xv8vtdhh66/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmtgo5bh20ur901xvf3l6f0cy.mp3?v=1788146326506",
+    "durationSec": 391
+   }
+  },
+  "itunes_1559695855": {
+   "title": "知行小酒馆",
+   "author": "有知有行",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/b3/96/fc/b396fcc5-6e2b-d34e-8d3d-c849c43b6215/mza_4090324763067558601.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feed.xyzfm.space/j8yp8gxkmgqr",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "商業",
+   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
+   "itunesId": 1559695855,
+   "description": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。\n\n如果你对节目有任何建议，或者有推荐的嘉宾，或者只是想与我们分享你和小酒馆的故事，可以给我们发邮件，来信请寄：allinthebeer@gmail.com\n\n如果你有长期投资的需求，非常欢迎下载 有知有行App，里面有你一定能读懂的好课程《投资第一课》，也有专业的投资观察《知行黑板报》，更有我们全员持有的好产品「长钱账户」「稳钱账户」「海外长钱」，人称「长稳海三胞胎」。",
+   "latestEpisode": {
+    "title": "E249 对话叶檀：我不再是人生的过道人",
+    "date": "2026-08-28",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c197dc98747/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/li8lFK6AYG48zk63bPnH4QtKmn9X.m4a",
+    "durationSec": 5766
+   }
+  },
+  "itunes_1574441855": {
+   "title": "Sparksine廣東話讀書會Podcast --With Isaac",
+   "author": "Isaac Wong from Sparksine",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/0b/7f/58/0b7f5829-f2bc-edd7-e734-baabb76cd503/mza_16862554142766883621.jpg/600x600bb.jpg",
+   "feedUrl": "https://feeds.acast.com/public/shows/62cc4ff5042a970012400abf",
+   "lang": "zh-hk",
+   "explicit": false,
+   "category": "書籍",
+   "enclosureHost": "sphinx.acast.com",
+   "itunesId": 1574441855,
+   "description": "想買書，但係唔知睇咩好？想睇書，但係又冇時間？Sparksine Podcast頻道每星期為你推介唔同嘅書，幫你發掘更多好書，提升你嘅閱讀興趣。 Sparksine每星期為你挑選以及推介不同的好書，讓你在繁忙的生活享受閱讀。香港廣東話讀書頻道，每星期為你推薦好書。 了解更多： https://www.sparksine.com Hosted on Acast. See acast.com/privacy for more information.",
+   "latestEpisode": {
+    "title": "為甚麼人一看到「免費」會更容易花冤枉錢？",
+    "date": "2026-08-30",
+    "enclosure": "https://sphinx.acast.com/p/open/s/62cc4ff5042a970012400abf/e/6a934b0baf7ff862c1ffff4d/media.mp3",
+    "durationSec": 1131
+   }
+  },
+  "itunes_1582119137": {
+   "title": "岩中花述",
+   "author": "GIADA",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/61/68/6661682f-e63e-e4ae-9a2b-24e0f469e691/mza_10195277240598994553.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.xyzfm.space/hwen8wf69c6g",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "文藝",
+   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
+   "itunesId": 1582119137,
+   "description": "欢迎来到智性女性的精神衣橱，本节目是由意大利静奢品牌GIADA推出的一档播客节目。见识过世界、也体味过生活的GIADA Woman聚集在这里进行自由表达，探讨多样而广阔的生命议题，传递坚韧与温柔并存的内在力量。\nThe spiritual wardrobe for the intellect and the soul.\nFlower on the Rock is an original podcast by the Italian luxury brand GIADA. Here, we gather women who have walked their own paths to reflect on the themes that shape their lives. It is a sanctuary for the inner power that persists - a rem",
+   "latestEpisode": {
+    "title": "S9E7 鲁豫对话芮迺伟｜一生手谈，半生漂泊，归来棋未凉",
+    "date": "2026-08-05",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/625635587bfca4e73e990703/6a719a98ab3a91c24a0f95e2/media.xyzcdn.net/625635587bfca4e73e990703/loWNxAmmxzij3N5Ktk0hFAascPmC.m4a",
+    "durationSec": 5910
+   }
+  },
+  "itunes_1585375783": {
+   "title": "港一半唔講一半",
+   "author": "Benson and Rachel",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/88/9b/ed/889bed7e-7b22-1780-5891-8e263fce97e4/mza_12539978597643697620.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/69ebdc8c/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "社會與文化",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1585375783,
+   "description": "🎙 港一半唔講一半｜HalfKong Podcast\n📚 文化研究｜心理學｜文學｜醫學｜廣東話 Podcast\n\n每星期一，Benson（澳洲醫科生）同 Rachel（寫小說的性學女子）\n醫學冷知識、心理學研究、文學文本、流行文化、再到生活上嘅小焦慮\n\n🎧 適合你如果：\n✔️ 鍾意文青味道但唔想太離地\n✔️ 對文化、知識、生活有啲小好奇\n✔️ 想喺搭車/煮飯/行山時聽啲可以激發思考又會笑出聲嘅內容\n\n📆 逢星期一更新｜廣東話節目\n📍 IG: @halfkong.podcast\n📺 YouTube: 港一半唔講一半\n🌊 努力邁向第300集！",
+   "latestEpisode": {
+    "title": "EP234 | 韓國感：《本物》",
+    "date": "2026-09-01",
+    "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/124999162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2Fa6f35989-e4ce-b83d-b515-0df527906c27.mp3",
+    "durationSec": 3835
+   }
+  },
+  "itunes_1588512726": {
+   "title": "好青年荼毒室",
+   "author": "好青年荼毒室",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/a7/b9/41a7b935-4a1a-dfe0-8a33-07152458ef07/mza_10862972988827319451.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/3f94b8a0/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "哲學",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1588512726,
+   "description": "好青年荼毒室，顧名思義，是一個專門荼毒青年的地方。二千多年前，曾經有個叫蘇格拉底的人，因為荼毒青年而被判死，最終他把毒藥一飲而盡。\n今天，一群中毒已深的人，建立起這個荼毒室，好等大家都能一起走進哲學的世界。這是個會荼毒人的地方，因為你會開始發現身邊的一切，並非如此理所當然；你會開始反省，追問生命、世界、語言、科學、倫理、知識、政治等每事每物的本質。從此，你可能不再是循規蹈矩的好青年。",
+   "latestEpisode": {
+    "title": "哲學係咁傾】第二季 ep. 13 機器能思考嗎？",
+    "date": "2026-08-26",
+    "enclosure": "https://anchor.fm/s/3f94b8a0/podcast/play/124710565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430506133-44100-2-4f292917fbd7d.mp3",
+    "durationSec": 5355
+   }
+  },
+  "itunes_1602844524": {
+   "title": "殺人魔MORE查",
+   "author": "阿珍 & 阿崔",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/63/37/71/633771cc-426b-6c09-a230-f2b4deefd015/mza_13042964601781432846.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/7b67e7bc/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": true,
+   "category": "真實犯罪",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1602844524,
+   "description": "廣東話Podcast，講吓連環殺人犯、奇怪案件、未解之謎.....\n\n我哋係兩個對true crime 題材有興趣嘅女仔，想喺度輕鬆講吓唔同案件~\n新手上路，希望大家俾多啲意見，等我哋做得愈來愈好！\n\n逢星期日更新，陪你迎接星期一，多多指教☺️\n\n非專業學術討論，切勿過分認真\n\n🍻​Support us with a beer:\nbuymeacoffee.com/skmmc\n\n📩Social Handles:\nlinktr.ee/skmoremorecha",
+   "latestEpisode": {
+    "title": "#132 史上最大藝術品盜竊案｜Isabella Stewart Gardner Museum Heist",
+    "date": "2026-08-11",
+    "enclosure": "https://anchor.fm/s/7b67e7bc/podcast/play/124046157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2Ff13d709d-9403-66f0-8505-f0c025d95773.mp3",
+    "durationSec": 3124
+   }
+  },
+  "itunes_1647139037": {
+   "title": "啤啤說書：廣東話讀書會",
+   "author": "啤啤說書｜加入早餐會，每天進步1%",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/fa/74/eefa746c-f7ec-b512-ccaa-ca3dc754117b/mza_16545690752075813636.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/edbfc438/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "書籍",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1647139037,
+   "description": "「啟發思維，成為最理想版本的自己」\n加入早餐會，日日有書聽",
+   "latestEpisode": {
+    "title": "《變化中的世界秩序》導讀：一個五百年重演緊嘅劇本，而你啱啱好企喺高潮位（好書推薦：The Changing World Order）",
+    "date": "2026-09-01",
+    "enclosure": "https://anchor.fm/s/edbfc438/podcast/play/124367283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2Fd3bd3000-96db-bc25-cc45-e1da8c324dda.mp3",
+    "durationSec": 487
+   }
+  },
+  "itunes_1659605645": {
+   "title": "港識多史｜香港歷史社會研究社",
+   "author": "Wetoasthk",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/f4/eb/d8/f4ebd818-c8f5-a8a5-d73e-7358884b75ed/mza_11821474517942128868.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/10568fa50/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "歷史",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1659605645,
+   "description": "香港人說香港史，分享香港歷史文化故事冷知識 溫斯頓．邱吉爾說過：「學習歷史，學習歷史。歷史裏典藏著一切的智慧」 港識多史致力以香港歷史、文化為材料，炮製一個個給香港人的專題故事，以輕鬆、簡單的手法讓大家了解香港的故事。曾先後接受多間媒體包括《蘋果日報》、《明報》、《中大通訊》和《南華早報》訪問，並推出多本香港歷史書目，一同用文字發掘搜羅有趣而影響深遠的香港小故事，務求在彈指間略過的News Feed中，令大家停駐一分鐘，重新認識我們的香港。 我們常慨嘆香港新不如舊，那麼，我們何不好好認識一下我們的「舊」？ \n\n加入Patreon，支持港識多史恆常運作：https://www.patreon.com/wetoasthk",
+   "latestEpisode": {
+    "title": "【港識奇案】EP.99｜打小朋友",
+    "date": "2026-08-30",
+    "enclosure": "https://anchor.fm/s/10568fa50/podcast/play/124935033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2Fdc5d5df1-eeba-c453-5013-c50c546fae42.mp3",
+    "durationSec": 1669
+   }
+  },
+  "itunes_1712064916": {
+   "title": "OK 聽人講",
+   "author": "OKLA HK",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3b/09/2a/3b092a11-e93f-b32d-dab0-2f1c9d3da3a7/mza_6550319188322798373.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/e81a3eb4/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "搞笑",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1712064916,
+   "description": "與其睇街訪 不如聽下我哋講！(香港 Podcast）\n逢星期一同四有我哋三個後生仔女爲你減減壓 ^.^\n\n鍾意嘅話記得去睇埋我哋嘅 YouTube 同埋 IG ❤️\n\n投稿 Link: https://forms.gle/av8KZ6WFUNGwjgp37\n\nYouTube: https://youtube.com/@OKLAHK?si=Zi0ChiYmphVN4x-6\n\nInstagram: https://instagram.com/ok.la.hk?igshid=MzRlODBiNWFlZA==\n\nhttps://www.instagram.com/okla_podcast/",
+   "latestEpisode": {
+    "title": "【OK 聽人講！EP 150】可能係大家聽過最唔恐怖嘅鬼故。。。",
+    "date": "2026-08-31",
+    "enclosure": "https://anchor.fm/s/e81a3eb4/podcast/play/124923940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430803271-44100-2-6bb250b56eff5.mp3",
+    "durationSec": 3776
+   }
+  },
+  "itunes_1749781362": {
+   "title": "奇情島",
+   "author": "JC",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/43/f2/3d43f25d-03c6-c002-3ba7-7553d934eeb1/mza_2094856087742201553.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/f71294d4/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": true,
+   "category": "真實犯罪",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1749781362,
+   "description": "奇情島探索古今中外奇人、奇事、奇案。\n感謝大家支持。You may support the channel with a coffee :)\n☕ https://buymeacoffee.com/mysticislandjc\n📝你嘅奇情故：https://forms.gle/54924zaUXzquBbsg8\n📱Telegram/ Instagram @mysticislandjc \n🌳 https://linktr.ee/mysticislandjc",
+   "latestEpisode": {
+    "title": "EP123 - [冤獄] 馬尼拉鄧龍威案",
+    "date": "2026-09-02",
+    "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/124856771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2Ff95b9bb4-78c9-f9e0-280b-d64d7bb47369.mp3",
+    "durationSec": 2479
+   }
+  },
+  "itunes_1751211014": {
+   "title": "犯後Check Chat",
+   "author": "Crime Check Chat",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/e7/54/a1e75481-09ce-af24-3249-8c99d0fe3a3c/mza_6227128948256213880.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/f768e938/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "真實犯罪",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1751211014,
+   "description": "兩個超級奇案迷🕵🏻‍♀️🕵🏻‍♀️ 表面正正常常女仔\n但實際沉迷古今中外古靈精怪奇案奇事🤫 \n希望同大家一齊探討故事主角「犯」後一面\n了解人性黑暗面💀 \nLet’s CHECK &amp; CHAT 🧠💬 \nInstagram: crimecheckchat\n\n如果希望支持我哋嘅，可以喺下面呢條link請我哋飲杯咖啡，等我哋有更多動力同大家繼續check &amp; chat！\nhttps://buymeacoffee.com/crimecheckchat",
+   "latestEpisode": {
+    "title": "EP55: 澳洲閏密欺詐自殺案｜監獄男友情人 素未謀面私定終生｜真實身份超驚人 「兇手」無罪？｜原來澳洲監獄真係可以打電話搵朋友？",
+    "date": "2026-09-01",
+    "enclosure": "https://anchor.fm/s/f768e938/podcast/play/125020896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430936592-44100-2-00fa738b26f96.m4a",
+    "durationSec": 2500
+   }
+  },
+  "itunes_1757540827": {
+   "title": "邪惡妍究所",
+   "author": "阿妍加⼀",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/f5/95/dcf59513-6912-112c-daee-57f7e4d0414f/mza_12467553693842120117.jpeg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/108737f18/podcast/rss",
+   "lang": "zh",
+   "explicit": true,
+   "category": "真實犯罪",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1757540827,
+   "description": "‼️請移玉步到我哋嘅YouTube Channel查詢一週年Q&amp;A吧！\n\nWelcome to 成人世界嘅bedtime story~\n我哋係阿妍加一🧛🏻‍♀️🧛🏽‍♀️\n-\n分享世界上嘅恐怖、不安、古怪嘅真實案件🫂\n討論案件背後嘅細節、動機、袐密🕵🏻‍♀️🕵🏾‍♀️\n-\n每個禮拜⼀盡量準時更新💃🏻\n-\n支持我哋，請我哋飲杯吧\nbuymeacoffee.com/plus1reseaq\n-\nSocial handles\nhttps://linktr.ee/plus1evilresearch\n-\n我哋仲有個main channel 👉🏻加⼀加⼀妍究所💁🏻‍♀️💁🏾‍♀️鐘意我哋賽後討論，無聊吹水就入埋去聽下啦\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "E.p.55 26名小孩被活埋 - Chowchilla 校巴綁架案",
+    "date": "2026-08-27",
+    "enclosure": "https://anchor.fm/s/108737f18/podcast/play/124790553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F27c56f74-4979-0195-6af6-eb554e7350e7.mp3",
+    "durationSec": 3655
+   }
+  },
+  "itunes_1797203050": {
+   "title": "神經俠侶",
+   "author": "SG Couple",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/60/44/f86044af-2509-f28f-bac5-5750bde2c488/mza_14893661966380394365.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/101660588/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "教育",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1797203050,
+   "description": "香港神經俠侶\n#林作裕美podcast \n#人際關係解密\n#兩性互動探索\n#神經俠侶生活 @sgcouple",
+   "latestEpisode": {
+    "title": "【EP57】《神經俠侶》SG Couple│成長的陰影‧斯多葛aura│Shadows of Growth‧Stoic Aura│Joseph Lam│Hiromi Wada",
+    "date": "2026-08-01",
+    "enclosure": "https://anchor.fm/s/101660588/podcast/play/123619568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-1%2F429021019-44100-2-dfec35c3b99e3.mp3",
+    "durationSec": 2097
+   }
+  },
+  "itunes_1861393257": {
+   "title": "做人學 | The Psychology Dept.",
+   "author": "The Psychology Dept.",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/30/64/2f/30642fc2-386c-3618-35a8-10b64c34727b/mza_2784697452797396421.jpg/600x600bb.jpg",
+   "feedUrl": "https://rss.buzzsprout.com/2564800.rss",
+   "lang": "en-us",
+   "explicit": false,
+   "category": "自我提升",
+   "enclosureHost": "www.buzzsprout.com",
+   "itunesId": 1861393257,
+   "description": "Study human minds for inspirations.每個禮拜，一起學做人。",
+   "latestEpisode": {
+    "title": "EP17 | 孤獨與被拋棄的痛：心理輔導如何療癒人心 ft. Dr. Allen Dorcas 教授/輔導心理學家",
+    "date": "2026-08-28",
+    "enclosure": "https://www.buzzsprout.com/2564800/episodes/19712120-ep17-ft-dr-allen-dorcas.mp3",
+    "durationSec": 1907
+   }
+  },
+  "itunes_1895661416": {
+   "title": "胡説八道陳老C丨廣東話丨暴走的陳老C",
+   "author": "暴走的陳老C",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/28/92/892892dd-c27c-5198-f689-8539fbf8b100/mza_4171734777285019513.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/f6370248/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "自我提升",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1895661416,
+   "description": "廣東話",
+   "latestEpisode": {
+    "title": "Ep1622-執輸行頭，真的慘過敗家？ 如何在競爭中搶佔先機？｜《孫子兵法》7 軍爭篇丨作者 孫武丨陳老C丨廣東話",
+    "date": "2026-09-02",
+    "enclosure": "https://anchor.fm/s/f6370248/podcast/play/125033993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F4632e890-b025-a43b-aaa2-081397a6baa7.mp3",
+    "durationSec": 1887
+   }
+  },
+  "itunes_1896311142": {
+   "title": "願聞奇詳｜Hear the Weird 廣東話Podcast",
+   "author": "Liz and Ryan",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/c8/0f/6cc80ff2-b595-0803-d000-724236ad46e0/mza_3854617997334703341.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/111d8d260/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": true,
+   "category": "真實犯罪",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 1896311142,
+   "description": "《願聞奇詳 Hear the Weird》係一個以廣東話講述真實奇案、懸案、犯罪事件與心理操控案件的 True Crime Podcast。\n我哋每個星期二都會更新一集，希望透過呢啲真實案件，\n大家唔止係聽故事，而係學識提高警覺，保護自己。\n如果你想繼續聽落去，記得 follow 我哋。\n歡迎留言話俾我地知你想聽啲咩\n如果想支持我地，可以買罐罐俾我地既主子🐱\nhttps://buymeacoffee.com/heartheweird\n更多平台：linktr.ee/Heartheweird",
+   "latestEpisode": {
+    "title": "Ep 16 加入黑幫前的最後試驗-不能說的秘密 | Daniel's Law",
+    "date": "2026-09-01",
+    "enclosure": "https://anchor.fm/s/111d8d260/podcast/play/124832494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430676247-44100-2-3764a3946e306.m4a",
+    "durationSec": 2698
+   }
+  },
+  "itunes_6805913745": {
+   "title": "自由號",
+   "author": "JC, Kelvin",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/09/31/3e/09313ed0-fa33-2414-765f-f24c254eb4bc/mza_4156500682622966109.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/1165a064c/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "地方與旅遊",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 6805913745,
+   "description": "廣東話旅遊Podcast。由JC同Kelvin掌舵，帶你遊歷世界。🌍\nFollow 我地 IG @thefreespiritshk",
+   "latestEpisode": {
+    "title": "EP1 - Part 2: 西葡之旅／極品旅伴",
+    "date": "2026-08-27",
+    "enclosure": "https://anchor.fm/s/1165a064c/podcast/play/124587549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Ffeeebf8a-7d11-c8d3-1b37-aa6f178355d2.mp3",
+    "durationSec": 4200
+   }
+  }
+ }
+}

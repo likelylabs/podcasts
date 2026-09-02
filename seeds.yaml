@@ -1,0 +1,16 @@
+# Curated seeds — the editorial lever (PODCASTS.md §2.1.4). Reviewed like code.
+#
+# Per market, a list of shows the charts under-surface. Each entry names the
+# show by Apple `itunesId` (preferred — resolves feedUrl/artwork/explicit via
+# lookup) or by a direct `feedUrl`, and the shelf it belongs on:
+#   shelf: cantonese | local | curated
+# Order within `curated` is the on-screen order. A seed still has to pass
+# feed validation (live RSS, audio enclosure, episode within 90 days).
+markets:
+  hk:
+    - itunesId: 1730326101      # 是咁的...｜廣東話Podcast
+      shelf: cantonese
+      note: verified live 2026-09-01 via Apple search 廣東話
+  tw: []
+  sg: []
+  my: []

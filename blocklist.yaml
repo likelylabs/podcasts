@@ -1,0 +1,9 @@
+# Takedown / exclusion list — same-day lever, no app release (PODCASTS.md §10
+# risks). Reviewed like code. Every entry needs a reason.
+#
+# shows: by Apple itunesId or exact feedUrl
+# hosts: enclosure hosts excluded wholesale (e.g. a host that never plays)
+# rthk:  RTHK programme slugs to keep out of the Podcasts shelves
+shows: []
+hosts: []
+rthk: []

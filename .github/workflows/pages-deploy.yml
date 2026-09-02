@@ -1,0 +1,127 @@
+name: pages-deploy
+
+# Actions-based GitHub Pages deploy for podcasts.likelylabs.com — a copy of
+# likelylabs/news's hardened deploy (3 fresh attempts + 30-min reconciler).
+# Gated on the PAGES_ENABLED repository variable: the repo is private during
+# the build and Pages is only available once it flips public at go-live, so
+# until the owner sets PAGES_ENABLED=true every trigger is a cheap no-op.
+
+on:
+  workflow_run:
+    workflows: ["harvest"]
+    types: [completed]
+  workflow_dispatch: {}
+  schedule:
+    - cron: '*/30 * * * *'   # out-of-band self-heal
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: >-
+      vars.PAGES_ENABLED == 'true' &&
+      (github.event_name != 'workflow_run' ||
+       (github.event.workflow_run.conclusion == 'success' &&
+        github.event.workflow_run.head_branch == 'main'))
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.resolve.outputs.page_url }}
+    steps:
+      - name: Checkout main tip
+        uses: actions/checkout@v4
+        with:
+          ref: main   # the harvest's "[skip ci]" catalog commit is the content to publish
+
+      - name: Decide whether to deploy
+        id: gate
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          base="${{ vars.PUBLIC_BASE_URL }}"
+          if [ -z "$base" ]; then
+            echo "PUBLIC_BASE_URL variable unset — reconciler cannot compare; deploying to be safe"
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          live="$(curl -fsS --max-time 20 "$base/index.json" || echo '__ERR__')"
+          if [ "$live" = "__ERR__" ]; then
+            echo "live catalog unreachable — deploy to be safe"
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if printf '%s' "$live" | python3 -c "import json,sys; live=json.load(sys.stdin); repo=json.load(open('index.json')); sys.exit(0 if json.dumps(live,sort_keys=True)==json.dumps(repo,sort_keys=True) else 1)"; then
+            echo "live catalog already current — skipping scheduled reconcile"
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice title=Pages reconcile::live catalog drifted from committed index — redeploying"
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Assemble publish dir (public surface only)
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          test -f index.json || { echo "::error::index.json missing — nothing to publish"; exit 1; }
+          cp index.json search.json robots.txt .nojekyll _site/
+          true
+          if [ -f CNAME ]; then cp CNAME _site/; else echo "::notice::no CNAME yet — serving on the github.io URL"; fi
+          echo "publishing: $(find _site -type f | wc -l) files"
+
+      - uses: actions/configure-pages@v5
+        if: steps.gate.outputs.go == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.go == 'true'
+        with:
+          path: _site
+
+      - name: Deploy (attempt 1/3)
+        id: d1
+        if: steps.gate.outputs.go == 'true'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+      - name: Cooldown before retry 2
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure'
+        run: sleep 25
+      - name: Deploy (attempt 2/3)
+        id: d2
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+      - name: Cooldown before retry 3
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
+        run: sleep 40
+      - name: Deploy (attempt 3/3)
+        id: d3
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+
+      - name: Resolve outcome / hard-fail if all attempts failed
+        id: resolve
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          if   [ "${{ steps.d1.outcome }}" = "success" ]; then url='${{ steps.d1.outputs.page_url }}'
+          elif [ "${{ steps.d2.outcome }}" = "success" ]; then url='${{ steps.d2.outputs.page_url }}'
+          elif [ "${{ steps.d3.outcome }}" = "success" ]; then url='${{ steps.d3.outputs.page_url }}'
+          else
+            echo "::error title=Pages deploy failed 3x::All deploy attempts failed. The 30-min reconciler will retry."
+            exit 1
+          fi
+          echo "page_url=$url" >> "$GITHUB_OUTPUT"
+          echo "Pages live: $url"

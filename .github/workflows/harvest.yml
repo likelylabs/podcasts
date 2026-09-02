@@ -1,0 +1,64 @@
+name: harvest
+
+# Daily pipeline (PODCASTS.md §2): fetch leg (tools/harvest.py → data/) →
+# process leg + publish gate (tools/build_catalog.py, the ONLY writer of
+# index.json + search.json) → commit → push. A gate failure exits non-zero
+# before anything is committed; Pages keeps serving last-good.
+#
+# Optional inputs, all repository-level and owner-managed:
+#   secrets PODCASTINDEX_KEY / PODCASTINDEX_SECRET — enables Podcast Index
+#   variable REPLAY_BASE_URL — enables the RTHK shelves from the REPLAY catalog
+
+on:
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "max HTTP requests this run"
+        default: "3000"
+      extra_args:
+        description: "extra harvest.py flags, e.g. --markets hk"
+        default: ""
+  schedule:
+    - cron: '0 20 * * *'   # 04:00 HKT daily (after replay's 03:30 crawl)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+      PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+      REPLAY_BASE_URL: ${{ vars.REPLAY_BASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ensure PyYAML (seeds/blocklist)
+        run: python3 -c "import yaml" 2>/dev/null || pip install --quiet pyyaml
+      - name: Harvest (polite, serial, budgeted)
+        run: |
+          set -euo pipefail
+          python3 tools/harvest.py --budget "${{ github.event.inputs.budget || '3000' }}" ${{ github.event.inputs.extra_args }}
+      - name: Build catalog behind the publish gate, commit, push
+        run: |
+          set -euo pipefail
+          git config user.name  "podcasts-bot"
+          git config user.email "podcasts-bot@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            python3 tools/build_catalog.py
+            if [ -z "$(git status --porcelain)" ]; then
+              echo "Nothing to commit — catalog already current."; exit 0
+            fi
+            git add -A
+            git commit -q -m "chore(catalog): daily harvest $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            if git push; then exit 0; fi
+            echo "::notice::push rejected on attempt ${attempt}/5 — main moved. Resetting and rebuilding."
+            git fetch origin main && git reset --hard origin/main
+            sleep $(( attempt * 5 ))
+          done
+          echo "::error::could not land the catalog after 5 attempts"; exit 1
