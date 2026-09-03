@@ -11,10 +11,13 @@ Per market (hk/tw/sg/my):
   3. Seeds (seeds.yaml) resolved the same way.
   4. Podcast Index trending lang=zh* — only when PODCASTINDEX_KEY/SECRET
      are set (owner registers the key; harvester is Apple-only until then).
-Then every candidate feed is fetched and validated (RSS, ≥1 audio enclosure,
-latest episode within FRESH_DAYS) and its latestEpisode + enclosureHost are
-recorded. Finally the REPLAY catalog (REPLAY_BASE_URL, http(s) or a local
-path) is read into data/rthk.json for the RTHK shelves + episode search.
+Candidates Apple already reports as long abandoned (releaseDate older than
+INGEST_DEAD_DAYS) never enter the pool; seeds are exempt. Every remaining
+candidate feed is fetched and validated (RSS, ≥1 audio enclosure, latest
+episode within FRESH_DAYS) and its latestEpisode + enclosureHost are recorded.
+Shows we confirm dead are forgotten so they stop costing a request a run.
+Finally the REPLAY catalog (REPLAY_BASE_URL, http(s) or a local path) is read
+into data/rthk.json for the RTHK shelves + episode search.
 
 Usage: python3 tools/harvest.py [--markets hk,tw] [--budget N] [--pace S]
                                 [--replay-base URL|PATH] [--skip-feeds]
@@ -33,9 +36,9 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from common import (APPLE, BROWSER_UA, BudgetExhausted, CHART_LIMIT, CHARTS_DIR, CircuitOpen,
-                    Client, FEED_MAX_BYTES, FRESH_DAYS, HKT, LAST_RUN_PATH, MARKETS,
-                    MAX_FAIL_STREAK, PODCASTINDEX, RTHK_PATH, SEEDS_PATH, SHOWS_PATH,
-                    log, now_hkt, read_json, read_yaml, show_id_for, write_json)
+                    Client, FEED_MAX_BYTES, FORGET_FAIL_STREAK, FRESH_DAYS, HKT, INGEST_DEAD_DAYS,
+                    LAST_RUN_PATH, MARKETS, MAX_FAIL_STREAK, PODCASTINDEX, RTHK_PATH, SEEDS_PATH,
+                    SHOWS_PATH, log, now_hkt, read_json, read_yaml, show_id_for, write_json)
 
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 AUDIO_EXT = (".mp3", ".m4a", ".aac", ".ogg", ".oga", ".opus", ".wav", ".flac")
@@ -82,11 +85,37 @@ def apple_search(client, cc, term):
     return [r for r in ((d or {}).get("results") or []) if r.get("feedUrl")]
 
 
+def dead_on_arrival(r):
+    """True when Apple's own metadata says this show stopped publishing long ago.
+
+    The charts and keyword searches return a long tail of abandoned podcasts —
+    they cost a validation request every run and pad the publish gate's
+    last-good baseline until MAX_FAIL_STREAK finally evicts them all at once.
+    Refusing them at the door keeps the pool honest. The cut is twice
+    FRESH_DAYS so a lagging releaseDate cannot bury a show that is still live,
+    and an absent or unparseable date defers to real feed validation.
+    """
+    d = (r.get("releaseDate") or "")[:10]
+    if not d:
+        return False
+    try:
+        return (now_hkt().date() - dt.date.fromisoformat(d)).days > INGEST_DEAD_DAYS
+    except ValueError:
+        return False
+
+
 def absorb_apple(pool, r, market, source, rank=None, term=None):
     """Merge one Apple result (lookup/search shape) into the show pool."""
     if not r.get("feedUrl") or not r.get("collectionId"):
         return None
     sid = show_id_for(itunes_id=r["collectionId"])
+    # Seeds are curated by hand and always welcome. Otherwise a *new* candidate
+    # must look alive: for shows we already track, our own feed validation is the
+    # authority and Apple's releaseDate — which does lag by a year on some live
+    # shows — must not knock them off the shelves. The prune reclaims the ones we
+    # confirm dead ourselves.
+    if sid not in pool and not source.startswith("seed:") and dead_on_arrival(r):
+        return None
     s = pool.setdefault(sid, {"id": sid, "itunesId": int(r["collectionId"]), "markets": {}, "sources": []})
     s["feedUrl"] = r["feedUrl"].strip()
     s["title"] = r.get("collectionName") or r.get("trackName") or s.get("title", "")
@@ -414,9 +443,24 @@ def main():
         run["aborted"] = f"{type(e).__name__}: {e}"
         log(f"!! {run['aborted']}")
     finally:
-        # Forget shows not seen by any source for 60 days (keeps the pool honest).
+        # Forget shows not seen by any source for 60 days, and shows we have
+        # confirmed dead ourselves — a feed that reads fine but stopped publishing
+        # months ago, or one unreachable for FORGET_FAIL_STREAK runs running. A
+        # show validating OK is never forgotten, whatever Apple's metadata claims.
         cutoff = (now_hkt() - dt.timedelta(days=60)).date().isoformat()
-        stale = [k for k, s in pool.items() if s.get("lastSeenAt", "") < cutoff]
+
+        def forgettable(s):
+            v = s.get("validation") or {}
+            if v.get("ok"):
+                return False
+            if s.get("lastSeenAt", "") < cutoff:
+                return True
+            age = v.get("latestAgeDays")
+            if age is not None and age > INGEST_DEAD_DAYS:
+                return True
+            return v.get("failStreak", 0) >= FORGET_FAIL_STREAK
+
+        stale = [k for k, s in pool.items() if forgettable(s)]
         for k in stale:
             pool.pop(k)
         run["pool"] = len(pool)

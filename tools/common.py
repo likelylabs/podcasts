@@ -46,6 +46,9 @@ TOP_SHELF_SIZE = 50
 TOP_SHELF_ZH_ONLY = True        # the section promises Chinese-language shows
 FRESH_DAYS = 90                 # a show whose latest episode is older is dead
 MAX_FAIL_STREAK = 3             # consecutive failed validations before a show drops
+INGEST_DEAD_DAYS = 180          # Apple says the newest episode predates this → never ingest.
+                                # Twice FRESH_DAYS, so Apple metadata lag cannot bury a live show.
+FORGET_FAIL_STREAK = 12         # an unreachable feed is forgotten after this many days
 FEED_MAX_BYTES = 30 * 1024 * 1024   # TED/FT-sized back-catalogues run 6–20 MB
 SEARCH_BUDGET_BYTES = 1500 * 1024   # search.json cap (PODCASTS §3.3)
 INDEX_BUDGET_BYTES = 400 * 1024     # soft warning threshold for index.json

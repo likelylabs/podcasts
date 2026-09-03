@@ -29,7 +29,9 @@ ever** — the optional Podcast Index key lives only in Actions secrets.
   present), and for hk one `rthk_<channel>` shelf per RTHK channel flagged
   `gate: "replay"` — the client renders those only when its ReplayGate
   allows. Refuses to publish if a market's top shelf collapses or the pool
-  shrinks past 80% of last-good. `search.json` is capped (~1.5 MB); RTHK
+  shrinks past 80% of last-good — a floor that relaxes as last-good ages, so
+  a real one-time contraction re-baselines instead of wedging the gate shut.
+  `--force-baseline` accepts a contraction outright. `search.json` is capped (~1.5 MB); RTHK
   episode entries are trimmed oldest-month-first to fit.
 - `seeds.yaml` / `blocklist.yaml` — the editorial and takedown levers, in git.
 - Repository variable `REPLAY_BASE_URL` turns the RTHK shelves on; secrets

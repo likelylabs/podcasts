@@ -12,9 +12,12 @@ allows (§5.4a).
 
 Gate: a show must have validated today-or-recently with < MAX_FAIL_STREAK
 consecutive failures and not be blocklisted; every market's top shelf must
-keep ≥ MIN_TOP shows; the show pool must be ≥ 80% of last-good; search.json
-must fit the size budget (RTHK episodes trimmed oldest-month-first).
+keep ≥ MIN_TOP shows; the show pool must be ≥ 80% of last-good — a floor that
+relaxes as last-good ages so the gate cannot wedge itself shut, see
+effective_floor(); search.json must fit the size budget (RTHK episodes trimmed
+oldest-month-first).
 """
+import argparse
 import datetime as dt
 import json
 import sys
@@ -26,12 +29,37 @@ from common import (BLOCKLIST_PATH, CATALOG_VERSION, CHARTS_DIR, INDEX_BUDGET_BY
 
 MIN_TOP = 10
 FLOOR_SHOWS = 0.80
+FLOOR_RELAX_PER_DAY = 0.10     # ...loosened per day that last-good goes unrefreshed
+FLOOR_SHOWS_MIN = 0.50         # ...but never below this
 STALE_VALIDATION_DAYS = 7      # a show unvalidated for this long is dropped
 
 
 def fail(msg):
     print(f"GATE FAILED — catalog NOT written: {msg}", file=sys.stderr)
     return 1
+
+
+def effective_floor(last, today):
+    """The safety floor, relaxed by how long last-good has stood unrefreshed.
+
+    The floor measures this run against index.json, which the gate only rewrites
+    when it passes. A flat floor therefore wedges shut on any genuine one-time
+    contraction: a cohort of dead feeds ageing out together shrinks the catalog
+    once, the gate refuses it, last-good stays frozen above the new steady-state
+    count, and every later run reproduces the same shortfall forever.
+
+    Decaying the floor with the age of last-good keeps the protection where it
+    is worth having — a transient fetch outage that halves the pool for a day is
+    still refused — while guaranteeing the pipeline always re-baselines on its
+    own. A healthy daily cadence leaves last-good one day old, i.e. the full
+    floor; only a gate that has already refused a run starts to yield.
+    """
+    gen = (last.get("generatedAt") or "")[:10]
+    try:
+        days = (today - dt.date.fromisoformat(gen)).days
+    except ValueError:
+        return FLOOR_SHOWS
+    return max(FLOOR_SHOWS_MIN, FLOOR_SHOWS - FLOOR_RELAX_PER_DAY * max(0, days - 1))
 
 
 def load_blocklist():
@@ -94,7 +122,13 @@ def public_show(s):
     return out
 
 
-def main():
+def main(argv=None):
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--force-baseline", action="store_true",
+                    help="publish even if the show count is under the safety floor, making it "
+                         "the new last-good. For a contraction you have inspected and accepted.")
+    args = ap.parse_args(argv)
+    force_baseline = args.force_baseline
     today = now_hkt().date()
     run = read_json(LAST_RUN_PATH, {})
     if str(run.get("aborted") or "").startswith("CircuitOpen"):
@@ -199,8 +233,16 @@ def main():
     if last:
         last_n = sum(1 for s in last.get("shows", {}).values() if s.get("source") != "rthk")
         n = sum(1 for s in shows_out.values() if s.get("source") != "rthk")
-        if last_n and n < FLOOR_SHOWS * last_n:
-            return fail(f"open-RSS shows {n} < {FLOOR_SHOWS:.0%} of last-good {last_n}")
+        floor = effective_floor(last, today)
+        if last_n and n < floor * last_n:
+            if not force_baseline:
+                return fail(f"open-RSS shows {n} < {floor:.0%} of last-good {last_n} "
+                            f"(last-good generated {(last.get('generatedAt') or '?')[:10]})")
+            log(f"::warning::--force-baseline: publishing {n} shows against last-good {last_n} "
+                f"({n / last_n:.0%}), under the {floor:.0%} floor")
+        elif floor < FLOOR_SHOWS:
+            log(f"::warning::safety floor relaxed to {floor:.0%} — last-good has stood since "
+                f"{(last.get('generatedAt') or '?')[:10]} without a successful publish")
     if not shows_out:
         return fail("no shows survived validation")
 
