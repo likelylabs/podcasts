@@ -2,14 +2,14 @@
  "aborted": null,
  "budget": 3000,
  "failures": 0,
- "feeds_bad": 35,
- "feeds_ok": 550,
- "feeds_validated": 585,
- "finishedAt": "2026-09-16T06:38:38+08:00",
+ "feeds_bad": 33,
+ "feeds_ok": 555,
+ "feeds_validated": 588,
+ "finishedAt": "2026-09-17T06:36:20+08:00",
  "markets": {
   "hk": {
    "chart": 100,
-   "chart_resolved": 98,
+   "chart_resolved": 99,
    "keyword_hits": {
     "廣東話": 17,
     "粵語": 17,
@@ -37,7 +37,7 @@
   },
   "tw": {
    "chart": 100,
-   "chart_resolved": 99,
+   "chart_resolved": 98,
    "keyword_hits": {
     "台灣": 30,
     "台灣 podcast": 19
@@ -46,11 +46,11 @@
   }
  },
  "podcastindex": "skipped (no PODCASTINDEX_KEY/SECRET)",
- "pool": 579,
- "pool_forgotten": 6,
+ "pool": 585,
+ "pool_forgotten": 3,
  "replay": "skipped (no REPLAY_BASE_URL) — RTHK shelves absent until set",
- "requests": 603,
- "seconds": 534,
- "startedAt": "2026-09-16T06:29:44+08:00",
+ "requests": 606,
+ "seconds": 608,
+ "startedAt": "2026-09-17T06:26:12+08:00",
  "warnings": []
 }
