@@ -2,18 +2,18 @@
  "aborted": null,
  "budget": 3000,
  "failures": 0,
- "feeds_bad": 34,
- "feeds_ok": 601,
- "feeds_validated": 635,
- "finishedAt": "2026-09-23T06:38:24+08:00",
+ "feeds_bad": 35,
+ "feeds_ok": 604,
+ "feeds_validated": 639,
+ "finishedAt": "2026-09-24T06:41:10+08:00",
  "markets": {
   "hk": {
    "chart": 100,
-   "chart_resolved": 98,
+   "chart_resolved": 99,
    "keyword_hits": {
-    "廣東話": 20,
+    "廣東話": 17,
     "粵語": 20,
-    "香港": 13
+    "香港": 17
    },
    "seeds": 1
   },
@@ -22,7 +22,7 @@
    "chart_resolved": 97,
    "keyword_hits": {
     "华语": 15,
-    "马来西亚": 11
+    "马来西亚": 10
    },
    "seeds": 0
   },
@@ -31,26 +31,26 @@
    "chart_resolved": 99,
    "keyword_hits": {
     "华语": 17,
-    "新加坡": 10
+    "新加坡": 9
    },
    "seeds": 0
   },
   "tw": {
    "chart": 100,
-   "chart_resolved": 100,
+   "chart_resolved": 99,
    "keyword_hits": {
-    "台灣": 30,
-    "台灣 podcast": 20
+    "台灣": 31,
+    "台灣 podcast": 19
    },
    "seeds": 0
   }
  },
  "podcastindex": "skipped (no PODCASTINDEX_KEY/SECRET)",
- "pool": 633,
+ "pool": 637,
  "pool_forgotten": 2,
  "replay": "skipped (no REPLAY_BASE_URL) — RTHK shelves absent until set",
- "requests": 653,
- "seconds": 651,
- "startedAt": "2026-09-23T06:27:33+08:00",
+ "requests": 657,
+ "seconds": 624,
+ "startedAt": "2026-09-24T06:30:46+08:00",
  "warnings": []
 }
