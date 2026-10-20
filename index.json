@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-20T07:27:45+08:00",
+ "generatedAt": "2026-10-21T07:02:14+08:00",
  "catalogVersion": 1,
  "replay": {
-  "generatedAt": "2026-10-20T07:16:09+08:00",
+  "generatedAt": "2026-10-21T06:46:54+08:00",
   "streamTemplate": "https://rthkaod2022.akamaized.net/m4a/radio/archive/{channel}/{slug}/m4a/{date}.m4a/master.m3u8",
   "streamVersion": 1
  },
@@ -17,53 +17,53 @@
       "itunes_1529670928",
       "itunes_1522773953",
       "itunes_1572447901",
+      "itunes_1573189055",
       "itunes_1602844524",
       "itunes_1749781362",
-      "itunes_1573189055",
       "itunes_1895661416",
       "itunes_1533238835",
       "itunes_1647139037",
       "itunes_1455784513",
       "itunes_1577389191",
-      "itunes_1574441855",
-      "itunes_1491146223",
-      "itunes_1668626930",
-      "itunes_1797203050",
-      "itunes_1559695855",
-      "itunes_1536374746",
       "itunes_1896311142",
       "itunes_1528446263",
-      "itunes_1582119137",
+      "itunes_1574441855",
+      "itunes_1491146223",
+      "itunes_1797203050",
+      "itunes_1668626930",
+      "itunes_1536374746",
       "itunes_1520392595",
-      "itunes_1659605645",
+      "itunes_1712064916",
+      "itunes_1731784296",
       "itunes_1528053800",
-      "itunes_1106847606",
+      "itunes_1659605645",
+      "itunes_1605731163",
+      "itunes_6824495880",
+      "itunes_1559695855",
+      "itunes_1619340827",
+      "itunes_1582119137",
       "itunes_1757540827",
       "itunes_1893955024",
-      "itunes_1605731163",
-      "itunes_1712064916",
-      "itunes_1861393257",
-      "itunes_1493503146",
-      "itunes_1511308681",
       "itunes_1585375783",
-      "itunes_1615939013",
+      "itunes_1106847606",
       "itunes_1588512726",
-      "itunes_1845795396",
-      "itunes_1619340827",
-      "itunes_520986449",
-      "itunes_1592646595",
-      "itunes_1753662430",
-      "itunes_1559480667",
+      "itunes_1493503146",
+      "itunes_1498541229",
+      "itunes_1861393257",
       "itunes_522845993",
-      "itunes_1552904790",
-      "itunes_1500839292",
       "itunes_1603580035",
+      "itunes_1794422481",
+      "itunes_1615939013",
+      "itunes_520986449",
       "itunes_1477164549",
-      "itunes_1731784296",
+      "itunes_1549121203",
+      "itunes_1721855075",
+      "itunes_1845795396",
+      "itunes_1500839292",
+      "itunes_1552904790",
       "itunes_1696511339",
-      "itunes_1433530822",
-      "itunes_1542147876",
-      "itunes_1794422481"
+      "itunes_1592646595",
+      "itunes_1511308681"
      ]
     },
     {
@@ -72,24 +72,26 @@
      "title_en": "Cantonese",
      "shows": [
       "itunes_1529670928",
+      "itunes_1491146223",
+      "itunes_1728256839",
       "itunes_1489096912",
       "itunes_1878553596",
-      "itunes_1877889954",
       "itunes_1635318254",
+      "itunes_1877889954",
       "itunes_1568010605",
+      "itunes_6796397486",
       "itunes_1595723029",
       "itunes_1702295143",
+      "itunes_1613449277",
       "itunes_1630709961",
+      "itunes_1571015493",
       "itunes_1805017532",
       "itunes_1547953074",
       "itunes_1725751842",
       "itunes_1735462952",
-      "itunes_6796397486",
       "itunes_1653924081",
       "itunes_1609785567",
       "itunes_1748443149",
-      "itunes_1535657288",
-      "itunes_1571015493",
       "itunes_1875232662",
       "itunes_1746197263",
       "itunes_6816819481",
@@ -98,8 +100,8 @@
       "itunes_1583871347",
       "itunes_1695725745",
       "itunes_1742686438",
+      "itunes_1649093315",
       "itunes_1779256753",
-      "itunes_1802612398",
       "itunes_1679904114",
       "itunes_1679989304",
       "itunes_6797926300",
@@ -130,16 +132,16 @@
       "rthk_radio1_HK2000",
       "rthk_radio1_12oclocknews",
       "rthk_radio1_seesaw",
-      "rthk_radio1_echo_before_dawn",
       "rthk_radio1_itsahappyday",
       "rthk_radio1_eveningnews",
       "rthk_radio1_hktoday",
-      "rthk_radio1_reading_by_moonlight",
       "rthk_radio1_yolo",
       "rthk_radio1_healthpedia",
       "rthk_radio1_openline_openview",
-      "rthk_radio1_blue_globe_special",
       "rthk_radio1_Free_as_the_wind",
+      "rthk_radio1_echo_before_dawn",
+      "rthk_radio1_reading_by_moonlight",
+      "rthk_radio1_blue_globe_special",
       "rthk_radio1_BeautifulSunday",
       "rthk_radio1_one_minute_reading_sunday",
       "rthk_radio1_chinese_revival_new_trends",
@@ -191,7 +193,6 @@
       "rthk_radio2_letthemusicspeak",
       "rthk_radio2_albertau",
       "rthk_radio2_madeinhk",
-      "rthk_radio2_musicangel",
       "rthk_radio2_threesacrowd",
       "rthk_radio2_ladiesnight",
       "rthk_radio2_subtle_sensuality",
@@ -200,6 +201,8 @@
       "rthk_radio2_musiclife",
       "rthk_radio2_musiclover",
       "rthk_radio2_musicinaction",
+      "rthk_radio2_musicangel",
+      "rthk_radio2_reunion",
       "rthk_radio2_beautifulsunday",
       "rthk_radio2_popularscience",
       "rthk_radio2_sunny_day",
@@ -227,7 +230,6 @@
       "rthk_radio2_inside_the_cosmos",
       "rthk_radio2_bookview",
       "rthk_radio2_simonslovesongs",
-      "rthk_radio2_reunion",
       "rthk_radio2_philosophy_in_reels",
       "rthk_radio2_dreams_set_sailing",
       "rthk_radio2_Teenschoice",
@@ -245,15 +247,20 @@
       "rthk_radio3_nightmusic",
       "rthk_radio3_after_hours",
       "rthk_radio3_backchat",
-      "rthk_radio3_holiday_early_show",
-      "rthk_radio3_holiday_sunset_show",
+      "rthk_radio3_brunch",
+      "rthk_radio3_hongkongtoday",
       "rthk_radio3_common_room",
       "rthk_radio3_money_talk",
       "rthk_radio3_newsateleven",
       "rthk_radio3_newsatone",
-      "rthk_radio3_rthknews",
+      "rthk_radio3_newswrap",
       "rthk_radio3_stevejames",
+      "rthk_radio3_sunsetsounds_simonwillson",
       "rthk_radio3_thebrew",
+      "rthk_radio3_the_close",
+      "rthk_radio3_holiday_early_show",
+      "rthk_radio3_holiday_sunset_show",
+      "rthk_radio3_rthknews",
       "rthk_radio3_100",
       "rthk_radio3_kinda_sunday",
       "rthk_radio3_hongkongheritage",
@@ -278,11 +285,6 @@
       "rthk_radio3_sosaturday",
       "rthk_radio3_trendingchina",
       "rthk_radio3_weekend_am",
-      "rthk_radio3_brunch",
-      "rthk_radio3_hongkongtoday",
-      "rthk_radio3_newswrap",
-      "rthk_radio3_sunsetsounds_simonwillson",
-      "rthk_radio3_the_close",
       "rthk_radio3_sportsbreak",
       "rthk_radio3_cephone2026",
       "rthk_radio3_policy2026",
@@ -301,19 +303,21 @@
      "gate": "replay",
      "source": "rthk",
      "shows": [
-      "rthk_radio4_Aubade",
       "rthk_radio4_nightmusic",
       "rthk_radio4_ArtsNews",
+      "rthk_radio4_Aubade",
+      "rthk_radio4_concerton4rpt",
       "rthk_radio4_concerton4",
       "rthk_radio4_delightinabite",
       "rthk_radio4_firstnotes",
-      "rthk_radio4_jazzingup_r",
-      "rthk_radio4_moment_musical",
+      "rthk_radio4_musicfromchina_r",
       "rthk_radio4_nocturne",
       "rthk_radio4_NonstopClassics",
       "rthk_radio4_Reflection",
       "rthk_radio4_simplyclassical",
       "rthk_radio4_sunsetmusicdiary",
+      "rthk_radio4_jazzingup_r",
+      "rthk_radio4_moment_musical",
       "rthk_radio4_balletsballade2026",
       "rthk_radio4_churchservice",
       "rthk_radio4_classicalmusicabc2026",
@@ -332,11 +336,9 @@
       "rthk_radio4_r4musicacademy",
       "rthk_radio4_saturdaymorningon4",
       "rthk_radio4_theclassicalandthecurious",
-      "rthk_radio4_concerton4rpt",
       "rthk_radio4_onebeltoneroadcentralasia_r",
       "rthk_radio4_classicalmusicabc2026_r",
       "rthk_radio4_balletsballade2026_r",
-      "rthk_radio4_musicfromchina_r",
       "rthk_radio4_bannganlundjau_r",
       "rthk_radio4_2026nationaldayfireworks",
       "rthk_radio4_windband2026_r",
@@ -358,16 +360,18 @@
       "rthk_radio5_tcoexcitingnight",
       "rthk_radio5_6oclocknews",
       "rthk_radio5_what_a_cozy_evening",
+      "rthk_radio5_goodpost",
+      "rthk_radio5_study_hard",
       "rthk_radio5_tconight",
       "rthk_radio5_tco",
-      "rthk_radio5_heart_to_class",
       "rthk_radio5_eveningnews",
       "rthk_radio5_hktoday",
       "rthk_radio5_standbyme_2011",
       "rthk_radio5_relax_morning",
+      "rthk_radio5_elderly",
+      "rthk_radio5_heart_to_class",
       "rthk_radio5_elderly_storyofarcha",
       "rthk_radio5_elderly_meditowellness",
-      "rthk_radio5_elderly",
       "rthk_radio5_beautifulsunday",
       "rthk_radio5_r5highlight_sun",
       "rthk_radio5_radiodramaonsaturday",
@@ -396,8 +400,6 @@
       "rthk_radio5_green_fighting",
       "rthk_radio5_hong_kong_phonograph",
       "rthk_radio5_colorfuljourney",
-      "rthk_radio5_goodpost",
-      "rthk_radio5_study_hard",
       "rthk_radio5_77prc_celebration",
       "rthk_radio5_chinesefable",
       "rthk_radio5_elderly_qindynasty",
@@ -415,8 +417,9 @@
      "source": "rthk",
      "shows": [
       "rthk_pth_keepuco",
-      "rthk_pth_g1664_spectrum_of_life",
-      "rthk_pth_g1660_transplant_breakthrough",
+      "rthk_pth_2022morningnewsfinance",
+      "rthk_pth_p2390_carers_are_not_alone",
+      "rthk_pth_g1690_physical_fitness_and_u",
       "rthk_pth_uxiubang",
       "rthk_pth_ezone2020",
       "rthk_pth_noonnews",
@@ -429,6 +432,8 @@
       "rthk_pth_schooltour",
       "rthk_pth_MoonlightDejavu1",
       "rthk_pth_yinyuebaobao",
+      "rthk_pth_g1664_spectrum_of_life",
+      "rthk_pth_g1660_transplant_breakthrough",
       "rthk_pth_OldiesStationWX",
       "rthk_pth_2020beautifulsunday",
       "rthk_pth_p2352_come_visit_my_home",
@@ -452,7 +457,6 @@
       "rthk_pth_musicuniverse",
       "rthk_pth_knowledge",
       "rthk_pth_juedaisat",
-      "rthk_pth_2022morningnewsfinance",
       "rthk_pth_g1698_rip_on_my_way",
       "rthk_pth_p2368_arts_beyond_boundaries",
       "rthk_pth_g1656_b_side_music",
@@ -460,8 +464,6 @@
       "rthk_pth_p2436_renovation_master",
       "rthk_pth_p2438_community_coffee_time",
       "rthk_pth_p2424_classic_car_fever",
-      "rthk_pth_p2390_carers_are_not_alone",
-      "rthk_pth_g1690_physical_fitness_and_u",
       "rthk_pth_p2386_young_ethnic_diverse",
       "rthk_pth_p2417_malay_in_the_bay",
       "rthk_pth_p2380_empowered_athlete",
@@ -495,55 +497,55 @@
      "title_en": "Top Podcasts",
      "shows": [
       "itunes_1559480667",
-      "itunes_1500839292",
       "itunes_1605731163",
       "itunes_1522773953",
-      "itunes_1535319502",
       "itunes_1590806478",
-      "itunes_1488295306",
+      "itunes_1500839292",
       "itunes_1510554676",
+      "itunes_1488295306",
+      "itunes_1535319502",
       "itunes_1477164549",
       "itunes_1106847606",
       "itunes_1536242998",
-      "itunes_1593132250",
+      "itunes_1549159896",
       "itunes_1536374746",
-      "itunes_1530827619",
-      "itunes_1525687063",
-      "itunes_1528877811",
-      "itunes_1669389484",
+      "itunes_1549121203",
       "itunes_1531106786",
+      "itunes_1525687063",
+      "itunes_1721855075",
+      "itunes_1486227803",
+      "itunes_1549521834",
+      "itunes_1593132250",
+      "itunes_1669389484",
+      "itunes_1530827619",
+      "itunes_1528877811",
+      "itunes_1532820533",
       "itunes_1681464862",
       "itunes_1800180117",
-      "itunes_1549521834",
-      "itunes_1549159896",
-      "itunes_1560266097",
-      "itunes_1486227803",
-      "itunes_1613154587",
-      "itunes_1533685480",
-      "itunes_1532820533",
-      "itunes_1565512053",
-      "itunes_1535487671",
-      "itunes_1452688611",
-      "itunes_1482088693",
-      "itunes_1475418379",
-      "itunes_1526048089",
-      "itunes_1758761679",
-      "itunes_1549121203",
-      "itunes_1517743652",
-      "itunes_6798489880",
-      "itunes_1533782597",
-      "itunes_1532755821",
-      "itunes_1567737927",
-      "itunes_1849852545",
       "itunes_1474007441",
-      "itunes_1580238479",
-      "itunes_1636817588",
-      "itunes_1523260009",
-      "itunes_1590144894",
+      "itunes_1567737927",
+      "itunes_6792988651",
+      "itunes_1482463498",
+      "itunes_1613154587",
       "itunes_1519263839",
-      "itunes_1525978220",
+      "itunes_1535487671",
+      "itunes_1565512053",
+      "itunes_1533685480",
+      "itunes_1452688611",
+      "itunes_1560266097",
+      "itunes_1758761679",
       "itunes_1546879892",
-      "itunes_1809749032"
+      "itunes_1526048089",
+      "itunes_1482088693",
+      "itunes_1809749032",
+      "itunes_1533782597",
+      "itunes_1636817588",
+      "itunes_1532755821",
+      "itunes_1475418379",
+      "itunes_1580238479",
+      "itunes_6798489880",
+      "itunes_1469553043",
+      "itunes_1590144894"
      ]
     },
     {
@@ -557,32 +559,31 @@
       "itunes_1506018589",
       "itunes_1550687726",
       "itunes_1550687907",
+      "itunes_1762839601",
+      "itunes_1508245836",
+      "itunes_1607447086",
+      "itunes_1573869097",
+      "itunes_1825995899",
       "itunes_1863686327",
+      "itunes_1879020271",
       "itunes_1895702200",
-      "itunes_1739507482",
       "itunes_1884618808",
       "itunes_1794816747",
       "itunes_1555211830",
-      "itunes_1879020271",
+      "itunes_1739507482",
       "itunes_1654081197",
       "itunes_1519672472",
-      "itunes_1743794752",
+      "itunes_1724308194",
       "itunes_1555083162",
+      "itunes_1547388471",
       "itunes_6801483063",
       "itunes_1626234669",
       "itunes_1681376503",
-      "itunes_1588412361",
-      "itunes_1780695950",
       "itunes_6822594310",
-      "itunes_1607447086",
       "itunes_1437022644",
+      "itunes_1727484527",
       "itunes_1895938601",
       "itunes_1526430359",
-      "itunes_1759121093",
-      "itunes_1762839601",
-      "itunes_1508245836",
-      "itunes_1825995899",
-      "itunes_1563113866",
       "itunes_1687414617",
       "itunes_1609558436",
       "itunes_1625657140",
@@ -591,6 +592,7 @@
       "itunes_1583274136",
       "itunes_6803382534",
       "itunes_1636106938",
+      "itunes_1441248864",
       "itunes_1333929936"
      ]
     }
@@ -605,25 +607,26 @@
      "shows": [
       "itunes_1573189055",
       "itunes_1559695855",
-      "itunes_1106847606",
+      "itunes_1522773953",
       "itunes_1455784513",
       "itunes_1582119137",
+      "itunes_1106847606",
       "itunes_6816777519",
-      "itunes_1522773953",
-      "itunes_1511877815",
       "itunes_1615939013",
-      "itunes_1696511339",
+      "itunes_1731784296",
       "itunes_1605731163",
-      "itunes_1668626930",
-      "itunes_1493503146",
-      "itunes_1500839292",
-      "itunes_1752639453",
+      "itunes_1696511339",
       "itunes_1526048089",
-      "itunes_1552904790",
+      "itunes_1511877815",
       "itunes_1536374746",
-      "itunes_1592646595",
+      "itunes_1752639453",
+      "itunes_1668626930",
+      "itunes_1498541229",
+      "itunes_1559480667",
       "itunes_1498170617",
-      "itunes_1603580035"
+      "itunes_1709868653",
+      "itunes_1493503146",
+      "itunes_1592646595"
      ]
     },
     {
@@ -632,9 +635,9 @@
      "title_en": "Local",
      "shows": [
       "itunes_1732161501",
+      "itunes_1886078040",
       "itunes_1375420250",
       "itunes_1549491319",
-      "itunes_1886078040",
       "itunes_1848263854",
       "itunes_1212644189",
       "itunes_1530618785",
@@ -668,53 +671,53 @@
       "itunes_1526048089",
       "itunes_1709868653",
       "itunes_1522773953",
-      "itunes_1106847606",
       "itunes_1455784513",
-      "itunes_1536374746",
-      "itunes_1573189055",
+      "itunes_1106847606",
+      "itunes_1621232779",
       "itunes_1535487671",
-      "itunes_1452688611",
+      "itunes_1573189055",
       "itunes_6798489880",
+      "itunes_1536374746",
       "itunes_1605731163",
+      "itunes_1731784296",
+      "itunes_1498170617",
+      "itunes_1452688611",
+      "itunes_1668626930",
+      "itunes_1582119137",
+      "itunes_1549159896",
+      "itunes_1841061376",
       "itunes_1800180117",
       "itunes_1559695855",
-      "itunes_1681464862",
-      "itunes_1668626930",
-      "itunes_1498170617",
-      "itunes_1500839292",
       "itunes_1603580035",
-      "itunes_1841061376",
-      "itunes_1621232779",
-      "itunes_1582119137",
-      "itunes_1528526820",
-      "itunes_1731784296",
-      "itunes_1477164549",
-      "itunes_1547950387",
+      "itunes_1681464862",
       "itunes_1759522623",
-      "itunes_1743751250",
-      "itunes_1536242998",
-      "itunes_1523260009",
-      "itunes_1549159896",
-      "itunes_1510554676",
       "itunes_1532820533",
-      "itunes_1500162537",
-      "itunes_1809749032",
-      "itunes_1513786617",
-      "itunes_1495159355",
       "itunes_1474007441",
+      "itunes_1477164549",
+      "itunes_1500839292",
       "itunes_1676099257",
-      "itunes_1625222138",
-      "itunes_1726135306",
-      "itunes_1671490972",
-      "itunes_1488439861",
-      "itunes_1758761679",
-      "itunes_1533685480",
-      "itunes_1535319502",
-      "itunes_1482088693",
+      "itunes_1528526820",
+      "itunes_1809749032",
+      "itunes_1549121203",
+      "itunes_1510554676",
+      "itunes_1536242998",
+      "itunes_1547950387",
       "itunes_1771401634",
-      "itunes_1705407466",
+      "itunes_1500162537",
+      "itunes_1519263839",
+      "itunes_1613154587",
+      "itunes_1771248028",
       "itunes_1481974304",
-      "itunes_1613154587"
+      "itunes_1523260009",
+      "itunes_1523253391",
+      "itunes_1743751250",
+      "itunes_1726135306",
+      "itunes_1495159355",
+      "itunes_1533685480",
+      "itunes_1547115698",
+      "itunes_1513786617",
+      "itunes_1636817588",
+      "itunes_1488439861"
      ]
     },
     {
@@ -725,16 +728,17 @@
       "itunes_1709868653",
       "itunes_6805416789",
       "itunes_1732161501",
+      "itunes_1886078040",
       "itunes_1896931693",
       "itunes_1549491319",
       "itunes_1375420250",
-      "itunes_1886078040",
       "itunes_6783040262",
       "itunes_808060679",
       "itunes_1437022644",
       "itunes_1854584999",
       "itunes_1826909797",
       "itunes_1819523416",
+      "itunes_1460651216",
       "itunes_1569034794",
       "itunes_1806263198",
       "itunes_6806201934",
@@ -742,7 +746,6 @@
       "itunes_6810987700",
       "itunes_1860589168",
       "itunes_1503879192",
-      "itunes_6784289496",
       "itunes_1565670606",
       "itunes_1882271610"
      ]
@@ -763,10 +766,10 @@
    "itunesId": 1106847606,
    "description": "Kylie跟Ken 用雙語的對話包裝知識，用輕鬆的口吻胡說八道。我們閒聊也談正經事，讓生硬的國際大事變得鬆軟好入口；歡迎你加入這外表看似嘴砲，內容卻異於常人的有料聊天 Bailingguo News。  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "百靈果NEWS｜聯準會高層亂發裸照被中國間諜滲透，中國女局長一戰八男，美國期中選舉要翻盤了",
-    "date": "2026-10-19",
-    "enclosure": "https://m.cdn.firstory.me/track/cmjaz594i0000hdvpdpnd4fw8/cmvdq6jrb056z01zgcnr01uhg/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmjaz594i0000hdvpdpnd4fw8%2Fcmvdq6jrb057001zgc1dma3xv.mp3?v=1792321942834",
-    "durationSec": 2734
+    "title": "The KK Show 383 - 台灣奧客實錄 滑雪旅行社 DBC共同創辦人 Brian",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/cmjaz594i0000hdvpdpnd4fw8/cmvagp3lo06ab01yc88sv2naq/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmjaz594i0000hdvpdpnd4fw8%2Fcmvagp3lo06ac01ycgsveg29n.mp3?v=1792389860946",
+    "durationSec": 4717
    }
   },
   "itunes_1197892983": {
@@ -841,24 +844,6 @@
     "durationSec": 1431
    }
   },
-  "itunes_1433530822": {
-   "title": "无聊斋",
-   "author": "教主_单口喜剧",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/3a/2e/ab3a2eb5-f806-72f5-ad47-2e7ae651533c/mza_9597552620621001448.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feed.xyzfm.space/njwyhpcjqn9t",
-   "lang": "zh-cn",
-   "explicit": false,
-   "category": "休閒",
-   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
-   "itunesId": 1433530822,
-   "description": "在无聊斋，笑着遇见人间。",
-   "latestEpisode": {
-    "title": "vol.611 真·菜刀达人｜害！我和中华小当家，就差这把刀！",
-    "date": "2026-10-19",
-    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6ad34d850e4e410a05be4448/media.xyzcdn.net/5e280fac418a84a0461fb129/lqBVdmHVt7B6jmMm8NlkeinKkUH6.m4a",
-    "durationSec": 5397
-   }
-  },
   "itunes_1437022644": {
    "title": "雪梨台灣阿姐的碎碎念 (華語)  Chinese Podcast",
    "author": "Susie Wang",
@@ -875,6 +860,24 @@
     "date": "2026-10-15",
     "enclosure": "https://mcdn.podbean.com/mf/web/z5ine6sxjgq2s8sh/episode_audio_A4243024-3CAC-44B8-B377-8E5E1C307669_ppueiw.mp3",
     "durationSec": 605
+   }
+  },
+  "itunes_1441248864": {
+   "title": "Juicy Baskets | 台灣籃球Podcast",
+   "author": "Andy / Angus / Chase",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/93/70/0a/93700a02-7e65-83dc-1003-491b4c95b2c1/mza_14440697728542402418.jpg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:534095820/sounds.rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "運動",
+   "enclosureHost": "track.fstry.me",
+   "itunesId": 1441248864,
+   "description": "🔥 加入摯友群組、參加直播、收聽更多特別節目，會員福利都在這👇🏻😍\nhttps://shorturl.at/GLV68\n\n—\n《Juicy Baskets 就是籃球》是一個以「NBA 美國職籃」為主的網路廣播節目（Podcast）。我們是幾個在美國加州柏克萊大學認識，現在在世界各個角落工作，和你們一樣喜歡打籃球、打2K、討論籃球、靠北Fantasy Basketball的臭男生。每集會以過去幾天有趣的NBA頭條為主題，提供我們的看法，也會有認真的辯論/不認真的預測，以及翻譯國外體育新聞或Podcast平台的內容。\n—\n《Juicy Baskets 就是籃球》以Podcast的形式，聊聊台灣電視及網路上較少討論的話題。希望透過我們的分享，帶給你不同的籃球觀點和NBA動態。若想推薦之後的主題或來賓，歡迎私訊或留言告訴我們喔。Peace!\n—\nAndy / Angus / Chase",
+   "latestEpisode": {
+    "title": "第 278 集 — 尼克總冠軍！Brunson封神、OG大逆轉、KAT騎斑馬、NBA53年魔咒",
+    "date": "2026-06-15",
+    "enclosure": "https://track.fstry.me/p/dmunc74c/http://feeds.soundcloud.com/stream/2339519129-juicybaskets-278a.mp3",
+    "durationSec": 3695
    }
   },
   "itunes_1452688611": {
@@ -913,6 +916,42 @@
     "durationSec": 4330
    }
   },
+  "itunes_1460651216": {
+   "title": "Sex Chat 談性說愛",
+   "author": "Yang 揚",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b9/17/ff/b917ff34-22e2-3260-53bc-b985b5ca7f06/mza_16993766097349899194.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/cjyqpf4a72q6v0743tfjdxhbg",
+   "lang": "zh-Hant",
+   "explicit": true,
+   "category": "Sexuality",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1460651216,
+   "description": "歡迎來到 Sex Chat 談性說愛，我是揚。 這是一個平凡女子為了找個好藉口學習性知識同時探索自我而開的 podcast 節目。 sexchatpodcast@gmail.com （暫不開放商業合作，公益與活動推廣除外）  ⚠️ 暫不開放投稿寫性給我，非常抱歉。⚠️  - 免費文字電子報訂閱 https://sexchatpodcast.beehiiv.com/subscribe 閱讀過去的電子報 https://sexchatpodcast.beehiiv.com/ - 《來談性說愛吧！》 🍌 誠品獨家限量套蕉情版 ：https://lihi2.cc/TD7mn​ ✦ 誠品首刷一般版：https://lihi2.cc/wPsAH ✦ 博客來首刷一般版：https://lihi2.cc/vOYHy  ✨ 情趣用品推薦、小額斗內 ➡️ https://portaly.cc/sexchatp",
+   "latestEpisode": {
+    "title": "寫性給我 #305 台南 老吳：結婚八年希望老婆能夠主動對我提出性愛的需求",
+    "date": "2026-10-14",
+    "enclosure": "https://m.cdn.firstory.me/track/cjyqpf4a72q6v0743tfjdxhbg/cmtaxtrwv00kl01z48tksh9eb/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcjyqpf4a72q6v0743tfjdxhbg%2Fcmtaxtrwv00km01z496g46uyy.mp3?v=1787799793548",
+    "durationSec": 854
+   }
+  },
+  "itunes_1469553043": {
+   "title": "轉角國際新聞 Daily Podcast",
+   "author": "轉角國際新聞 Daily Podcast",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/01/19/43/011943e1-b02d-52ea-a6c1-3456b596e5eb/mza_5713142280730645826.jpg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/4f4a009b-d95b-4590-85cf-d5e050ead84e.xml",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "新聞",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1469553043,
+   "description": "Podcast by 轉角國際\n主編／林齊晧\n編輯／張郁婕、丁昱瑄\n網站：https://global.udn.com\n主編信箱：chihao.lin@udngroup.com\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "2026.10.20 法國實施部分地區宵禁／川普民調支持率下降至31%／Netflix 裁員6%",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/63eb00a2-b859-4dd2-9b31-bf32b67d6004/rssFileVip.mp3?timestamp=1792475010163",
+    "durationSec": 922
+   }
+  },
   "itunes_1474007441": {
    "title": "馬克信箱 (Dear Marcy)",
    "author": "上班可以聽",
@@ -925,10 +964,10 @@
    "itunesId": 1474007441,
    "description": "《馬克信箱》是由廣播 DJ 歐馬克與吳瑪麗主持的告解系 Podcast 節目\n⠀⠀\n透過世界各地聽眾的來信，我們即興討論感情關係、職場生存、家庭溝通與人生百態。你可以把這裡當成數位樹洞，存放你最真實的心情與想法，你也可以把這裡當作借鏡他人人生，吸取自我成長養分的解憂雜貨店\n⠀⠀\n如果你喜歡閒聊型的 freestyle 節目，喜歡好聽的聲音，那就讓馬克瑪麗陪伴你的上班、上課、通勤、家事、煮飯、化妝、爬山、開車、包貨、整理與運動健身的時光吧！\n⠀⠀\n⠀⠀\n「唯一真正的旅行，唯一能讓人重獲青春的方法，不在於造訪陌生的國度，而是擁有不同的視角，能用他人的眼光看世界。」——《追憶逝水年華》，普魯斯特\n⠀⠀\n⠀⠀\n🎧 更新時間：每週二、五（若要收聽最新進度，請到 YouTube 搜尋：「馬克信箱」）\n📮 信件投稿：100404 台北市羅斯福路二段102號25樓 馬克信箱收\n☕ 贊助支持：街口 - 90",
    "latestEpisode": {
-    "title": "太慌了，馬桶堵住怎麼辦？| 馬克信箱 24w42",
-    "date": "2026-10-16",
-    "enclosure": "https://anchor.fm/s/98a6fac/podcast/play/126905922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433436644-44100-2-79332eb50ffcb.mp3",
-    "durationSec": 3447
+    "title": "每次吃飯都忘記帶錢包的男友 (這是詐欺吧？) | 馬克信箱24w43-1",
+    "date": "2026-10-20",
+    "enclosure": "https://anchor.fm/s/98a6fac/podcast/play/127693372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434462444-44100-2-2f83c7e91fd0e.mp3",
+    "durationSec": 1228
    }
   },
   "itunes_1475418379": {
@@ -979,10 +1018,10 @@
    "itunesId": 1481974304,
    "description": "重返那些離奇、轟動的命案現場，跟著有三十三年鑑識生涯的前北市刑事鑑識中心主任謝松善，一一解開撲朔迷離的刑事案件。\n\n影響「阿善師」鑑識生涯的重大懸案是哪件？從死囚到平反的冤案有哪些？到底什麼是真相？什麼是正義？\n\n請聽【阿善師鑑識實錄】！\n\n✉️ 合作邀約➠ ashanshih.podcast＠gmail.com\n\n💳 贊助節目➠ https://pay.soundon.fm/podcasts/3dbafbf8-b792-4fe4-952f-34344933f2e6\n\n🔗節目鏈接➠\nhttps://linktr.ee/ashanshih\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP257 | 日本奇蹟動物園變成恐怖場域！職員涉嫌殺妻焚化爐焚屍",
-    "date": "2026-10-07",
-    "enclosure": "https://rss.soundon.fm/rssf/3dbafbf8-b792-4fe4-952f-34344933f2e6/feedurl/7e6446b2-6de9-4827-b49c-c44b4e43b642/rssFileVip.mp3?timestamp=1792321265169",
-    "durationSec": 1897
+    "title": "EP258 | 市場目睹母遭砍身亡 案件卻逆轉為女兒教唆殺母！",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/3dbafbf8-b792-4fe4-952f-34344933f2e6/feedurl/535561ee-974c-404c-bf52-34c0a6521965/rssFileVip.mp3?timestamp=1792503819978",
+    "durationSec": 1648
    }
   },
   "itunes_1482088693": {
@@ -1003,6 +1042,24 @@
     "durationSec": 2939
    }
   },
+  "itunes_1482463498": {
+   "title": "法客電台 BY 法律白話文 Plain Law Media",
+   "author": "法律白話文運動",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/2a/84/3e2a844f-8d7c-5ae2-470e-624a63cff577/mza_2661280130397699010.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "新聞評論",
+   "enclosureHost": "sw.soundon.fm",
+   "itunesId": 1482463498,
+   "description": "🎙法律白話文運動無極限！寫文、寫書跨界經營【法客電台】  【法客電台】法客電台是網路獨立媒體《法律白話文運動》製作的Podcast節目，議題橫跨法律知識探索、社會議題批判及政治時事話題，力求擺脫廉價批評，以打造指標性深度知識性社會議題節目為目標。  ——  🏆 本節目榮獲第19屆卓越新聞獎得獎作品 🏆 本節目入圍第20屆卓越新聞獎得獎作品  —— ✉️ 廣告合作邀約 傳送門連結：https://portaly.cc/plainlawradio EMAIL：business@plainlaw.me  法白官網：http://plainlaw.me 法白商城：https://store.plainlaw.me  支持法白，現在加入法白的定期定額計畫：https://lihi1.com/x2eSn —— 🥷 製作團隊  出品人：法律白話文運動 製作人：楊貴智 主持人：貴智、珞亦、Yoyo（鎬佑）",
+   "latestEpisode": {
+    "title": "政治歸YO智 ｜建國派對心得（上），錄完這集有三個人要出國happy happy",
+    "date": "2026-10-20",
+    "enclosure": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmverhefn09l601vfez3e1lwx/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmverhefn09l701vf4033e9uh.mp3?v=1792423208603",
+    "durationSec": 2424
+   }
+  },
   "itunes_1486227803": {
    "title": "聽天下：天下雜誌Podcast",
    "author": "天下雜誌",
@@ -1015,10 +1072,10 @@
    "itunesId": 1486227803,
    "description": "【聽天下】天下雜誌精闢觀點、深度解析，不只用看的也可以用聽的！\n提供聚焦財經、國際、趨勢的優質新聞、訪談與評論，天天更新。最新節目表看這邊：https://bit.ly/3Esp2Fl \n\n【天下零時差】早上8點聽天下，掌握國際、財經趨勢零時差。\n【決策者・聽天下】天下總編輯對話產官學界關鍵領袖人物，導讀天下封面故事。\n【經濟學人＠天下】每週導讀最新一期《經濟學人》，掌握世界政經趨勢。\n【阿榕伯胡說科技】科技輕鬆聊，天下總主筆陳良榕暢談半導體產業趨勢與科技時事。\n【永續會】投資新準則，企業好公民，永續會不會，收聽掌握ESG大機會。\n【未來城市】科技、經濟和永續的總和，城市的未來，充滿無限想像。\n【管理同學會】天下雜誌出版總編輯為你解析管理實務與應用。\n【Off學】星期天用聽的美好時尚生活提案。\n【微笑台灣】以深度旅遊和人情故事，體驗台灣鄉鎮魅力。（完整節目表：https://bit.ly/",
    "latestEpisode": {
-    "title": "【天下零時差10.20.26】歐中貿易戰再升溫！歐盟磨刀霍霍，研擬「一鍵封殺」中國",
-    "date": "2026-10-20",
-    "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/2ca4724d-5d56-4df1-906e-b70e9db20ffc/rssFileVip.mp3?timestamp=1792448265746",
-    "durationSec": 479
+    "title": "【天下零時差10.21.26】法國暴動》從黃背心到全歐抗爭：法國為什麼走到今天這一步？",
+    "date": "2026-10-21",
+    "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/5f804e9c-1d06-4a73-b964-5889b81e24a7/rssFileVip.mp3?timestamp=1792530793805",
+    "durationSec": 715
    }
   },
   "itunes_1488295306": {
@@ -1033,10 +1090,10 @@
    "itunesId": 1488295306,
    "description": "開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事  。\n參加財經皓角總經訂閱。\n新友會員 https://jackalopelin.com \n老友會員 https://yutinghao.finance \n我的粉絲專頁 https://reurl.cc/n563rd\n網站參加會員手冊 https://reurl.cc/rvvqAr\n如有疑問，歡迎來信 jackieyutw@gmail.com\n\"\"\"\"\" ♥️ 打賞網址 ：https://p.ecpay.com.tw/B83478D \"\"\"\"\"",
    "latestEpisode": {
-    "title": "2026/10/19(一)費半又入熊市!買點到了嗎?AI行情結束了?還是Q4最大買點?【早晨財經速解讀】",
-    "date": "2026-10-19",
-    "enclosure": "https://feeds.soundcloud.com/stream/2421633024-l9j0totnyhgh-2026-10-19-ai-q4.mp3",
-    "durationSec": 1790
+    "title": "2026/10/20(二)美股跌完了嗎?年底反攻行情啟動?大賣空貝瑞卻警告:真正熊市剛開始？早晨財經速解讀】",
+    "date": "2026-10-20",
+    "enclosure": "https://feeds.soundcloud.com/stream/2422403028-l9j0totnyhgh-2026-10-20.mp3",
+    "durationSec": 1861
    }
   },
   "itunes_1488439861": {
@@ -1105,10 +1162,10 @@
    "itunesId": 1493503146,
    "description": "「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。",
    "latestEpisode": {
-    "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
-    "date": "2026-10-16",
-    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a",
-    "durationSec": 5722
+    "title": "509 通往战时陪都之路：卢作孚建设重庆北碚往事",
+    "date": "2026-10-20",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a",
+    "durationSec": 4145
    }
   },
   "itunes_1495159355": {
@@ -1147,6 +1204,24 @@
     "durationSec": 3083
    }
   },
+  "itunes_1498541229": {
+   "title": "硅谷101",
+   "author": "硅谷101",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/96/d6/82/96d682e0-e42f-d8bf-68c3-c18ff9c20c8f/mza_15727650922171364471.jpg/600x600bb.jpg",
+   "feedUrl": "https://feeds.fireside.fm/sv101/rss",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "Technology",
+   "enclosureHost": "aphid.fireside.fm",
+   "itunesId": 1498541229,
+   "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。 公众账号：硅谷101 联系邮箱：podcast@sv101.net",
+   "latestEpisode": {
+    "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+    "date": "2026-10-20",
+    "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3",
+    "durationSec": 4780
+   }
+  },
   "itunes_1500162537": {
    "title": "哇賽心理學",
    "author": "哇賽心理學",
@@ -1159,10 +1234,10 @@
    "itunesId": 1500162537,
    "description": "這個節目專門聊心理學，不管是生活、育兒、司法、自我成長...等，只要跟人有關就有心理學在裡面。但我們不是心靈雞湯那種感性的，而是大腦牛肉湯那種理性的。透過理論與科學研究來談心理學，而不是哪個大師說了算。  目前有五個不同的單元： 哇賽心觀點：講者為蔡宇哲博士，透過一些生活事件或專訪來聊心理學。 法客心法聊天室：講者為蔡宇哲與黃致豪律師，聊的是司法心理學相關的議題，主要會從心理科學的角度來談。 哇賽療心室：講者為娜娜臨床心理師，主要談一些軟性、生活與心理的主題。 今天看劇說書：講者為蔡宇哲，影劇/書的成份多了點，主要透過閒聊的方式來談，再佐以心理學來調味。 犯罪不思議：講者為蔡宇哲與戴伸峰教授，談犯罪心理學，以及更深入地談犯罪案件背後的脈絡與成因。  目前是每週更新至少一次。歡迎一起來從這些有趣的心理學知識，來更瞭解自己與這個奇妙的社會。  若你覺得我們節目不錯，請記得要訂閱哦。也歡迎來跟我",
    "latestEpisode": {
-    "title": "遲來正義怎麼討？割喉案律師談司法極限ft.李惠暄律師｜哇賽心觀點ep217",
-    "date": "2026-10-17",
-    "enclosure": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmvacfah3051z01x6820eh5rn/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmvacfah3052001x6g7oner81.mp3?v=1792117440058",
-    "durationSec": 2071
+    "title": "為什麼越休息越累？你可能根本沒照顧到自己｜哇賽一起聊ep36",
+    "date": "2026-10-21",
+    "enclosure": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmvgbbs9a02ni01ydby2weu1x/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmvgbbs9a02nj01ydax451czz.mp3?v=1792478399538",
+    "durationSec": 2506
    }
   },
   "itunes_1500839292": {
@@ -1231,10 +1306,10 @@
    "itunesId": 1508245836,
    "description": "「US Taiwan Watch 美國台灣觀測站」要來和大家抬槓了。\n\n蔥蒜爆香，新鮮料多，大火翻炒。每一集，小編們會和大家一起討論台美關係、國際政治的動態和最新發展。如果你平常就已經有收看觀測站的文章，那麼你應該來聽我們的podcast，因為我們會在內容加料、加辣！\n\n* 本站內容以 CC BY-SA 3.0 授權。\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "S3EP252 - 總評「山巔之城」國慶演說！川普要求烏克蘭換領導人",
-    "date": "2026-10-13",
-    "enclosure": "https://rss.soundon.fm/rssf/6cdfccc6-7c47-4c35-8352-7f634b1b6f71/feedurl/ad0de4db-83b0-47a0-921d-3f2867c116c5/rssFileVip.mp3?timestamp=1791953543000",
-    "durationSec": 3097
+    "title": "S3EP253 - 法國暴動與歐洲右翼升高對俄烏的可能影響；Starklink降了什麼速？",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/6cdfccc6-7c47-4c35-8352-7f634b1b6f71/feedurl/f9e6faa7-6b52-479d-a019-3562e0a61420/rssFileVip.mp3?timestamp=1792509452875",
+    "durationSec": 3696
    }
   },
   "itunes_1510554676": {
@@ -1249,10 +1324,10 @@
    "itunesId": 1510554676,
    "description": "各類合作請丟commuteforme@gmail.com，目前臉書收件匣被各式聊天仔灌爆中。短期目標更動為錄音清晰音量宜人既往追究。本節目各大平台均有上架，感謝支持。",
    "latestEpisode": {
-    "title": "EP591 愛的絕對值",
-    "date": "2026-10-15",
-    "enclosure": "https://anchor.fm/s/1ea77470/podcast/play/127527752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F514d58da-a842-5a55-faf2-6020355f87a1.mp3",
-    "durationSec": 3039
+    "title": "EP592 愛的鼓勵一起來 ft. 強哥",
+    "date": "2026-10-19",
+    "enclosure": "https://anchor.fm/s/1ea77470/podcast/play/127715574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2Fa16430ed-af78-4c11-2a70-f2a9442b7fd6.mp3",
+    "durationSec": 5797
    }
   },
   "itunes_1511308681": {
@@ -1327,24 +1402,6 @@
     "durationSec": 2359
    }
   },
-  "itunes_1517743652": {
-   "title": "曼報",
-   "author": "Manny Li",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/08/f8/2e08f8b0-c3b0-982b-79f7-6eb9456f63c4/mza_11963171225874649235.jpg/600x600bb.jpg",
-   "feedUrl": "https://feed.firstory.me/rss/user/cmq4u0p94003n01xn3eia6e7k",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "創業",
-   "enclosureHost": "m.cdn.firstory.me",
-   "itunesId": 1517743652,
-   "description": "「現代人該如何在高速變動的未來世界中找到自己的定位？」  在新創產業打工多年的 Manny 與 Angela 每天都在資訊爆炸當中面對種種不安，但同時也發現世界正往更好的方向前進。本節目中我們將透過輕鬆、明快的對談，分析當代重要且有趣的科技及商業趨勢，並提供獨到的觀點。  更多深度分析，歡迎至： https://pro.manny-li.com/join  商業合作，請來信： manny@manny-li.com -  Powered by Firstory Hosting",
-   "latestEpisode": {
-    "title": "EP133｜人家 EMO 一整年是去籌備課程，那我呢？ft. 張修修",
-    "date": "2026-10-16",
-    "enclosure": "https://m.cdn.firstory.me/track/cmq4u0p94003n01xn3eia6e7k/cmvadxr5605a501x6ctezhq8z/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmq4u0p94003n01xn3eia6e7k%2Fcmvadxr5605a601x6dlrf7pa0.mp3?v=1792166855551",
-    "durationSec": 4705
-   }
-  },
   "itunes_1519263839": {
    "title": "童話裡都是騙人的",
    "author": "Nana&Eddie",
@@ -1393,10 +1450,10 @@
    "itunesId": 1520392595,
    "description": "Hello大家好，歡迎嚟到麥田圈🌾～\n呢個podcast嘅主持會以近乎失控嘅狀態，\n去探討生命中唔同嘅課題💭希望用聲音陪住大家。\n\n🎧每週更新時間：\n星期一 【麥子攻略】 6am\n星期三 【超暴力溝通】 6am\n星期五 【麥麥開咪】 6am\n　　　\n如果你鍾意聽，記得訂閱同follow我哋IG：hkcrop.radio\n請我哋飲杯咖啡☕ https://www.buymeacoffee.com/hkcrop.radio\n同埋俾個五⭐評分我哋呀！\n\n如果想聽更多節目，可以加入Patreon：https://www.patreon.com/HKCROP\n收聽更多節目：【麥麥講電影】、【亂世情侶】、【藍色大門】\n\nPatreon麥友可以按以下連結直接以Spotify收聽付費節目 ：\nhttps://open.spotify.com/show/0cLITFZLQRGJwJVkhNfFeR\n　　　\n",
    "latestEpisode": {
-    "title": "【麥子攻略】EP29: 多年感情無法修補最後分開，點樣重生同自己/身邊嘅人建立返連結？",
-    "date": "2026-10-19",
-    "enclosure": "https://anchor.fm/s/284eb8f8/podcast/play/127508606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F5ccc10aa-79fd-4095-fe3e-7621412e0d6e.mp3",
-    "durationSec": 4525
+    "title": "EP42:次次食茶記啲質素同服務都好似開盲盒，食肆難做唔係冇原因/ 去咗加拿大幾年都仲未可以落地生根【超暴力溝通!!!】",
+    "date": "2026-10-21",
+    "enclosure": "https://anchor.fm/s/284eb8f8/podcast/play/127768362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F9af79380-cc84-db4b-3533-a8de4e225f59.mp3",
+    "durationSec": 2471
    }
   },
   "itunes_1522773953": {
@@ -1411,10 +1468,28 @@
    "itunesId": 1522773953,
    "description": "名字有夠長\n\n合作邀約｜ladyflavor.pet@gmail.com\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP332 剛剛去拔了智齒💀💀",
-    "date": "2026-10-13",
-    "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/9c2f8fcd-2a68-4e8c-a26c-bca612a99872/rssFileVip.mp3?timestamp=1791955514301",
-    "durationSec": 3069
+    "title": "EP333 攝影師GG💀",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/62e89e02-99f1-4a47-891e-1ccfd8053a48/rssFileVip.mp3?timestamp=1792498265933",
+    "durationSec": 2819
+   }
+  },
+  "itunes_1523253391": {
+   "title": "霸軒廣播電台",
+   "author": "霸軒",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/65/41/11/6541111d-80d5-6dde-1939-a585f486a5d4/mza_1321986435223633139.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/ckchxr5qgx5pp091870hk05lx",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "Improv",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1523253391,
+   "description": "這裡是我和小美的廣播電台  【 追蹤我的其他平台】 Youtube 圖文頻道 ：霸軒與小美 Baxuan & Mei Facebook粉絲專頁 ：人類超有病 霸軒 Baxuan Instgram 粉絲專頁 ：@baxuan_ig  【 與我們聯繫】 工商合作請洽：Evonne Ｍail：BaxuanStudio@gmail.com Phone ：0980-311-824 LINE ID：a0980311824   Powered by Firstory Hosting",
+   "latestEpisode": {
+    "title": "霸軒廣播電台#160 掃墓回憶錄",
+    "date": "2026-10-15",
+    "enclosure": "https://m.cdn.firstory.me/track/ckchxr5qgx5pp091870hk05lx/cmv96at68060r01u7005edihi/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckchxr5qgx5pp091870hk05lx%2Fcmv96at68060s01u75dee13vg.mp3?v=1792379293439",
+    "durationSec": 2348
    }
   },
   "itunes_1523260009": {
@@ -1451,24 +1526,6 @@
     "date": "2026-10-15",
     "enclosure": "https://anchor.fm/s/2e916170/podcast/play/124798175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430628626-44100-2-3713762d80b6b.m4a",
     "durationSec": 730
-   }
-  },
-  "itunes_1525978220": {
-   "title": "GK爸爸原創故事繪本",
-   "author": "GK爸爸說故事",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/d3/8b/97d38baf-2081-0f98-2d3c-faa6c205b53f/mza_16022535034732827819.jpg/600x600bb.jpg",
-   "feedUrl": "https://feed.firstory.me/rss/user/cke9o73prwmij0839gmffmzhj",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "兒童教育",
-   "enclosureHost": "sw.soundon.fm",
-   "itunesId": 1525978220,
-   "description": "全職奶爸GK與女兒Kacey一起創作故事、音樂、配音、視覺設計 開播至今累積五千萬次收聽下載，並連續兩屆榮登KKBOX年度Podcast百大風雲榜  內容結合教育部108課綱「核心素養」，涵蓋經典童話、日常養成、科普知識、自我認同等多元領域。 除了故事更融入原創歌曲，橫跨流行、搖滾、嘻哈等多元曲風，打造近似「兒童音樂劇」的沉浸聆聽體驗  自2020年台灣第一個原創兒童故事Podcast節目，打造跳脫框架的故事宇宙， 原創角色QQ豬化身為英雄、偵探、勇者，與虎哥、夜星光、羊駝歐巴卡一同展開奇幻冒險，為親子共享帶來充滿歡笑與想像力的時光。  原創黃金搭檔介紹與教育意義 QQ豬 × 虎哥｜跨世代的「兒童幽默脫口秀」，在笑聲中養成核心素養  節目核心由兩個風格截然不同的原創角色挑起大樑：一個是象徵純真、充滿勇氣卻偶爾出包的「孩子代表」QQ豬； 另一個則是說台語、愛開玩笑、生活感十足的「在地長輩」虎",
-   "latestEpisode": {
-    "title": "西遊記｜《QQ西遊記 EP4 火焰山》",
-    "date": "2026-10-17",
-    "enclosure": "https://sw.soundon.fm/p/WEUDRR/m.cdn.firstory.me/track/cke9o73prwmij0839gmffmzhj/cmvbr40r6074z01vmd6mr6qek/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcke9o73prwmij0839gmffmzhj%2Fcmvbr40r6075001vm41ud6x2r.mp3?v=1792202575663",
-    "durationSec": 1222
    }
   },
   "itunes_1526048089": {
@@ -1681,10 +1738,10 @@
    "itunesId": 1531106786,
    "description": "即時國內外財經新聞評析、台股期貨盤勢解析、熱門產業發展與投資觀察、國際股市及原物料投資趨勢。 主持人阮慕驊與各方投資好手在【財經一路發】帶著大家悠遊投資市場。 　 任何合作提案請聯絡我們 : news98radio@gmail.com  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "多頭退守季線？！本周台指期10月合約結算！ 2026.10.19",
-    "date": "2026-10-19",
-    "enclosure": "https://m.cdn.firstory.me/track/ckuydilxj0ys508026gxkhbp4/cmvf5ybcp00dj01xhc0yyab33/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuydilxj0ys508026gxkhbp4%2Fcmvf5ybcp00dk01xhfvvv1n5q.mp3?v=1792408887928",
-    "durationSec": 1353
+    "title": "台塑化轉型獲利創高 股價續漲關鍵？ 2026.10.20",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/ckuydilxj0ys508026gxkhbp4/cmvgm1s9k03kn01xrc5k4d8yo/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuydilxj0ys508026gxkhbp4%2Fcmvgm1s9k03ko01xr6mxd74d9.mp3?v=1792496389000",
+    "durationSec": 1348
    }
   },
   "itunes_1532755821": {
@@ -1699,10 +1756,10 @@
    "itunesId": 1532755821,
    "description": "知名親子共讀推廣頻道【我們家的睡前故事】，由專業配音員許伯琴（小妹媽媽）及她開朗可愛的女兒（小妹）共同主持，有趣、歡樂、好聽又溫馨，是您與孩子睡前故事的首選，也是共讀的最佳示範。  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "EP359.野林守護戰 3 ：秘境森林裡的居民",
-    "date": "2026-10-14",
-    "enclosure": "https://m.cdn.firstory.me/track/ckf0ooexigq7u0839rk1lfd6k/cmui3uk730v3b01u6bhnl82n3/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckf0ooexigq7u0839rk1lfd6k%2Fcmui3uk730v3c01u666qeaq8w.mp3?v=1790409958073",
-    "durationSec": 1278
+    "title": "EP360.東海先生的奇異朋友1  夸父族的追日傳奇",
+    "date": "2026-10-21",
+    "enclosure": "https://m.cdn.firstory.me/track/ckf0ooexigq7u0839rk1lfd6k/cmuva58fj0ajq01ry49flg41b/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckf0ooexigq7u0839rk1lfd6k%2Fcmuva58fj0ajr01ry86r21vpm.mp3?v=1791206596582",
+    "durationSec": 1256
    }
   },
   "itunes_1532820533": {
@@ -1771,10 +1828,10 @@
    "itunesId": 1533782597,
    "description": "好書、好人、好故事，隨時更新的教育學習頻道！ 郝哥與你開心聊！陪伴大家每一天！  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "郝聲音出外景：（下）【郝旭烈專訪高希均】沒有觀世界，哪有世界觀？從戰亂少年到天下文化創辦人",
-    "date": "2026-10-20",
-    "enclosure": "https://m.cdn.firstory.me/track/ckfnpunqe136d08003p6lzdmn/cmvc6glol06w501yg70na1mms/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckfnpunqe136d08003p6lzdmn%2Fcmvc6glol06w601ygcxm597a2.mp3?v=1792228350689",
-    "durationSec": 2080
+    "title": "郝聲音出外景：（上）小米｜郝哥分享一本書一定要讀完嗎？怎樣讓學到的東西，變成自己的故事 ft.郝旭烈郝哥",
+    "date": "2026-10-21",
+    "enclosure": "https://m.cdn.firstory.me/track/ckfnpunqe136d08003p6lzdmn/cmvc6tc6n0akc01u76qjm74w1/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckfnpunqe136d08003p6lzdmn%2Fcmvc6tc6n0akd01u75gbm6ilo.mp3?v=1792228928574",
+    "durationSec": 1483
    }
   },
   "itunes_1535319502": {
@@ -1807,28 +1864,10 @@
    "itunesId": 1535487671,
    "description": "瘋女人聊天室，很愛閒聊組合\n我們是Apple、泰辣、G蛋布丁\n希望讓你隨時隨地笑出來\n或是點頭如搗蒜\n\n🎙️\n瘋女人聊天室 IG：tag.talkshow\n#瘋女人聊天室 每週三更新\n各大收聽平台｜https://linktr.ee/tagtalk\nIG、YT、FB 搜尋｜到處都是瘋女人、泰辣 Tyla、G蛋布丁\n故事投稿｜misscrazyapple@gmail.com\n歡迎抖內｜https://pros.is/4w8czv\n商案合作｜tag.talkshow2025@gmail.com\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP314｜我們都可能是ADHD患者 ft.周慕姿",
-    "date": "2026-10-14",
-    "enclosure": "https://track.fstry.me/p/tx2rshhk/rss.soundon.fm/rssf/ea1ced16-be9e-400f-a353-03f56d06958b/feedurl/356bd662-5ff6-402f-bb87-0d33baa803e0/rssFileVip.mp3?timestamp=1791960787562",
-    "durationSec": 6311
-   }
-  },
-  "itunes_1535657288": {
-   "title": "粤语有段古 | 俚语背后的故事",
-   "author": "广州李沛聪",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/37/3b/d5/373bd55a-f39e-b6ba-09ef-a03ebcf0c7d9/mza_14734034523548974574.jpeg/600x600bb.jpg",
-   "feedUrl": "http://www.ximalaya.com/album/12484036.xml",
-   "lang": "zh-cn",
-   "explicit": false,
-   "category": "語言學習",
-   "enclosureHost": "jt.ximalaya.com",
-   "itunesId": 1535657288,
-   "description": "粤港澳地区自近代以来，一直是得风气之先的地区，其语言和文化融合了多种中西元素，既丰富又接地气，显示出粤语人群务实、包容、生活化的性格。而改革开放之后，港澳地区因为较早与世界接轨，经济和文化都较为发达和活跃，也为粤语的传播带来了强大的动力。有许多北方人即使不懂粤语，也能哼上几句粤语歌。在粤语里面，有许多独特的表达方式，有很多俚语和俗语，有许多有趣的词汇。这些独特的语言并非从天而降，其背后都有各自的出处，有的是一个有趣的故事，有的则是一个特别的源头。粤语媒体人李沛聪，细说粤语俚语的故事，让你感受粤语文化的独特魅力。",
-   "latestEpisode": {
-    "title": "造假为什么叫“假过卖猫”？",
-    "date": "2026-10-11",
-    "enclosure": "https://jt.ximalaya.com//GKwRIRwOoWBQAAbvkwTmVDw3.m4a?channel=rss&album_id=12484036&track_id=1023329355&uid=97065757&jt=https://aod.cos.tx.xmcdn.com/storages/2ac9-audiofreehighqps/65/37/GKwRIRwOoWBQAAbvkwTmVDw3.m4a",
-    "durationSec": 55
+    "title": "EP315｜做這件事你的保健食品就白吃了！食品技師解析四大迷思！ft. Lumi",
+    "date": "2026-10-21",
+    "enclosure": "https://track.fstry.me/p/tx2rshhk/rss.soundon.fm/rssf/ea1ced16-be9e-400f-a353-03f56d06958b/feedurl/52deaa52-bd45-4ff9-9799-cbf29d42fc89/rssFileVip.mp3?timestamp=1792534610783",
+    "durationSec": 3404
    }
   },
   "itunes_1536242998": {
@@ -1843,10 +1882,10 @@
    "itunesId": 1536242998,
    "description": "命只有一條，\n你的固定成本是你的身體，你的機會成本，是你的時間，\n人生充滿選擇，吳淡如實用商學院，\n希望你做出最適選擇，而不是完美選擇。\n\n合作邀約：etjoey@yahoo.com.tw \n或 \nline：http://nav.cx/1INTyyx\n\n2026吳淡如打算當網紅囉☺️開始做YouTube，洽談請聯絡：david@blueberrys.tw\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP2546【吳淡如】未來，低利率的錢你再也借不到了",
-    "date": "2026-10-19",
-    "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/998be02e-cae8-49d7-a7b7-b2a92eeb670d/rssFileVip.mp3?timestamp=1792385849935",
-    "durationSec": 1331
+    "title": "EP2547【吳淡如Ｘ陳思維】如何把買菜變成一門永續好生意？",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/f7715397-2320-4dbd-83d9-3c7d9376e8fe/rssFileVip.mp3?timestamp=1792472051085",
+    "durationSec": 1636
    }
   },
   "itunes_1536374746": {
@@ -1861,28 +1900,10 @@
    "itunesId": 1536374746,
    "description": "2026年共時曆回來囉✨陪伴你的每一天 🔗 https://dmkk.tw/jt01DmeA3  我以為我的podcast是治失眠，但好多人跟我說聽了睡不著。 好吧，失眠不要聽！  🐧每週日：更新週報 🐧每週二、五：更新社會觀察（盡量啦XD）  🔎 FB：唐綺陽占星幫 🔎 YT：唐綺陽官方專屬頻道 🔎 IG：jessetang11  *本節目使用 Firstory 發佈，Firstory 讓你輕鬆被世界聽見。",
    "latestEpisode": {
-    "title": "【本週提醒】想通了，就勇敢為自己改變",
-    "date": "2026-10-19",
-    "enclosure": "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmvdx7sjp0npq01wx3svt89a5/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmvdx7sjp0npr01wx8roz0c4b.mp3?v=1792333724583",
-    "durationSec": 527
-   }
-  },
-  "itunes_1542147876": {
-   "title": "Whatsuuup做咩啫!?",
-   "author": "阿牛,羊兒,歪歪",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/44/c2/b7/44c2b7ce-0fda-ce6a-e2c9-f4542af74d23/mza_9504187542390776230.jpg/600x600bb.jpg",
-   "feedUrl": "https://anchor.fm/s/3e95b440/podcast/rss",
-   "lang": "zh-tw",
-   "explicit": false,
-   "category": "喜劇專訪",
-   "enclosureHost": "anchor.fm",
-   "itunesId": 1542147876,
-   "description": "「做咩啫！？香港人就梗係講廣東話啦!」\n\n3位香港女孩子，用廣東話去記錄生活日常，\n分享香港文化！你今日講左廣東話未?\n\nIG搜尋🔍 Whatsuuupchannel 或者 「做咩啫」 就會搵到我地！\n\n#廣東話Podcast #Podcasts #做咩啫\n\n主持人簡介 ：\n\n阿牛\n一名摱車邊九十後小姐，EQ低，記憶力強，極度八卦，對好多唔同既文化、人、事都會研究\n\n羊兒\n一名偽文青，最喜歡飲咖啡、研究星座、煲劇、睇書、漫畫，愛情故事關注組\n\n歪歪\n一名八十後，愛尋根究底古靈精怪事，可以訓的話不會坐",
-   "latestEpisode": {
-    "title": "EP167《做咩啫》｜《我阿爹想旅行》觀後感｜廣東話podcast",
-    "date": "2026-10-08",
-    "enclosure": "https://anchor.fm/s/3e95b440/podcast/play/127076699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F446b59a7-7fdd-fb17-b438-1a9e6f1d1782.mp3",
-    "durationSec": 3283
+    "title": "EP553 別把別人的期待，當成自己的目標 ft.周慕姿",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmvg9wwra029d01w4698khhrg/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmvg9wwra029e01w49g2o0zzh.mp3?v=1792476026742",
+    "durationSec": 3410
    }
   },
   "itunes_1546879892": {
@@ -1897,10 +1918,46 @@
    "itunesId": 1546879892,
    "description": "JC財經觀點 創辦人\n📙 著作：《美股投資學》\n📝 專欄：美股投資學:高速成長與穩健收息（https://pse.is/3jmp93）\n🌐 網站：JC財經觀點（jcinsight.info）\n📧 合作Mail： jcinsightgroup@gmail.com\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "2026/10/19(一) AI股災，資金鏈出問題？該抄底還是該離場",
-    "date": "2026-10-19",
-    "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/d42bc49c-b56e-4174-bfbe-be1a3806623a/rssFileVip.mp3?timestamp=1792376004695",
-    "durationSec": 1765
+    "title": "2026/10/20(二) 費半止跌，反彈該跑嗎？之我好期待才報季快點來",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/930ae0d6-fd06-400c-8152-9bb85c21a821/rssFileVip.mp3?timestamp=1792470871186",
+    "durationSec": 1631
+   }
+  },
+  "itunes_1547115698": {
+   "title": "性愛誠引",
+   "author": "貝兒 灰姑娘",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/78/86/7e/78867e1f-fe6c-9219-6c1b-eb38a02c5ba5/mza_2956257714965060076.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/c895d5c8-0b23-48a1-9a6f-3523e62ea349.xml",
+   "lang": "zh-Hant",
+   "explicit": true,
+   "category": "Relationships",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1547115698,
+   "description": "世界上曠男怨女那麼多，每個人都有不能說的秘密。在這裡，可以聽到各式各樣的秘密，讓你感同身受，在禁錮的日常中，找到出口。\n從童話故事中走出來的灰姑娘及貝兒，帶著小隨從雪寶，揭開童話的假面，告訴你童話裡都是騙人的，教你怎麼在現實的情海中悠遊。\n\n如果您覺得兩位公主對您起了療癒(慾?)的作用，希望我們一直存在陪伴的話，可以用行動支持一下，讓我們製作更優質的節目來回饋您喔！\n斗內請進→https://p.ecpay.com.tw/A43CFB4\n海外小仙貝斗內→https://pay.soundon.fm/podcasts/c895d5c8-0b23-48a1-9a6f-3523e62ea349\n\n如果您是用APPLE PODCAST或是MB3收聽，也請不要吝嗇給我們一個五星評分和留下評論~大心感謝唷！\n\n各大收聽平台：\nhttps://linktr.ee/cinderbella_love\n\n節目",
+   "latestEpisode": {
+    "title": "S21E3 優質女人與男人的磨合不是只有性器喔",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/c895d5c8-0b23-48a1-9a6f-3523e62ea349/feedurl/6baab281-b2a7-4a7f-a4d6-1735753a3a10/rssFileVip.mp3?timestamp=1792450103186",
+    "durationSec": 3646
+   }
+  },
+  "itunes_1547388471": {
+   "title": "台灣茶你好",
+   "author": "京盛宇 Jing Sheng Yu",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/3d/47/1d/3d471d88-0c47-e24e-3527-b43a34744e98/mza_17824421560952241003.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/7608c0fb-be98-465c-9318-f041d8b36845.xml",
+   "lang": "zh",
+   "explicit": false,
+   "category": "食物",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 1547388471,
+   "description": "歡迎來到《台灣茶你好》\n讓京盛宇創辦人林昱丞、Chloe與你一起聊聊茶內涵、茶故事，細嚐純淨的茶風味，聆聽台灣茶的美好\n\n各大收聽平台｜\nApple Podcast / Spotify / KKBOX / SoundOn / YouTube\n\n【邀請您感受台灣茶的美好體驗】\n《台灣茶你好》聽眾隱藏專屬優惠\n至京盛宇官網結帳輸入【jsypodcast】代碼，即可享有全系列商品95折優惠\n立即前往京盛宇選購：www.jsy-tea.com\n歡迎關注京盛宇IG @jingshengyu_tw\n\n加入Line@免費喝一杯茶\n即時聊天與我們分享您的回饋\nhttps://reurl.cc/aGEVNG\n\n品味獨特而完美的台灣茶體驗\n\n--\nHosting provided by SoundOn",
+   "latestEpisode": {
+    "title": "EP292 茶風味的100個秘密：秋天該喝什麼茶？「東方美人」與「武夷雙星」的秋日品茗指南",
+    "date": "2026-10-16",
+    "enclosure": "https://rss.soundon.fm/rssf/7608c0fb-be98-465c-9318-f041d8b36845/feedurl/40462353-ac0a-4d11-8ec9-1055b3417619/rssFileVip.mp3?timestamp=1792213423347",
+    "durationSec": 1515
    }
   },
   "itunes_1547950387": {
@@ -1915,10 +1972,10 @@
    "itunesId": 1547950387,
    "description": "人生沒有標準答案，很多事學校教不了。 \n但這裏有Power up秘笈：\n100種活出人生意義的可能性，\n好好生活的必備心理技能，\n都在《劉軒的How to人生學》。\n\nFacebook | Instagram\n搜尋：劉軒 XUAN\n\n想知道最優質的積極心理學知識\nFacebook | Instagram\n搜尋：軒言文創 SoundShine\n\n合作邀約：events@soundshine.com.tw\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP515｜真正的成熟，是學會與矛盾共處",
-    "date": "2026-10-12",
-    "enclosure": "https://track.fstry.me/p/tq23wa7v/rss.soundon.fm/rssf/17e025f5-3a87-41b5-8cff-af804ad195f3/feedurl/34db2b5d-912d-4e4a-bdcd-595b180c4b0b/rssFileVip.mp3?timestamp=1791864762234",
-    "durationSec": 1676
+    "title": "EP516｜一想起來還是好丟臉？教你把糗事重新說一遍 ft. 許榮哲",
+    "date": "2026-10-20",
+    "enclosure": "https://track.fstry.me/p/tq23wa7v/rss.soundon.fm/rssf/17e025f5-3a87-41b5-8cff-af804ad195f3/feedurl/1b350b7d-12bd-4fde-90e9-7af58c23ad94/rssFileVip.mp3?timestamp=1792513329258",
+    "durationSec": 2016
    }
   },
   "itunes_1547953074": {
@@ -1946,7 +2003,7 @@
    "feedUrl": "https://feeds.soundon.fm/podcasts/63749886-9412-44bf-b524-c23115f66b2c.xml",
    "lang": "zh-Hant",
    "explicit": false,
-   "category": "喜劇",
+   "category": "Comedy",
    "enclosureHost": "rss.soundon.fm",
    "itunesId": 1549121203,
    "description": "話不落地的女子  IG搜尋：紫砂歐娜 / leonawww   業務合作請寄信：purplesand789@gmail.com  我的另一個Podcast：愚樂百昏百  \n\n--\nHosting provided by SoundOn",
@@ -1971,7 +2028,7 @@
    "latestEpisode": {
     "title": "EP574｜「爸爸是撒旦」思覺失調20年後殺父！6位素人國民法官會如何判？｜啞鈴弒父案●下",
     "date": "2026-10-20",
-    "enclosure": "https://rss.soundon.fm/rssf/77a014a2-7c0e-4abe-9178-8ee01a7c14f3/feedurl/3407abd4-36e5-495f-b37d-a5c02f7b346a/rssFileVip.mp3?timestamp=1792361193537",
+    "enclosure": "https://rss.soundon.fm/rssf/77a014a2-7c0e-4abe-9178-8ee01a7c14f3/feedurl/3407abd4-36e5-495f-b37d-a5c02f7b346a/rssFileVip.mp3?timestamp=1792528776931",
     "durationSec": 2673
    }
   },
@@ -2007,7 +2064,7 @@
    "latestEpisode": {
     "title": "#270先欠債，再有錢！聽Hazel夫妻的可笑債歷史，再讓蘇美人教你錢滾錢｜錢進史1",
     "date": "2026-10-19",
-    "enclosure": "https://rss.soundon.fm/rssf/8632047c-dd18-4bde-a86c-f6c44df60b16/feedurl/2f779bff-98a1-4598-bca5-4be45cd2dd65/rssFileVip.mp3?timestamp=1792397448628",
+    "enclosure": "https://rss.soundon.fm/rssf/8632047c-dd18-4bde-a86c-f6c44df60b16/feedurl/2f779bff-98a1-4598-bca5-4be45cd2dd65/rssFileVip.mp3?timestamp=1792474615510",
     "durationSec": 3608
    }
   },
@@ -2023,10 +2080,10 @@
    "itunesId": 1550687726,
    "description": "《台灣最前線》是台灣民視新聞台的政論談話性節目。 每天晚上22:00上架，提供您最即時的新聞評論，廣談天下事。  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "【台灣最前線】2026.10.19 沈松信車掃高水準！突破蔣刁難攻勢！ 菁英.寶爸人設崩？蔣搬救兵變豬隊友？",
-    "date": "2026-10-20",
-    "enclosure": "https://m.cdn.firstory.me/track/ckk64smel2xg70889ffpppwtz/cmvfg7ctw00ry01yd577c6nwn/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckk64smel2xg70889ffpppwtz%2Fcmvfg7ctw00rz01yd1nkr9itu.mp3?v=1792426162232",
-    "durationSec": 5882
+    "title": "【台灣最前線】2026.10.20 沈民調大勝蔣？小水滴警惕不鬆懈！ 洋流潮襲全台！蔣少康專訪也背稿？",
+    "date": "2026-10-21",
+    "enclosure": "https://m.cdn.firstory.me/track/ckk64smel2xg70889ffpppwtz/cmvgv55dw04fa01w4e2tbfr4r/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckk64smel2xg70889ffpppwtz%2Fcmvgv55dw04fb01w4bcz9fpk6.mp3?v=1792511724437",
+    "durationSec": 5881
    }
   },
   "itunes_1550687907": {
@@ -2041,10 +2098,10 @@
    "itunesId": 1550687907,
    "description": "台灣民視新聞台自行製播的政論談話性節目，由張孟琦主持。  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "【台灣向前行】 2026.10.19 洋流席捲松信！攻破深藍堡壘？ 盧媽北上救蔣？負面選戰升溫？",
-    "date": "2026-10-20",
-    "enclosure": "https://m.cdn.firstory.me/track/ckkcbc2sq2sfp08714v9ixyia/cmvfg1eti00ua01u86nehe7ms/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckkcbc2sq2sfp08714v9ixyia%2Fcmvfg1eti00ub01u85ysvg40d.mp3?v=1792425864430",
-    "durationSec": 4490
+    "title": "【台灣向前行】 2026.10.20 北市民調大逆轉！沈伯洋領先17%！ 搶搭洋流順風車！綠小雞選情加分！",
+    "date": "2026-10-21",
+    "enclosure": "https://m.cdn.firstory.me/track/ckkcbc2sq2sfp08714v9ixyia/cmvgvbmve04fj01w4eb5c7s3y/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckkcbc2sq2sfp08714v9ixyia%2Fcmvgvbmve04fk01w4bkvscmxd.mp3?v=1792512011694",
+    "durationSec": 4469
    }
   },
   "itunes_1552904790": {
@@ -2054,7 +2111,7 @@
    "feedUrl": "http://www.ximalaya.com/album/46587439.xml",
    "lang": "zh-cn",
    "explicit": false,
-   "category": "Investing",
+   "category": "投資",
    "enclosureHost": "jt.ximalaya.com",
    "itunesId": 1552904790,
    "description": "用简单易懂的语言解读商业现象。联系我们：thatisbiz@yicai.com",
@@ -2173,24 +2230,6 @@
     "durationSec": 2455
    }
   },
-  "itunes_1563113866": {
-   "title": "科科出來講",
-   "author": "國立臺灣科學教育館",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1d/d3/06/1dd306ee-2b29-3581-f56c-c8ba871f0064/mza_14892473804090710380.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feeds.soundon.fm/podcasts/db733d7f-91b1-480b-a72d-536d76909b03.xml",
-   "lang": "zh",
-   "explicit": false,
-   "category": "科學",
-   "enclosureHost": "rss.soundon.fm",
-   "itunesId": 1563113866,
-   "description": "科科出來講",
-   "latestEpisode": {
-    "title": "[科科出來講]ep148 現在就出發！跟著星系來趟奇幻海洋漂流 ft.英國皇家遊艇協會航海大師 陳懷璞",
-    "date": "2026-10-12",
-    "enclosure": "https://rss.soundon.fm/rssf/db733d7f-91b1-480b-a72d-536d76909b03/feedurl/006d89fb-ce26-45c1-96d1-67634d274e14/rssFileVip.mp3?timestamp=1791786158494",
-    "durationSec": 2102
-   }
-  },
   "itunes_1565512053": {
    "title": "佳佳老師說故事",
    "author": "佳佳老師",
@@ -2239,10 +2278,10 @@
    "itunesId": 1567737927,
    "description": "觀看順序（很重要）：請從第 10 集，或最新集數開始。 千萬千萬千萬，不要從第 1 集開始。  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "EP65｜下重注的本事：用 15 萬扛起 150 萬｜窮人如何靠槓桿翻身？",
-    "date": "2026-10-16",
-    "enclosure": "https://m.cdn.firstory.me/track/ckol4gkei5t160848q58t6pzv/cmvahxxqf08ke01u73quw6e8i/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckol4gkei5t160848q58t6pzv%2Fcmvahxxqf08kf01u77rxu9y7g.mp3?v=1792126729821",
-    "durationSec": 4092
+    "title": "EP.66｜投資 40 年，前 10 年的錢竟比後 30 年更重要？｜借錢投資的時間優勢",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/ckol4gkei5t160848q58t6pzv/cmvg6xvw301z501yddw9d7vdo/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckol4gkei5t160848q58t6pzv%2Fcmvg6xvw301z601ydctfd2dxt.mp3?v=1792475100441",
+    "durationSec": 3693
    }
   },
   "itunes_1568010605": {
@@ -2257,10 +2296,10 @@
    "itunesId": 1568010605,
    "description": "2CR Radio is Australia’s first 24/7 Chinese radio station, serving our community for over 20 years. Programs locally and independently produced. 2CR 澳洲中文廣播電台是澳洲第一間每周\n7 天不停歇，全天候 24 小時廣播的中文電台。節目獨立製作，本地製造，為澳洲本地華人服務超過二十載。",
    "latestEpisode": {
-    "title": "《專訪新州反對黨領袖兼 Vaucluse州議員 Kellie Sloane》以減稅、住房及治安迎戰州選舉　明言多元文化是澳洲優勢",
-    "date": "2026-10-19",
-    "enclosure": "https://mcdn.podbean.com/mf/web/wyu24fpf7d8fhtas/kellie_sloane_MP_CAN_Mixdown68sst.mp3",
-    "durationSec": 3296
+    "title": "《專訪澳洲華人公益金執行委員會主席鄧小穎》 凝聚社區力量　讓慈善服務延續下一代",
+    "date": "2026-10-20",
+    "enclosure": "https://mcdn.podbean.com/mf/web/8mmmqiwiqkubtvfj/_261020_-_7g4st.mp3",
+    "durationSec": 1765
    }
   },
   "itunes_1569034794": {
@@ -2293,10 +2332,10 @@
    "itunesId": 1571015493,
    "description": "Lifehouse Hong Kong is a dynamic, fun, and passionate English & Cantonese-speaking church based in Jordan, Hong Kong. We currently have weekly church services every Sunday at 10:00 & 11:30 am onsite at Jordan and online. Find out more about Lifehouse Hong Kong at https://mylifehouse.com/hongkong/\n\n香港生命堂是一間位於佐敦，充滿活力、愉快和熱誠的雙語(英丶粵)教會。 我們目前每週日上午10 和 11:30 在佐敦現場舉行崇拜以及在線上進行直播。 歡迎你加入我們！瀏覽更多有關香港生命堂的資訊：htt",
    "latestEpisode": {
-    "title": "The Joy of Following Your Life's Assignment 跟隨你人生使命的喜樂 | Rod Plummer",
-    "date": "2026-10-11",
-    "enclosure": "https://episodes.captivate.fm/episode/f236c301-ca4b-4415-9989-688379ac4360.mp3",
-    "durationSec": 2059
+    "title": "What's My Calling? 我的呼召是甚麼？| Richard Welsh",
+    "date": "2026-10-18",
+    "enclosure": "https://episodes.captivate.fm/episode/acf16a99-0700-451a-97b8-2bcf020b6925.mp3",
+    "durationSec": 2105
    }
   },
   "itunes_1572447901": {
@@ -2333,6 +2372,24 @@
     "date": "2026-10-20",
     "enclosure": "https://jt.ximalaya.com//GKwRIDoOq-lkAFAPLwTreAgx.m4a?channel=rss&album_id=51076156&track_id=1025499001&uid=168606226&jt=https://aod.cos.tx.xmcdn.com/storages/5efb-audiofreehighqps/C6/CF/GKwRIDoOq-lkAFAPLwTreAgx.m4a",
     "durationSec": 647
+   }
+  },
+  "itunes_1573869097": {
+   "title": "《美好時刻》每日聖言分享",
+   "author": "台灣主言家庭",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/e0/8e/09/e08e0923-95f4-49c6-7a1d-4ce9c5caddb3/mza_8951982726298573729.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/ckq4wwd6ml2nd091150yw1slh",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "宗教",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1573869097,
+   "description": "《美好時刻》是由台灣主言傳教會和主言家庭携手編輯的祈禱手冊。我們按照天主教會每日彌撒的經文，透過祈禱和在實際生活的經驗做更深一層的反思，希望祈禱者可以因此而親近聖言，用天主的話來豐富自己的生命，造福家庭和社會。  Powered by Firstory Hosting",
+   "latestEpisode": {
+    "title": "10.21（三）充分有餘",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmtke4jg50p5a01wl3cyxgmnz/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmtke4jg50p5b01wl8yika22l.mp3?v=1790610846518",
+    "durationSec": 555
    }
   },
   "itunes_1574441855": {
@@ -2383,10 +2440,10 @@
    "itunesId": 1580238479,
    "description": "合作邀約｜petaandona@gmail.com\nInstagram｜leonawww\n歐娜另一個Podcast 《紫砂歐娜》\n\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "愚樂252｜蔡康永現身沈伯洋造勢活動",
-    "date": "2026-10-14",
-    "enclosure": "https://rss.soundon.fm/rssf/9244c32a-f1ea-489b-80a0-af287d5ccb13/feedurl/c8d4388e-d81a-4055-8153-e7f675127096/rssFileVip.mp3?timestamp=1791954813600",
-    "durationSec": 3555
+    "title": "愚樂253｜賈永婕立院穿搭被批「不純樸」、《媽爹講故事》爆抄襲中國Podcast共305集！",
+    "date": "2026-10-21",
+    "enclosure": "https://rss.soundon.fm/rssf/9244c32a-f1ea-489b-80a0-af287d5ccb13/feedurl/1002a1c4-2ffe-4e82-96c1-449dd27abb3c/rssFileVip.mp3?timestamp=1792516107293",
+    "durationSec": 4089
    }
   },
   "itunes_1582119137": {
@@ -2455,28 +2512,10 @@
    "itunesId": 1585375783,
    "description": "🎙 港一半唔講一半｜HalfKong Podcast\n📚 文化研究｜心理學｜文學｜醫學｜廣東話 Podcast\n每星期一，Benson（澳洲醫生）同 Rachel（寫小說的性學女子）\n醫學冷知識、心理學研究、文學文本、流行文化、再到生活上嘅小焦慮\n🎧 適合你如果：\n✔️ 鍾意文青味道但唔想太離地\n✔️ 對文化、知識、生活有啲小好奇\n✔️ 想喺搭車/煮飯/行山時聽啲可以激發思考又會笑出聲嘅內容\n\n📆 逢星期一更新｜廣東話節目\n📍 IG: @halfkong.podcast\n📺 YouTube: 港一半唔講一半\n🌊 努力邁向第300集！",
    "latestEpisode": {
-    "title": "EP. 237 | AI 垃圾手榴彈",
-    "date": "2026-10-12",
-    "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/127344828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F336f01d0-6bcc-346a-e0e5-5507fad56830.mp3",
-    "durationSec": 2662
-   }
-  },
-  "itunes_1588412361": {
-   "title": "有聊者大會",
-   "author": "臺灣新文化運動紀念館",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/1d/e8/971de808-cb27-e5ba-dadc-8ffe521cd086/mza_14934185163466486210.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feeds.soundon.fm/podcasts/70385dcf-25c0-4ced-85bd-df839ecf20c8.xml",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "歷史",
-   "enclosureHost": "rss.soundon.fm",
-   "itunesId": 1588412361,
-   "description": "百年之前，臺灣文化協會總理林獻堂發起「全島無力者大會」，號召對抗統治威權，發出最有力的正義呼聲。\n百年之後，我們推出 podcast 企劃《有聊者大會》，致敬文協知識份子們的滿腔熱血，用開講（khai-káng）重拾文化運動！\n\n--\nHosting provided by SoundOn",
-   "latestEpisode": {
-    "title": "制度化旅行所推動的國立公園",
-    "date": "2026-10-15",
-    "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/46382f3c-2d32-42a3-84e3-5e961881297d/rssFileVip.mp3?timestamp=1792126718216",
-    "durationSec": 2177
+    "title": "EP. 238 | 馬奎斯：《獨裁者的秋天》小說不分段謝謝",
+    "date": "2026-10-21",
+    "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/127789872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F211b66dd-1655-5502-24a0-717770e2d510.mp3",
+    "durationSec": 2950
    }
   },
   "itunes_1588512726": {
@@ -2527,10 +2566,10 @@
    "itunesId": 1590806478,
    "description": "《兆華與股惑仔》\n\n勤跑產業、多空實戰，最了解散戶心聲的主持人李兆華，創立只講真心話的財經頻道！\n\n獨家好交情的理財達人們，一起為股票市場中迷惑的股惑仔，解決各種疑難雜症。\n\nPODCAST上「唯一」想到就更新的節目，佛心幽默，陪伴你們一起走過股市起伏的喜怒哀樂。\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "EP1205｜又測季線，是好買點嗎？AI融資、記憶體、超級財報周、期中選舉、戰亂，止穩條件？鋸齒狀前行，回檔時優先選擇？ft.題材獵人 林漢偉",
-    "date": "2026-10-19",
-    "enclosure": "https://rss.soundon.fm/rssf/91be014b-9f55-4bf3-a910-b232eda82d11/feedurl/86545c14-1198-4ec9-9163-d66af244d2f5/rssFileVip.mp3?timestamp=1792398683176",
-    "durationSec": 3038
+    "title": "EP1206｜高盛挺CoreWeave先止血？台幣貶破32.5要留意，PCB材料不夠撐盤，等半導體回神！投信Q4的企圖心？ft.型男股神 陳威良",
+    "date": "2026-10-20",
+    "enclosure": "https://rss.soundon.fm/rssf/91be014b-9f55-4bf3-a910-b232eda82d11/feedurl/ad25bf4e-8620-43cf-9c23-5258541019a1/rssFileVip.mp3?timestamp=1792483673010",
+    "durationSec": 2206
    }
   },
   "itunes_1592646595": {
@@ -2653,10 +2692,10 @@
    "itunesId": 1607447086,
    "description": "🏆2025年入圍第24屆卓越新聞獎 🏆2025年臺灣醫療報導獎佳作 🏆2025年榮獲消費者報導獎優勝 🏆2024年榮獲第50屆曾虛白先生新聞獎 🏆2024年雙料入圍第23屆卓越新聞獎 🏆2022年入圍第48屆曾虛白先生新聞獎  您收到過假訊息嗎？ 資訊爆炸的年代，各種真真假假的訊息， 我們怎麼樣才能夠聰明不受騙？ 【新聞真假掰｜假訊息ByeBye！】 是由台灣事實查核教育基金會與國立教育電台合作的Podcast節目， 在這裡我們將邀請各行各業的朋友暢談媒體議題， 陪伴聽眾提升媒體素養、增強對假訊息的抵抗力， 達成「群體免疫」，和假訊息說掰掰！    ❤️  邀請您訂閱、分享、給五星好評，也歡迎留言告訴我們您的想法和建議。 如果要聯絡我們，歡迎寫信到這裡：tfc@tfc-taiwan.org  💌 臉書專頁 www.facebook.com/taiwantfc  💌 IG 帳號 www.in",
    "latestEpisode": {
-    "title": "AI揭密還是造假？牙膏用牛骨做、披薩盒變衛生紙、超商麵包不能吃？｜誰是假消息",
-    "date": "2026-10-15",
-    "enclosure": "https://m.cdn.firstory.me/track/ckyvtabkc0cn7081913m3x01j/cmv7j7yrz08an01w13bmddtvl/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckyvtabkc0cn7081913m3x01j%2Fcmv7j7yrz08ao01w1a1mrhwj7.mp3?v=1791947439444",
-    "durationSec": 1051
+    "title": "EP266｜「你老公多少錢買妳？」從歧視、高額仲介費到黑戶寶寶，為什麼移工寧願「失聯」也不敢求救？專訪陳雪慧（南洋台灣姊妹會秘書長）",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/ckyvtabkc0cn7081913m3x01j/cmvg2al1k01j801yd8v1o5ha2/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckyvtabkc0cn7081913m3x01j%2Fcmvg2al1k01j901yd6umo3j24.mp3?v=1792482413165",
+    "durationSec": 3180
    }
   },
   "itunes_1609558436": {
@@ -2713,6 +2752,24 @@
     "durationSec": 3252
    }
   },
+  "itunes_1613449277": {
+   "title": "粤语阑珊 | 学粤语-倾听你的故事",
+   "author": "NJ宇婷",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/5a/e9/f0/5ae9f0e3-73c7-7221-43a7-8b8ec712b586/mza_16820413834037286063.jpeg/600x600bb.jpg",
+   "feedUrl": "http://www.ximalaya.com/album/3482313.xml",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "音樂",
+   "enclosureHost": "jt.ximalaya.com",
+   "itunesId": 1613449277,
+   "description": "获取本节目图文、视频和配乐请搜索公众微信号：NJ宇婷 抖音&快手号：NJ宇婷另外宇婷成立个粤语速成班、主持播音培训班【（添加个人微信 592921525咨询报名、或需要自学粤语课件+视频+音频mp3（实用性强）的朋友也可添加咨询】新浪微博：主播宇婷抖音号：NJ宇婷听友Q群：640757280听众投稿邮箱：592921525@qq.com",
+   "latestEpisode": {
+    "title": "相处舒服，贵在留白（附文本）",
+    "date": "2026-10-18",
+    "enclosure": "https://jt.ximalaya.com//GKwRIUEOqixjAD0orwTqxXCt.m4a?channel=rss&album_id=3482313&track_id=1025167505&uid=32256689&jt=https://aod.cos.tx.xmcdn.com/storages/4ce5-audiofreehighqps/C2/01/GKwRIUEOqixjAD0orwTqxXCt.m4a",
+    "durationSec": 494
+   }
+  },
   "itunes_1615939013": {
    "title": "半拿铁 | 商业沉浮录",
    "author": "潇磊&刘飞",
@@ -2765,24 +2822,6 @@
     "date": "2026-10-19",
     "enclosure": "https://rss.soundon.fm/rssf/d29691bb-5ff9-43f7-980b-df9d08f4ad97/feedurl/b2dfd645-5551-4d55-af40-31a557af796a/rssFileVip.mp3?timestamp=1792417602387",
     "durationSec": 3196
-   }
-  },
-  "itunes_1625222138": {
-   "title": "曾寶儀的人生藏寶圖",
-   "author": "曾寶儀",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/e0/be/03/e0be0391-2373-53f1-b439-bb40b02fd113/mza_8477013067056473812.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feed.firstory.me/rss/user/clvknrxxl0p8701x65wnig3yw",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "Society & Culture",
-   "enclosureHost": "m.cdn.firstory.me",
-   "itunesId": 1625222138,
-   "description": "《曾寶儀的人生藏寶圖》每週五 17:00 準時啟航！🏴‍☠  金鐘主持人曾寶儀化身船長，在汪洋人生大海中探索挖寶， 她透過分享沉潛身心靈十餘年的視角，與我們一起重新體驗這個世界， Have Fun! 讓習以為常的日子，成為專屬於你的奇蹟寶藏！ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿  💎一起上船尋寶，打開你的#人生藏寶圖💎  ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ 🎁 節目更新 ➔ 每週五上架 📧 合作需求 ➔ bowielifemap@gmail.com 📧 聽眾投稿 ➔ askbowielifemap@gmail.com 💎 主持人FB ➔ 曾寶儀Bowie 💎 主持人IG ➔ bowie0221 💎 YT頻道 ➔ youtube.com/@bowielifemap ⛏ 贊助鏟子 ➔ https://bit.ly/39AliSk",
-   "latestEpisode": {
-    "title": "EP240｜成功不只有一種定義，讓別人的生命也能閃閃發光 ft. 林志信",
-    "date": "2026-10-16",
-    "enclosure": "https://m.cdn.firstory.me/track/clvknrxxl0p8701x65wnig3yw/cmvaedd1i0d7d01xme999czgb/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclvknrxxl0p8701x65wnig3yw%2Fcmvaedd1i0d7e01xmbe39742k.mp3?v=1792124169491",
-    "durationSec": 2283
    }
   },
   "itunes_1625657140": {
@@ -2929,6 +2968,24 @@
     "durationSec": 724
    }
   },
+  "itunes_1649093315": {
+   "title": "倾下偈（粤语）",
+   "author": "usefulness.info",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/d4/39/a6/d439a6c1-fe01-7946-cf78-f50175038ca0/mza_10065440112244752715.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.xyzfm.space/url7x3a9jxhy",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "休閒",
+   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
+   "itunesId": 1649093315,
+   "description": "欢迎来到 Abbie 和 Kwen 的「倾下偈」 粤语 Chat Room（聊天室），和我们一起发现生活中的有趣灵感吧！\n\n我们是两位在异乡生活的广东女生，Abbie 是设计师，Kwen 则是艺术编辑。突发奇想做一档粤语的 chitchat 栏目，虽然每天的生活都很常规且忙碌，但我们依然想要将日常生活中奇遇奇想，高光的瞬间聚集起来分享给大家。\n\n每两周我们会围绕一个主题，可能是购物种草、运动、菜谱的闲聊，也有可能是工作生活的私聊，即便生活两点一线，但不妨碍我们持续发现生活的美好灵感。",
+   "latestEpisode": {
+    "title": "E27：30岁才懂，长大就是一场接一场的祛魅",
+    "date": "2026-08-21",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/625d0a733babb91264cdb413/6a87d9891352af56ff39a715/media.xyzcdn.net/625d0a733babb91264cdb413/llr4Io1fQl1mpMJpio0vzB800c4s.m4a",
+    "durationSec": 2406
+   }
+  },
   "itunes_1653924081": {
    "title": "来日方长 （粤语）",
    "author": "莲年 & 慕容",
@@ -3017,24 +3074,6 @@
     "date": "2026-10-18",
     "enclosure": "https://m.cdn.firstory.me/track/cld0588if003s01v77vwe7tl3/cmvdpvenq097301vk7xz035rd/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcld0588if003s01v77vwe7tl3%2Fcmvdpvenq097401vk48fkhzz3.mp3?v=1792321562311",
     "durationSec": 1602
-   }
-  },
-  "itunes_1671490972": {
-   "title": "纵横四海",
-   "author": "携隐Melody",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/b4/e4/dfb4e432-0769-9506-09a9-f01fa4b7852d/mza_16915193939148219302.jpeg/600x600bb.jpg",
-   "feedUrl": "https://www.ximalaya.com/album/67531569.xml",
-   "lang": "zh-cn",
-   "explicit": false,
-   "category": "Self-Improvement",
-   "enclosureHost": "jt.ximalaya.com",
-   "itunesId": 1671490972,
-   "description": "人类使用说明书。微博：携隐Melody公众号：携隐Melody小红书：纵横四海加入听友群：公众号「携隐Melody」回复「进群」BGM歌单：公众号「携隐Melody」回复「歌单」商务合作：+vx「xymario」回复「合作」",
-   "latestEpisode": {
-    "title": "EP88 史上最强播客/读书笔记？",
-    "date": "2026-09-21",
-    "enclosure": "https://jt.ximalaya.com//GKwRIMAOhuKbBoUGrATa9-VX.m4a?channel=rss&album_id=67531569&track_id=1017298032&uid=403479618&jt=https://aod.cos.tx.xmcdn.com/storages/89f0-audiofreehighqps/D5/A6/GKwRIMAOhuKbBoUGrATa9-VX.m4a",
-    "durationSec": 13512
    }
   },
   "itunes_1676099257": {
@@ -3199,24 +3238,6 @@
     "durationSec": 3230
    }
   },
-  "itunes_1705407466": {
-   "title": "給我一個故事的時間",
-   "author": "婷婷＆彬如",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/66/6f/e7666fb0-e306-5b3b-9e75-a833a6883c93/mza_16126231794763546365.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feeds.soundon.fm/podcasts/3e1e32d6-b559-4193-9904-3463149558e5.xml",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "Books",
-   "enclosureHost": "rss.soundon.fm",
-   "itunesId": 1705407466,
-   "description": "當生活越來越忙，時間變得越來越快，\n再也沒有什麼比閱讀一本小說，\n還能讓我們慢一點，清醒一點，有趣一點。\n\n婷婷和彬如，兩個算是資深的出版人。\n一個是編輯，熱衷於把書稿變成書，深信閱讀可以帶人抵達遠超過生命經驗的所在。\n一個是企劃，覺得讀小說是一件快樂的事，賣小說更是一件必要的事。\n\n她們在【給我一個故事的時間】，\n聊小說，聊閱讀，與你一起走進不可思議的故事世界。\n\n歡迎加入：\n★許婷婷·編輯事FB：https://www.facebook.com/tinnnnng0511\n★給我一個故事的時間IG請搜尋：hihihi_story\n\n節目合作：\nstpodcast2023@gmail.com\n\n\n--\nHosting provided by SoundOn",
-   "latestEpisode": {
-    "title": "#109｜我在這裡的人生，我心滿意足──《群山淡景》",
-    "date": "2026-10-15",
-    "enclosure": "https://rss.soundon.fm/rssf/3e1e32d6-b559-4193-9904-3463149558e5/feedurl/3d2b96de-7775-4dd8-95a0-8e474695b5ff/rssFileVip.mp3?timestamp=1792390715516",
-    "durationSec": 2781
-   }
-  },
   "itunes_1709868653": {
    "title": "BBK新闻随便看 - 带你了解马来西亚的有趣时事！",
    "author": "BBK Network",
@@ -3247,10 +3268,10 @@
    "itunesId": 1712064916,
    "description": "與其睇街訪 不如聽下我哋講！(香港 Podcast）\n逢星期一同四有我哋三個後生仔女爲你減減壓 ^.^\n\n鍾意嘅話記得去睇埋我哋嘅 YouTube 同埋 IG ❤️\n\n投稿 Link: https://forms.gle/av8KZ6WFUNGwjgp37\n\nYouTube: https://youtube.com/@OKLAHK?si=Zi0ChiYmphVN4x-6\n\nInstagram: https://instagram.com/ok.la.hk?igshid=MzRlODBiNWFlZA==\n\nhttps://www.instagram.com/okla_podcast/",
    "latestEpisode": {
-    "title": "【OK 大秘密 EP 137】First Date 急救指南 (´・ω・`)",
-    "date": "2026-10-15",
-    "enclosure": "https://anchor.fm/s/e81a3eb4/podcast/play/127509542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434216962-44100-2-5c7515b43b5b7.mp3",
-    "durationSec": 1656
+    "title": "【OK 聽人講！EP 157】網絡上嘅人就係最鍾意睇人出事！（feat.壽司狼 ⁨@sushizenpai⁩   )",
+    "date": "2026-10-19",
+    "enclosure": "https://anchor.fm/s/e81a3eb4/podcast/play/127706075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434480574-44100-2-7bfae0f8baab6.mp3",
+    "durationSec": 4347
    }
   },
   "itunes_1719922699": {
@@ -3269,6 +3290,41 @@
     "date": "2026-08-25",
     "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/656ee645b4b5dd5510b9593f/6a8d0fba1352af56ff3b91dc/media.xyzcdn.net/656ee645b4b5dd5510b9593f/lkJ6mfRZOhrukwoZlUMeTSXzWb6W.m4a",
     "durationSec": 3205
+   }
+  },
+  "itunes_1721855075": {
+   "title": "小熱NOW",
+   "author": "小熱唱",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d6/e9/d3/d6e9d3f2-61df-1c12-9996-c7a295384aa3/mza_13861370744899994473.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/clq9jtxhz075v01qkck5697rq",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "即興表演",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1721855075,
+   "description": "人生就需要， 一起吐苦水還順便幫你做好人生筆記的朋友  恭喜你！找到寶藏了。  厭世姐妹獨特的社會觀察 偶爾也有雞湯的反轉魅力   【每週一更新】  YT｜小熱唱  FB｜小熱唱 GFTS 合作邀約｜gfts9595@gmail.com  本節目由 熱點娛樂 與【聲歷其境】共同製作  Powered by Firstory Hosting",
+   "latestEpisode": {
+    "title": "什麼人值得留在你的生活中 長大後朋友哪裡變了｜EP134",
+    "date": "2026-10-19",
+    "enclosure": "https://m.cdn.firstory.me/track/clq9jtxhz075v01qkck5697rq/cmvb82n4c06as01yg6z4n65k0/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclq9jtxhz075v01qkck5697rq%2Fcmvb82n4c06at01yg2mmv3x7u.mp3?v=1792170626115",
+    "durationSec": 2889
+   }
+  },
+  "itunes_1724308194": {
+   "title": "台灣怎麼想？",
+   "author": "王家軒,Rti",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/aa/89/32aa89de-0f27-7fe9-d70e-b07e485fda62/mza_8459558774895153063.jpg/600x600bb.jpg",
+   "feedUrl": "https://www.rti.org.tw/programpodcasturl?id=1731",
+   "lang": "zh_TW",
+   "explicit": false,
+   "category": "社會與文化",
+   "enclosureHost": "sw.soundon.fm",
+   "itunesId": 1724308194,
+   "description": "今天的台灣已經成為世界的焦點，無論是政治發展、地緣衝突、貿易戰，台灣下一步的選擇是什麼，世界都在關注。然而，台灣人怎麼看待自己的歷史、認同，與內部多元的組成，尤其是在中國的壓力下該如何選擇自己的未來？\n節目主持人王家軒將邀請不同背景的台灣人來與您一起探討「台灣怎麼想？」。\n2024年起，「台灣怎麼想？」節目每週五晚間9點30分到10點，在中央廣播電臺中短波頻道、官網同步播出。\n您也可以在以下podcast平台搜尋、下載「台灣怎麼想？」：\nSpotify https://reurl.cc/j3GQL1\nSoundOn https://reurl.cc/Xqj0qE\nApple Podcasts https://reurl.cc/L4ApE7\n歡迎與我們分享你收聽節目後的感受，來信請寄：2020@rti.org.tw、20200203news@gmail.com",
+   "latestEpisode": {
+    "title": "【台灣怎麼想】雙北市長選情深度分析",
+    "date": "2026-10-16",
+    "enclosure": "https://sw.soundon.fm/p/FNLD9K/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261016_2130_1731_tw.mp3"
    }
   },
   "itunes_1725751842": {
@@ -3307,6 +3363,42 @@
     "durationSec": 4264
    }
   },
+  "itunes_1727484527": {
+   "title": "放學電台",
+   "author": "台灣放伴教育協會",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/bf/ce/b8/bfceb8cc-2431-58b9-f556-61bd9ded7f64/mza_9952369226280504340.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.firstory.me/rss/user/clrsr5yv702ip01un68608sv9",
+   "lang": "zh-Hant",
+   "explicit": false,
+   "category": "教育",
+   "enclosureHost": "m.cdn.firstory.me",
+   "itunesId": 1727484527,
+   "description": "誰說教育議題只能正經聊？我們專把困難的教育議題正聊、反聊、輕鬆聊！  放學了？歡迎加入放學電台的行列，聽聽我們怎麼將教育聊進你的心坎裡！  ✋放伴FB https://www.facebook.com/pangphuann ✋放伴IG https://www.instagram.com/pangphuann ✋給予教育創新更多支持 https://lihi.cc/op1Yq ✋Email hi@pangphuann.tw ✋ 節目剪輯後製：馬特 https://www.lobytw.com/  Powered by Firstory Hosting",
+   "latestEpisode": {
+    "title": "EP128｜你的孩子，其實是你還在認識的陌生人！回應聽眾教養大哉問：別把期待外包給下一代，把孩子還給他自己",
+    "date": "2026-10-15",
+    "enclosure": "https://m.cdn.firstory.me/track/clrsr5yv702ip01un68608sv9/cmv8f1tn902kj01yc037geqp6/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrsr5yv702ip01un68608sv9%2Fcmv8f1tn902kk01yc52ai69pt.mp3?v=1792000912788",
+    "durationSec": 2262
+   }
+  },
+  "itunes_1728256839": {
+   "title": "你讲乜嘢 | 粤语",
+   "author": "Siriana",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/5f/c8/88/5fc88890-e179-d5c4-0db3-7a50e25bfbe3/mza_2859430276664893833.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.xyzfm.space/7kytdp8ee6y8",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "休閒",
+   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
+   "itunesId": 1728256839,
+   "description": "“活得快乐的最重要因素是人生有事干，有人可去爱，以及生命中有所冀望。”\n—— 约瑟夫·艾迪生\n\n\n《你讲乜嘢》是一档生活杂谈类，以粤语为主的播客，通过分（CHUI）享 (SHUI) 生活中的大小事情，希望跟大家一起发现，一起成长，发掘生活中更多的美好…… La vita è bella！\n\n生活在意大利的Siri，暴走在广州的玛利奥爱蘑菇会在节目中陪伴大家共同度过摸鱼、通勤、做家务等快乐时光。在快节奏的时代里，放慢脚步，一起畅谈我们的热爱和生活吧！！！\n\n我们的大本营在小宇宙APP，欢迎来和我们留言互动哦！\n粤语字幕版在B站陆续更新中，搜索“你讲乜嘢”或搜UP主\"Siriana_你讲乜嘢\"就可以找到我们啦！\n\n#粤语 #大湾区 #广州 #意大利 #粤语播客",
+   "latestEpisode": {
+    "title": "210. 粤语| 男亲女爱系列——赞美和批评如何影响一段关系",
+    "date": "2026-10-20",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/621d4e2e31420a82b8f865ee/6ad746c9ef67611cac7977ee/media.xyzcdn.net/621d4e2e31420a82b8f865ee/llxDkn_Blnp8IC24U7ypeEJBIwtD.m4a",
+    "durationSec": 4790
+   }
+  },
   "itunes_1731784296": {
    "title": "天真不天真",
    "author": "杨天真本真",
@@ -3319,10 +3411,10 @@
    "itunesId": 1731784296,
    "description": "杨天真播客\n\n欢迎来到我的播客。\n\n在这里，我会和大家分享那些或“天真”或“不天真”的故事。有时邀请好友，有时探寻人生，与世界碰撞，聊着聊着，聊出真相。",
    "latestEpisode": {
-    "title": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
-    "date": "2026-09-29",
-    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6abaa819e742e36efcbc5fa8/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lgrBPfUBc8S6y59Jb6tSD6gLZ_c-.m4a",
-    "durationSec": 4558
+    "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+    "date": "2026-10-20",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6ad63f95285041df1c7358c9/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lujrbxDhQr5-HRqMYJ746W6uAP5_.m4a",
+    "durationSec": 3826
    }
   },
   "itunes_1732161501": {
@@ -3337,10 +3429,10 @@
    "itunesId": 1732161501,
    "description": "灵命日粮广播包含灵命日粮事工所制作的各种专题的有声书籍。提供读者以广播方式，随时随地灵修。不论出门在外、居家休憩，借着灵命日粮事工的有声书籍，让自己随时浸泡在上帝的话语之中。",
    "latestEpisode": {
-    "title": "做在耶稣身上",
-    "date": "2026-10-20",
-    "enclosure": "https://media.transistor.fm/7d8b5215/300d6a42.mp3",
-    "durationSec": 378
+    "title": "上帝的安慰",
+    "date": "2026-10-21",
+    "enclosure": "https://media.transistor.fm/46c23d34/5a6ad56f.mp3",
+    "durationSec": 372
    }
   },
   "itunes_1735462952": {
@@ -3410,26 +3502,8 @@
    "latestEpisode": {
     "title": "S2EP19｜廢棄營舍旁的水泥哨亭：無法下哨的陣亡學長｜陳為民-民間怪談：五夜驚魂",
     "date": "2026-10-16",
-    "enclosure": "https://rss.soundon.fm/rssf/e0f0197c-ec4e-43ed-9642-3193f59f7f99/feedurl/fbb41004-752f-4312-a486-0549ed69c144/rssFileVip.mp3?timestamp=1792340734311",
+    "enclosure": "https://rss.soundon.fm/rssf/e0f0197c-ec4e-43ed-9642-3193f59f7f99/feedurl/fbb41004-752f-4312-a486-0549ed69c144/rssFileVip.mp3?timestamp=1792254404743",
     "durationSec": 2033
-   }
-  },
-  "itunes_1743794752": {
-   "title": "未來轉運站",
-   "author": "國立臺灣大學科技政策與產業發展研究中心",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/19/ee/7919ee24-fd48-f889-3776-b1fe551be9d4/mza_17563237754475427038.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feeds.soundon.fm/podcasts/6640e440-ba6e-4be0-8f07-04a45e2524c7.xml",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "管理",
-   "enclosureHost": "rss.soundon.fm",
-   "itunesId": 1743794752,
-   "description": "未來轉運站提供多元的的管理資訊與知識，藉由節目的分享，讓你擷取更適合你的「經營管理」、「數位轉型」與「永續發展」相關資訊，也讓你和你的事業，轉運到更美好的未來。\n\n--\nHosting provided by SoundOn",
-   "latestEpisode": {
-    "title": "EP129_《前瞻視野: 產業、人才與臺灣發展策略思維》 陳良基 教授",
-    "date": "2026-10-16",
-    "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/ad9c9c5d-cf57-4f12-ad58-65fd011bd739/rssFileVip.mp3?timestamp=1792212718907",
-    "durationSec": 1125
    }
   },
   "itunes_1746197263": {
@@ -3480,10 +3554,10 @@
    "itunesId": 1749781362,
    "description": "奇情島探索古今中外奇人、奇事、奇案。\n感謝大家支持。You may support the channel with a coffee :)\n☕ https://buymeacoffee.com/mysticislandjc\n📝你嘅奇情故：https://forms.gle/54924zaUXzquBbsg8\n📱Telegram/ Instagram @mysticislandjc \n🌳 https://linktr.ee/mysticislandjc",
    "latestEpisode": {
-    "title": "EP129 - [墮樓] 荔枝角基真小學女童墮樓事件",
-    "date": "2026-10-14",
-    "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/122099855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fddd16bf7-6891-64eb-4a22-084be16dc0e0.mp3",
-    "durationSec": 2820
+    "title": "EP130 - [失蹤] 美國少女郵輪失蹤事件",
+    "date": "2026-10-21",
+    "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/123115672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F40c22f3e-df34-abe1-baa8-017c84d2cd1b.mp3",
+    "durationSec": 1609
    }
   },
   "itunes_1752639453": {
@@ -3502,24 +3576,6 @@
     "date": "2026-10-10",
     "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/665ff98194977a26ef5490e8/6ac9ceb8195d838e2aefa418/media.xyzcdn.net/665ff98194977a26ef5490e8/ljNWaL2ZEvKg4buA6goVo2_CBnD3.m4a",
     "durationSec": 833
-   }
-  },
-  "itunes_1753662430": {
-   "title": "乜東東．豎起耳仔窿 Cantonese Podcast for Kids - 廣東話-粵語-兒童聲音節目",
-   "author": "StorySwallow故事燕子",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/85/2b/06/852b066f-90d9-6bf6-8b8e-da1d64cde07f/0a0d3fbf-6635-4906-afae-460a9a26d5ac.jpg/600x600bb.jpg",
-   "feedUrl": "https://anchor.fm/s/f767b374/podcast/rss",
-   "lang": "zh-tw",
-   "explicit": false,
-   "category": "兒童與家庭",
-   "enclosureHost": "anchor.fm",
-   "itunesId": 1753662430,
-   "description": "廣東話兒童聲音節目 Cantonese Podcast for Kids\n\n～ 為 6–12歲小朋友而設嘅廣東話 Podcast\n～ 專題故仔、世界趣聞、故事劇場、IQ題、投稿分享\n～ 用潛移默化方式，學廣東話，練習聽力、擴闊粵語詞彙！\n\n--\n💬 小朋友聽完有嘢想分享嗎？歡迎錄音留言：https://www.speakpipe.com/Storyswallow\n\n⭐️ 如果你鐘意我哋嘅節目，請贊助我哋購買合法嘅音樂、音效素材，同創作的資源，幫助我哋持續推廣廣東話！ https://buymeacoffee.com/muggle.tingo.tango\n\n🌎 本節目義工來自全世界嘅廣東話社群，致力製作多元化且適合兒童收聽嘅內容。\n\n😉 其他意見及合作，請電郵台長信箱：storyswallow@gmail.com",
-   "latestEpisode": {
-    "title": "EP41 滿月光",
-    "date": "2026-09-29",
-    "enclosure": "https://anchor.fm/s/f767b374/podcast/play/126392488/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432780295-44100-2-84384b564b59e.m4a",
-    "durationSec": 1506
    }
   },
   "itunes_1757540827": {
@@ -3558,24 +3614,6 @@
     "durationSec": 1287
    }
   },
-  "itunes_1759121093": {
-   "title": "科學有媒有",
-   "author": "台灣科技媒體中心SMC",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/e2/87/dae28752-ee69-691e-cd01-1b9b07a4a4e6/mza_5492402941282840232.jpg/600x600bb.jpg",
-   "feedUrl": "https://feed.firstory.me/rss/user/clwg3zf99000v01xq97zh7ce5",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "新聞",
-   "enclosureHost": "m.cdn.firstory.me",
-   "itunesId": 1759121093,
-   "description": "本節目由非營利組織 台灣科技媒體中心（Science Media Center）製作。  我們認為，在科學、政策與社會的交界處，始終需要良好的溝通。  邀請你一起，關心對社會重要的科學傳播議題。  合作聯絡請寄信至：eunicelau@smctw.org   Powered by Firstory Hosting",
-   "latestEpisode": {
-    "title": "什麼是毒品減害？為何要減害？（訪談：感染科醫師 顧文瑋）｜S9E1",
-    "date": "2026-10-14",
-    "enclosure": "https://m.cdn.firstory.me/track/clwg3zf99000v01xq97zh7ce5/cmv663gvd00n001u76wg15qwx/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclwg3zf99000v01xq97zh7ce5%2Fcmv663gvd00n101u7e1ou5yu3.mp3?v=1791864947158",
-    "durationSec": 3052
-   }
-  },
   "itunes_1759522623": {
    "title": "后起之秀 Podcast",
    "author": "Wisdom Bread Media",
@@ -3606,10 +3644,28 @@
    "itunesId": 1762839601,
    "description": "歡迎來到『妞雜拉面』 妞（台灣妞）雜（雜談）拉（Lala）面（面白い・有趣好笑）  兩位女子的雜談，嘰哩呱啦什麼都想聊一聊，提供一個隨時輕鬆想聽就聽的歡樂平台🥳  主持人：台灣妞、Lala 頻道每週二更新🌟🌟🌟   歡迎來信投稿 💡Email：niulamen@gmail.com 💡Instagram：niulamen   Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "Ep113｜職業系列53_ 創業不是撐到底才叫成功？從啤酒屋收店到「雲製所」的重新開始 ft. Cloudy纖雲",
-    "date": "2026-10-13",
-    "enclosure": "https://m.cdn.firstory.me/track/clzm3j3ie0er001vo1bm32rcl/cmv5ibdt60al701vkgk5yhlro/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclzm3j3ie0er001vo1bm32rcl%2Fcmv5ibdt70al801vk8kug9s3l.mp3?v=1791904051616",
-    "durationSec": 2788
+    "title": "Ep114｜人生雜談52_生命靈數也能拿來做生意？AKI老師教你看懂員工、客人到底吃哪一套 ft.Aki老師",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/clzm3j3ie0er001vo1bm32rcl/cmvffr1r700ew01w06tgs6ya3/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclzm3j3ie0er001vo1bm32rcl%2Fcmvffr1r700ex01w04v49c2gr.mp3?v=1792425344227",
+    "durationSec": 2474
+   }
+  },
+  "itunes_1771248028": {
+   "title": "不吱声",
+   "author": "不吱声的三多",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/17/4b/99174bb0-ff64-4e06-1668-94a14cfb880b/mza_486936777968077276.jpg/600x600bb.jpg",
+   "feedUrl": "https://feed.xyzfm.space/kqvyjmed9pj9",
+   "lang": "zh-cn",
+   "explicit": false,
+   "category": "True Crime",
+   "enclosureHost": "dts-api.xiaoyuzhoufm.com",
+   "itunesId": 1771248028,
+   "description": "三多和望舒的秘密基地；\n认真分享真实罪案和悬疑故事的播客；\n感谢您的聆听与陪伴，感谢您的关注与支持；\n小红书搜索“不吱声的望舒”，看更多案件图文以及幕后制作花絮；\n加听友群/商务联系微信buzhisheng2024",
+   "latestEpisode": {
+    "title": "EP95.“世纪贼王”",
+    "date": "2026-10-19",
+    "enclosure": "https://dts-api.xiaoyuzhoufm.com/track/66c0594c0ed65f2e6940fb6e/6ad616b2285041df1c734219/media.xyzcdn.net/66c0594c0ed65f2e6940fb6e/lmzciJiZiqb1yJou7Y8by0ib37Ql.m4a",
+    "durationSec": 6883
    }
   },
   "itunes_1771401634": {
@@ -3646,24 +3702,6 @@
     "date": "2026-08-19",
     "enclosure": "https://rss.soundon.fm/rssf/eedbfada-a705-4e96-848b-debf3c21297a/feedurl/2697935b-6ad8-4d8b-9976-ae1581e55e4d/rssFileVip.mp3?timestamp=1787460215673",
     "durationSec": 3802
-   }
-  },
-  "itunes_1780695950": {
-   "title": "TJC 只見耶穌 青年團契 - Seeing Only Jesus Youth fellowship 真耶穌教會",
-   "author": "真耶穌教會臺灣總會宣道處",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/4f/93/324f93c6-c912-6b16-5417-dc518b762db6/mza_17412460355070303943.jpg/600x600bb.jpg",
-   "feedUrl": "https://feed.firstory.me/rss/user/cm3mco3z1000301xe0sy00zob",
-   "lang": "zh-Hant",
-   "explicit": false,
-   "category": "基督教",
-   "enclosureHost": "m.cdn.firstory.me",
-   "itunesId": 1780695950,
-   "description": "一個為TJC大專生、社會青年、一切有擔任服事 (教員等) 的同工所設計的節目，它也是個以「衛道」為主題的線上團契聚會  Powered by Firstory Hosting",
-   "latestEpisode": {
-    "title": "Ep 68. 沒房又沒車，新婚睡地下室硬床框？！他們婚後能幸福嗎？ ft. 聯總媒宣部部負責 周碩軍執事【 只見耶穌 青年團契 】婚姻停看聽",
-    "date": "2026-10-15",
-    "enclosure": "https://m.cdn.firstory.me/track/cm3mco3z1000301xe0sy00zob/cmuffps1q0g2o01uyaf2o4c62/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcm3mco3z1000301xe0sy00zob%2Fcmuffps1q0g2p01uy0nqbb658.mp3?v=1790248512393",
-    "durationSec": 2277
    }
   },
   "itunes_1791707604": {
@@ -3756,24 +3794,6 @@
     "durationSec": 2774
    }
   },
-  "itunes_1802612398": {
-   "title": "月经（粤语播客）",
-   "author": "过期罐头Eva",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/04/c2/9004c28b-7645-8119-4066-09e0d7bab51b/mza_11354681537500748282.jpeg/600x600bb.jpg",
-   "feedUrl": "https://www.ximalaya.com/album/87985138.xml",
-   "lang": "zh-cn",
-   "explicit": true,
-   "category": "影評",
-   "enclosureHost": "jt.ximalaya.com",
-   "itunesId": 1802612398,
-   "description": "这是一个女性的私密后花园。我们以40+的阅历为桥，用粤语的温度铺路，连接20岁的困惑、30岁的挣扎与50岁的通透。不谈大道理，只听真故事——关于身体、欲望、母职、衰老，那些在日光下难以言说的秘密。欢迎入座，在声音里遇见跨越代际的另一个自己。",
-   "latestEpisode": {
-    "title": "粤语 ▏原来最该上性教育课的，是我们这些做父母的！",
-    "date": "2026-08-18",
-    "enclosure": "https://jt.ximalaya.com//GKwRIJEOWNb3Ae6rHATIIXeY.m4a?channel=rss&album_id=87985138&track_id=1006933403&uid=221377529&jt=https://aod.cos.tx.xmcdn.com/storages/96e8-audiofreehighqps/3B/F4/GKwRIJEOWNb3Ae6rHATIIXeY.m4a",
-    "durationSec": 4004
-   }
-  },
   "itunes_1805017532": {
    "title": "懶人多口水（粵語-廣東話 香港人吹水）",
    "author": "保羅",
@@ -3858,10 +3878,10 @@
    "itunesId": 1825995899,
    "description": "「台灣永續圖鑑」Podcast，是由一系列 AI 技術輔助錄製而成。我們相信，透過科技的力量，能有效縮短永續發展與大眾之間的距離。更重要的是，台灣永續圖鑑也將透過 AI，精準地為您找到最符合需求的永續服務。這正是我們運用科技的初衷：讓每個人都能輕鬆參與永續未來，共同為地球盡一份心力。  立即加入「台灣永續圖鑑」專為台灣中小企業打造的永續轉型指南！面對價格不透明、溝通流程繁瑣、效益評估困難等挑戰，我們提供企業永續負責人一個高效、透明且值得信賴的永續採購平台。致力於用最輕鬆省時的方式，將艱澀的永續知識科普化，幫助您輕鬆理解並找到最適合的永續服務夥伴。讓永續發展不再是難題，而是企業成長的必經之路！  Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "台灣永續圖鑑 EP71：百億節能商機爆發！設備商與 ESCO 業者的 B2B 銷售破局法：透過 Netellus AI 第三方數據打破買賣信任高牆",
-    "date": "2026-10-13",
-    "enclosure": "https://m.cdn.firstory.me/track/cmcy6i5bq00bb01ubhlfm36v7/cmugmvfzk0rh001uyas7n2hby/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmcy6i5bq00bb01ubhlfm36v7%2Fcmugmvfzk0rh101uycnvo0euh.mp3?v=1790320982780",
-    "durationSec": 1140
+    "title": "台灣永續圖鑑 EP72：2026 能源週第一手觀察：賴總統宣示「二次能源轉型」，中小企業面對能源焦慮該「創能」還是「節能」",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/cmcy6i5bq00bb01ubhlfm36v7/cmvbv3ucy0f8x01xme9683w48/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmcy6i5bq00bb01ubhlfm36v7%2Fcmvbv3ucy0f8y01xmd4376mvo.mp3?v=1792209258911",
+    "durationSec": 1136
    }
   },
   "itunes_1826909797": {
@@ -3954,24 +3974,6 @@
     "durationSec": 4228
    }
   },
-  "itunes_1849852545": {
-   "title": "槓桿人生",
-   "author": "Ivan",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/fd/4b/fcfd4b22-e84d-b4f8-798e-870466832391/mza_14847960648451638381.jpeg/600x600bb.jpg",
-   "feedUrl": "https://feeds.soundon.fm/podcasts/be60afd6-2e14-4a0e-b054-2a6a02afd7aa.xml",
-   "lang": "zh",
-   "explicit": false,
-   "category": "投資",
-   "enclosureHost": "rss.soundon.fm",
-   "itunesId": 1849852545,
-   "description": "【槓桿人生】\n專為想提升財商與理財能力的一般人而設。\n會分享自己的投資思維、槓桿操作經驗與大盤指數觀察，\n也會聊生活中那些真實的大小事。\n只要具備正確的財商與心態，\n無論你是上班族、小資族，或剛起步的新手投資人，\n都能一步步打造屬於自己的自由人生。\n\n🎧 用槓桿放大報酬，用投資放大人生。\n————\n【支持槓桿人生】\n若覺得內容有幫助，歡迎加入會員（每月 25 元）支持長期創作：\n▸ https://www.youtube.com/channel/UCm9y7UOusDTjQ0rspg7NT5w/join\n(⚠️ 建議用 YouTube 網頁版加入，避免 Apple 平台額外抽成)\n———\n【延伸閱讀 / 播放清單】\n▸ 會員頻道公告：https://youtube.com/playlist?list=PLzbxiv_pz6bLQ_D9LV70Hrwd391p34Xn0\n▸ 股票質押全攻略：",
-   "latestEpisode": {
-    "title": "#51｜槓桿三階段：從不敢借、追求效率，到學會留白",
-    "date": "2026-10-16",
-    "enclosure": "https://rss.soundon.fm/rssf/be60afd6-2e14-4a0e-b054-2a6a02afd7aa/feedurl/8d713a8d-0f08-4cb1-bbb3-371985b091d9/rssFileVip.mp3?timestamp=1792129064942",
-    "durationSec": 2390
-   }
-  },
   "itunes_1854584999": {
    "title": "聽歌說故事 • 華語流行音樂｜TOSHI FM RADIO",
    "author": "TOSHI TYLER",
@@ -4058,7 +4060,7 @@
    "latestEpisode": {
     "title": "EP56 陳敏男弟兄與王恒娟姐妹訪談",
     "date": "2026-10-20",
-    "enclosure": "https://rss.soundon.fm/rssf/7b8bdcaf-7569-4874-ae5f-61ce54717530/feedurl/5dd8b1da-b5ca-4deb-9c1e-82177920258b/rssFileVip.mp3?timestamp=1792429907109",
+    "enclosure": "https://rss.soundon.fm/rssf/7b8bdcaf-7569-4874-ae5f-61ce54717530/feedurl/5dd8b1da-b5ca-4deb-9c1e-82177920258b/rssFileVip.mp3?timestamp=1792472368049",
     "durationSec": 3719
    }
   },
@@ -4110,10 +4112,10 @@
    "itunesId": 1877889954,
    "description": "《未完的案件》\n「未完」嘅定義可以好廣泛，可以係多年未被偵破嘅懸案；可以係進入咗司法程序，仍在審理嘅案件；甚至係已經發生咗，只係我哋亦都錯過咗嘅一啲真實故事。\n\n-不定時更新。\n-內容涉及敏感題材，未成年者需由家長陪同收聽。",
    "latestEpisode": {
-    "title": "#65 六本木金髮女郎失蹤案 The Lucie Blackman Case [RAW版]",
-    "date": "2026-10-15",
-    "enclosure": "https://anchor.fm/s/10f1139a0/podcast/play/127509011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F72abd037-e225-30ca-13b0-8e61d3481316.mp3",
-    "durationSec": 2028
+    "title": "#66 北愛爾蘭隱瞞18年雙殺案 Castlerock Murders [RAW版]",
+    "date": "2026-10-20",
+    "enclosure": "https://anchor.fm/s/10f1139a0/podcast/play/127764205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F9d1cb3da-e96e-0e5a-4dcc-dc78b25a9efa.mp3",
+    "durationSec": 1426
    }
   },
   "itunes_1878553596": {
@@ -4146,10 +4148,10 @@
    "itunesId": 1879020271,
    "description": "公視台語台新聞專題節目  在地起行、文化翻身 追求公義、關懷弱勢  【播出資訊】 📺公視台語台14頻道 週日 19：30 首播 📻Podcast週日、週一 18：00 首映 🖥️YouTube 週日、週一 20：00 首映  更多資訊都在🔽🔽🔽 台灣記事簿 YT： www.youtube.com/@taiwan.notebook 台灣記事簿 FB： facebook.com/Taiwannotebook 台灣記事簿 IG： instagram.com/taiwan.notebook    Powered by Firstory Hosting",
    "latestEpisode": {
-    "title": "還記得「糕仔封」？包辦宜蘭人一輩子的菜市場！返鄉青年如何玩出新生命？【少年阿公𤆬路 行入南北館看見宜蘭】2026.10.19 台灣記事簿",
-    "date": "2026-10-19",
-    "enclosure": "https://m.cdn.firstory.me/track/cmkovezdv0dt401wu6ggg4r9y/cmvafwcme03v001vfb9ll3afi/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmkovezdv0dt401wu6ggg4r9y%2Fcmvafwcme03v101vfdyjhc8po.mp3?v=1792123244891",
-    "durationSec": 695
+    "title": "還給凌波仙子一個天堂【爭一方水田】2021.02.19",
+    "date": "2026-10-20",
+    "enclosure": "https://m.cdn.firstory.me/track/cmkovezdv0dt401wu6ggg4r9y/cmvghgp2a035l01xr0d82bh92/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmkovezdv0dt401wu6ggg4r9y%2Fcmvghgp2a035m01xrbsxi2v89.mp3?v=1792488672029",
+    "durationSec": 918
    }
   },
   "itunes_1882271610": {
@@ -4200,10 +4202,10 @@
    "itunesId": 1886078040,
    "description": "这是一档“不用眼睛阅读”的图书共读播客。我们相信，深度思考不必正襟危坐。当视觉暂歇，耳朵便成为通往内心最直接的路径。每期节目，我们会选取一本好书，用声音为你拆解书中的核心脉络、思想精华与隐秘角落——不是浅尝辄止的速读，而是有观点、有分析、有延伸的深度解读。在这里，阅读从“逐字看过”变成“侧耳听进去”。通勤路上、家务间隙、入睡之前，让知识以更高的速率，悄然流入你的脑海。适合谁听？想读书但没时间静坐翻阅的你不满足于金句摘抄，渴望深度分析的你相信“听书不是替代阅读，而是另一种深读”的你一起把书读薄，把思想听厚。",
    "latestEpisode": {
-    "title": "218 海州家声：沈云沛的家族根基与早年人生底色",
-    "date": "2026-10-19",
-    "enclosure": "https://jt.ximalaya.com//GKwRIaIOqr1iANc8TgTrCWI0.m4a?channel=rss&album_id=118680594&track_id=1025261662&uid=103624402&jt=https://aod.cos.tx.xmcdn.com/storages/138f-audiofreehighqps/83/B0/GKwRIaIOqr1iANc8TgTrCWI0.m4a",
-    "durationSec": 1742
+    "title": "219 吴兴望族迁海州，沈氏家族的百年浮沉",
+    "date": "2026-10-20",
+    "enclosure": "https://jt.ximalaya.com//GKwRIMAOqr1FANbG1QTrCVme.m4a?channel=rss&album_id=118680594&track_id=1025261669&uid=103624402&jt=https://aod.cos.tx.xmcdn.com/storages/6904-audiofreehighqps/62/7F/GKwRIMAOqr1FANbG1QTrCVme.m4a",
+    "durationSec": 1738
    }
   },
   "itunes_1887560361": {
@@ -4254,10 +4256,10 @@
    "itunesId": 1895661416,
    "description": "廣東話",
    "latestEpisode": {
-    "title": "Ep1669-林超英唔開冷氣，憑咩你要跟？《邏輯急症室》第三集丨作者 Warren Chan丨陳老C丨廣東話",
-    "date": "2026-10-19",
-    "enclosure": "https://anchor.fm/s/f6370248/podcast/play/127657162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fe7a5aec3-cc30-e87d-53e5-d09a02ffc23c.mp3",
-    "durationSec": 3089
+    "title": "Ep1670-《走進犯罪頭腦》殺人犯，真的覺得自己沒錯？Inside the Criminal Mind丨作者Stanton E Samenow丨陳老C丨廣東話",
+    "date": "2026-10-21",
+    "enclosure": "https://anchor.fm/s/f6370248/podcast/play/127774554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F69f115c6-408e-ea7b-3d76-3e2322c0efa0.mp3",
+    "durationSec": 3523
    }
   },
   "itunes_1895702200": {
@@ -4274,7 +4276,7 @@
    "latestEpisode": {
     "title": "EP25 改編《西遊記》故事涉抄襲、國會議事有服裝規定嗎？｜【台灣聊什麼】",
     "date": "2026-10-19",
-    "enclosure": "https://rss.soundon.fm/rssf/11b0f9cf-1b2e-4796-81d2-f668f5673abd/feedurl/a08215f6-1397-4758-a772-351c11ca980c/rssFileVip.mp3?timestamp=1792388334119",
+    "enclosure": "https://rss.soundon.fm/rssf/11b0f9cf-1b2e-4796-81d2-f668f5673abd/feedurl/a08215f6-1397-4758-a772-351c11ca980c/rssFileVip.mp3?timestamp=1792469454428",
     "durationSec": 2739
    }
   },
@@ -4440,22 +4442,22 @@
     "durationSec": 1481
    }
   },
-  "itunes_6784289496": {
-   "title": "巴蓬寺住持馬來西亞開示中譯版",
-   "author": "Ajahn Ajito阿旃阿耆多比丘",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/c6/d5/cf/c6d5cf51-9404-d5c5-f26d-23c5cbb7af0f/947ea53a-fbe3-42c3-81b4-9c1c358391f3.jpeg/600x600bb.jpg",
-   "feedUrl": "https://anchor.fm/s/114359264/podcast/rss",
-   "lang": "zh-tw",
+  "itunes_6792988651": {
+   "title": "故事請轉彎",
+   "author": "甩尾阿姨",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/85/b8/4485b806-23af-8d50-c025-ba287e9bcb4d/mza_16252217006180612997.jpeg/600x600bb.jpg",
+   "feedUrl": "https://feeds.soundon.fm/podcasts/18bc7047-c3ca-480e-920f-66389b378195.xml",
+   "lang": "zh",
    "explicit": false,
-   "category": "Buddhism",
-   "enclosureHost": "anchor.fm",
-   "itunesId": 6784289496,
-   "description": "龍補練長老在吉隆坡的阿旃查紀念會開示，中文口譯錄製版",
+   "category": "兒童與家庭",
+   "enclosureHost": "rss.soundon.fm",
+   "itunesId": 6792988651,
+   "description": "歡迎來到《故事請轉彎》！\n\n❗️甩尾阿姨是搖滾風格，建議睡前請勿服用🤣\n\n🪄想要有 好心情+學習成語+創意思考 請快上車🚗\n\n這裡不只是說故事，而是帶你一起探索故事裡那些意想不到的轉彎。\n\n古老成語、民間傳說、歷史小故事，經過重新改編與幽默演繹，讓熟悉的故事變得更有趣、更貼近生活。\n\n每一集都有一段旅程、一個角色、一個令人會心一笑的轉折。\n準備好繫上安全帶了嗎？讓我們一起在故事的道路上，隨時轉彎，發現不一樣的精彩！\n\n🎧《故事請轉彎》——故事不一定照原路走，轉個彎，可能更好玩。\n✉️聯絡信箱：storyturn4521@gmail.com\n\n\n--\nHosting provided by SoundOn",
    "latestEpisode": {
-    "title": "巴蓬寺住持龍補練長老開示",
-    "date": "2026-06-25",
-    "enclosure": "https://anchor.fm/s/114359264/podcast/play/121979290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-25%2F47596cf7-f0d7-d461-49b3-17195a9acda8.mp3",
-    "durationSec": 1113
+    "title": "《故事請轉彎》EP11｜盲人摸象：大象到底是什麼？摸到我想吃麻糬",
+    "date": "2026-10-17",
+    "enclosure": "https://rss.soundon.fm/rssf/18bc7047-c3ca-480e-920f-66389b378195/feedurl/89ef56c9-bed1-4cfe-8d7b-65f36c3ffe3a/rssFileVip.mp3?timestamp=1792501292172",
+    "durationSec": 668
    }
   },
   "itunes_6796397486": {
@@ -4470,10 +4472,10 @@
    "itunesId": 6796397486,
    "description": "Cantonese True Crime Podcast !!!\n夜貓謎蹤係一個 廣東話 真實案件 channel !!!\n\n我會同大家分享全球真實案件（True Crime）、離奇懸案命案的廣東話頻道。你哋嘅支持就係我最大嘅動力。😎\n\n若果想支持我，You may support the channel with a coffee ☕🥰\n☕buymeacoffee.com/NightCatMystery\n🌳linktr.ee/nightcatmystery",
    "latestEpisode": {
-    "title": "法醫失誤放生兇手，令兩人無辜喪命｜Camden Ripper Anthony Hardy | 夜貓謎蹤 Ep016",
-    "date": "2026-10-14",
-    "enclosure": "https://anchor.fm/s/1156b0074/podcast/play/127462648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434152643-44100-2-4b3b1a5d0ab8c.m4a",
-    "durationSec": 771
+    "title": "斷肢生還者嘅極限反擊：我冇咗對手，但我個腦仲喺度 | Mary Vincent | 夜貓謎蹤 Ep017",
+    "date": "2026-10-19",
+    "enclosure": "https://anchor.fm/s/1156b0074/podcast/play/127703754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434476771-44100-2-126142888b9e2.m4a",
+    "durationSec": 788
    }
   },
   "itunes_6797926300": {
@@ -4710,6 +4712,24 @@
     "durationSec": 2330
    }
   },
+  "itunes_6824495880": {
+   "title": "恭心計",
+   "author": "恭心 Kungsum",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0b/0e/1e/0b0e1e26-5b48-2ef3-1652-cc1341667369/mza_17369799781702200642.jpg/600x600bb.jpg",
+   "feedUrl": "https://anchor.fm/s/118c4a770/podcast/rss",
+   "lang": "zh-tw",
+   "explicit": false,
+   "category": "新聞評述",
+   "enclosureHost": "anchor.fm",
+   "itunesId": 6824495880,
+   "description": "在法國長大巴黎生活的港女恭心，每一集從一則發生在歐洲的事件出發，慢慢拆解新聞背後的人性、文化與價值觀，看看法國人如何看待這個世界，也重新審視我們自己。",
+   "latestEpisode": {
+    "title": "法國高中生為何要封鎖學校？我作為法國港人怎麼看",
+    "date": "2026-10-19",
+    "enclosure": "https://anchor.fm/s/118c4a770/podcast/play/127714738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434492238-44100-2-688c7fcc50384.mp3",
+    "durationSec": 2194
+   }
+  },
   "itunes_806088685": {
    "title": "成长你我他",
    "author": "华语环球广播",
@@ -4770,10 +4790,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/cibs_we_broadcast/programme_photo.jpeg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/cibs_we_broadcast.json",
-   "episodeCount": 252,
+   "episodeCount": 253,
    "latestEpisode": {
-    "title": "《殘疾人士生活的13度光譜》第4集 / 《移植 [新] 突破》第4集",
-    "date": "2026-10-20"
+    "title": "《從不孤單．「同創」照顧新里程》第4集 /《體適能與您》第4集",
+    "date": "2026-10-21"
    }
   },
   "rthk_radio1_whatsupbro": {
@@ -4845,10 +4865,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/Moneyprogram/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/Moneyprogram.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "假日專訪：永時資本葉耘開談家族傳承與家辦部署　及早歷練助下一代接班/科大信和百萬創業大賽　產學研推動深科技成果轉化",
-    "date": "2026-10-19"
+    "title": "姚浩然：滙控(5)下挫、騰訊(700)等多隻股份創52周新低/張益祖：寧德時代(3750)績前捱沽、AI概念股受壓/投資多面睇：溫傑：Roadster飛天跑車難撐估值、Tesla與SpaceX合併憧憬/盧楚仁：美國財赤惡化、執政黨難勝出中期選舉",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_chinese_revival_new_trends": {
@@ -4862,7 +4882,7 @@
    "episodesUrl": "{replayBase}/prog/radio1/chinese_revival_new_trends.json",
    "episodeCount": 38,
    "latestEpisode": {
-    "title": "智利",
+    "title": "匈牙利",
     "date": "2026-10-18"
    }
   },
@@ -4890,10 +4910,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/6oclocknews.json",
-   "episodeCount": 352,
+   "episodeCount": 353,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_sport4life": {
@@ -4905,10 +4925,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/sport4life/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/sport4life.json",
-   "episodeCount": 222,
+   "episodeCount": 223,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "「香港田徑公開賽2026」男子100米冠軍刁俊稀談傷患與成長 / 【熱血最強．港隊進擊亞殘運會】︰焦瑾珊在女子乒乓球7級單打決賽落敗摘下銀牌",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_18heartfeltvibes": {
@@ -4920,10 +4940,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/18heartfeltvibes/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/18heartfeltvibes.json",
-   "episodeCount": 246,
+   "episodeCount": 247,
    "latestEpisode": {
-    "title": "十八好時光（林詠雯、李漫芬、伍文生）",
-    "date": "2026-10-19"
+    "title": "十八好時光（區凱聲、李漫芬、伍文生）",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_World_in_a_Nutshell": {
@@ -4950,10 +4970,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/HK2000/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/HK2000.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "10月19日 四間巴士公司申請加價 整體加幅8.1%至17.7%／皇崗口岸最高峰時段一小時9728人次離境 較過往升9倍",
-    "date": "2026-10-19"
+    "title": "10月20日 APEC財長會一連兩日在香港舉行",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_12oclocknews": {
@@ -4965,10 +4985,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/12oclocknews.json",
-   "episodeCount": 354,
+   "episodeCount": 355,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_People": {
@@ -5057,7 +5077,7 @@
    "episodesUrl": "{replayBase}/prog/radio1/halls_of_knowledge.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "善行與香火 - 廣福祠的一百七十年 (上) / 講者: 梁中杰（東華三院高級經理（廟宇及文化服務））",
     "date": "2026-10-18"
    }
   },
@@ -5085,10 +5105,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/sound_of_nature/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/sound_of_nature.json",
-   "episodeCount": 303,
+   "episodeCount": 304,
    "latestEpisode": {
-    "title": "野外貓科動物 (精華版)  / Harpy Tuesday 弦動星期二 嘉賓：豎琴療癒師 李嘉雯",
-    "date": "2026-10-20"
+    "title": "",
+    "date": "2026-10-21"
    }
   },
   "rthk_radio1_underthesun": {
@@ -5102,7 +5122,7 @@
    "episodesUrl": "{replayBase}/prog/radio1/underthesun.json",
    "episodeCount": 49,
    "latestEpisode": {
-    "title": "",
+    "title": "進食塑膠廢料的黃粉蟲",
     "date": "2026-10-18"
    }
   },
@@ -5115,10 +5135,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/seesaw/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/seesaw.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "守下留情星期二:  阿一x V x 拔絲 嘉賓: 吳海昕",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_YesWeCan": {
@@ -5177,7 +5197,7 @@
    "episodesUrl": "{replayBase}/prog/radio1/accountability.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "新皇崗口岸開通 / 保安局局長鄧炳強",
     "date": "2026-10-17"
    }
   },
@@ -5190,10 +5210,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/itsahappyday/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/itsahappyday.json",
-   "episodeCount": 243,
+   "episodeCount": 244,
    "latestEpisode": {
-    "title": "是日快樂：是日標題黨 / 本周關鍵詞： Solo travel 獨遊",
-    "date": "2026-10-19"
+    "title": "是日快樂：是日標題黨 / 穿越吖唔該：2002年",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_eveningnews": {
@@ -5205,10 +5225,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/eveningnews.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_hktoday": {
@@ -5220,10 +5240,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hktoday/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/hktoday.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_reading_by_moonlight": {
@@ -5265,10 +5285,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/fresh_morning/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/fresh_morning.json",
-   "episodeCount": 303,
+   "episodeCount": 304,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio1_news_about_rthk": {
@@ -5295,10 +5315,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/yolo/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/yolo.json",
-   "episodeCount": 222,
+   "episodeCount": 223,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_investment_era": {
@@ -5340,10 +5360,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/healthpedia.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
-    "title": "(主持：葉韻怡、虞逸峯) 突發性失聰 / 女性更年期潮熱",
-    "date": "2026-10-19"
+    "title": "(主持： 鄭萃雯、虞逸峯) 膀胱過度活躍症 / 肺炎到底有幾多種？",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_talent_exchange": {
@@ -5370,10 +5390,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/openline_openview/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/openline_openview.json",
-   "episodeCount": 232,
+   "episodeCount": 233,
    "latestEpisode": {
-    "title": "機電署巡查發現逾150幢由臺日安裝升降機私人樓宇無裝門框組件",
-    "date": "2026-10-19"
+    "title": "「發展旅遊熱點工作組」公布第二階段「香港工業品牌旅遊」項目",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_hkfootpath": {
@@ -5445,10 +5465,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/Free_as_the_wind/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/Free_as_the_wind.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "狼和人",
-    "date": "2026-10-19"
+    "title": "香港戲院史",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio1_free_as_the_wind_sunday": {
@@ -5475,10 +5495,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/those_were_the_days/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/those_were_the_days.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio1_CareForDisabled": {
@@ -5520,10 +5540,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/Hongkongstory/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio1/Hongkongstory.json",
-   "episodeCount": 252,
+   "episodeCount": 253,
    "latestEpisode": {
-    "title": "男女方程式(第一集)",
-    "date": "2026-10-20"
+    "title": "男女方程式(第二集)",
+    "date": "2026-10-21"
    }
   },
   "rthk_radio1_nitechat_withdrhau": {
@@ -5655,10 +5675,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/reunion/419_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/reunion.json",
-   "episodeCount": 50,
+   "episodeCount": 51,
    "latestEpisode": {
-    "title": "嘉賓﹕吳大強、占士丁丁",
-    "date": "2026-10-11"
+    "title": "嘉賓﹕Anders Nelson",
+    "date": "2026-10-18"
    }
   },
   "rthk_radio2_albertau": {
@@ -5670,10 +5690,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/albertau/5229_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/albertau.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_beautifulsunday": {
@@ -5715,10 +5735,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/madeinhk/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/madeinhk.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_musicangel": {
@@ -5775,10 +5795,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/threesacrowd/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/threesacrowd.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "廣播道大王:重陽節 + 圍爐廢噏 - 天頤 + 梓豪小小說 + 《西西柯弗斯》余常滿篇 EP7 Managers生日",
-    "date": "2026-10-19"
+    "title": "星期二...靈靈異...聽眾Sam - 日本二手事故車之麻煩...",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_chinesepopchart": {
@@ -5850,10 +5870,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/ladiesnight/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/ladiesnight.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_agent_alex": {
@@ -5910,10 +5930,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/subtle_sensuality/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/subtle_sensuality.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_morningsuite": {
@@ -5925,10 +5945,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/morningsuite/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/morningsuite.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_tailwithlove": {
@@ -5942,7 +5962,7 @@
    "episodesUrl": "{replayBase}/prog/radio2/tailwithlove.json",
    "episodeCount": 29,
    "latestEpisode": {
-    "title": "",
+    "title": "嘉賓﹕寵物主人Jenus、Ruby",
     "date": "2026-10-18"
    }
   },
@@ -6030,10 +6050,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/crazyandhappy/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/crazyandhappy.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_KnowledgeCo": {
@@ -6120,10 +6140,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/keepuco/407_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/keepuco.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio2_inside_the_cosmos": {
@@ -6180,10 +6200,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/musiclife/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/musiclife.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_musiclover": {
@@ -6195,10 +6215,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/musiclover/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/musiclover.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_musicunbound": {
@@ -6225,10 +6245,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/letthemusicspeak/9122_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/letthemusicspeak.json",
-   "episodeCount": 252,
+   "episodeCount": 253,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio2_music_companion": {
@@ -6255,10 +6275,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio2/musicinaction/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio2/musicinaction.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "〈音樂桑拿〉本週主題：象徵未來的BOSSA NOVA ｜彬臣Monday Blues",
-    "date": "2026-10-19"
+    "title": "衛蘭訪問 ︳「衛蘭見真情」︳現階段嘗試自己獨立發展，所以希望搵到啱自己嘅 A&R~",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio2_Teenschoice": {
@@ -6345,10 +6365,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/after_hours/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/after_hours.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_backchat": {
@@ -6360,10 +6380,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/backchat/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/backchat.json",
-   "episodeCount": 229,
+   "episodeCount": 230,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "Northern Metropolis industral progress / Women excellence in business world",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_brunch": {
@@ -6375,10 +6395,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/brunch/12454_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/brunch.json",
-   "episodeCount": 144,
+   "episodeCount": 145,
    "latestEpisode": {
-    "title": "Louis and Emily Polson - Asian Games medal-winning sailors / Check In at 11: Pia Wong / Sonia Vashi Chandiramani - Cancer awareness",
-    "date": "2026-10-16"
+    "title": "Dr Nikki Lee - Midlife women’s health /  The Bright Side - Raphael Blet",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_dannylau": {
@@ -6405,10 +6425,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/earlyam.json",
-   "episodeCount": 196,
+   "episodeCount": 197,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio3_kinda_sunday": {
@@ -6495,10 +6515,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/hongkongtoday/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/hongkongtoday.json",
-   "episodeCount": 236,
+   "episodeCount": 237,
    "latestEpisode": {
-    "title": "Friday",
-    "date": "2026-10-16"
+    "title": "Tuesday",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_common_room": {
@@ -6510,10 +6530,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/common_room/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/common_room.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "Open Space - Lok Sin Tong Ku Chiu Man Secondary School (last saved programme)",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_money_talk": {
@@ -6525,10 +6545,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/money_talk/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/money_talk.json",
-   "episodeCount": 249,
+   "episodeCount": 250,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_nsa": {
@@ -6555,10 +6575,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/newsateleven.json",
-   "episodeCount": 323,
+   "episodeCount": 324,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_newsatone": {
@@ -6570,10 +6590,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/newsatone/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/newsatone.json",
-   "episodeCount": 351,
+   "episodeCount": 352,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_newswrap": {
@@ -6585,10 +6605,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/newswrap.json",
-   "episodeCount": 236,
+   "episodeCount": 237,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-16"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_nightmusic": {
@@ -6600,10 +6620,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/nightmusic/512_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/nightmusic.json",
-   "episodeCount": 354,
+   "episodeCount": 355,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio3_philkongers": {
@@ -6750,10 +6770,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/stevejames/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/stevejames.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_sunearlyshow": {
@@ -6795,10 +6815,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/sunsetsounds_simonwillson/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/sunsetsounds_simonwillson.json",
-   "episodeCount": 236,
+   "episodeCount": 237,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-16"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_thatsanidea": {
@@ -6825,10 +6845,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/thebrew/10133_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/thebrew.json",
-   "episodeCount": 249,
+   "episodeCount": 250,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "Morris Miselowski - Live from Melbourne /  Jarrod Watt - Aussie news and views",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_the_close": {
@@ -6840,10 +6860,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio3/the_close/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio3/the_close.json",
-   "episodeCount": 236,
+   "episodeCount": 237,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-16"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio3_latestandgreatest": {
@@ -7095,10 +7115,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/ArtsNews/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/ArtsNews.json",
-   "episodeCount": 249,
+   "episodeCount": 250,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "香港芭蕾舞團：《敦煌：溯光行》（評論：陳瑋鑫）",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_Aubade": {
@@ -7157,7 +7177,7 @@
    "episodesUrl": "{replayBase}/prog/radio4/Cantilena.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "Cantilena 自投羅網 / Guests: Ron Tse, Colleen Lee, Julie Kuok",
     "date": "2026-10-17"
    }
   },
@@ -7215,10 +7235,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/concerton4rpt/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/concerton4rpt.json",
-   "episodeCount": 200,
+   "episodeCount": 201,
    "latestEpisode": {
-    "title": "Wong On-yuen and Windpipe Chinese Music Ensemble: The Echoes of Origin and Fate",
-    "date": "2026-10-16"
+    "title": "Concerto Copenhagen: Eine Kleine Festmusik",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_concerton4": {
@@ -7230,10 +7250,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/concerton4/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/concerton4.json",
-   "episodeCount": 302,
+   "episodeCount": 303,
    "latestEpisode": {
-    "title": "Staatskapelle Dresden: Thomas Guggeis and Augustin Hadelich",
-    "date": "2026-10-19"
+    "title": "Wigmore Hall 125th Anniversary Festival: Belcea Quartet and Tabea Zimmermann",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_delightinabite": {
@@ -7245,10 +7265,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/delightinabite/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/delightinabite.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_firstnotes": {
@@ -7260,10 +7280,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/firstnotes/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/firstnotes.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "First Notes 由聆開始 / First Notes Connect: Sean Shibe",
-    "date": "2026-10-19"
+    "title": "",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_jazzingup_r": {
@@ -7350,10 +7370,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/musicfromchina_r/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/musicfromchina_r.json",
-   "episodeCount": 50,
+   "episodeCount": 51,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-13"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_MusicfromChina": {
@@ -7395,10 +7415,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/nightmusic/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/nightmusic.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio4_nocturne": {
@@ -7410,10 +7430,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/nocturne/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/nocturne.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_NonstopClassics": {
@@ -7425,10 +7445,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/NonstopClassics/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/NonstopClassics.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_onebeltoneroadcentralasia_r": {
@@ -7500,10 +7520,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/Reflection/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/Reflection.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_saturdaymorningon4": {
@@ -7530,10 +7550,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/simplyclassical/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/simplyclassical.json",
-   "episodeCount": 254,
+   "episodeCount": 255,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_sundaydivertimento": {
@@ -7575,10 +7595,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio4/sunsetmusicdiary/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio4/sunsetmusicdiary.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio4_theclassicalandthecurious": {
@@ -7800,10 +7820,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/6oclocknews.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_what_a_cozy_evening": {
@@ -7815,10 +7835,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/what_a_cozy_evening/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/what_a_cozy_evening.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "優閒安多Fun - 星期一 : 活力動起來",
-    "date": "2026-10-19"
+    "title": "優閒安多Fun - 星期二 : 一起閱讀",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_chinese_music": {
@@ -7860,10 +7880,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/goodpost/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/goodpost.json",
-   "episodeCount": 50,
+   "episodeCount": 51,
    "latestEpisode": {
-    "title": "保良局 ── 風雨同路的告別",
-    "date": "2026-10-13"
+    "title": "樂善堂 ── 有需要護老者服務",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_oh_kei_songs": {
@@ -7905,10 +7925,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/study_hard/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/study_hard.json",
-   "episodeCount": 50,
+   "episodeCount": 51,
    "latestEpisode": {
-    "title": "奮發時刻 ＃DSE JUPAS 課程巡禮 香港浸會大學 / 課外活動研究會: 保良局莊啟程預科書院 流行樂隊",
-    "date": "2026-10-13"
+    "title": "奮發時刻 ＃DSE JUPAS 課程巡禮 香港理工大學 / 課外活動研究會: 保良局朱敬文中學 手綿球隊",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_bigbrothersong": {
@@ -7937,7 +7957,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/culture_5000years.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "#761 張作霖執政",
     "date": "2026-10-17"
    }
   },
@@ -7952,7 +7972,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/wisdom_of_the_chinese_classics.json",
    "episodeCount": 3,
    "latestEpisode": {
-    "title": "",
+    "title": "#3 孟子與告子之辯 (1)",
     "date": "2026-10-17"
    }
   },
@@ -7982,7 +8002,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/encyclopedia_for_all.json",
    "episodeCount": 26,
    "latestEpisode": {
-    "title": "",
+    "title": "南音與廣東民間生活 (二)",
     "date": "2026-10-17"
    }
   },
@@ -7997,7 +8017,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/echoes_of_the_great_wall.json",
    "episodeCount": 8,
    "latestEpisode": {
-    "title": "",
+    "title": "#8 廣東的開發 / 醋起源的傳說 / 中國的鏡子",
     "date": "2026-10-17"
    }
   },
@@ -8040,10 +8060,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/tconight/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/tconight.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_tco": {
@@ -8055,10 +8075,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/tco/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/tco.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_heart_to_class": {
@@ -8100,10 +8120,10 @@
    "artwork": "",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/eveningnews.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_hktoday": {
@@ -8115,10 +8135,10 @@
    "artwork": "https://programme.rthk.hk/assets/images/rthk/radio1/hktoday/programme_photo_m.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/hktoday.json",
-   "episodeCount": 302,
+   "episodeCount": 303,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_standbyme_2011": {
@@ -8130,10 +8150,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/standbyme_2011/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/standbyme_2011.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_music_of_my_life": {
@@ -8175,10 +8195,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/hellosunrise/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/hellosunrise.json",
-   "episodeCount": 305,
+   "episodeCount": 306,
    "latestEpisode": {
-    "title": "「健健康康在清晨」主題:   中醫養生金句之身體異樣釋疑篇 ( 52 )   內容 ---慢性疲勞綜合徵（3）   介紹：補氣壯陽湯   功效：健脾補氣、温腎壯陽",
-    "date": "2026-10-20"
+    "title": "「健健康康在清晨」主題:   伸展運動的益處",
+    "date": "2026-10-21"
    }
   },
   "rthk_radio5_greater_bay_area_tco": {
@@ -8237,7 +8257,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/teensforgreen.json",
    "episodeCount": 50,
    "latestEpisode": {
-    "title": "",
+    "title": "#110 未來甜品 | 嘉賓：陳心渝 、張舒涵、馮嘉晴、楊冬倪（沙田培英中學）",
     "date": "2026-10-16"
    }
   },
@@ -8252,7 +8272,7 @@
    "episodesUrl": "{replayBase}/prog/radio5/green_fighting.json",
    "episodeCount": 50,
    "latestEpisode": {
-    "title": "",
+    "title": "過份珍惜也是浪費",
     "date": "2026-10-15"
    }
   },
@@ -8325,10 +8345,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/relax_morning/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/relax_morning.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_lifeabu": {
@@ -8355,10 +8375,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/tcoexcitingnight/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/tcoexcitingnight.json",
-   "episodeCount": 303,
+   "episodeCount": 304,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_radio5_elderly_storyofarcha": {
@@ -8400,10 +8420,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/radio5/elderly/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/radio5/elderly.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "《健康好醫時》大家常說的「小中風」與真正的中風有甚麼分別？／《長者道路安全123》",
-    "date": "2026-10-19"
+    "title": "《埋嚟介紹翻》香薰治療可以點樣幫助照顧者？／《長者道路安全123》",
+    "date": "2026-10-20"
    }
   },
   "rthk_radio5_chinesefable": {
@@ -8535,10 +8555,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/2022morningnewsfinance/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/2022morningnewsfinance.json",
-   "episodeCount": 240,
+   "episodeCount": 241,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-16"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_2020beautifulsunday": {
@@ -8700,10 +8720,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/p2390_carers_are_not_alone/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/p2390_carers_are_not_alone.json",
-   "episodeCount": 3,
+   "episodeCount": 4,
    "latestEpisode": {
-    "title": "第3集 : 復康人士照顧者面對情況",
-    "date": "2026-10-13"
+    "title": "第4集 : 被忽略的一群-兒童照顧者",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_g1664_spectrum_of_life": {
@@ -8805,10 +8825,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/g1690_physical_fitness_and_u/programme_photo.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/g1690_physical_fitness_and_u.json",
-   "episodeCount": 3,
+   "episodeCount": 4,
    "latestEpisode": {
-    "title": "第三集 體適能與社會，共建共融體適能",
-    "date": "2026-10-13"
+    "title": "第四集 運動處方：邁向健康老齡化的基石",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_p2424_classic_car_fever": {
@@ -8837,7 +8857,7 @@
    "episodesUrl": "{replayBase}/prog/pth/halojakarta_hellohongkong.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "Halo Jakarta! Hello Hong Kong! Ep137: 印尼語言發展與培育局局長 Hafidz Mukhsin - 印尼的“語言與文學月”",
     "date": "2026-10-18"
    }
   },
@@ -8865,10 +8885,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/uxiubang/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/uxiubang.json",
-   "episodeCount": 249,
+   "episodeCount": 250,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "U秀幫 -U秀歌",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_elitebunchsunday": {
@@ -8895,10 +8915,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/ezone2020/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/ezone2020.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "李根興、馮英傑、何啟俊：現金流主導鋪市成交，租金回報成關鍵！港股跌破2萬4，三季度能否改善？",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_2024shhk": {
@@ -8925,10 +8945,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/noonnews/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/noonnews.json",
-   "episodeCount": 250,
+   "episodeCount": 251,
    "latestEpisode": {
-    "title": "",
-    "date": "2026-10-19"
+    "title": "張健朗：市場氣氛雖差 但不乏入市機會！關注晶片、石油",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_2022dreamalittledream": {
@@ -8940,10 +8960,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/2022dreamalittledream/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/2022dreamalittledream.json",
-   "episodeCount": 201,
+   "episodeCount": 202,
    "latestEpisode": {
-    "title": "夜媽媽心裡話:梓瑜媽媽心裡話-讓游戲成爲高質量的陪伴",
-    "date": "2026-10-19"
+    "title": "夜媽媽心裡話:梓瑜媽媽心裡話-哪些親子游戲好玩？",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_2024youngmusic": {
@@ -8955,10 +8975,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/2024youngmusic/11184_115.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/2024youngmusic.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_2025youngmusicsun": {
@@ -9015,10 +9035,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/huantingshijie/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/huantingshijie.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
-    "title": "寰聽世界-寰遊劇場/寰球全接觸-新加坡連線",
-    "date": "2026-10-19"
+    "title": "寰聽世界-寰聽智趣/寰球全接觸-北京連線",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_newpeople": {
@@ -9045,10 +9065,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/xinzijingguangchang/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/xinzijingguangchang.json",
-   "episodeCount": 249,
+   "episodeCount": 250,
    "latestEpisode": {
-    "title": "楊子矜 麥尚中 郭家驊教授 吳倩瑩/「在梅窩，我找到了人生的方向 」/年紀越大，越容易患上糖尿病嗎？/社會熱點話題",
-    "date": "2026-10-19"
+    "title": "楊子矜 麥尚中 趙梓烽中醫師 關志康 陳杰醫生/心臟過慢何時需要治療？/蟑螂粉能代替蛋白粉嗎？/社會熱點話題",
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_wanjianxinwencaijing": {
@@ -9060,10 +9080,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/wanjianxinwencaijing/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/wanjianxinwencaijing.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_morningsuite": {
@@ -9075,10 +9095,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/morningsuite/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/morningsuite.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_schooltour": {
@@ -9090,10 +9110,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/schooltour/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/schooltour.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_MoonlightDejavu1": {
@@ -9105,10 +9125,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/MoonlightDejavu1/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/MoonlightDejavu1.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_musicuniverse": {
@@ -9122,7 +9142,7 @@
    "episodesUrl": "{replayBase}/prog/pth/musicuniverse.json",
    "episodeCount": 51,
    "latestEpisode": {
-    "title": "",
+    "title": "樂宇宙 HIFI宇宙 主題：HIFI觀察：傳統與革新的不同演繹——2026旗艦音箱的設計趨勢",
     "date": "2026-10-17"
    }
   },
@@ -9165,10 +9185,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/keepuco/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/keepuco.json",
-   "episodeCount": 353,
+   "episodeCount": 354,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
    }
   },
   "rthk_pth_2017musiclight": {
@@ -9195,10 +9215,10 @@
    "artwork": "https://webstatic.rthk.hk/oldassets/images/rthk/pth/yinyuebaobao/programme_photo_l.jpg",
    "active": true,
    "episodesUrl": "{replayBase}/prog/pth/yinyuebaobao.json",
-   "episodeCount": 251,
+   "episodeCount": 252,
    "latestEpisode": {
     "title": "",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
    }
   },
   "rthk_pth_greaterchina2018": {
