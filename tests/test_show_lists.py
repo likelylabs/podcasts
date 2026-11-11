@@ -96,6 +96,37 @@ class HarvestEpisodeList(unittest.TestCase):
         v = self.validate(rss(item("Late", "Wed, 11 Nov 2026 20:30:00 +0000")))
         self.assertEqual(v["_episodes"][0]["date"], "2026-11-12")
 
+    def test_malformed_older_item_url_is_dropped_not_raised(self):
+        # urlsplit raises "Invalid IPv6 URL" on this enclosure.
+        v = self.validate(rss(item("Good", recent(1), url="https://cdn.example.com/g.mp3"),
+                              item("Bad", recent(5), url="http://[bad/x.mp3"),
+                              item("Older", recent(9), url="https://cdn.example.com/o.mp3")))
+        self.assertTrue(v["ok"])
+        self.assertEqual([e["title"] for e in v["_episodes"]], ["Good", "Older"])
+
+    def test_out_of_range_older_pubdate_is_dropped_not_raised(self):
+        # Parses, but converting it to HKT / a timestamp overflows.
+        v = self.validate(rss(item("Good", recent(1), url="https://cdn.example.com/g.mp3"),
+                              item("Bad", "0001-01-01T00:00:00+09:00", url="https://cdn.example.com/b.mp3"),
+                              item("Older", recent(9), url="https://cdn.example.com/o.mp3")))
+        self.assertTrue(v["ok"])
+        self.assertEqual([e["title"] for e in v["_episodes"]], ["Good", "Older"])
+
+    def test_unexpected_exception_fails_only_that_feed(self):
+        class Boom:
+            def __init__(self, exc):
+                self.exc = exc
+
+            def get(self, url, **kw):
+                raise self.exc
+        v = harvest.safe_validate_feed(Boom(RuntimeError("x")), {"id": "itunes_1", "feedUrl": "https://f/rss"})
+        self.assertFalse(v["ok"])
+        self.assertTrue(v["error"].startswith("exception: RuntimeError"))
+        self.assertNotIn("_episodes", v)       # store_episode_list(None) keeps the last-good list
+        for exc in (common.BudgetExhausted("b"), common.CircuitOpen("c")):
+            with self.assertRaises(type(exc)):
+                harvest.safe_validate_feed(Boom(exc), {"id": "itunes_1", "feedUrl": "https://f/rss"})
+
     def test_unreachable_feed_keeps_last_good_list(self):
         v = self.validate(b"", status=-1)
         self.assertNotIn("_episodes", v)
@@ -194,6 +225,31 @@ class BuildShowLists(unittest.TestCase):
         self.assertEqual(doc["generatedAt"], "2026-11-13T04:00:00+08:00")
         self.assertEqual(doc["episodes"][0]["title"], "b")
 
+    def test_bad_stored_enclosure_drops_only_that_episode(self):
+        self.stored("itunes_1", [ep("a", "2026-11-11"),
+                                 {"title": "bad", "date": "2026-11-10", "enclosure": "http://[bad/x.mp3"},
+                                 ep("c", "2026-11-09")])
+        self.stored("itunes_2", [ep("b", "2026-11-10")])
+        self.build(["itunes_1", "itunes_2"])
+        self.assertEqual([e["title"] for e in self.read("itunes_1")["episodes"]], ["a", "c"])
+        self.assertEqual([e["title"] for e in self.read("itunes_2")["episodes"]], ["b"])
+
+    def test_one_show_raising_never_blocks_its_sibling(self):
+        self.stored("itunes_1", [ep("a", "2026-11-11")])
+        self.stored("itunes_2", [ep("b", "2026-11-10")])
+        real = build_catalog.build_show_list
+
+        def flaky(sid, stored, gen):
+            if sid == "itunes_1":
+                raise OSError("disk")
+            return real(sid, stored, gen)
+        build_catalog.build_show_list = flaky
+        try:
+            self.build(["itunes_1", "itunes_2"])
+        finally:
+            build_catalog.build_show_list = real
+        self.assertEqual(sorted(p.stem for p in self.out.glob("*.json")), ["itunes_2"])
+
     def test_ids_a_client_would_never_request_get_no_file(self):
         self.stored("bad.id", [ep("a", "2026-11-10")])
         self.build(["bad.id"])
@@ -222,6 +278,62 @@ class BuildShowLists(unittest.TestCase):
         self.assertEqual(schema["properties"]["episodes"]["maxItems"], common.SHOW_LIST_MAX)
         self.assertEqual(set(schema["properties"]["episodes"]["items"]["properties"]),
                          set(build_catalog.EPISODE_KEYS))
+
+
+class BuildCatalogMainShowListStep(unittest.TestCase):
+    """Once the gate has passed, index.json and search.json are always written,
+    whatever the show-list step does."""
+    PATCHED = ("INDEX_PATH", "SEARCH_PATH", "SHOWS_PATH", "CHARTS_DIR", "SEEDS_PATH", "BLOCKLIST_PATH",
+               "RTHK_PATH", "LAST_RUN_PATH", "EPISODES_DIR", "SHOW_DIR")
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        root = Path(self.tmp.name)
+        self.saved = {k: getattr(build_catalog, k) for k in self.PATCHED}
+        paths = {"INDEX_PATH": root / "index.json", "SEARCH_PATH": root / "search.json",
+                 "SHOWS_PATH": root / "data/shows.json", "CHARTS_DIR": root / "data/charts",
+                 "SEEDS_PATH": root / "seeds.yaml", "BLOCKLIST_PATH": root / "blocklist.yaml",
+                 "RTHK_PATH": root / "data/rthk.json", "LAST_RUN_PATH": root / "data/last-run.json",
+                 "EPISODES_DIR": root / "data/episodes", "SHOW_DIR": root / "show"}
+        for k, v in paths.items():
+            setattr(build_catalog, k, v)
+        self.paths = paths
+        paths["CHARTS_DIR"].mkdir(parents=True)
+        paths["EPISODES_DIR"].mkdir(parents=True)
+        today = common.now_hkt().date().isoformat()
+        pool = {"itunes_1": {"id": "itunes_1", "itunesId": 1, "feedUrl": "https://f.example.com/rss",
+                             "title": "節目", "markets": {"hk": {"seedShelves": ["curated"]}},
+                             "validation": {"checkedAt": today + "T04:00:00+08:00", "ok": True, "lang": "zh-hk",
+                                            "latestEpisode": {"title": "a", "date": today,
+                                                              "enclosure": "https://cdn.example.com/a.mp3"}}}}
+        paths["SHOWS_PATH"].write_text(json.dumps(pool), encoding="utf-8")
+        (paths["CHARTS_DIR"] / "hk.json").write_text(json.dumps({"seeds": ["itunes_1"]}), encoding="utf-8")
+        (paths["EPISODES_DIR"] / "itunes_1.json").write_text(
+            json.dumps({"episodes": [ep("a", today)]}), encoding="utf-8")
+
+    def tearDown(self):
+        for k, v in self.saved.items():
+            setattr(build_catalog, k, v)
+        self.tmp.cleanup()
+
+    def test_writes_index_search_and_show_lists(self):
+        self.assertEqual(build_catalog.main([]), 0)
+        self.assertIn("itunes_1", json.loads(self.paths["INDEX_PATH"].read_text(encoding="utf-8"))["shows"])
+        self.assertTrue(self.paths["SEARCH_PATH"].exists())
+        self.assertTrue((self.paths["SHOW_DIR"] / "itunes_1.json").exists())
+
+    def test_show_list_failure_still_writes_index_and_search(self):
+        real = build_catalog.write_show_lists
+
+        def boom(*a, **kw):
+            raise OSError("disk full")
+        build_catalog.write_show_lists = boom
+        try:
+            self.assertEqual(build_catalog.main([]), 0)
+        finally:
+            build_catalog.write_show_lists = real
+        self.assertIn("itunes_1", json.loads(self.paths["INDEX_PATH"].read_text(encoding="utf-8"))["shows"])
+        self.assertTrue(self.paths["SEARCH_PATH"].exists())
 
 
 class PagesDeployPublishesShowLists(unittest.TestCase):

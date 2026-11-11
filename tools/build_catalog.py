@@ -156,7 +156,10 @@ def episode_errors(ep):
         except ValueError:
             errs.append("date is not a calendar date")
     enc = ep.get("enclosure")
-    parts = urllib.parse.urlsplit(enc) if isinstance(enc, str) else None
+    try:
+        parts = urllib.parse.urlsplit(enc) if isinstance(enc, str) else None
+    except ValueError:   # e.g. "http://[bad/x.mp3" (Invalid IPv6 URL)
+        parts = None
     if not parts or parts.scheme not in ("http", "https") or not parts.netloc:
         errs.append("enclosure must be an absolute http(s) URL")
     if "durationSec" in ep and (type(ep["durationSec"]) is not int or ep["durationSec"] <= 0):
@@ -218,30 +221,41 @@ def write_show_lists(show_ids, generated_at, episodes_dir=EPISODES_DIR, out_dir=
     episodes_dir, out_dir = Path(episodes_dir), Path(out_dir)
     wanted = {}
     for sid in sorted(show_ids):
-        doc = build_show_list(sid, read_json(episodes_dir / f"{sid}.json"), generated_at)
-        if doc is None:
+        try:
+            doc = build_show_list(sid, read_json(episodes_dir / f"{sid}.json"), generated_at)
+            if doc is None:
+                continue
+            errs = show_list_errors(doc, sid)
+        except Exception as e:   # one show's bad data never blocks its siblings or the index
+            log(f"::warning::show/{sid}.json not built: {type(e).__name__}: {e}")
             continue
-        errs = show_list_errors(doc, sid)
         if errs:   # a build bug, not bad feed data — never block the index for it
             log(f"::warning::show/{sid}.json failed its schema and was not written: {errs[:3]}")
             continue
         wanted[sid] = doc
     out_dir.mkdir(parents=True, exist_ok=True)
     written = kept = removed = total = 0
-    for sid, doc in wanted.items():
+    for sid, doc in list(wanted.items()):
         path = out_dir / f"{sid}.json"
-        prev = read_json(path)
-        if (isinstance(prev, dict) and prev.get("episodes") == doc["episodes"]
-                and prev.get("catalogVersion") == doc["catalogVersion"] and not show_list_errors(prev, sid)):
-            kept += 1
-        else:
-            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-            written += 1
-        total += path.stat().st_size
+        try:
+            prev = read_json(path)
+            if (isinstance(prev, dict) and prev.get("episodes") == doc["episodes"]
+                    and prev.get("catalogVersion") == doc["catalogVersion"] and not show_list_errors(prev, sid)):
+                kept += 1
+            else:
+                path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+                written += 1
+            total += path.stat().st_size
+        except Exception as e:
+            log(f"::warning::show/{sid}.json not written: {type(e).__name__}: {e}")
+            wanted.pop(sid)   # a half-written file is pruned below rather than published
     for path in sorted(out_dir.glob("*.json")):
         if path.stem not in wanted:
-            path.unlink()
-            removed += 1
+            try:
+                path.unlink()
+                removed += 1
+            except OSError as e:
+                log(f"::warning::stale {path.name} not removed: {e}")
     return written, kept, removed, total
 
 
@@ -411,8 +425,11 @@ def main(argv=None):
     if len(index_blob.encode()) > INDEX_BUDGET_BYTES:
         log(f"::warning::index.json is {len(index_blob.encode()) // 1024} KB — over the {INDEX_BUDGET_BYTES // 1024} KB soft target")
     open_rss = [sid for sid, s in shows_out.items() if s.get("source") != "rthk"]
-    w, k, r, nbytes = write_show_lists(open_rss, index["generatedAt"])
-    log(f"show/: {w + k} lists ({w} written, {k} unchanged, {r} removed), {nbytes // 1024} KB")
+    try:   # the gate has passed: a show-list failure never blocks index.json / search.json
+        w, k, r, nbytes = write_show_lists(open_rss, index["generatedAt"], EPISODES_DIR, SHOW_DIR)
+        log(f"show/: {w + k} lists ({w} written, {k} unchanged, {r} removed), {nbytes // 1024} KB")
+    except Exception as e:
+        log(f"::warning::show/ lists not written this build: {type(e).__name__}: {e}")
     INDEX_PATH.write_text(index_blob + "\n", encoding="utf-8")
     SEARCH_PATH.write_text(blob + "\n", encoding="utf-8")
     log("index.json: " + ", ".join(f"{m}={[ (sh['id'], len(sh['shows'])) for sh in v['shelves'] ]}" for m, v in markets_out.items()))

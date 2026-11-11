@@ -271,14 +271,20 @@ def validate_feed(client, s):
             if guid:
                 latest["guid"] = guid
         if pub:
-            ep = episode_entry(it.findtext("title"), pub, enc.get("url"),
-                               parse_duration(it.findtext(itn + "duration")), guid)
-            if ep:
-                listed.append((pub, len(listed), ep))
+            # One malformed older item (an unparseable enclosure URL, a publish
+            # time at the edge of the calendar) drops that item from the list —
+            # it must never fail the feed, let alone the whole harvest.
+            try:
+                ep = episode_entry(it.findtext("title"), pub, enc.get("url"),
+                                   parse_duration(it.findtext(itn + "duration")), guid)
+                if ep:
+                    listed.append((-pub.timestamp(), len(listed), ep))
+            except (ValueError, OverflowError, OSError):
+                pass
     v["itemCount"] = n_audio
     # Our own per-show episode list (show/{showId}.json, PODCASTS.md / SR-04):
     # newest first by publish time, ties in feed order, metadata only, capped.
-    listed.sort(key=lambda t: (-t[0].timestamp(), t[1]))
+    listed.sort(key=lambda t: (t[0], t[1]))
     v["_episodes"] = [ep for _, _, ep in listed[:SHOW_LIST_MAX]]
     if n_audio == 0 or latest is None:
         v["error"] = "no audio enclosure with a date"
@@ -293,6 +299,20 @@ def validate_feed(client, s):
         return v
     v["ok"] = True
     return v
+
+
+def safe_validate_feed(client, s):
+    """validate_feed, but an unexpected exception from one feed becomes a failed
+    validation (no _episodes, so the last-good list is kept) instead of
+    aborting the harvest. The run-level aborts still propagate."""
+    try:
+        return validate_feed(client, s)
+    except (BudgetExhausted, CircuitOpen):
+        raise
+    except Exception as e:
+        log(f"::warning::{s.get('id', s.get('feedUrl'))}: validate_feed raised {type(e).__name__}: {e}")
+        return {"checkedAt": now_hkt().isoformat(timespec="seconds"), "ok": False,
+                "error": f"exception: {type(e).__name__}: {e}"[:300]}
 
 
 def store_episode_list(sid, episodes):
@@ -468,7 +488,7 @@ def main():
             log(f"== validating {len(todo)} feeds")
             ok = bad = 0
             for s in todo:
-                v = validate_feed(client, s)
+                v = safe_validate_feed(client, s)
                 store_episode_list(s["id"], v.pop("_episodes", None))
                 prev = s.get("validation") or {}
                 v["failStreak"] = 0 if v["ok"] else prev.get("failStreak", 0) + 1
