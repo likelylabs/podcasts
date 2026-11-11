@@ -16,16 +16,25 @@ keep ≥ MIN_TOP shows; the show pool must be ≥ 80% of last-good — a floor t
 relaxes as last-good ages so the gate cannot wedge itself shut, see
 effective_floor(); search.json must fit the size budget (RTHK episodes trimmed
 oldest-month-first).
+
+Also writes show/{showId}.json — our own copy of each open-RSS catalog show's
+newest SHOW_LIST_MAX episodes (metadata only: title, date, publisher enclosure
+URL, duration, guid), so a client whose publisher feed is unreachable (mainland
+China) still gets a list (SR-04; schema/show.schema.json). Written only when
+the gate passes; a show that leaves the catalog loses its file in the same run.
 """
 import argparse
 import datetime as dt
 import json
+import re
 import sys
+import urllib.parse
+from pathlib import Path
 
-from common import (BLOCKLIST_PATH, CATALOG_VERSION, CHARTS_DIR, INDEX_BUDGET_BYTES, INDEX_PATH,
-                    LAST_RUN_PATH, MARKETS, MAX_FAIL_STREAK, RTHK_PATH, SEARCH_BUDGET_BYTES,
-                    SEARCH_PATH, SEEDS_PATH, SHOWS_PATH, TOP_SHELF_SIZE, TOP_SHELF_ZH_ONLY,
-                    has_cjk, log, now_hkt, read_json, read_yaml)
+from common import (BLOCKLIST_PATH, CATALOG_VERSION, CHARTS_DIR, EPISODES_DIR, INDEX_BUDGET_BYTES,
+                    INDEX_PATH, LAST_RUN_PATH, MARKETS, MAX_FAIL_STREAK, RTHK_PATH, SEARCH_BUDGET_BYTES,
+                    SEARCH_PATH, SEEDS_PATH, SHOW_DIR, SHOW_ID_RE, SHOW_LIST_MAX, SHOWS_PATH,
+                    TOP_SHELF_SIZE, TOP_SHELF_ZH_ONLY, has_cjk, log, now_hkt, read_json, read_yaml)
 
 MIN_TOP = 10
 FLOOR_SHOWS = 0.80
@@ -118,8 +127,122 @@ def public_show(s):
         out["description"] = v["description"]
     le = v.get("latestEpisode")
     if le:
-        out["latestEpisode"] = {k: le[k] for k in ("title", "date", "enclosure", "durationSec") if le.get(k) is not None}
+        out["latestEpisode"] = {k: le[k] for k in ("title", "date", "enclosure", "durationSec", "guid") if le.get(k) is not None}
     return out
+
+
+# ---------------------------------------------------------------------------
+# show/{showId}.json (SR-04) — schema/show.schema.json
+# ---------------------------------------------------------------------------
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+GENERATED_AT_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}$")
+EPISODE_KEYS = ("title", "date", "enclosure", "durationSec", "guid")
+
+
+def episode_errors(ep):
+    """Schema check for one show/{showId}.json episode; [] when valid."""
+    if not isinstance(ep, dict):
+        return ["episode is not an object"]
+    errs = [f"unknown field {k!r}" for k in ep if k not in EPISODE_KEYS]
+    title = ep.get("title")
+    if not isinstance(title, str) or not title.strip() or title != title.strip():
+        errs.append("title must be a trimmed non-empty string")
+    date = ep.get("date")
+    if not isinstance(date, str) or not DATE_RE.match(date):
+        errs.append("date must be YYYY-MM-DD")
+    else:
+        try:
+            dt.date.fromisoformat(date)
+        except ValueError:
+            errs.append("date is not a calendar date")
+    enc = ep.get("enclosure")
+    parts = urllib.parse.urlsplit(enc) if isinstance(enc, str) else None
+    if not parts or parts.scheme not in ("http", "https") or not parts.netloc:
+        errs.append("enclosure must be an absolute http(s) URL")
+    if "durationSec" in ep and (type(ep["durationSec"]) is not int or ep["durationSec"] <= 0):
+        errs.append("durationSec must be an integer > 0")
+    if "guid" in ep and (not isinstance(ep["guid"], str) or not ep["guid"].strip()
+                         or ep["guid"] != ep["guid"].strip()):
+        errs.append("guid must be a trimmed non-empty string")
+    return errs
+
+
+def show_list_errors(doc, sid):
+    """Schema check for a whole show/{sid}.json document; [] when valid."""
+    if not isinstance(doc, dict):
+        return ["document is not an object"]
+    errs = [f"unknown field {k!r}" for k in doc if k not in ("showId", "generatedAt", "catalogVersion", "episodes")]
+    if doc.get("showId") != sid or not SHOW_ID_RE.match(sid or ""):
+        errs.append("showId must equal the file's id and match ^[A-Za-z0-9_-]{1,80}$")
+    if not isinstance(doc.get("generatedAt"), str) or not GENERATED_AT_RE.match(doc["generatedAt"]):
+        errs.append("generatedAt must be ISO-8601 with an offset")
+    if type(doc.get("catalogVersion")) is not int:
+        errs.append("catalogVersion must be an integer")
+    eps = doc.get("episodes")
+    if not isinstance(eps, list) or not eps:
+        return errs + ["episodes must be a non-empty array"]
+    if len(eps) > SHOW_LIST_MAX:
+        errs.append(f"episodes holds {len(eps)} > {SHOW_LIST_MAX}")
+    for i, ep in enumerate(eps):
+        errs += [f"episodes[{i}]: {e}" for e in episode_errors(ep)]
+    dates = [ep.get("date", "") for ep in eps if isinstance(ep, dict)]
+    if dates != sorted(dates, reverse=True):
+        errs.append("episodes must be newest first")
+    return errs
+
+
+def build_show_list(sid, stored, generated_at):
+    """The show/{sid}.json document from a harvested data/episodes/{sid}.json,
+    or None when nothing listable survives. Invalid episodes are dropped, the
+    rest keep their harvested order (newest first by publish time, ties in feed
+    order — the stable sort below only repairs a list that is out of order)."""
+    if not SHOW_ID_RE.match(sid) or not isinstance(stored, dict) or not isinstance(stored.get("episodes"), list):
+        return None
+    eps = [{k: ep[k] for k in EPISODE_KEYS if k in ep} for ep in stored["episodes"] if isinstance(ep, dict)]
+    eps = [ep for ep in eps if not episode_errors(ep)]   # project to the schema, then drop the invalid
+    eps.sort(key=lambda ep: ep["date"], reverse=True)
+    if not eps:
+        return None
+    return {"showId": sid, "generatedAt": generated_at, "catalogVersion": CATALOG_VERSION,
+            "episodes": eps[:SHOW_LIST_MAX]}
+
+
+def write_show_lists(show_ids, generated_at, episodes_dir=EPISODES_DIR, out_dir=SHOW_DIR):
+    """Write show/{sid}.json for every id in show_ids that has a listable
+    harvested list, and delete every other show/*.json (shows that left the
+    catalog, or whose list emptied). A file whose episodes and catalogVersion
+    are unchanged is left untouched — generatedAt then still names the run that
+    produced that list, the bytes stay put for clients' conditional requests,
+    and the daily commit carries only real changes. Returns (written, kept,
+    removed, total bytes)."""
+    episodes_dir, out_dir = Path(episodes_dir), Path(out_dir)
+    wanted = {}
+    for sid in sorted(show_ids):
+        doc = build_show_list(sid, read_json(episodes_dir / f"{sid}.json"), generated_at)
+        if doc is None:
+            continue
+        errs = show_list_errors(doc, sid)
+        if errs:   # a build bug, not bad feed data — never block the index for it
+            log(f"::warning::show/{sid}.json failed its schema and was not written: {errs[:3]}")
+            continue
+        wanted[sid] = doc
+    out_dir.mkdir(parents=True, exist_ok=True)
+    written = kept = removed = total = 0
+    for sid, doc in wanted.items():
+        path = out_dir / f"{sid}.json"
+        prev = read_json(path)
+        if (isinstance(prev, dict) and prev.get("episodes") == doc["episodes"]
+                and prev.get("catalogVersion") == doc["catalogVersion"] and not show_list_errors(prev, sid)):
+            kept += 1
+        else:
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            written += 1
+        total += path.stat().st_size
+    for path in sorted(out_dir.glob("*.json")):
+        if path.stem not in wanted:
+            path.unlink()
+            removed += 1
+    return written, kept, removed, total
 
 
 def main(argv=None):
@@ -287,6 +410,9 @@ def main(argv=None):
     index_blob = json.dumps(index, ensure_ascii=False, indent=1)
     if len(index_blob.encode()) > INDEX_BUDGET_BYTES:
         log(f"::warning::index.json is {len(index_blob.encode()) // 1024} KB — over the {INDEX_BUDGET_BYTES // 1024} KB soft target")
+    open_rss = [sid for sid, s in shows_out.items() if s.get("source") != "rthk"]
+    w, k, r, nbytes = write_show_lists(open_rss, index["generatedAt"])
+    log(f"show/: {w + k} lists ({w} written, {k} unchanged, {r} removed), {nbytes // 1024} KB")
     INDEX_PATH.write_text(index_blob + "\n", encoding="utf-8")
     SEARCH_PATH.write_text(blob + "\n", encoding="utf-8")
     log("index.json: " + ", ".join(f"{m}={[ (sh['id'], len(sh['shows'])) for sh in v['shelves'] ]}" for m, v in markets_out.items()))

@@ -23,7 +23,11 @@ ever** — the optional Podcast Index key lives only in Actions secrets.
 - `tools/harvest.py` — the only code that talks to anything external.
   Serial, paced, budgeted, circuit-broken. Records `latestEpisode` and
   `enclosureHost` per show (the in-region reachability key).
-- `tools/build_catalog.py` — the only writer of `index.json` + `search.json`.
+- `tools/harvest.py` also stores each validated feed's newest 30 listable
+  episodes in `data/episodes/{showId}.json` (kept through a fetch blip,
+  dropped when the show leaves the pool).
+- `tools/build_catalog.py` — the only writer of `index.json` + `search.json`
+  + `show/*.json`.
   Shelves per market: `top` (chart, Chinese-language), a market keyword shelf
   (`cantonese` for hk), `curated` (seeds), `trending` (Podcast Index, when
   present), and for hk one `rthk_<channel>` shelf per RTHK channel flagged
@@ -46,6 +50,13 @@ ever** — the optional Podcast Index key lives only in Actions secrets.
   fetch). RTHK shows carry `source: "rthk"` + `episodesUrl` with a
   `{replayBase}` placeholder the client fills from its `replayCatalogBaseUrl`.
   Schema: `schema/index.schema.json`.
+- `show/{showId}.json` — our own copy of an open-RSS show's newest 30
+  episodes, metadata only (`title`, `date` = HK calendar day, publisher
+  `enclosure`, optional `durationSec` / `guid`), newest first; one file per
+  open-RSS show in `index.json` (never RTHK rows). The fallback list for a
+  client whose publisher feed is unreachable — the publisher RSS stays the
+  primary source. A show that leaves the catalog loses its file in the same
+  build. Schema: `schema/show.schema.json`. `latestEpisode` may carry `guid`.
 - `search.json` — per-market entries `{t, type, id[, eid, date]}` for
   client-side contains-match. Schema: `schema/search.schema.json`.
 
@@ -55,6 +66,7 @@ ever** — the optional Podcast Index key lives only in Actions secrets.
 pip install pyyaml   # only for seeds/blocklist; pipeline itself is stdlib
 python3 tools/harvest.py --markets hk --budget 200 --max-feeds 30 --replay-base ../likelylabs-replay
 python3 tools/build_catalog.py
+python3 -m unittest discover -s tests -v   # stdlib only, no network
 ```
 
 ## Go-live checklist (owner)

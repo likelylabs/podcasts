@@ -10,6 +10,7 @@ locally if missing).
 import datetime as dt
 import hashlib
 import json
+import re
 import time
 import urllib.error
 import urllib.request
@@ -25,6 +26,8 @@ SEEDS_PATH = REPO / "seeds.yaml"
 BLOCKLIST_PATH = REPO / "blocklist.yaml"
 INDEX_PATH = REPO / "index.json"
 SEARCH_PATH = REPO / "search.json"
+EPISODES_DIR = DATA / "episodes"           # harvested per-show episode lists (metadata only)
+SHOW_DIR = REPO / "show"                   # published show/{showId}.json (SR-04)
 
 CATALOG_VERSION = 1
 HKT = dt.timezone(dt.timedelta(hours=8))
@@ -52,6 +55,8 @@ FORGET_FAIL_STREAK = 12         # an unreachable feed is forgotten after this ma
 FEED_MAX_BYTES = 30 * 1024 * 1024   # TED/FT-sized back-catalogues run 6–20 MB
 SEARCH_BUDGET_BYTES = 1500 * 1024   # search.json cap (PODCASTS §3.3)
 INDEX_BUDGET_BYTES = 400 * 1024     # soft warning threshold for index.json
+SHOW_LIST_MAX = 30                  # episodes per show/{showId}.json (newest first)
+SHOW_ID_RE = re.compile(r"^[A-Za-z0-9_-]{1,80}$")   # the ids a client will request
 
 APPLE = "https://itunes.apple.com"
 PODCASTINDEX = "https://api.podcastindex.org/api/1.0"
@@ -155,6 +160,10 @@ def show_id_for(itunes_id=None, feed_url=None):
     if itunes_id:
         return f"itunes_{int(itunes_id)}"
     return "feed_" + hashlib.sha1(feed_url.strip().encode()).hexdigest()[:12]
+
+
+def episodes_path(sid):
+    return EPISODES_DIR / f"{sid}.json"
 
 
 def has_cjk(s):
