@@ -2,14 +2,14 @@
  "aborted": null,
  "budget": 3000,
  "failures": 1,
- "feeds_bad": 26,
- "feeds_ok": 870,
+ "feeds_bad": 25,
+ "feeds_ok": 871,
  "feeds_validated": 896,
- "finishedAt": "2026-11-15T07:46:30+08:00",
+ "finishedAt": "2026-11-16T07:56:49+08:00",
  "markets": {
   "hk": {
    "chart": 100,
-   "chart_resolved": 96,
+   "chart_resolved": 95,
    "keyword_hits": {
     "廣東話": 22,
     "粵語": 20,
@@ -21,7 +21,7 @@
    "chart": 100,
    "chart_resolved": 95,
    "keyword_hits": {
-    "华语": 14,
+    "华语": 13,
     "马来西亚": 8
    },
    "seeds": 0
@@ -49,9 +49,9 @@
  "pool": 892,
  "pool_forgotten": 4,
  "requests": 1239,
- "rthk_episodes": 30630,
+ "rthk_episodes": 30732,
  "rthk_programmes": 323,
- "seconds": 1145,
- "startedAt": "2026-11-15T07:27:25+08:00",
+ "seconds": 1179,
+ "startedAt": "2026-11-16T07:37:10+08:00",
  "warnings": []
 }
