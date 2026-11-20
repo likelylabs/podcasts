@@ -72,7 +72,9 @@ jobs:
           mkdir -p _site
           test -f index.json || { echo "::error::index.json missing — nothing to publish"; exit 1; }
           cp index.json search.json robots.txt .nojekyll _site/
-          true
+          # show/{showId}.json — our own per-show episode lists (SR-04). build_catalog.py
+          # prunes shows that left the catalog in git, so the tree here is exactly the set.
+          if [ -d show ]; then cp -R show _site/show; fi
           if [ -f CNAME ]; then cp CNAME _site/; else echo "::notice::no CNAME yet — serving on the github.io URL"; fi
           echo "publishing: $(find _site -type f | wc -l) files"
 

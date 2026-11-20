@@ -36,9 +36,9 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from common import (APPLE, BROWSER_UA, BudgetExhausted, CHART_LIMIT, CHARTS_DIR, CircuitOpen,
-                    Client, FEED_MAX_BYTES, FORGET_FAIL_STREAK, FRESH_DAYS, HKT, INGEST_DEAD_DAYS,
+                    Client, EPISODES_DIR, FEED_MAX_BYTES, FORGET_FAIL_STREAK, FRESH_DAYS, HKT, INGEST_DEAD_DAYS,
                     LAST_RUN_PATH, MARKETS, MAX_FAIL_STREAK, PODCASTINDEX, RTHK_PATH, SEEDS_PATH,
-                    SHOWS_PATH, log, now_hkt, read_json, read_yaml, show_id_for, write_json)
+                    SHOW_LIST_MAX, SHOWS_PATH, episodes_path, log, now_hkt, read_json, read_yaml, show_id_for, write_json)
 
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 AUDIO_EXT = (".mp3", ".m4a", ".aac", ".ogg", ".oga", ".opus", ".wav", ".flac")
@@ -210,6 +210,23 @@ def is_audio(enc):
     return t.startswith("audio/") or u.endswith(AUDIO_EXT)
 
 
+def episode_entry(title, pub, enclosure, duration, guid):
+    """One show/{showId}.json episode, or None when the item cannot be listed:
+    a trimmed non-empty title, an absolute http(s) enclosure and a publish time
+    are required; durationSec only when > 0; guid only when non-blank."""
+    title = (title or "").strip()
+    enclosure = (enclosure or "").strip()
+    parts = urllib.parse.urlsplit(enclosure)
+    if not title or parts.scheme not in ("http", "https") or not parts.netloc or pub is None:
+        return None
+    ep = {"title": title, "date": pub.astimezone(HKT).date().isoformat(), "enclosure": enclosure}
+    if isinstance(duration, int) and duration > 0:
+        ep["durationSec"] = duration
+    if (guid or "").strip():
+        ep["guid"] = guid.strip()
+    return ep
+
+
 def validate_feed(client, s):
     """Fetch + parse the publisher RSS; returns the validation record."""
     v = {"checkedAt": now_hkt().isoformat(timespec="seconds"), "ok": False}
@@ -237,19 +254,38 @@ def validate_feed(client, s):
     v["description"] = re.sub(r"<[^>]+>", "", (ch.findtext(itn + "summary") or ch.findtext("description") or "")).strip()[:400]
     latest = None
     n_audio = 0
+    listed = []
     for it in ch.findall("item"):
         enc = it.find("enclosure")
         if enc is None or not is_audio(enc.attrib):
             continue
         n_audio += 1
         pub = parse_pubdate(it.findtext("pubDate"))
+        guid = (it.findtext("guid") or "").strip()
         if pub and (latest is None or pub > latest["_dt"]):
             latest = {"_dt": pub, "title": (it.findtext("title") or "").strip(),
                       "date": pub.astimezone(HKT).date().isoformat(),
                       "enclosure": enc.get("url"),
                       "type": enc.get("type") or "",
                       "durationSec": parse_duration(it.findtext(itn + "duration"))}
+            if guid:
+                latest["guid"] = guid
+        if pub:
+            # One malformed older item (an unparseable enclosure URL, a publish
+            # time at the edge of the calendar) drops that item from the list —
+            # it must never fail the feed, let alone the whole harvest.
+            try:
+                ep = episode_entry(it.findtext("title"), pub, enc.get("url"),
+                                   parse_duration(it.findtext(itn + "duration")), guid)
+                if ep:
+                    listed.append((-pub.timestamp(), len(listed), ep))
+            except (ValueError, OverflowError, OSError):
+                pass
     v["itemCount"] = n_audio
+    # Our own per-show episode list (show/{showId}.json, PODCASTS.md / SR-04):
+    # newest first by publish time, ties in feed order, metadata only, capped.
+    listed.sort(key=lambda t: (t[0], t[1]))
+    v["_episodes"] = [ep for _, _, ep in listed[:SHOW_LIST_MAX]]
     if n_audio == 0 or latest is None:
         v["error"] = "no audio enclosure with a date"
         return v
@@ -263,6 +299,43 @@ def validate_feed(client, s):
         return v
     v["ok"] = True
     return v
+
+
+def safe_validate_feed(client, s):
+    """validate_feed, but an unexpected exception from one feed becomes a failed
+    validation (no _episodes, so the last-good list is kept) instead of
+    aborting the harvest. The run-level aborts still propagate."""
+    try:
+        return validate_feed(client, s)
+    except (BudgetExhausted, CircuitOpen):
+        raise
+    except Exception as e:
+        log(f"::warning::{s.get('id', s.get('feedUrl'))}: validate_feed raised {type(e).__name__}: {e}")
+        return {"checkedAt": now_hkt().isoformat(timespec="seconds"), "ok": False,
+                "error": f"exception: {type(e).__name__}: {e}"[:300]}
+
+
+def store_episode_list(sid, episodes):
+    """data/episodes/{sid}.json — the harvested list build_catalog.py publishes as
+    show/{sid}.json. None (the feed did not parse) keeps the last-good list so a
+    show can ride out a blip, as latestEpisode does; an empty list removes it."""
+    if episodes is None:
+        return
+    path = episodes_path(sid)
+    if episodes:
+        write_json(path, {"episodes": episodes})
+    elif path.exists():
+        path.unlink()
+
+
+def prune_episode_lists(pool):
+    """Drop the stored list of every show no longer in the pool."""
+    n = 0
+    for path in sorted(EPISODES_DIR.glob("*.json")) if EPISODES_DIR.is_dir() else []:
+        if path.stem not in pool:
+            path.unlink()
+            n += 1
+    return n
 
 
 # ---------------------------------------------------------------------------
@@ -415,7 +488,8 @@ def main():
             log(f"== validating {len(todo)} feeds")
             ok = bad = 0
             for s in todo:
-                v = validate_feed(client, s)
+                v = safe_validate_feed(client, s)
+                store_episode_list(s["id"], v.pop("_episodes", None))
                 prev = s.get("validation") or {}
                 v["failStreak"] = 0 if v["ok"] else prev.get("failStreak", 0) + 1
                 if not v["ok"] and prev.get("ok"):
@@ -463,6 +537,7 @@ def main():
         stale = [k for k, s in pool.items() if forgettable(s)]
         for k in stale:
             pool.pop(k)
+        run["episode_lists_pruned"] = prune_episode_lists(pool)
         run["pool"] = len(pool)
         run["pool_forgotten"] = len(stale)
         run["requests"] = client.requests

@@ -11,7 +11,10 @@ there before changing anything.
   changes go through `seeds.yaml` / `blocklist.yaml`; `tools/harvest.py` is
   the only code that talks to a directory or a publisher.
 - **We never host, cache, or proxy audio or show RSS.** Publisher enclosures
-  only; RTHK comes from the REPLAY catalog, never from RTHK directly.
+  only; RTHK comes from the REPLAY catalog, never from RTHK directly. A
+  per-show episode *metadata* list (`show/{showId}.json`: title, date,
+  publisher enclosure URL, duration, guid; newest 30) is allowed — never
+  descriptions, show notes, artwork copies or any RSS body.
 - **No secrets, no internal notes** (tenet #10). This repo becomes public at
   go-live; the Podcast Index key lives only in Actions secrets.
 - A failed harvest must leave the committed catalog untouched — the publish

@@ -36,7 +36,7 @@
            "description": {"type": "string"},
            "enclosureHost": {"type": "string", "description": "host of the latest enclosure — the in-region reachability key (§7)"},
            "latestEpisode": {"type": "object", "required": ["title", "date", "enclosure"],
-                             "properties": {"title": {"type": "string"}, "date": {"type": "string"}, "enclosure": {"type": "string"}, "durationSec": {"type": "integer"}}}}},
+                             "properties": {"title": {"type": "string"}, "date": {"type": "string"}, "enclosure": {"type": "string"}, "durationSec": {"type": "integer"}, "guid": {"type": "string", "description": "the item's <guid>, trimmed; absent when blank (the client episode key)"}}}}},
         {"type": "object", "required": ["source", "channel", "slug", "title_zh", "title_en", "episodesUrl"],
          "properties": {
            "source": {"const": "rthk"}, "channel": {"type": "string"}, "slug": {"type": "string"},
