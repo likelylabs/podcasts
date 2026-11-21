@@ -15,8 +15,8 @@ there before changing anything.
   per-show episode *metadata* list (`show/{showId}.json`: title, date,
   publisher enclosure URL, duration, guid; newest 30) is allowed — never
   descriptions, show notes, artwork copies or any RSS body.
-- **No secrets, no internal notes** (tenet #10). This repo becomes public at
-  go-live; the Podcast Index key lives only in Actions secrets.
+- **No secrets, no internal notes** (tenet #10). This repo is PUBLIC (since
+  2026-10-08); the Podcast Index key lives only in Actions secrets.
 - A failed harvest must leave the committed catalog untouched — the publish
   gate exits non-zero before anything is written; Pages keeps serving
   last-good.
