@@ -1,0 +1,214 @@
+{
+ "episodes": [
+  {
+   "date": "2026-11-21",
+   "durationSec": 1680,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmxpj3.mp3",
+   "guid": "urn:bbc:podcast:p0pmxkly",
+   "title": "The Naked Week 2. I'm A Celebrity Get Me Into Jail"
+  },
+  {
+   "date": "2026-11-14",
+   "durationSec": 1670,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plplrr.mp3",
+   "guid": "urn:bbc:podcast:p0plmfs9",
+   "title": "The Naked Week 1. Up The Injunction"
+  },
+  {
+   "date": "2026-11-07",
+   "durationSec": 1723,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkg6jq.mp3",
+   "guid": "urn:bbc:podcast:p0pkg5qk",
+   "title": "The Matt Forde Focus Group: The Politics of Trick-or-Treat (Halloween Special)"
+  },
+  {
+   "date": "2026-10-31",
+   "durationSec": 1708,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj9rw0.mp3",
+   "guid": "urn:bbc:podcast:p0pj80zy",
+   "title": "The News Quiz: Ep8. 'Everyday fixes'"
+  },
+  {
+   "date": "2026-10-24",
+   "durationSec": 1685,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph3yx4.mp3",
+   "guid": "urn:bbc:podcast:p0ph202z",
+   "title": "The News Quiz: Ep7. Team Calm vs Team Panic"
+  },
+  {
+   "date": "2026-10-17",
+   "durationSec": 1709,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfxlv6.mp3",
+   "guid": "urn:bbc:podcast:p0pfxh72",
+   "title": "The News Quiz: Ep6. The Iron Dome"
+  },
+  {
+   "date": "2026-10-10",
+   "durationSec": 1695,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdpznj.mp3",
+   "guid": "urn:bbc:podcast:p0pdm444",
+   "title": "The News Quiz: Ep5. 'Manchester Sausage'"
+  },
+  {
+   "date": "2026-10-03",
+   "durationSec": 1704,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcj7wn.mp3",
+   "guid": "urn:bbc:podcast:p0pch306",
+   "title": "The News Quiz: Ep4. 'Demonstrable lies'"
+  },
+  {
+   "date": "2026-09-26",
+   "durationSec": 1722,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbb1b8.mp3",
+   "guid": "urn:bbc:podcast:p0pb48vr",
+   "title": "The News Quiz: Ep3. The Robots Are/Aren't Coming"
+  },
+  {
+   "date": "2026-09-19",
+   "durationSec": 1693,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p967jf.mp3",
+   "guid": "urn:bbc:podcast:p0p9679q",
+   "title": "The News Quiz: Ep 2. Team Vibes vs Team Bribes"
+  },
+  {
+   "date": "2026-09-12",
+   "durationSec": 1690,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p81k4c.mp3",
+   "guid": "urn:bbc:podcast:p0p7z0bg",
+   "title": "The News Quiz: Ep1. The Burnham bounce?"
+  },
+  {
+   "date": "2026-09-05",
+   "durationSec": 1715,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6vrfc.mp3",
+   "guid": "urn:bbc:podcast:p0p6k7cv",
+   "title": "The People Have Spoken Ep3. British Maple Syrup"
+  },
+  {
+   "date": "2026-08-29",
+   "durationSec": 1717,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5pm1r.mp3",
+   "guid": "urn:bbc:podcast:p0p5fgqr",
+   "title": "The People Have Spoken Ep2. Fed Up With War!"
+  },
+  {
+   "date": "2026-08-22",
+   "durationSec": 1707,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4lxxr.mp3",
+   "guid": "urn:bbc:podcast:p0p4c5cn",
+   "title": "The People Have Spoken Ep1. Andy Cool'em Down'em"
+  },
+  {
+   "date": "2026-08-15",
+   "durationSec": 1717,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p393s8.mp3",
+   "guid": "urn:bbc:podcast:p0p384q6",
+   "title": "Current-ish Ep3. Exam results, early release, and the possible end of two marriages"
+  },
+  {
+   "date": "2026-08-08",
+   "durationSec": 1704,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p20tgn.mp3",
+   "guid": "urn:bbc:podcast:p0p1526r",
+   "title": "Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza"
+  },
+  {
+   "date": "2026-08-01",
+   "durationSec": 1714,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p0qc37.mp3",
+   "guid": "urn:bbc:podcast:p0nz0jk1",
+   "title": "Current-ish Ep1. Burnham, Bellingham, and the spirit of Margaret Thatcher"
+  },
+  {
+   "date": "2026-07-25",
+   "durationSec": 1686,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzgc98.mp3",
+   "guid": "urn:bbc:podcast:p0ny94rc",
+   "title": "Dead Ringers Ep6. England out, Starmer out, School's out."
+  },
+  {
+   "date": "2026-07-18",
+   "durationSec": 1691,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny3f6m.mp3",
+   "guid": "urn:bbc:podcast:p0nwx7lg",
+   "title": "Dead Ringers Ep5. The President’s For Overturning"
+  },
+  {
+   "date": "2026-07-11",
+   "durationSec": 1718,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwqh5h.mp3",
+   "guid": "urn:bbc:podcast:p0nvmxnt",
+   "title": "Dead Ringers Ep4. Much Ado About North-ing"
+  },
+  {
+   "date": "2026-07-04",
+   "durationSec": 1710,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nvc951.mp3",
+   "guid": "urn:bbc:podcast:p0nt67s0",
+   "title": "Dead Ringers: Ep3. Heat, Hydration, and Harry Kane"
+  },
+  {
+   "date": "2026-06-27",
+   "durationSec": 1702,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nt0ybl.mp3",
+   "guid": "urn:bbc:podcast:p0nrrncf",
+   "title": "Dead Ringers: Ep2. Makerfield Maketh Man"
+  },
+  {
+   "date": "2026-06-20",
+   "durationSec": 1713,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nrq0gc.mp3",
+   "guid": "urn:bbc:podcast:p0nqv43k",
+   "title": "Dead Ringers: Ep1.\tKeir vs Kemi"
+  },
+  {
+   "date": "2026-06-13",
+   "durationSec": 1705,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqcbtq.mp3",
+   "guid": "urn:bbc:podcast:p0npc60g",
+   "title": "The News Quiz Ep8. - Peter Scandalman"
+  },
+  {
+   "date": "2026-06-06",
+   "durationSec": 1718,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0np2cjg.mp3",
+   "guid": "urn:bbc:podcast:p0nmv7k9",
+   "title": "The News Quiz Ep7. Heat and NEETs"
+  },
+  {
+   "date": "2026-05-30",
+   "durationSec": 1711,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nmt1wn.mp3",
+   "guid": "urn:bbc:podcast:p0nljxwp",
+   "title": "The News Quiz Ep6. Brexpressionism"
+  },
+  {
+   "date": "2026-05-23",
+   "durationSec": 1704,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nlhsj5.mp3",
+   "guid": "urn:bbc:podcast:p0nkc6th",
+   "title": "The News Quiz Ep5. Starmer psychodrama"
+  },
+  {
+   "date": "2026-05-16",
+   "durationSec": 1706,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nk60zt.mp3",
+   "guid": "urn:bbc:podcast:p0nk5rj1",
+   "title": "The News Quiz: Ep4. The people have spoken"
+  },
+  {
+   "date": "2026-05-09",
+   "durationSec": 1713,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhvt8x.mp3",
+   "guid": "urn:bbc:podcast:p0nhvr9k",
+   "title": "The News Quiz: Ep3. When the King came round for tea"
+  },
+  {
+   "date": "2026-04-25",
+   "durationSec": 1693,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngg347.mp3",
+   "guid": "urn:bbc:podcast:p0ngg0p5",
+   "title": "The News Quiz: Ep2. The art of vetting"
+  }
+ ]
+}
