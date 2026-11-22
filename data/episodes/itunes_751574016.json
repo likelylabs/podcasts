@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1277,
+   "enclosure": "https://traffic.megaphone.fm/ALLE7283071966.mp3",
+   "guid": "9d082f78-d274-11f1-8fca-231bfbbca4f9",
+   "title": "AEE: Eating in an American Restaurant? How Long Can You Stay?"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1290,
    "enclosure": "https://traffic.megaphone.fm/ALLE5072602419.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE2049564324.mp3",
    "guid": "e1e22f5c-bb06-11f1-a51c-b72e5e075629",
    "title": "AEE 2703: A More Interesting Way to Say You're Interested"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 1076,
-   "enclosure": "https://traffic.megaphone.fm/ALLE2494556127.mp3",
-   "guid": "ab8c190e-bb06-11f1-a7b8-839410de6b8c",
-   "title": "AEE 2702: Have the Last Laugh With These English Idioms"
   }
  ]
 }

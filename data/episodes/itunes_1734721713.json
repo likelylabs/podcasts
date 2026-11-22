@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 3328,
+   "enclosure": "https://anchor.fm/s/f2fdd3cc/podcast/play/129866662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F82535682-70af-efb1-d84d-216401ff239c.mp3",
+   "guid": "1eeb6ea2-90db-451f-9413-0573dbe74a66",
+   "title": "2026 Ep. 40 全球系統大冧機！Outlook、銀行連環癱瘓背後原因？實測最新 AI Agent 幫你自動化管理 social media"
+  },
+  {
    "date": "2026-11-13",
    "durationSec": 3830,
    "enclosure": "https://anchor.fm/s/f2fdd3cc/podcast/play/129352080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fcd5b9a20-7ea2-0177-6290-6de052b555bb.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f2fdd3cc/podcast/play/119774622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-10%2F3826283a-58f2-ae91-d143-e31de85d654c.mp3",
    "guid": "f66efcd3-7932-4975-945e-5d7b5b951e16",
    "title": "2026 Ep. 11 Claude vs ChatGPT 深度評測：創業家如何訓練 AI 助手 AI Agent 處理真實業務？"
-  },
-  {
-   "date": "2026-05-11",
-   "durationSec": 4558,
-   "enclosure": "https://anchor.fm/s/f2fdd3cc/podcast/play/119774292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-10%2F2d324e7e-2152-8cdb-bfd0-5dd1c08aa650.mp3",
-   "guid": "c9953842-1bab-4d20-8d9a-e6114c29e1de",
-   "title": "2026 Ep. 10 Zoom 廣東話逐字稿完勝 Google？Claude 代碼外洩反而是好事？解析 2026「信任經濟」"
   }
  ]
 }

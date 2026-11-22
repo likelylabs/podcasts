@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 568,
+   "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-11-22.mp3?v=202611220527",
+   "guid": "kids-daily-podcast-2026-11-22",
+   "title": "第 79 號｜犀牛寶寶出生搖搖晃晃走路，還有火星也有黃昏雲？"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 800,
    "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-11-21.mp3?v=202611210531",
@@ -202,13 +209,6 @@
    "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-10-24.mp3?v=202610241052",
    "guid": "kids-daily-podcast-2026-10-24",
    "title": "第 50 號｜薔琵颱風來了，十六縣市要停班課？"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 657,
-   "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-10-23.mp3?v=202610231049",
-   "guid": "kids-daily-podcast-2026-10-23",
-   "title": "第 49 號｜非洲野犬走了兩千五百哩找新家？還有十八歲新星扛起桌球隊"
   }
  ]
 }

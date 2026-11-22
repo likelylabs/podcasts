@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 2661,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+   "guid": "3aa7e767-5f6f-4b91-bc45-349244747e08",
+   "title": "Jim Cramer’s Sell-Off Survival Guide for Market Crashes"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2662,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/5eff4c69-6517-4194-bbcb-2220da745d7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=5eff4c69-6517-4194-bbcb-2220da745d7b&feed=TkQfZXMD",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6c50dfbb-92bf-4414-9759-a659a256a958/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6c50dfbb-92bf-4414-9759-a659a256a958&feed=TkQfZXMD",
    "guid": "92128c01-7538-4fd3-8491-7b857c983fc6",
    "title": "Mad Money w/ Jim Cramer 10/12/26"
-  },
-  {
-   "date": "2026-10-10",
-   "durationSec": 2651,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/99687bab-4a61-40cd-b2b3-c29f94a63309/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=99687bab-4a61-40cd-b2b3-c29f94a63309&feed=TkQfZXMD",
-   "guid": "3e506545-2941-487a-aee1-b751c9a221d2",
-   "title": "Mad Money w/ Jim Cramer 10/9/26"
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 7444,
+   "enclosure": "https://traffic.megaphone.fm/APO6920793780.mp3",
+   "guid": "97bd2982-e594-4f3d-8e29-5e125efc66a4",
+   "title": "Some of Reality TV's Worst Monsters (TMM+ Compilation)"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 1674,
+   "enclosure": "https://traffic.megaphone.fm/APO1740761616.mp3",
+   "guid": "2427c43e-24a1-40af-9a2f-b5511a292685",
+   "title": "The Disturbing Case of Ian Maniske-Huff"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 1486,
    "enclosure": "https://traffic.megaphone.fm/APO2452912531.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO2046985484.mp3",
    "guid": "400b3094-2dba-4403-b1b0-ce3326bef562",
    "title": "The Tragic Case of Zya Singleton"
-  },
-  {
-   "date": "2026-08-15",
-   "durationSec": 1086,
-   "enclosure": "https://traffic.megaphone.fm/APO4149096260.mp3",
-   "guid": "7d31e22d-89fb-475d-8f4a-195f66819afc",
-   "title": "The Tragic Cases of Baby Jeremiah & The Mystery Child"
-  },
-  {
-   "date": "2026-08-11",
-   "durationSec": 1432,
-   "enclosure": "https://traffic.megaphone.fm/APO5216190820.mp3",
-   "guid": "18b6988c-c256-4d4a-8f8d-d8e835d9f932",
-   "title": "The Tragic Case of Josefina Cunningham"
   }
  ]
 }

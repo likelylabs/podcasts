@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 3666,
+   "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6afe96e22eb5914ec2f6c5ac/media.mp3",
+   "guid": "6afe96e22eb5914ec2f6c5ac",
+   "title": "Mid-Autumn After Dark Part 2"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 6480,
    "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6ae6b2b27af5f087de61c823/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6ab89a5d93047ac92372876b/media.mp3",
    "guid": "6ab89a5d93047ac92372876b",
    "title": "Supernatural Cover Up at USS Halloween Horror Nights"
-  },
-  {
-   "date": "2026-10-03",
-   "durationSec": 4652,
-   "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6abb6be1d73b7f4e2e0b040c/media.mp3",
-   "guid": "6abb6be1d73b7f4e2e0b040c",
-   "title": "When the Unseen Becomes Familiar Part 2"
   }
  ]
 }

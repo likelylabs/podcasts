@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 815,
+   "enclosure": "https://traffic.megaphone.fm/STM9359866979.mp3",
+   "guid": "d72ac0ea-d96c-11f1-9405-0b9e2d26a472",
+   "title": "How Fast Does Light Travel?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1523,
    "enclosure": "https://traffic.megaphone.fm/STM1620135906.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM3918490846.mp3",
    "guid": "7de6b7d6-ca63-11f1-b67a-83aafecf132e",
    "title": "Why Is Earth the Only Planet We Can Live On? (Captain Curious)"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 1242,
-   "enclosure": "https://traffic.megaphone.fm/STM3389703906.mp3",
-   "guid": "54e6e326-c589-11f1-9331-33f9928f665e",
-   "title": "How Did People Make Maps Before Satellites?"
   }
  ]
 }

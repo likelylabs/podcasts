@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 260,
+   "enclosure": "https://jt.ximalaya.com//GKwRIW4MsVxGACAAAAQZ0y7p.mp3.m4a?channel=rss&album_id=106614857&track_id=916413053&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/232d-audiofreehighqps/A5/E6/GKwRIW4MsVxGACAAAAQZ0y7p.mp3",
+   "guid": "xmly_track_916413053",
+   "title": "《梦向何处寻》 DSD完整版"
+  },
+  {
    "date": "2026-11-14",
    "durationSec": 261,
    "enclosure": "https://jt.ximalaya.com//GAqhfD0MsVxCACAAAAQZ0ytK.mp3.m4a?channel=rss&album_id=106614857&track_id=916413049&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/e10c-audiofreehighqps/B7/5E/GAqhfD0MsVxCACAAAAQZ0ytK.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIMAM_jDYAByO2wQ9ZsQL.m4a?channel=rss&album_id=106614857&track_id=935390669&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/5851-audiofreehighqps/89/91/GKwRIMAM_jDYAByO2wQ9ZsQL.m4a",
    "guid": "xmly_track_935390669",
    "title": "黄金一笑"
-  },
-  {
-   "date": "2026-08-15",
-   "durationSec": 263,
-   "enclosure": "https://jt.ximalaya.com//GKwRIRwMsVubACAAAAQZ0rgx.mp3.m4a?channel=rss&album_id=106614857&track_id=916412987&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/9d14-audiofreehighqps/88/14/GKwRIRwMsVubACAAAAQZ0rgx.mp3",
-   "guid": "xmly_track_916412987",
-   "title": "《在水一方》 DSD完整版"
   }
  ]
 }

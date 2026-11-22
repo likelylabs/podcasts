@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 1931,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3278628500.mp3",
+   "guid": "16d3486e-7eca-11f1-8f31-4be04dcf1c8e",
+   "title": "Democrats audition for 2028"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 1543,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9044666506.mp3",
    "guid": "7cfb8646-d05c-11f0-a63b-4f3247f05a9f",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3858932874.mp3",
    "guid": "7b53bcbe-d05c-11f0-a63b-03689461b4b4",
    "title": "RFK Jr. and the chocolate factory"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1532,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9674021673.mp3",
-   "guid": "7b1733a2-d05c-11f0-a63b-cb237c890be7",
-   "title": "The rise of political slopaganda"
   }
  ]
 }

@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 1778,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/f1210527-f9a0-43f0-b1db-b508018709c7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "18b87863-2f1d-4b00-abc6-b508018a7dc1",
+   "title": "Anthropic's IPO & Nvidia Drama Test Investor AI Appetite"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 1562,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9b9f9f21-a2a7-48c3-93ef-b508011ca359/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
    "guid": "9b9f9f21-a2a7-48c3-93ef-b508011ca359",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/49330726-0e0a-4740-9d3c-b4f800f5c925/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
    "guid": "49330726-0e0a-4740-9d3c-b4f800f5c925",
    "title": "Dem Midterm Sweep"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 1317,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/f07edaae-7e45-47ad-b25f-b4f70124008e/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "f07edaae-7e45-47ad-b25f-b4f70124008e",
-   "title": "Bloomberg Surveillance TV: November 3rd, 2026"
   }
  ]
 }

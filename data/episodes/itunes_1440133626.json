@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 2250,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-60674-20261121tifcloseup.mp3",
+   "guid": "6b0078278f08d5509ceb636d",
+   "title": "Robert Pattinson’s weird James Bond and has GTA 6 gone woke? | The Close Up"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 769,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-64144-2011anthropic.mp3",
    "guid": "6b005ee88f083dc0e3993a4d",
@@ -202,13 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/02-69272-TIFTahnoonMix.mp3",
    "guid": "6ae8d4318f08f0ebf8069c08",
    "title": "Sheikh Tahnoon: the most powerful man you’ve never heard of"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 805,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/02-64359-0211michigan.mp3",
-   "guid": "6ae8aea28f08bc3696870c5e",
-   "title": "Why did a Democrat endorse a Republican in Michigan senate race? - The Latest"
   }
  ]
 }

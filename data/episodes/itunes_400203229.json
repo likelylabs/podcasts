@@ -1,6 +1,160 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/276b3242f406510e6c567f471e7b5e9d_64k.mp3",
+   "guid": "276b3242f406510e6c567f471e7b5e9d",
+   "title": "ニュース 2026年11月22日午前08時00分"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 870,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/39bf8ad62ed4021a21d35d150f8bb815_64k.mp3",
+   "guid": "39bf8ad62ed4021a21d35d150f8bb815",
+   "title": "マイあさ! 午前7時のNHKニュース 2026年11月22日"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 780,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/eee23b67cf7e1d5eb57e351a58a8ba55_64k.mp3",
+   "guid": "eee23b67cf7e1d5eb57e351a58a8ba55",
+   "title": "マイあさ! 午前6時のNHKニュース 2026年11月22日"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 810,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/5dc420e36609b3d878234f5140d9d2a5_64k.mp3",
+   "guid": "5dc420e36609b3d878234f5140d9d2a5",
+   "title": "マイあさ! 午前5時のNHKニュース 2026年11月22日"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/f02614cc50a64a118343c742a3401eeb_64k.mp3",
+   "guid": "f02614cc50a64a118343c742a3401eeb",
+   "title": "ニュース 2026年11月22日午前04時00分"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/3f7280090785ee26464d62d3fd198276_64k.mp3",
+   "guid": "3f7280090785ee26464d62d3fd198276",
+   "title": "ニュース 2026年11月22日午前03時00分"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/c5aa1df0991efb94b4762f9ce6912d56_64k.mp3",
+   "guid": "c5aa1df0991efb94b4762f9ce6912d56",
+   "title": "ニュース 2026年11月22日午前02時00分"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/ffde4976478ccbde8ca388cb7cfddec6_64k.mp3",
+   "guid": "ffde4976478ccbde8ca388cb7cfddec6",
+   "title": "ニュース 2026年11月22日午前01時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 597,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/bef3e9a063dc411e502f9ca63ea800e0_64k.mp3",
+   "guid": "bef3e9a063dc411e502f9ca63ea800e0",
+   "title": "ニュース 2026年11月22日午前00時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/b6314ed669d2261c385267d2cbada95e_64k.mp3",
+   "guid": "b6314ed669d2261c385267d2cbada95e",
+   "title": "ニュース 2026年11月21日午後11時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/ef51609ba447cb452cdfd6c37793b23a_64k.mp3",
+   "guid": "ef51609ba447cb452cdfd6c37793b23a",
+   "title": "ニュース 2026年11月21日午後10時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/184548bf810234129aff1be2f71ab351_64k.mp3",
+   "guid": "184548bf810234129aff1be2f71ab351",
+   "title": "ニュース 2026年11月21日午後09時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/bd943dd242a48b6e97bc3fb5c84dd3e7_64k.mp3",
+   "guid": "bd943dd242a48b6e97bc3fb5c84dd3e7",
+   "title": "ニュース 2026年11月21日午後08時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 1197,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/c0b19e30c1510487e09e4b5a5f5e831f_64k.mp3",
+   "guid": "c0b19e30c1510487e09e4b5a5f5e831f",
+   "title": "ニュース NHKきょうのニュース 2026年11月21日"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/06e4eb1add3b48b74f0f7544ce1669bf_64k.mp3",
+   "guid": "06e4eb1add3b48b74f0f7544ce1669bf",
+   "title": "ニュース 2026年11月21日午後06時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/996cd0390aad37c6697c5154142799e0_64k.mp3",
+   "guid": "996cd0390aad37c6697c5154142799e0",
+   "title": "ニュース 2026年11月21日午後04時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/1030421a93e953e6ffdcb99fc3cde4cc_64k.mp3",
+   "guid": "1030421a93e953e6ffdcb99fc3cde4cc",
+   "title": "ニュース 2026年11月21日午後03時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/b78025781955190eca12b871c8b214fa_64k.mp3",
+   "guid": "b78025781955190eca12b871c8b214fa",
+   "title": "ニュース 2026年11月21日午後02時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/d25e200a9c63493cba9efb6e14db32be_64k.mp3",
+   "guid": "d25e200a9c63493cba9efb6e14db32be",
+   "title": "ニュース 2026年11月21日午後01時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 597,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/6cb42e8f005d0b12d140952647d156db_64k.mp3",
+   "guid": "6cb42e8f005d0b12d140952647d156db",
+   "title": "ニュース 正午のNHKニュース 2026年11月21日"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/346027f5bed51dc6330b1d8b59761abc_64k.mp3",
+   "guid": "346027f5bed51dc6330b1d8b59761abc",
+   "title": "ニュース 2026年11月21日午前11時00分"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 297,
+   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/3ac15661ce66b844bfc3589d4964c4b1_64k.mp3",
+   "guid": "3ac15661ce66b844bfc3589d4964c4b1",
+   "title": "ニュース 2026年11月21日午前10時00分"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 297,
    "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/c5b9353f0e35073b7bab943433229928_64k.mp3",
@@ -55,160 +209,6 @@
    "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/2941426f489767e2b7e0bde7df938a97_64k.mp3",
    "guid": "2941426f489767e2b7e0bde7df938a97",
    "title": "ニュース 2026年11月21日午前02時00分"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/761d8b2645abca8d1f8bb4a7afd5f0d6_64k.mp3",
-   "guid": "761d8b2645abca8d1f8bb4a7afd5f0d6",
-   "title": "ニュース 2026年11月21日午前01時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 597,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/a727ef0b6bc1fd70d652215b104f7352_64k.mp3",
-   "guid": "a727ef0b6bc1fd70d652215b104f7352",
-   "title": "ニュース 2026年11月21日午前00時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/59bb07e4a1156387c684d50dd99e93fc_64k.mp3",
-   "guid": "59bb07e4a1156387c684d50dd99e93fc",
-   "title": "ニュース 2026年11月20日午後11時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 3297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/f0640ddc61af67f8a33b0451af24b798_64k.mp3",
-   "guid": "f0640ddc61af67f8a33b0451af24b798",
-   "title": "NHKジャーナル 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/666a1794f1a6fea735b83cb3b23cf1f8_64k.mp3",
-   "guid": "666a1794f1a6fea735b83cb3b23cf1f8",
-   "title": "ニュース 2026年11月20日午後09時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/16e213085a85ec731bdb3fdebb2ea806_64k.mp3",
-   "guid": "16e213085a85ec731bdb3fdebb2ea806",
-   "title": "ニュース 2026年11月20日午後08時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 294,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/e6fc1adf187cac6a15c9e6a873479d18_64k.mp3",
-   "guid": "e6fc1adf187cac6a15c9e6a873479d18",
-   "title": "NHKやさしいことばニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 1797,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/435e830fd514cbcbfd22fc99acda9c75_64k.mp3",
-   "guid": "435e830fd514cbcbfd22fc99acda9c75",
-   "title": "ニュース NHKきょうのニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/2f3f0bb0e9f6966d99f763fd6f0cb295_64k.mp3",
-   "guid": "2f3f0bb0e9f6966d99f763fd6f0cb295",
-   "title": "ニュース 2026年11月20日午後06時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/2f6c817e74d6f1537ccb389e983a3a03_64k.mp3",
-   "guid": "2f6c817e74d6f1537ccb389e983a3a03",
-   "title": "ニュース 2026年11月20日午後03時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/d22df7ba3d276de19e8e1af8d27c2d05_64k.mp3",
-   "guid": "d22df7ba3d276de19e8e1af8d27c2d05",
-   "title": "ニュース 2026年11月20日午後02時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/95b40d472910cc5dd135f3179184b89f_64k.mp3",
-   "guid": "95b40d472910cc5dd135f3179184b89f",
-   "title": "ニュース 2026年11月20日午後01時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 897,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/b6e9d2a6e17bfc145b173868eb53fac1_64k.mp3",
-   "guid": "b6e9d2a6e17bfc145b173868eb53fac1",
-   "title": "ニュース 正午のNHKニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/11041f069d2dc7d04400dbca5cb35723_64k.mp3",
-   "guid": "11041f069d2dc7d04400dbca5cb35723",
-   "title": "ニュース 2026年11月20日午前11時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/fd07b2af363352727967049e85925b6b_64k.mp3",
-   "guid": "fd07b2af363352727967049e85925b6b",
-   "title": "ニュース 2026年11月20日午前10時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/3b186dcd5e5669d1565c7c6358c4e59a_64k.mp3",
-   "guid": "3b186dcd5e5669d1565c7c6358c4e59a",
-   "title": "ニュース 2026年11月20日午前09時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 177,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/8b3190e668890f62faf28f73cc0f2d8c_64k.mp3",
-   "guid": "8b3190e668890f62faf28f73cc0f2d8c",
-   "title": "マイあさ! 午前8時のNHKニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 1170,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/0db7617ae9706ea29c3837e1c932d169_64k.mp3",
-   "guid": "0db7617ae9706ea29c3837e1c932d169",
-   "title": "マイあさ! 午前7時のNHKニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 780,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/61bef655c098a44939a0c1d52f3a56f1_64k.mp3",
-   "guid": "61bef655c098a44939a0c1d52f3a56f1",
-   "title": "マイあさ! 午前6時のNHKニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 870,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/4080f2059465a0a402b3db0a779024b5_64k.mp3",
-   "guid": "4080f2059465a0a402b3db0a779024b5",
-   "title": "マイあさ! 午前5時のNHKニュース 2026年11月20日"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/b722ea32bb37d43b51ca5e5bc2720e60_64k.mp3",
-   "guid": "b722ea32bb37d43b51ca5e5bc2720e60",
-   "title": "ニュース 2026年11月20日午前04時00分"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 297,
-   "enclosure": "https://www.nhk.or.jp/s-media/news/podcast/audio/d3e720ca68ee20a64ac1f75cc39d4634_64k.mp3",
-   "guid": "d3e720ca68ee20a64ac1f75cc39d4634",
-   "title": "ニュース 2026年11月20日午前03時00分"
   }
  ]
 }

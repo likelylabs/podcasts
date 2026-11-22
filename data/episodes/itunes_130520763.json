@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1484,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp6vtf.mp3",
+   "guid": "urn:bbc:podcast:p0pp6vy9",
+   "title": "Las Vegas GP Quali Review: A Messy Night On The Strip"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2355,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnz4g5.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p85xz2.mp3",
    "guid": "urn:bbc:podcast:p0p865fk",
    "title": "Italian GP Quali Review: Magnificent Monza Delivers Huge Shock"
-  },
-  {
-   "date": "2026-09-04",
-   "durationSec": 1796,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7vt5z.mp3",
-   "guid": "urn:bbc:podcast:p0p7vvj8",
-   "title": "Italian GP Preview: Ferrari & Antonelli Bring Monza Heat"
   }
  ]
 }

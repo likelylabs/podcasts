@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-20",
+   "durationSec": 1796,
+   "enclosure": "https://podcasts.muslimcentral.com/yasir-qadhi/yasir-qadhi-muslimcentral.com-your-attention-is-under-attack-2026-11-20.mp3",
+   "guid": "https://muslimcentral.com/yasir-qadhi-your-attention-is-under-attack",
+   "title": "Your Attention Is Under Attack"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 4659,
    "enclosure": "https://podcasts.muslimcentral.com/yasir-qadhi/yasir-qadhi-muslimcentral.com-was-islam-spread-by-the-sword-the-untold-history-2026-11-19.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podcasts.muslimcentral.com/yasir-qadhi/yasir-qadhi-muslimcentral.com-careful-allah-can-take-it-all-away-2026-09-23.mp3",
    "guid": "https://muslimcentral.com/yasir-qadhi-careful-allah-can-take-it-all-away",
    "title": "Careful Allah Can Take It All Away"
-  },
-  {
-   "date": "2026-09-21",
-   "durationSec": 1563,
-   "enclosure": "https://podcasts.muslimcentral.com/yasir-qadhi/yasir-qadhi-muslimcentral.com-do-you-actually-believe-in-allah-2026-09-21.mp3",
-   "guid": "https://muslimcentral.com/yasir-qadhi-do-you-actually-believe-in-allah",
-   "title": "Do You Actually Believe in Allah"
   }
  ]
 }

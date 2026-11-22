@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 614,
+   "enclosure": "https://anchor.fm/s/5b809c64/podcast/play/128486396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2Ff093f2c5-62a3-a1e2-d090-c2abe0a6b299.mp3",
+   "guid": "c775b1cd-c789-4fc3-afb8-6fc11858f20d",
+   "title": "Episode 228 - \"ni shitewa\" (For / Considering / For someone or something that is ~)"
+  },
+  {
    "date": "2026-11-07",
    "durationSec": 588,
    "enclosure": "https://anchor.fm/s/5b809c64/podcast/play/125655866/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2Fbae4adec-d103-87f2-483d-cd2b78b6d9d5.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/5b809c64/podcast/play/106968840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-17%2F75411c2e-828b-99c5-8d9c-4b6ac366cfb7.mp3",
    "guid": "1c23a91f-5d13-4f12-a067-42f120786a28",
    "title": "Episode 200 - How to use \"ue ni\" (Not only ~, but also ~; On top of ~; Moreover ~)"
-  },
-  {
-   "date": "2025-09-27",
-   "durationSec": 532,
-   "enclosure": "https://anchor.fm/s/5b809c64/podcast/play/106968607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-17%2F404ea4c0-c7cd-0e46-de7e-2e9384a6e4f5.mp3",
-   "guid": "d07cca70-e654-437d-b2ad-2277702cb0c2",
-   "title": "Episode 199 - How to use \"te mo shouganai / te mo shikata ga nai\" (It can’t be helped (even if ~); There’s no use (even if ~); Naturally ~)"
   }
  ]
 }

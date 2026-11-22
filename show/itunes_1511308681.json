@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1511308681",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-22T08:18:51+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP334 心情樹",
+   "date": "2026-11-21",
+   "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/129791068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fa9e33595-e4e0-f4eb-a6de-4e97ad7d3b76.mp3",
+   "durationSec": 657,
+   "guid": "cf443406-2e02-4fb4-969e-233cbcec4472"
+  },
   {
    "title": "EP330 萬聖節南瓜要嚇人？",
    "date": "2026-10-24",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/103025625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2Fa367b0a8-bc12-1c0d-8818-dc0eb9fb03f7.mp3",
    "durationSec": 253,
    "guid": "f83a1def-fa34-4dcb-87bd-489f3d3f5bc4"
-  },
-  {
-   "title": "EP253 借我一點時間",
-   "date": "2025-05-03",
-   "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/102081681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-2%2Fc96d204c-3e7c-edaf-5136-e865d3c4127f.mp3",
-   "durationSec": 595,
-   "guid": "3a082246-fb45-4347-bed3-a12e5b2c88f1"
   }
  ]
 }

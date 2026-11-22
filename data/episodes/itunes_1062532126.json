@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2810,
+   "enclosure": "https://episodes.captivate.fm/episode/35fdea84-9d7e-4cb4-8b30-191fc3ae4507.mp3?aw_0_1st.showid=2fb9921b-40d6-4413-8939-2e1533ca3b87&aw_0_1st.episodeid=35fdea84-9d7e-4cb4-8b30-191fc3ae4507",
+   "guid": "35fdea84-9d7e-4cb4-8b30-191fc3ae4507",
+   "title": "Arsenal's winning run ended by Newcastle in thrilling draw"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1137,
    "enclosure": "https://episodes.captivate.fm/episode/c2639dca-14ff-4a1e-8844-8137ad5462b2.mp3?aw_0_1st.showid=2fb9921b-40d6-4413-8939-2e1533ca3b87&aw_0_1st.episodeid=c2639dca-14ff-4a1e-8844-8137ad5462b2",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/111e1a2c-a97a-4fd7-a54d-6cae89750c3a.mp3?aw_0_1st.showid=2fb9921b-40d6-4413-8939-2e1533ca3b87&aw_0_1st.episodeid=111e1a2c-a97a-4fd7-a54d-6cae89750c3a",
    "guid": "111e1a2c-a97a-4fd7-a54d-6cae89750c3a",
    "title": "Chelsea’s defensive woes continue as Brentford win West London derby"
-  },
-  {
-   "date": "2026-09-15",
-   "durationSec": 3295,
-   "enclosure": "https://episodes.captivate.fm/episode/d1b5ddf0-eac9-4526-b917-bfe021f65d67.mp3?aw_0_1st.showid=2fb9921b-40d6-4413-8939-2e1533ca3b87&aw_0_1st.episodeid=d1b5ddf0-eac9-4526-b917-bfe021f65d67",
-   "guid": "d1b5ddf0-eac9-4526-b917-bfe021f65d67",
-   "title": "Calvert-Lewin stars as Leeds thrash Newcastle to go third"
   }
  ]
 }

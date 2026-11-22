@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 5205,
+   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/c8af4b9b-5dc5-4936-8646-8d124b3ce879/rssFileVip.mp3?timestamp=1795279849951",
+   "guid": "c8af4b9b-5dc5-4936-8646-8d124b3ce879",
+   "title": "29-4｜【老劭閒聊】直播：突如其來泰感性 流下酸辣口味的淚水...（開玩笑的）"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 7202,
-   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/da7343a2-35e3-4ad7-9bf1-9173722e8619/rssFileVip.mp3?timestamp=1795198972608",
+   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/da7343a2-35e3-4ad7-9bf1-9173722e8619/rssFileVip.mp3?timestamp=1795279817643",
    "guid": "da7343a2-35e3-4ad7-9bf1-9173722e8619",
-   "title": "Day29-3｜直播馬拉松：豚的三溫暖港式體驗，以及一大堆有的沒的（真的太瑣碎了）feat. 豚"
+   "title": "Day29-3｜【老劭閒聊】直播馬拉松：豚的三溫暖港式體驗，以及一大堆有的沒的（真的太瑣碎了）feat. 豚"
   },
   {
    "date": "2026-11-20",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/60c1471b-c106-49d2-8c8c-c110b2429d8e/rssFileVip.mp3?timestamp=1774557350818",
    "guid": "60c1471b-c106-49d2-8c8c-c110b2429d8e",
    "title": "Day 10-1｜罵老公信箱：為恨朗讀 之 我恨我愛你💗 feat. Oprah"
-  },
-  {
-   "date": "2026-03-19",
-   "durationSec": 1686,
-   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/938142f7-17bf-47a9-a555-04b94143261d/rssFileVip.mp3?timestamp=1773866567459",
-   "guid": "938142f7-17bf-47a9-a555-04b94143261d",
-   "title": "Day 9｜老劭閒聊：2026伊朗戰爭🚀民主歡樂送是和平的終極解答嗎？"
   }
  ]
 }

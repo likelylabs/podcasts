@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1064,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f0a94159-1e7b-4208-9088-df19e8314067/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f0a94159-1e7b-4208-9088-df19e8314067&feed=JGE3yC0V",
+   "guid": "5d4b3bbc-38c9-4f04-adf4-0a5fa249fb73",
+   "title": "The Professional Network Built for You and Your AI Agent"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3205,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1185d26-c41a-40d4-9210-eca5adab915a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1185d26-c41a-40d4-9210-eca5adab915a&feed=JGE3yC0V",
    "guid": "97aecd60-4163-493a-8a2e-0ab519561ae4",
    "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 3660,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/46e9084f-65b6-47f8-8aa3-1c8505c30008/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=46e9084f-65b6-47f8-8aa3-1c8505c30008&feed=JGE3yC0V",
-   "guid": "310bb3d2-179e-4028-aa44-355aa31b7e95",
-   "title": "The Frontier Ideas a16z Wants to Fund | Marc Andreessen, Ben Horowitz & Chris Dixon"
   }
  ]
 }

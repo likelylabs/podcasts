@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 7916,
+   "enclosure": "https://traffic.megaphone.fm/DVVTS8174343580.mp3",
+   "guid": "29bf2688-e59e-11f1-8e17-fbee6bb3261d",
+   "title": "Steve Jurvetson on the SpaceX Deal That Almost Didn’t Happen | EP #314"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 7171,
    "enclosure": "https://traffic.megaphone.fm/DVVTS7543111415.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/DVVTS6594767855.mp3",
    "guid": "a3d21db6-ac70-11f1-b56c-733b4d57ca80",
    "title": "Why Jensen Huang Believes We’ve Reached AGI and Inside OpenAI’s German Website Hijack | #287"
-  },
-  {
-   "date": "2026-09-06",
-   "durationSec": 8741,
-   "enclosure": "https://traffic.megaphone.fm/DVVTS3996679437.mp3",
-   "guid": "7ad7fcd8-a931-11f1-bffa-c7609ced84aa",
-   "title": "GPT-6 Astra Saturates ARC-AGI-3, Tesla's $30K Cybercab Floods Austin, Anthropic Proves Fermat's Last Theorem | EP #286"
   }
  ]
 }

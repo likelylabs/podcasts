@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2779,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3422455500.mp3",
+   "guid": "9927a816-e4f3-11f1-ba65-5f7a8b8a4670",
+   "title": "How Fluoride Saved Our Teeth"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2019,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3435456531.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5508391153.mp3",
    "guid": "5993fda2-9634-11f1-a666-fbfd20bc037b",
    "title": "The Lake At The North Pole That Stops Europe From Freezing"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 3602,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT9491576964.mp3",
-   "guid": "7f09b98a-91a9-11f1-98d1-f34fdea1f3af",
-   "title": "The Science of Putting Sunglasses on The Sun"
   }
  ]
 }

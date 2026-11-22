@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 3966,
+   "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6b00429addc192a77baf5f1a/media.mp3",
+   "guid": "6b00429addc192a77baf5f1a",
+   "title": "Ring for Analysis: How Pochettino changed the USMNT job forever"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 4487,
    "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6aff28eccfd856c7b8c6b8fb/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6ab65693d721eb5e8e2882cb/media.mp3",
    "guid": "6ab65693d721eb5e8e2882cb",
    "title": "Ring for Analysis: Why don't goalkeepers cost more?"
-  },
-  {
-   "date": "2026-09-25",
-   "durationSec": 4283,
-   "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6ab52dcb19988943e6bb9c76/media.mp3",
-   "guid": "6ab52dcb19988943e6bb9c76",
-   "title": "Mourinho’s Real Madrid drama, Brentford’s consistency & Monaco top the league!"
   }
  ]
 }

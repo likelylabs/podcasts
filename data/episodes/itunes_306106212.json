@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 710,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML5405965276.mp3",
+   "guid": "58f936f8-05d6-11f1-8acd-0b0c81214fb1",
+   "title": "Is a Japan-Style Downturn Possible in the U.S.?"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2435,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML3443864326.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML2382551148.mp3",
    "guid": "3764c426-05d6-11f1-bdf8-a7bdb26a9d93",
    "title": "Is the AI Bubble Popping?"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1536,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML1395344398.mp3",
-   "guid": "37813b1a-05d6-11f1-bdf8-c73a55043b81",
-   "title": "Did IBM Just Tell the Truth About AI?"
   }
  ]
 }

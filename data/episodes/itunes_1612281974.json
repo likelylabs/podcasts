@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 2564,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/dc5e64eb-c851-4c9a-a287-ab9f99afbec0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=dc5e64eb-c851-4c9a-a287-ab9f99afbec0&feed=Nh1wIaXT",
+   "guid": "549689e5-b92b-4d01-9972-035b27d4dadc",
+   "title": "AI Sell-Off Deepens as Nvidia, Nasdaq and Commodities Slide"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 2808,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/3bf57704-98c9-4b1b-9225-31a713897b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=3bf57704-98c9-4b1b-9225-31a713897b4f&feed=Nh1wIaXT",
    "guid": "104384f1-a8cf-40ff-bc72-28859c216222",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/e74d3834-8265-44a7-9f7a-7faea05468b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=e74d3834-8265-44a7-9f7a-7faea05468b8&feed=Nh1wIaXT",
    "guid": "d1c21e5e-8b06-4a53-a6ea-4e7a61479485",
    "title": "Closing Bell: 11/2/26"
-  },
-  {
-   "date": "2026-11-02",
-   "durationSec": 1179,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/76fc5ab9-74e5-4ab9-af66-e7d7c2d8129a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=76fc5ab9-74e5-4ab9-af66-e7d7c2d8129a&feed=Nh1wIaXT",
-   "guid": "3a82d178-86c7-467e-8aa7-aceef3aeeb7b",
-   "title": "CNBC Investigations: Gamble on Democracy"
   }
  ]
 }

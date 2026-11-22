@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 328,
+   "enclosure": "https://media.transistor.fm/dac03119/11e99a81.mp3",
+   "guid": "24066203-fde9-418a-a8c1-f4152357d3fd",
+   "title": "蒙召服事"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 447,
    "enclosure": "https://media.transistor.fm/954a0d61/559e20cb.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://media.transistor.fm/1f4970f0/cd418a84.mp3",
    "guid": "563b8bc8-395d-4b37-857b-1aad6a22e80f",
    "title": "忠心服事"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 351,
-   "enclosure": "https://media.transistor.fm/685a8763/819a74d9.mp3",
-   "guid": "561bafd5-1e0d-4f66-a62a-0ebc6e97fa2c",
-   "title": "渡过难关"
   }
  ]
 }

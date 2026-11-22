@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 2703,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3b082bbf-691d-443b-bc59-ae2b0012ff93/6c7c4e2e-58f3-473a-9f0d-b5080116114d/audio.mp3?utm_source=Podcast&in_playlist=9222076a-d22a-4a9f-9d26-ae2b0012ffb4",
+   "guid": "6c7c4e2e-58f3-473a-9f0d-b5080116114d",
+   "title": "Bloomberg Businessweek Weekend: November 20th, 2026"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 1894,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3b082bbf-691d-443b-bc59-ae2b0012ff93/5926d2ac-9b27-449e-8fa0-b5080173cfed/audio.mp3?utm_source=Podcast&in_playlist=9222076a-d22a-4a9f-9d26-ae2b0012ffb4",
    "guid": "5926d2ac-9b27-449e-8fa0-b5080173cfed",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3b082bbf-691d-443b-bc59-ae2b0012ff93/e0703d63-d1f2-4b72-862c-b4f7015a8c2f/audio.mp3?utm_source=Podcast&in_playlist=9222076a-d22a-4a9f-9d26-ae2b0012ffb4",
    "guid": "e0703d63-d1f2-4b72-862c-b4f7015a8c2f",
    "title": "Groundwork Collaborative CEO on Affordability Concerns"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 2195,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3b082bbf-691d-443b-bc59-ae2b0012ff93/4a3e6420-d413-4303-a74a-b4f7018a1f31/audio.mp3?utm_source=Podcast&in_playlist=9222076a-d22a-4a9f-9d26-ae2b0012ffb4",
-   "guid": "4a3e6420-d413-4303-a74a-b4f7018a1f31",
-   "title": "Midterms Notch Records on Early Voting, Ad Spending"
   }
  ]
 }

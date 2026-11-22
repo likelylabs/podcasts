@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 268,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3069655.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3069655?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - Vos questions sms -"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 3614,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3069656.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3069656?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - L'intégrale -"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 726,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3059701.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3059701?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Xavier Tytelman - \"Pont de Poutine\" attaqué: les coulisses de l'opération secrète"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 224,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3060058.mp3?origin=rss",
@@ -188,27 +209,6 @@
    "enclosure": "https://api.octopus.saooti.com/podcast/download/2967062.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/2967062?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Jérôme Fourquet - Radiographie d'un pays déprimé"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 403,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2966549.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2966549?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Teddy Rinner peut-il bousculer la présidentielle ? - Vos questions sms -"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 3814,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2966550.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2966550?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Teddy Rinner peut-il bousculer la présidentielle ? - L'intégrale -"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 668,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2957967.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2957967?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Olivier Blanchard - La crise financière a-t-elle déjà commencé?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 919,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/f13cc947-a38c-428a-8132-4d3b7434e8a6/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=f13cc947-a38c-428a-8132-4d3b7434e8a6&feed=HMwRVgVt&t=podcast&e=nx-s1-6048721&p=510318&d=919&size=14710953",
+   "guid": "f8600315-cd27-4af5-b0a8-a02cd084e8c7",
+   "title": "AI Stocks Tumble, Permitting Reform Bill Clears Senate, Confusion Over Medicaid Cuts"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 771,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/7f325634-ed4b-4332-8204-e74e770ac411/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=7f325634-ed4b-4332-8204-e74e770ac411&feed=HMwRVgVt&t=podcast&e=nx-s1-6048392&p=510318&d=771&size=12349902",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/62f160ad-ecff-40a2-9568-91cda604d9dc/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=62f160ad-ecff-40a2-9568-91cda604d9dc&feed=HMwRVgVt&t=podcast&e=nx-s1-6014758&p=510318&d=1479&size=23677474",
    "guid": "ee9a99b6-4cd5-4696-87fc-32f119af06e1",
    "title": "Pinching pennies, casting ballots: a midterms dispatch from the Midwest"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 938,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/bb8e4510-99da-4c48-94c5-513d3c945281/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=bb8e4510-99da-4c48-94c5-513d3c945281&feed=HMwRVgVt&t=podcast&e=nx-s1-6014537&p=510318&d=938&size=15016482",
-   "guid": "6537bc8a-63c6-459e-8a45-aabfefa35e67",
-   "title": "Websites Go Offline, Protests in France, Netflix Downsizes"
   }
  ]
 }

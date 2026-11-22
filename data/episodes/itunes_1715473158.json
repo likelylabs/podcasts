@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1692,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp4pgc.mp3",
+   "guid": "urn:bbc:podcast:p0pp4qt3",
+   "title": "BONUS: Robert Pattinson, Jeff Bezos and the future of James Bond"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1627,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnzbh4.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgdm35.mp3",
    "guid": "urn:bbc:podcast:w3ct8mj6",
    "title": "Was World War Two worth it? Some US conservatives have doubts"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 1636,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pg7pkb.mp3",
-   "guid": "urn:bbc:podcast:w3ct8mcp",
-   "title": "Are we really living in unprecedented times?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 2232,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b008d14d0e980d0cfd6dcc8/media.mp3",
+   "guid": "6b008d14d0e980d0cfd6dcc8",
+   "title": "Martin Wolf on the US midterms: Could history help predict the next two years of US politics?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 829,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6aff7d20dd60ec849f267082/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ad7f611a25058b22a1460c5/media.mp3",
    "guid": "6ad7f611a25058b22a1460c5",
    "title": "Israel pushes to restart strikes against Iran"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 784,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ad697f4c23d5753120afd96/media.mp3",
-   "guid": "6ad697f4c23d5753120afd96",
-   "title": "Can Big Tech calm investors' AI jitters?"
   }
  ]
 }

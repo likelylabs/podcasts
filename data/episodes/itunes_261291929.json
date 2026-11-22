@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 844,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp38vh.mp3",
+   "guid": "urn:bbc:podcast:p0pp3b1b",
+   "title": "Leon Goretzka: How tough is the Premier League, & why Aston Villa?"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 2894,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp46xd.mp3",
    "guid": "urn:bbc:podcast:m003471n",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph396q.mp3",
    "guid": "urn:bbc:podcast:p0ph4183",
    "title": "Kasper and Peter Schmeichel - The Football Interview"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 3460,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph3hld.mp3",
-   "guid": "urn:bbc:podcast:m0032shg",
-   "title": "TCV: Seafood, pub quizzes & Martin Lewis' phone-a-friend"
   }
  ]
 }

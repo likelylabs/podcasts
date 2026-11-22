@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 3686,
+   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/5793d605-5cbf-4c86-98bb-aa8cfc480a94/rssFileVip.mp3?timestamp=1795273009676",
+   "guid": "5793d605-5cbf-4c86-98bb-aa8cfc480a94",
+   "title": "EP164 第一屆607班長辯論會"
+  },
+  {
    "date": "2026-11-11",
    "durationSec": 3974,
-   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/c010742d-eaf7-49c4-8cbf-c066a71f735c/rssFileVip.mp3?timestamp=1794351297889",
+   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/c010742d-eaf7-49c4-8cbf-c066a71f735c/rssFileVip.mp3?timestamp=1794386005104",
    "guid": "c010742d-eaf7-49c4-8cbf-c066a71f735c",
    "title": "EP163 鳳梨"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/00199e0d-2f04-447b-b58c-821d946efe73/rssFileVip.mp3?timestamp=1775693116732",
    "guid": "00199e0d-2f04-447b-b58c-821d946efe73",
    "title": "EP135 追高之人"
-  },
-  {
-   "date": "2026-04-01",
-   "durationSec": 4234,
-   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/ead0d914-88d1-41e8-818f-ebe6ad0fe8a9/rssFileVip.mp3?timestamp=1775088194061",
-   "guid": "ead0d914-88d1-41e8-818f-ebe6ad0fe8a9",
-   "title": "EP134 這到底什麼公主小妹的故事啊"
   }
  ]
 }

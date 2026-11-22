@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2359,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp92gr.mp3",
+   "guid": "urn:bbc:podcast:w1730bncr1nf7sb",
+   "title": "Russian cargo ship struck by drones in the Gulf of Finland"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 2334,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp7tmm.mp3",
+   "guid": "urn:bbc:podcast:w1730bncr1nd8t9",
+   "title": "FBI investigates apparent database hack"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2849,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp5lm8.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pljlv3.mp3",
    "guid": "urn:bbc:podcast:w1730bnc0j0p4rg",
    "title": "Protesters in France escalate their demands"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 2720,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plgpjb.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0n9jk",
-   "title": "More huge protests in France"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 2848,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plc4q4.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0l7vc",
-   "title": "US Republicans begin blame game after midterm losses"
   }
  ]
 }

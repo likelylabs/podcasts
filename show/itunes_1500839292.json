@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1500839292",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-22T08:18:51+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP716 | 🍒",
+   "date": "2026-11-21",
+   "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9518e365-fb3b-498b-a7f7-fc1c56b33371/rssFileVip.mp3?timestamp=1795245484561",
+   "durationSec": 3157,
+   "guid": "9518e365-fb3b-498b-a7f7-fc1c56b33371"
+  },
   {
    "title": "EP715 | 🥐",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/63275cd6-e7a5-4ece-8432-e39884d94ae2/rssFileVip.mp3?timestamp=1786560899767",
    "durationSec": 3145,
    "guid": "63275cd6-e7a5-4ece-8432-e39884d94ae2"
-  },
-  {
-   "title": "EP686 | 🕸️",
-   "date": "2026-08-08",
-   "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e0b7654-dec7-479d-8edd-b5d51f76126d/rssFileVip.mp3?timestamp=1786215027859",
-   "durationSec": 3002,
-   "guid": "0e0b7654-dec7-479d-8edd-b5d51f76126d"
   }
  ]
 }

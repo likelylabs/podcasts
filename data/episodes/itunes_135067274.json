@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1589,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
+   "guid": "urn:bbc:podcast:p0pp4d5y",
+   "title": "The Happy Pod: The 'amazing’ device that controls Tourette's"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 1469,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3",
+   "guid": "urn:bbc:podcast:p0pp66wy",
+   "title": "Man found guilty of starting deadly LA wildfire"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1763,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp3ndk.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
    "guid": "urn:bbc:podcast:p0plplrh",
    "title": "The Happy Pod: Celebrating the wedding that never happened"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 1592,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3",
-   "guid": "urn:bbc:podcast:p0plrs2j",
-   "title": "Trump appoints new chief of staff after midterm defeat"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 1475,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
-   "guid": "urn:bbc:podcast:p0plnyvn",
-   "title": "Tech stocks tank over AI panic"
   }
  ]
 }

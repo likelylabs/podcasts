@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 3406,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e31d322b-24f8-40df-a703-b4c60101b0de/37c07cce-e329-40c6-a97b-b5060182bec0/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+   "guid": "fee6cec8-8830-40ec-aafc-b50601849bfe",
+   "title": "Weekend Listen: Power On Talks Apple's Software Problem  With Joanna Stern"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 2575,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/af2918dd-efd3-469e-af05-b50801231cff/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
    "guid": "af2918dd-efd3-469e-af05-b50801231cff",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/263d93e2-3f79-4018-a538-b4eb0131d247/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
    "guid": "263d93e2-3f79-4018-a538-b4eb0131d247",
    "title": "Meta Doubles Down on AI Spending, Plans New Class C Shares"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 2564,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/966487ae-09bd-4d1b-afc5-b4ea01336c76/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
-   "guid": "966487ae-09bd-4d1b-afc5-b4ea01336c76",
-   "title": "SpaceX has Blowout Quarter as Musk Floats Merger with Tesla"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2696,
+   "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/0ff19fb7-8635-4938-998a-34fde61efe82/rssFileVip.mp3?timestamp=1795302728566",
+   "guid": "0ff19fb7-8635-4938-998a-34fde61efe82",
+   "title": "After Meeting EP. 222｜鬼故事特輯：後黃仁勳時代來臨"
+  },
+  {
    "date": "2026-11-15",
    "durationSec": 3684,
    "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/aa888bb3-e896-463f-a578-449f7dfe99b4/rssFileVip.mp3?timestamp=1794735768237",
@@ -59,7 +66,7 @@
   {
    "date": "2026-09-20",
    "durationSec": 3863,
-   "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/aa0ad5ad-3546-45a0-ad44-20b39c7c598e/rssFileVip.mp3?timestamp=1793565501932",
+   "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/aa0ad5ad-3546-45a0-ad44-20b39c7c598e/rssFileVip.mp3?timestamp=1794055661791",
    "guid": "aa0ad5ad-3546-45a0-ad44-20b39c7c598e",
    "title": "After Meeting EP. 214｜聯準會終究是升息了！年底還會再一碼？"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/1ad488fd-f068-4a02-a2f2-414d0c8bd290/rssFileVip.mp3?timestamp=1784563494245",
    "guid": "1ad488fd-f068-4a02-a2f2-414d0c8bd290",
    "title": "After Meeting EP. 199｜台韓股市大超車，AI 浪潮才剛開始而已"
-  },
-  {
-   "date": "2026-05-10",
-   "durationSec": 3115,
-   "enclosure": "https://rss.soundon.fm/rssf/d2aab16c-3a70-4023-b52b-e50f07852ecd/feedurl/bade9150-a5e3-4dc9-b649-50fb2d183ce6/rssFileVip.mp3?timestamp=1785219638823",
-   "guid": "bade9150-a5e3-4dc9-b649-50fb2d183ce6",
-   "title": "After Meeting EP. 198｜Open AI 被超車！LLM 混戰要壓哪一邊？"
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1819,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnwglx.mp3",
+   "guid": "urn:bbc:podcast:p0pnwj60",
+   "title": "The Interface: How will we know if AI becomes conscious?"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 1434,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4l08.mp3",
+   "guid": "urn:bbc:podcast:p0pp4s5h",
+   "title": "My country is being lost to the sea"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1598,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnvj2y.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phpbcx.mp3",
    "guid": "urn:bbc:podcast:p0phpdlp",
    "title": "Germany's rust belt revival"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 1449,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj8w6x.mp3",
-   "guid": "urn:bbc:podcast:p0pj8zyn",
-   "title": "Living with dementia"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1596,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0php7db.mp3",
-   "guid": "urn:bbc:podcast:p0php9zx",
-   "title": "The right thing: Gaza's parish priest"
   }
  ]
 }

@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 343,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/23bb18ff-28ed-49cb-8a92-bb3265e4cf65/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=23bb18ff-28ed-49cb-8a92-bb3265e4cf65&feed=BA5QWI2p",
+   "guid": "8E4BF0B0-2A7B-43C8-B99E-D2D12142B5C9",
+   "title": "What’s News in Markets: Anthropic IPO, Nvidia Drama, ‘GTA VI’"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 883,
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e456fe44-6adc-40bd-8540-a01a31cf79f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e456fe44-6adc-40bd-8540-a01a31cf79f1&feed=BA5QWI2p",
    "guid": "E11F58B1-6E57-4E15-9915-7922343552C5",
@@ -202,13 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/507b90ec-9034-4ca1-ab7a-d0c90171d717/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=507b90ec-9034-4ca1-ab7a-d0c90171d717&feed=BA5QWI2p",
    "guid": "33320877-78DC-4C26-BC11-29319AB63E3B",
    "title": "The Cost of Living Crisis Isn’t Going Away"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 802,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/f0888a49-53ab-4190-9f6a-5c5cf9d098d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=f0888a49-53ab-4190-9f6a-5c5cf9d098d8&feed=BA5QWI2p",
-   "guid": "7A7CDA5B-D92F-4D3C-8213-F31EAD901FAF",
-   "title": "Democrats Have Won Control of Congress. What Happens Next?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 796,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH2828355336.mp3",
+   "guid": "a97b86e0-e5b3-11f1-96bf-af93f2a9cd08",
+   "title": "Wall Street plunges, climate talks run over, and Republicans position for 2028"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 796,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH6262877270.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH3035203611.mp3",
    "guid": "32647a1c-d05f-11f1-8baf-9f2cebe36a05",
    "title": "France protests, Texas Senate race and West Bank olives"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 800,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH8855222616.mp3",
-   "guid": "990040f0-cf81-11f1-929c-c785f1e9dbcc",
-   "title": "US Starlink requests, Alaska's Senate race and Serbia's elections"
   }
  ]
 }

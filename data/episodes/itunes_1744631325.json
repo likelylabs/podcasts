@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 650,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2473149735.mp3",
+   "guid": "bd528c40-b8ef-11f1-a392-fb52de56710d",
+   "title": "Jensen Huang's Downfall Reveals Silicon Valley's Biggest Problem"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3617,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2953819661.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5921048105.mp3",
    "guid": "9ff9b4f6-c3c8-11f0-a59c-0ba8f4d9dbea",
    "title": "Why The Tech Selloff Just Reversed Course"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 4523,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8555728663.mp3",
-   "guid": "9fa61a62-c3c8-11f0-a59c-2bcb3dde483b",
-   "title": "Why The Stock Market Is Booming — But Your Paycheck Isn't"
   }
  ]
 }

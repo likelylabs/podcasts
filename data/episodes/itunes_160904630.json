@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-21",
+   "durationSec": 2185,
+   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3",
+   "guid": "6b00794904470b737a38a15a",
+   "title": "Why intuition is the heart of music | Fabiola Reyna"
+  },
+  {
+   "date": "2026-11-21",
    "durationSec": 837,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afdeb0309ab149ef043dc8e/media.mp3",
    "guid": "6afdeb0309ab149ef043dc8e",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3",
    "guid": "6adf721fa8783bd475575090",
    "title": "How video games can power up your parenting | Hannah Boquet (re-release)"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 724,
-   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3",
-   "guid": "6adf6cc9a8783bd47557508f",
-   "title": "Unions for climate action! | Payton M. Wilkins (re-release)"
   }
  ]
 }

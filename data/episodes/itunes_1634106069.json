@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 558,
+   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/d1380c84-e455-48cc-a39f-6fe6d371d210/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=d1380c84-e455-48cc-a39f-6fe6d371d210&feed=fFPK3rs_",
+   "guid": "f6e15b1d-bad3-4171-9d59-489b988aa6b1",
+   "title": "Your Car Is a Computer, and Its Brakes Can Be Hacked | Marc Goodman"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 382,
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/07d00e76-00da-4d29-aaff-36bf21501657/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=07d00e76-00da-4d29-aaff-36bf21501657&feed=fFPK3rs_",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/bc0ac541-14a8-4894-85a5-bc9954876b0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=bc0ac541-14a8-4894-85a5-bc9954876b0c&feed=fFPK3rs_",
    "guid": "61161bc8-309a-4b0b-87e0-b09015c7dd24",
    "title": "Turn Your Anxiety Into a Signal That Finally Sets You Free | Dr. John Delony"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 452,
-   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/b40f964d-52d7-4d48-8f9b-88a8453ac192/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=b40f964d-52d7-4d48-8f9b-88a8453ac192&feed=fFPK3rs_",
-   "guid": "98b9af07-fe21-41f0-8691-d18cd16aa514",
-   "title": "How To Destroy Scarcity With Gratitude in 10 Minutes a Day | Tony Robbins"
   }
  ]
 }

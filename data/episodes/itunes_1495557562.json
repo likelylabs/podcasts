@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 2413,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b018038a94212ad7c93cda6/media.mp3",
+   "guid": "6b018038a94212ad7c93cda6",
+   "title": "In-Casino Insights: Ferrari's Las Vegas GP qualifying disaster explained"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2167,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b00292273381802b4e3d495/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6ac760ac68b7ce6ffb30ba91/media.mp3",
    "guid": "6ac760ac68b7ce6ffb30ba91",
    "title": "F1 Rewind: How his Dad's F1 failure made Max Verstappen an F1 great"
-  },
-  {
-   "date": "2026-10-07",
-   "durationSec": 3890,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6ac6366d29b9fbfbe249bdf1/media.mp3",
-   "guid": "6ac6366d29b9fbfbe249bdf1",
-   "title": "Where's the Antonelli hype? Buxton and Daly have their say on F1's champion-elect"
   }
  ]
 }

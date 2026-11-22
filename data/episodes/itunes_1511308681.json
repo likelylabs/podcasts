@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 657,
+   "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/129791068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fa9e33595-e4e0-f4eb-a6de-4e97ad7d3b76.mp3",
+   "guid": "cf443406-2e02-4fb4-969e-233cbcec4472",
+   "title": "EP334 心情樹"
+  },
+  {
    "date": "2026-10-24",
    "durationSec": 726,
    "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/127838971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Fb0640f28-79c6-a3d9-5d97-944da83904cd.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/103025625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2Fa367b0a8-bc12-1c0d-8818-dc0eb9fb03f7.mp3",
    "guid": "f83a1def-fa34-4dcb-87bd-489f3d3f5bc4",
    "title": "EN1 Toto Has a Problem (多多有問題 英語版)"
-  },
-  {
-   "date": "2025-05-03",
-   "durationSec": 595,
-   "enclosure": "https://anchor.fm/s/ebb826bc/podcast/play/102081681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-2%2Fc96d204c-3e7c-edaf-5136-e865d3c4127f.mp3",
-   "guid": "3a082246-fb45-4347-bed3-a12e5b2c88f1",
-   "title": "EP253 借我一點時間"
   }
  ]
 }

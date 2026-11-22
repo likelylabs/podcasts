@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 4350,
+   "enclosure": "https://traffic.libsyn.com/secure/thetwentyminutevc/20Growth__Kush_Bavaria__Ornn.mp3?dest-id=240976",
+   "guid": "d70c53e1-dcc7-4f40-8074-6935ed954820",
+   "title": "20VC: The State of Compute: What Everyone Needs to Know | Why Neo-Clouds are Great Businesses | What Everyone Is Missing About GPU Prices? | How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 4377,
    "enclosure": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_EP.83.mp3?dest-id=240976",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.libsyn.com/secure/thetwentyminutevc/David_Morehead__Baylor_University.mp3?dest-id=240976",
    "guid": "0c19dd21-b0ec-4947-a0c0-96ad5800b1bb",
    "title": "20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want | Why Fund Multiple Does Not Matter Without a Timeline | Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor"
-  },
-  {
-   "date": "2026-09-12",
-   "durationSec": 4543,
-   "enclosure": "https://traffic.libsyn.com/secure/thetwentyminutevc/20Growth__Matteo_Franceschetti__Eight_Sleep_2.mp3?dest-id=240976",
-   "guid": "1011bf1a-416b-493f-9d51-a632f157e220",
-   "title": "20VC: 7 Predictions for How AI Changes the World: Labour, Engineering, Social Media, GrokBots Buying Cybercabs and more with Matteo Franceschetti, Co-Founder @ Eight Sleep"
   }
  ]
 }

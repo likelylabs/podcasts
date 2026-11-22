@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 4232,
+   "enclosure": "https://pscrb.fm/rss/p/serve.castfire.com/audio/8721874/8721874_2026-10-02-174614.192.mp3?rssID=6766",
+   "guid": "2QrkcnrF6TTp3iew9LMytKFdKm6j0UUl",
+   "title": "Rocky Relationships w/ Gianmarco Soresi | Reading Reddit Stories"
+  },
+  {
    "date": "2026-11-15",
    "durationSec": 3214,
    "enclosure": "https://pscrb.fm/rss/p/serve.castfire.com/audio/8721873/8721873_2026-10-02-174513.192.mp3?rssID=6766",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/serve.castfire.com/audio/8677537/8677537_2026-09-22-184937.192.mp3?rssID=6766",
    "guid": "audioboom-019ddf8e-c7be-7448-ab31-dec6bd19b7a8",
    "title": "Dating Is Cooked | Reading Reddit Stories"
-  },
-  {
-   "date": "2026-04-26",
-   "durationSec": 4566,
-   "enclosure": "https://pscrb.fm/rss/p/serve.castfire.com/audio/8677540/8677540_2026-09-22-185440.192.mp3?rssID=6766",
-   "guid": "audioboom-019dbc87-408a-7465-a518-ab1a91320cba",
-   "title": "Am I The Only One? | Reading Reddit Stories"
   }
  ]
 }

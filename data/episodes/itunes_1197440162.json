@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2872,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp8yg1.mp3",
+   "guid": "urn:bbc:podcast:p0pp8yst",
+   "title": "England eclipse the All Blacks after record-breaking win"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3568,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnxlqw.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzwpdn.mp3",
    "guid": "urn:bbc:podcast:p0nzwqp2",
    "title": "Have we learnt anything from the Nations Championship?"
-  },
-  {
-   "date": "2026-07-19",
-   "durationSec": 1776,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzmm28.mp3",
-   "guid": "urn:bbc:podcast:p0nzmmr5",
-   "title": "Late TMO drama as 13-man England beat Argentina"
   }
  ]
 }

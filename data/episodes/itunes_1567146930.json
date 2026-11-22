@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 3601,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/88fa28dd-114b-46b4-a23a-7d24105c139c/rssFileVip.mp3?timestamp=1795241334589",
+   "guid": "88fa28dd-114b-46b4-a23a-7d24105c139c",
+   "title": "台灣羚聲播客第4457-專訪網紅女神下午茶"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 3591,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/a996ee62-d172-49e0-bc3f-0c1b222cf128/rssFileVip.mp3?timestamp=1795239590559",
+   "guid": "a996ee62-d172-49e0-bc3f-0c1b222cf128",
+   "title": "台灣羚聲播客第4456-專訪鍾佳濱辦公室助理沛安"
+  },
+  {
+   "date": "2026-11-21",
+   "durationSec": 3589,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/5d664328-78cd-4e98-89d0-4726ed498849/rssFileVip.mp3?timestamp=1795239589467",
+   "guid": "5d664328-78cd-4e98-89d0-4726ed498849",
+   "title": "台灣羚聲播客-2026年11月21日新聞評論"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3591,
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/d9f794e9-949d-4c96-a886-9b2d20de065c/rssFileVip.mp3?timestamp=1795153149325",
@@ -188,27 +209,6 @@
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/b53c9735-812d-4cb8-9cea-18747ed9506a/rssFileVip.mp3?timestamp=1794461986544",
    "guid": "b53c9735-812d-4cb8-9cea-18747ed9506a",
    "title": "台灣羚聲播客第4436-專訪台北市士林北投議員陳賢蔚"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/dcaf1332-58a6-4391-bb6c-d1203faa3ac1/rssFileVip.mp3?timestamp=1794461979812",
-   "guid": "dcaf1332-58a6-4391-bb6c-d1203faa3ac1",
-   "title": "台灣羚聲播客第4435-專訪嘉義市西區議員候選人曾奕豪"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/09a3ec65-2b6f-4e63-abcf-4e767fd3bd63/rssFileVip.mp3?timestamp=1794461983214",
-   "guid": "09a3ec65-2b6f-4e63-abcf-4e767fd3bd63",
-   "title": "台灣羚聲播客第4434-專訪台北市中正萬華議員候選人馬郁雯"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/7b614074-8e24-4100-8240-b07a864db631/rssFileVip.mp3?timestamp=1794461982031",
-   "guid": "7b614074-8e24-4100-8240-b07a864db631",
-   "title": "台灣羚聲播客第4433-專訪桃園市八德區議員許家睿"
   }
  ]
 }

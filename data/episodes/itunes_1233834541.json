@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-21",
+   "durationSec": 1516,
+   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/760da189-1731-4f62-8fac-2065bda97f61.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/fuT6igEcGn8nmpayDKJOAxFszA_JCC_j8X3USlxaEe4",
+   "title": "WeWow on the Weekend: Knock-Knock Jokes, Silly Songs, and SomeFIN Fishy! (Encore)"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1331,
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/42a8e060-62bb-4ecd-9275-d0bf69aab5b3.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/c4840f9b-eea5-414d-a7aa-7832123f73e0.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/TzWx-u0acaq05kC2C-mv4JqS7iaW2WzpXDUcA3ul82U",
    "title": "WeWow on the Weekend: Sound Effects, Compliments, and Dinosaur Backbones! (Encore)"
-  },
-  {
-   "date": "2026-10-02",
-   "durationSec": 721,
-   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/5bfaaf10-175a-4409-87f5-7019a3c40686.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/CMALbqUqyQYpuDEYUbSlWdwFkkBj-j9tPqQXaD6ECc8",
-   "title": "Two Whats?! And A Wow! - Skeleton of Fun (Encore)"
   }
  ]
 }

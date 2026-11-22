@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1861228228",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-22T08:18:51+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "AI台灣日報 EP322 [輝達重挫14%　台指期夜盤大跌1881點]",
+   "date": "2026-11-22",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/b4020a83-ca9d-449c-b463-c1e939761f98/rssFileVip.mp3?timestamp=1795295616251",
+   "durationSec": 703,
+   "guid": "b4020a83-ca9d-449c-b463-c1e939761f98"
+  },
+  {
    "title": "AI台灣日報 EP321 [台股單週重挫17%　創35年最差單週紀錄]",
    "date": "2026-11-21",
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/a6cb4285-85fc-4f35-8eda-8e91a4d679fa/rssFileVip.mp3?timestamp=1795209221268",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/a6cb4285-85fc-4f35-8eda-8e91a4d679fa/rssFileVip.mp3?timestamp=1795243637016",
    "durationSec": 498,
    "guid": "a6cb4285-85fc-4f35-8eda-8e91a4d679fa"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/72896a01-c1bf-4f3b-a307-a31e0a1bebd7/rssFileVip.mp3?timestamp=1793124450072",
    "durationSec": 566,
    "guid": "72896a01-c1bf-4f3b-a307-a31e0a1bebd7"
-  },
-  {
-   "title": "AI台灣日報 EP295 [美國RTX 5090缺貨潮延燒]",
-   "date": "2026-10-26",
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/d6951dde-cf82-41ce-9c18-f26062fb07ab/rssFileVip.mp3?timestamp=1793002962559",
-   "durationSec": 477,
-   "guid": "d6951dde-cf82-41ce-9c18-f26062fb07ab"
   }
  ]
 }
