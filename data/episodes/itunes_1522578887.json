@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2592,
+   "enclosure": "https://rss.soundon.fm/rssf/5991e75b-0a84-41f2-b99a-27e4c1882b2d/feedurl/6a972c09-b47d-42c4-bb7c-41263274daa5/rssFileVip.mp3?timestamp=1795353243687",
+   "guid": "6a972c09-b47d-42c4-bb7c-41263274daa5",
+   "title": "EP151｜一條正道的路 feat. 睿倢（下集）"
+  },
+  {
    "date": "2026-11-06",
    "durationSec": 3901,
    "enclosure": "https://rss.soundon.fm/rssf/5991e75b-0a84-41f2-b99a-27e4c1882b2d/feedurl/1f1f6671-ea85-44af-81e3-969e233d7d5f/rssFileVip.mp3?timestamp=1795283733880",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/5991e75b-0a84-41f2-b99a-27e4c1882b2d/feedurl/2ac3c1b0-39a8-4b6f-921e-a10980b67829/rssFileVip.mp3?timestamp=1762889030155",
    "guid": "2ac3c1b0-39a8-4b6f-921e-a10980b67829",
    "title": "EP124｜廟拆了，神明還會在嗎？"
-  },
-  {
-   "date": "2025-10-25",
-   "durationSec": 3957,
-   "enclosure": "https://rss.soundon.fm/rssf/5991e75b-0a84-41f2-b99a-27e4c1882b2d/feedurl/792fe522-968e-4c96-bf16-22c1688be28a/rssFileVip.mp3?timestamp=1761506862391",
-   "guid": "792fe522-968e-4c96-bf16-22c1688be28a",
-   "title": "EP123｜通靈對戰練習 feat. Asha"
   }
  ]
 }

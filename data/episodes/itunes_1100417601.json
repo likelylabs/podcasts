@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 4120,
+   "enclosure": "https://pscrb.fm/rss/p/arttrk.com/p/30200/clrtpod.com/m/rss.art19.com/episodes/509818e9-2d2f-4196-869b-0ba23370ee20.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/pNXAmMR28XTSOQmk8Y0uD-AiEKLkDCcGCM7NQ8y_XWw",
+   "title": "Actor Adam Driver (‘Paper Tiger’) Goes for It"
+  },
+  {
    "date": "2026-11-15",
    "durationSec": 4068,
    "enclosure": "https://pscrb.fm/rss/p/arttrk.com/p/30200/clrtpod.com/m/rss.art19.com/episodes/949ca9fb-c12c-4c6e-98ba-2db4e73812a0.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/arttrk.com/p/30200/clrtpod.com/m/rss.art19.com/episodes/492ae23a-6a3e-4f67-a1d0-2a055a28ad55.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/vwVCptQ-PI3kPApz6TpodOfnEUt_si0ffQo0iOgSKUo",
    "title": "Mother’s Day with Julia Louis-Dreyfus"
-  },
-  {
-   "date": "2026-05-03",
-   "durationSec": 4851,
-   "enclosure": "https://pscrb.fm/rss/p/arttrk.com/p/30200/clrtpod.com/m/rss.art19.com/episodes/8f09421c-fbdd-4cc6-aca3-f8c5e0b5f4b4.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/3-PbrgP94HxdqPCkjVw2ZV7t96D4AEiqjbKldRpY8IA",
-   "title": "Actor Riz Ahmed Remakes the Leading Man"
   }
  ]
 }

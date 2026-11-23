@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 4147,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6b03390a65423076736fdc9c/media.mp3",
+   "guid": "6b03390a65423076736fdc9c",
+   "title": "Liverpool thrash Pochettino’s United, as pressure builds on Alonso at Chelsea"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3013,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6afefbfbbd9a0f12d98b643c/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6ab81e076bffad1b00393a51/media.mp3",
    "guid": "6ab81e076bffad1b00393a51",
    "title": "England 2-3 Spain, plus Man City found guilty of 114 charges"
-  },
-  {
-   "date": "2026-09-26",
-   "durationSec": 4144,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6ab558975b6e822deec7323f/media.mp3",
-   "guid": "6ab558975b6e822deec7323f",
-   "title": "Totally Extra: Zinedine Zidane - is he all that?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2340,
+   "enclosure": "https://sphinx.acast.com/p/open/s/62ff408997021c0012935e59/e/6acbb389253c13a898a150e8/media.mp3",
+   "guid": "6acbb389253c13a898a150e8",
+   "title": "A Punk Rock Engineer on What's Wrong With Singapore [W&S S2 E9 ft Trevor Wong]"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2905,
    "enclosure": "https://sphinx.acast.com/p/open/s/62ff408997021c0012935e59/e/6afc2b63bd05b48ec8ad97c0/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/62ff408997021c0012935e59/e/6a7a7d1f446de273c01bf99f/media.mp3",
    "guid": "6a7a7d1f446de273c01bf99f",
    "title": "Manhattan Fish Market’s New Franchise Model Explained [TBS 61 ft Manhattan Fish Market]"
-  },
-  {
-   "date": "2026-08-06",
-   "durationSec": 2602,
-   "enclosure": "https://sphinx.acast.com/p/open/s/62ff408997021c0012935e59/e/6a3fb793cb67fc75ea332388/media.mp3",
-   "guid": "6a3fb793cb67fc75ea332388",
-   "title": "How Can AI Make You a Better Investor? [Chills 278 ft Tree of Prosperity,  Steady Compounding]"
   }
  ]
 }

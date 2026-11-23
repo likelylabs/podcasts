@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1975,
+   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/0fe2deac-9ade-4021-a141-d27ccc7b02a4.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/8gx-YHtUX0BegqdYNdsMkz22_vYmn55Ieaic78t_BJg",
+   "title": "WeWow on the Weekend: Fish Talk, Fish Cakes, and SomeFIN Fishy! (Encore)"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1516,
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/760da189-1731-4f62-8fac-2065bda97f61.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/243872be-dc1f-4827-a5b5-4013eb8d2c04.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/Mup8B1pdyGcGFl57Bep5Er8BnRNEd0FLncTO9VeMsIs",
    "title": "WeWow on the Weekend: Trading Cards, Reviewsies, and Ice Ages! (Encore)"
-  },
-  {
-   "date": "2026-10-03",
-   "durationSec": 1102,
-   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/c4840f9b-eea5-414d-a7aa-7832123f73e0.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/TzWx-u0acaq05kC2C-mv4JqS7iaW2WzpXDUcA3ul82U",
-   "title": "WeWow on the Weekend: Sound Effects, Compliments, and Dinosaur Backbones! (Encore)"
   }
  ]
 }

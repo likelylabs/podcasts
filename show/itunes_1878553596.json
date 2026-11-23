@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1878553596",
- "generatedAt": "2026-11-22T08:18:51+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "粤语学习丨“凡尔赛”用粤语怎么说？",
+   "date": "2026-11-22",
+   "enclosure": "https://jt.ximalaya.com//GKwRIaIO0D7_AAfqrQT8CgWx.m4a?channel=rss&album_id=79979880&track_id=1033034873&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/d170-audiofreehighqps/B7/2B/GKwRIaIO0D7_AAfqrQT8CgWx.m4a",
+   "durationSec": 63,
+   "guid": "xmly_track_1033034873"
+  },
   {
    "title": "粤语学习丨“被资本做局了”用粤语怎么说？",
    "date": "2026-11-21",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIJIN-4gnABkqRASkuqKH.m4a?channel=rss&album_id=79979880&track_id=981924498&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/dcfd-audiofreehighqps/D5/B0/GKwRIJIN-4gnABkqRASkuqKH.m4a",
    "durationSec": 203,
    "guid": "xmly_track_981924498"
-  },
-  {
-   "title": "粤语学习丨学会这几句“万能粤语”，让你零基础也能轻松唠嗑",
-   "date": "2026-06-04",
-   "enclosure": "https://jt.ximalaya.com//GKwRIRwN8Zn5ABhAyAShEj0M.m4a?channel=rss&album_id=79979880&track_id=980264229&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/8ea2-audiofreehighqps/77/23/GKwRIRwN8Zn5ABhAyAShEj0M.m4a",
-   "durationSec": 196,
-   "guid": "xmly_track_980264229"
   }
  ]
 }

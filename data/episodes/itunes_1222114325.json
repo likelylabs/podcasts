@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2199,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/babf6e5c-0668-400e-9daf-98fb2d1eacb0/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=babf6e5c-0668-400e-9daf-98fb2d1eacb0&feed=HMwRVgVt&t=podcast&e=nx-s1-6048657&p=510318&d=2199&size=35193483",
+   "guid": "2c519c0b-ab80-4271-8b51-3cdcc8438b97",
+   "title": "The booming cash advance industry trapping America’s small businesses"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 919,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/f13cc947-a38c-428a-8132-4d3b7434e8a6/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=f13cc947-a38c-428a-8132-4d3b7434e8a6&feed=HMwRVgVt&t=podcast&e=nx-s1-6048721&p=510318&d=919&size=14710953",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/bdfdcc4d-c29f-4d2f-9216-c9b40222a2d3/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=bdfdcc4d-c29f-4d2f-9216-c9b40222a2d3&feed=HMwRVgVt&t=podcast&e=nx-s1-6016798&p=510318&d=803&size=12859394",
    "guid": "2e84d82b-2583-4d6e-ba52-267ba61393bd",
    "title": "GOP Redistricting Bust, Lula Wins Brazil Election, Protest Spread In Europe"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 1479,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/62f160ad-ecff-40a2-9568-91cda604d9dc/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=62f160ad-ecff-40a2-9568-91cda604d9dc&feed=HMwRVgVt&t=podcast&e=nx-s1-6014758&p=510318&d=1479&size=23677474",
-   "guid": "ee9a99b6-4cd5-4696-87fc-32f119af06e1",
-   "title": "Pinching pennies, casting ballots: a midterms dispatch from the Midwest"
   }
  ]
 }

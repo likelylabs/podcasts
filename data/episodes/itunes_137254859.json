@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1830,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/f228336e-77b9-4386-81ea-b5070147b314/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
+   "guid": "f228336e-77b9-4386-81ea-b5070147b314",
+   "title": "Trusting In Trouble | Joel Osteen"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 825,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/7ee007cb-ceb2-4a0e-99f0-b5070145f424/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/8a0f54ff-2ac0-4c17-95f7-b4ec01800867/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
    "guid": "8a0f54ff-2ac0-4c17-95f7-b4ec01800867",
    "title": "Better Together | Victoria Osteen"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1893,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/ee9825bf-a913-424e-b90c-b4eb01613df3/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "guid": "ee9825bf-a913-424e-b90c-b4eb01613df3",
-   "title": "Put Action Behind Your Faith | Joel Osteen"
   }
  ]
 }

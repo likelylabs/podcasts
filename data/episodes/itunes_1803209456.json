@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 343,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/7f188a60-f58e-4d05-a40c-b50800f64297/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "7f188a60-f58e-4d05-a40c-b50800f64297",
+   "title": "Week Ahead: Dell, Deere, and Abercrombie & Fitch"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 219,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/2055c0ab-ffc7-4d0d-ab33-b50801830c5b/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/24cdaa69-7ee2-4adf-acab-b506007a2e9f/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
    "guid": "24cdaa69-7ee2-4adf-acab-b506007a2e9f",
    "title": "SK Hynix Higher, Tencent Lower, JD.com Drops"
-  },
-  {
-   "date": "2026-11-18",
-   "durationSec": 294,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/97425da4-7b7f-43b7-8d07-b505017479b1/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "97425da4-7b7f-43b7-8d07-b505017479b1",
-   "title": "Nvidia Reports Earnings, CoreWeave in Focus, Nike Falls"
   }
  ]
 }

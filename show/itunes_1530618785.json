@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1530618785",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "分享国度福音 | 萧和杰牧师",
+   "date": "2026-11-22",
+   "enclosure": "https://anchor.fm/s/340de3bc/podcast/play/129885528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2Fd99d3aa9-4e81-b32b-ec79-235b05979dfa.mp3",
+   "durationSec": 2615,
+   "guid": "88c5e183-adf3-4871-8db2-9c6100744dcc"
+  },
   {
    "title": "与神同行:默想神的话语 | 王紫璇牧师",
    "date": "2026-11-15",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/340de3bc/podcast/play/119054931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-26%2F89e8c3cf-de46-ddfc-f8d6-df50d0f524ba.mp3",
    "durationSec": 1530,
    "guid": "cd3f7619-bde2-453b-b806-1f60f3d2a715"
-  },
-  {
-   "title": "打开传承的疆界 | 陈燕萍牧师",
-   "date": "2026-04-19",
-   "enclosure": "https://anchor.fm/s/340de3bc/podcast/play/118677465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F2e2a4e4d-3262-1a0d-2414-7dd137fae149.mp3",
-   "durationSec": 2848,
-   "guid": "2161eae3-1b8a-4414-9f1b-a7ebe2368083"
   }
  ]
 }

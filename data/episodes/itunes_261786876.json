@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1463,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn7s86.mp3",
+   "guid": "urn:bbc:podcast:p0pn7sxd",
+   "title": "Recommending... Inheritance: Fiat"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1742,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp56dw.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph49hj.mp3",
    "guid": "urn:bbc:podcast:w3ct8ggh",
    "title": "What China's solar panel obsession means for the world"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 1561,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgxyfc.mp3",
-   "guid": "urn:bbc:podcast:w3ct8g9y",
-   "title": "Taking Stock: Who owns Space?"
   }
  ]
 }

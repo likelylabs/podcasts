@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1589,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261110 - Talking Markets_Phil Orlando.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261110 - Talking Markets_Phil Orlando.mp3",
+   "title": "Talking Markets (Post-Election Day takeaways) with Phil Orlando of Federated Hermes"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 299,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261120-resilient-volatility.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261104-five-points.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261104-five-points.mp3",
    "title": "UBS On-Air: Paul Donovan Daily Audio 'Five points'"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 1081,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261103 - Credit Snapshot Podcast.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261103 - Credit Snapshot Podcast.mp3",
-   "title": "Credit Snapshot quarterly update with UBS Asset Management"
   }
  ]
 }

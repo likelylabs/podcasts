@@ -1,6 +1,41 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 268,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123112953_750542-cantonese-32e74743-b740-4e1a-bfc0-47cc1d9798d9.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-05ae-d2f9-a5f7-15aff09b0000&dur_cat=2",
+   "guid": "000001a2-05ae-d2f9-a5f7-15aff09b0000",
+   "title": "數學家與人工智能聯手 破逾百年數學難題"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 774,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123110144_397919-cantonese-9cfaa24f-22ec-492e-9924-c030d95015d7.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-059d-d775-a9e7-3d9d63530000&dur_cat=3",
+   "guid": "000001a2-059d-d775-a9e7-3d9d63530000",
+   "title": "SBS廣東話新聞（2026 年 11 月 23 日）"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 609,
+   "enclosure": "https://sbs-podcast.streamguys1.com/technology-world/20261123094513_886783-cantonese-2cfed4e8-0f51-4357-967c-7e915f8d2b9a.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-d25b-d288-afa3-db7bd2100000&dur_cat=3",
+   "guid": "000001a1-d25b-d288-afa3-db7bd2100000",
+   "title": "【潮玩科技】睇病問AI暗藏危機 剖析「AI醫生」技術盲點與安全界線"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 869,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123093704_354075-cantonese-2ea92203-c7d0-4393-b623-06584ea8268c.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-054f-de97-a7ff-0d7fda110000&dur_cat=3",
+   "guid": "000001a2-054f-de97-a7ff-0d7fda110000",
+   "title": "SBS九點半新聞 (2026 年 11 月 23 日)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 475,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123090017_041083-cantonese-aff352e4-83f9-4d80-a65f-4a3103c68450.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f6b4-d2f9-a5f5-f7bdb54b0000&dur_cat=2",
+   "guid": "000001a1-f6b4-d2f9-a5f5-f7bdb54b0000",
+   "title": "西澳拓展往返中國航線 珀斯機場新大樓投入服務"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 605,
    "enclosure": "https://sbs-podcast.streamguys1.com/culture-360/20261122100011_262291-cantonese-ee6e2142-c8cc-4d34-a022-5a3a62932dd5.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-9471-dc3b-aba5-96f783580000&dur_cat=3",
@@ -61,7 +96,7 @@
    "durationSec": 409,
    "enclosure": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20261120190428_275294-cantonese-40c35bc5-e070-4b38-a6d5-9b808a2639cd.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-ed46-dc44-a5f3-ed4e17090000&dur_cat=2",
    "guid": "000001a1-ed46-dc44-a5f3-ed4e17090000",
-   "title": "'Something we build together': How young people are shaping the future of this regional city - 【SBS Examines】歸屬感到社會凝聚力：Toowoomba 年輕人心目中的理想社區是甚麼模樣？"
+   "title": "'Something we build together': How young people are shaping the future of this regional city - 【SBS Examines】Toowoomba 年輕人眼中的理想社區：歸屬感如何建立？"
   },
   {
    "date": "2026-11-20",
@@ -174,41 +209,6 @@
    "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261119140931_457679-cantonese-306ab649-0b42-42fb-9a0a-ec3c0997feed.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f161-dea3-adeb-fdeb13c00000&dur_cat=2",
    "guid": "000001a1-f161-dea3-adeb-fdeb13c00000",
    "title": "失業率創五年新高 再有連鎖服裝品牌進入自願託管"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 189,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261119135305_391414-cantonese-90325987-bf33-49c6-ab59-829480a5fcaa.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f19c-dea3-adeb-fdbf2e010000&dur_cat=2",
-   "guid": "000001a1-f19c-dea3-adeb-fdbf2e010000",
-   "title": "旅遊旺季將至 拆解旅遊騙案手法"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 822,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261119112110_322077-cantonese-b353aea4-2a01-481f-a7a3-3e81f9423049.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f110-d23d-a7bd-fbdd0a4d0000&dur_cat=3",
-   "guid": "000001a1-f110-d23d-a7bd-fbdd0a4d0000",
-   "title": "SBS廣東話新聞 (2026 年 11 月 19 日)"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 413,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261119110924_505213-cantonese-32995f37-c6d4-4bf3-80a6-7e7fec179f5b.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f100-d315-a5e7-f94ed4ac0000&dur_cat=2",
-   "guid": "000001a1-f100-d315-a5e7-f94ed4ac0000",
-   "title": "經地產代理租屋 遇租務糾紛機會或高兩倍？"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 599,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261119104654_673996-cantonese-c9c4e92f-5e2f-41c9-850c-bb6b1cdb39bc.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-f03b-d2f9-a5f5-f53b5de70000&dur_cat=3",
-   "guid": "000001a1-f03b-d2f9-a5f5-f53b5de70000",
-   "title": "澳洲首辦「試瞓」棺材活動 參加者反思生命意義"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 588,
-   "enclosure": "https://sbs-podcast.streamguys1.com/global-finance/20261119094612_107676-cantonese-589abb28-b405-490c-bedd-48c51a793a65.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-ed4f-d54e-a9f1-ed6f12c10000&dur_cat=3",
-   "guid": "000001a1-ed4f-d54e-a9f1-ed6f12c10000",
-   "title": "黃仁勳復出遭拒 NVIDIA強勁業績能否穩住投資者信心？"
   }
  ]
 }

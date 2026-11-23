@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1552904790",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "商业小样54 | 可可豆一直缺，怎么不缺巧克力？",
+   "date": "2026-11-23",
+   "enclosure": "https://jt.ximalaya.com//GKwRIW4O2MPUAF4itwT_nmOJ.m4a?channel=rss&album_id=46587439&track_id=1034723325&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/6f93-audiofreehighqps/15/6C/GKwRIW4O2MPUAF4itwT_nmOJ.m4a",
+   "durationSec": 761,
+   "guid": "xmly_track_1034723325"
+  },
   {
    "title": "特番｜量子计算离我们还有多远？中国追到哪儿了？",
    "date": "2026-11-20",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIJEOP8-YAXQZmAS_CRQK.m4a?channel=rss&album_id=46587439&track_id=1003563933&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/1599-audiofreehighqps/0C/3B/GKwRIJEOP8-YAXQZmAS_CRQK.m4a",
    "durationSec": 3012,
    "guid": "xmly_track_1003563933"
-  },
-  {
-   "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
-   "date": "2026-07-27",
-   "enclosure": "https://jt.ximalaya.com//GKwRIJIOO6s_AbLYzQS9WvtE.m4a?channel=rss&album_id=46587439&track_id=1002986145&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/9037-audiofreehighqps/06/E7/GKwRIJIOO6s_AbLYzQS9WvtE.m4a",
-   "durationSec": 3520,
-   "guid": "xmly_track_1002986145"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2629,
+   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b007e1204470b737a38a15b/media.mp3",
+   "guid": "6b007e1204470b737a38a15b",
+   "title": "Sunday Pick: Romance is dead, long live romance | from Corner Piece"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2185,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3",
    "guid": "6adb8f7a52428fc30bf6f9ca",
    "title": "How people are using AI to grieve, love and connect | Jennifer Cearns"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 1020,
-   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3",
-   "guid": "6adf721fa8783bd475575090",
-   "title": "How video games can power up your parenting | Hannah Boquet (re-release)"
   }
  ]
 }

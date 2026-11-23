@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2043,
+   "enclosure": "https://episodes.captivate.fm/episode/aee6adbc-4cd7-4ccb-890c-8f628ba9e0e1.mp3?aw_0_1st.showid=ef770407-0b53-4752-bb32-9ad3f31da036&aw_0_1st.episodeid=aee6adbc-4cd7-4ccb-890c-8f628ba9e0e1",
+   "guid": "aee6adbc-4cd7-4ccb-890c-8f628ba9e0e1",
+   "title": "Gary Neville & Jamie Carragher react to Liverpool's 4-0 win over Poch's Man Utd"
+  },
+  {
    "date": "2026-10-26",
    "durationSec": 2057,
    "enclosure": "https://episodes.captivate.fm/episode/1b7a757b-086a-467c-87b6-88f54d2cb481.mp3?aw_0_1st.showid=ef770407-0b53-4752-bb32-9ad3f31da036&aw_0_1st.episodeid=1b7a757b-086a-467c-87b6-88f54d2cb481",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/74164d9d-0cff-410a-9e9f-dd9ce1044721.mp3?aw_0_1st.showid=ef770407-0b53-4752-bb32-9ad3f31da036&aw_0_1st.episodeid=74164d9d-0cff-410a-9e9f-dd9ce1044721",
    "guid": "vnid://episodes/69486893?media_id=53003866",
    "title": "Carrick's Man Utd STUN City 2-0 in derby | Can Pep's side catch Arsenal after crushing loss?"
-  },
-  {
-   "date": "2026-01-09",
-   "durationSec": 1282,
-   "enclosure": "https://episodes.captivate.fm/episode/2b71c6e3-04fe-4f41-918a-ff07c29b9b6b.mp3?aw_0_1st.showid=ef770407-0b53-4752-bb32-9ad3f31da036&aw_0_1st.episodeid=2b71c6e3-04fe-4f41-918a-ff07c29b9b6b",
-   "guid": "vnid://episodes/69361807?media_id=52899667",
-   "title": "'There was a lot to admire' | Arsenal spurn chance to go eight clear as Liverpool battle to draw"
   }
  ]
 }

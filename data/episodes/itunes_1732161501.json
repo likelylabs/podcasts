@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 366,
+   "enclosure": "https://media.transistor.fm/c3a84b3f/5aac2b20.mp3",
+   "guid": "0d7a8972-2448-49b9-a555-3d5399e82b65",
+   "title": "你相信什么？"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 328,
    "enclosure": "https://media.transistor.fm/dac03119/11e99a81.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://media.transistor.fm/63e787b3/92e117bc.mp3",
    "guid": "c969f2ad-c82e-4c43-a006-43fbdbb7dd35",
    "title": "上帝的杰作"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 353,
-   "enclosure": "https://media.transistor.fm/1f4970f0/cd418a84.mp3",
-   "guid": "563b8bc8-395d-4b37-857b-1aad6a22e80f",
-   "title": "忠心服事"
   }
  ]
 }

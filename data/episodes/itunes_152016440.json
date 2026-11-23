@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 799,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4becf049-1722-4e99-87ba-4c9f87421cd9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4becf049-1722-4e99-87ba-4c9f87421cd9&feed=BA5QWI2p",
+   "guid": "39EADABB-CBA7-4A5B-8559-EBE1C3C8D5DF",
+   "title": "Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 343,
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/23bb18ff-28ed-49cb-8a92-bb3265e4cf65/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=23bb18ff-28ed-49cb-8a92-bb3265e4cf65&feed=BA5QWI2p",
@@ -202,13 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/41228017-4489-4596-b1c3-5c69db404678/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=41228017-4489-4596-b1c3-5c69db404678&feed=BA5QWI2p",
    "guid": "74D803DC-A1BD-4956-8F22-267483A6E7D8",
    "title": "Nasdaq Loses a Historic $2.5 Trillion in Market Cap in AI Rout After Election"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 858,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/507b90ec-9034-4ca1-ab7a-d0c90171d717/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=507b90ec-9034-4ca1-ab7a-d0c90171d717&feed=BA5QWI2p",
-   "guid": "33320877-78DC-4C26-BC11-29319AB63E3B",
-   "title": "The Cost of Living Crisis Isn’t Going Away"
   }
  ]
 }

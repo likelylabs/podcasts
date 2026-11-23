@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 3718,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6b0006b18cc2ad58c75afbd0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uoF_7KHy9-4AAI8nSw_G-pBpMep_lcDmJDk3qDe4Ohg",
+   "guid": "6b0006b18cc2ad58c75afbd0",
+   "title": "The Neolithic Revolution"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2962,
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6afc912a853da57052a8dc9e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e9slaTw8mjai0QBFmK4Z1LD7RQ3UVk3DUnAIeVZsCoE",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6a75f8b1c32900003e5acbc7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LqBn6CYayGTPq7fZWQGou52ummA46458ovESAgeO4Ng",
    "guid": "6a75f8b1c32900003e5acbc7",
    "title": "Romulus & Remus"
-  },
-  {
-   "date": "2026-08-09",
-   "durationSec": 3495,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6a75bc15485923987cc23ead/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Gs19nvO9VlErHCqOZ76wCJ38Lb6xuu2-L5odOYSanUc",
-   "guid": "6a75bc15485923987cc23ead",
-   "title": "Shapur I: Rome's Greatest Enemy?"
   }
  ]
 }

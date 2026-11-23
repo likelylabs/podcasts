@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 988,
+   "enclosure": "https://jt.ximalaya.com//GKwRIJIO2Hb7AHoPDwT_cIEc.m4a?channel=rss&album_id=67610333&track_id=1034673682&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/1190-audiofreehighqps/94/F3/GKwRIJIO2Hb7AHoPDwT_cIEc.m4a",
+   "guid": "xmly_track_1034673682",
+   "title": "手工旗袍"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 870,
    "enclosure": "https://jt.ximalaya.com//GKwRIaIO1yPXAGuNYwT-5sxA.m4a?channel=rss&album_id=67610333&track_id=1034489593&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/03dc-audiofreehighqps/DD/1E/GKwRIaIO1yPXAGuNYwT-5sxA.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIJIOsitTAI58JwTubVUE.m4a?channel=rss&album_id=67610333&track_id=1027205000&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/3133-audiofreehighqps/56/B0/GKwRIJIOsitTAI58JwTubVUE.m4a",
    "guid": "xmly_track_1027205000",
    "title": "酒蟋蟀"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1326,
-   "enclosure": "https://jt.ximalaya.com//GKwRIMAOsOCUAKPYnQTtyO69.m4a?channel=rss&album_id=67610333&track_id=1026980715&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/1bd6-audiofreehighqps/18/F9/GKwRIMAOsOCUAKPYnQTtyO69.m4a",
-   "guid": "xmly_track_1026980715",
-   "title": "天下第一笔"
   }
  ]
 }

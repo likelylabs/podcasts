@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1863982135",
- "generatedAt": "2026-11-22T08:18:51+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
-   "title": "29-4｜【老劭閒聊】直播：突如其來泰感性 流下酸辣口味的淚水...（開玩笑的）",
+   "title": "Day29-5｜最後一播：萬安被跪像撞鬼、友宜不喜被貼心、撲馬人設差很大嗎？",
+   "date": "2026-11-23",
+   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/4e61b966-2d05-4fb1-9c53-1eca4f0a8af8/rssFileVip.mp3?timestamp=1795367633293",
+   "durationSec": 5114,
+   "guid": "4e61b966-2d05-4fb1-9c53-1eca4f0a8af8"
+  },
+  {
+   "title": "Day29-4｜【老劭閒聊】直播：突如其來感性時間、皮克敏的心情、秦慧珠真是泰可憐",
    "date": "2026-11-22",
-   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/c8af4b9b-5dc5-4936-8646-8d124b3ce879/rssFileVip.mp3?timestamp=1795279849951",
+   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/c8af4b9b-5dc5-4936-8646-8d124b3ce879/rssFileVip.mp3?timestamp=1795326771451",
    "durationSec": 5205,
    "guid": "c8af4b9b-5dc5-4936-8646-8d124b3ce879"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/53222252-b88c-4b2d-8088-d86cd6635036/rssFileVip.mp3?timestamp=1774643896252",
    "durationSec": 2164,
    "guid": "53222252-b88c-4b2d-8088-d86cd6635036"
-  },
-  {
-   "title": "Day 10-1｜罵老公信箱：為恨朗讀 之 我恨我愛你💗 feat. Oprah",
-   "date": "2026-03-26",
-   "enclosure": "https://rss.soundon.fm/rssf/5447e1ac-c835-4b29-8b9d-f34737d4516a/feedurl/60c1471b-c106-49d2-8c8c-c110b2429d8e/rssFileVip.mp3?timestamp=1774557350818",
-   "durationSec": 2601,
-   "guid": "60c1471b-c106-49d2-8c8c-c110b2429d8e"
   }
  ]
 }

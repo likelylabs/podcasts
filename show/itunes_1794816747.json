@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1794816747",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "【餃子を食べながら、餃子の本を読んでみる】#88",
+   "date": "2026-11-23",
+   "enclosure": "https://cdncf.stand.fm/audios/01M7VBY195T1TX2J95SY9852EA.m4a",
+   "durationSec": 1674,
+   "guid": "https://stand.fm/episodes/6affad9c42da810dd140167c"
+  },
   {
    "title": "【台湾の占いどうなのよ？（裏事情含む）】#87",
    "date": "2026-11-16",
@@ -205,13 +212,6 @@
    "enclosure": "https://cdncf.stand.fm/audios/01KQPQPN4ZE0MV9C4HW1CK1JTR.m4a",
    "durationSec": 1441,
    "guid": "https://stand.fm/episodes/69f729b37577e3e8495ae72c"
-  },
-  {
-   "title": "【無限城・台北駅で迷わないために、二人で検証したよ！】台湾、暮らしの珍道中#58",
-   "date": "2026-04-27",
-   "enclosure": "https://cdncf.stand.fm/audios/01KQ4YRBCBRAJAAHS15G69P4QZ.m4a",
-   "durationSec": 1946,
-   "guid": "https://stand.fm/episodes/69ee0f42f696b95319b0658a"
   }
  ]
 }

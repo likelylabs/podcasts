@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2857,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS1941948859.mp3",
+   "guid": "84fe920c-e48d-11f1-a84c-0fedbc26ebaa",
+   "title": "The art of being unbothered"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2394,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS8340468373.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS2257833727.mp3",
    "guid": "bcee9ad8-b196-11f1-8027-870c3c9b10f9",
    "title": "Giving Sydney Sweeney what she wanted"
-  },
-  {
-   "date": "2026-09-13",
-   "durationSec": 2761,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS2057857564.mp3",
-   "guid": "54a61404-ad10-11f1-9c9a-a7472d22c439",
-   "title": "How (not) to flop"
   }
  ]
 }

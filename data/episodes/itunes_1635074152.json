@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1600,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/cb180c39-3690-4c74-9c8b-aec2007414b9/66eb94c4-866b-4110-a494-b50800ad30df/audio.mp3?utm_source=Podcast&in_playlist=73e1f2b9-1db6-42e7-8843-aec200743a01",
+   "guid": "66eb94c4-866b-4110-a494-b50800ad30df",
+   "title": "The jobs you're studying for might no longer exist when you graduate"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 1461,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/cb180c39-3690-4c74-9c8b-aec2007414b9/74b432d0-9fca-4def-a133-b5030108f474/audio.mp3?utm_source=Podcast&in_playlist=73e1f2b9-1db6-42e7-8843-aec200743a01",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/cb180c39-3690-4c74-9c8b-aec2007414b9/59201cb9-6f0d-4151-acb7-b47c01109b26/audio.mp3?utm_source=Podcast&in_playlist=73e1f2b9-1db6-42e7-8843-aec200743a01",
    "guid": "59201cb9-6f0d-4151-acb7-b47c01109b26",
    "title": "Retrenched or wrongful dismissal - are unions doing enough to help?"
-  },
-  {
-   "date": "2026-07-03",
-   "durationSec": 636,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/cb180c39-3690-4c74-9c8b-aec2007414b9/c20513c1-3e2c-4483-bea2-b47b0116d5e2/audio.mp3?utm_source=Podcast&in_playlist=73e1f2b9-1db6-42e7-8843-aec200743a01",
-   "guid": "c20513c1-3e2c-4483-bea2-b47b0116d5e2",
-   "title": "My boss makes inappropriate jokes. Should I report it?"
   }
  ]
 }

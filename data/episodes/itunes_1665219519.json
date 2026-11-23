@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 760,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH6390169109.mp3",
+   "guid": "3b30aa76-e676-11f1-86a5-c7f41db1c780",
+   "title": "COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 796,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH2828355336.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH9562200942.mp3",
    "guid": "9042fe72-d10b-11f1-8e2e-878a6ba7ac05",
    "title": "Anthropic IPO, Lula's comeback, Le Pen's presidential bid (Updated)"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 824,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH3035203611.mp3",
-   "guid": "32647a1c-d05f-11f1-8baf-9f2cebe36a05",
-   "title": "France protests, Texas Senate race and West Bank olives"
   }
  ]
 }

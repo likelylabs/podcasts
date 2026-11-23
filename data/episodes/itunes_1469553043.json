@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 503,
+   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/7f492804-0d20-4bfa-9d64-273af4b3bf79/rssFileVip.mp3?timestamp=1795385932914",
+   "guid": "7f492804-0d20-4bfa-9d64-273af4b3bf79",
+   "title": "HelloMonday - 20261123 在公園裡大家好好說話"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 653,
-   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/960d5758-02f2-4b14-be1e-ffec2a8a081b/rssFileVip.mp3?timestamp=1795163502233",
+   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/960d5758-02f2-4b14-be1e-ffec2a8a081b/rssFileVip.mp3?timestamp=1795236288366",
    "guid": "960d5758-02f2-4b14-be1e-ffec2a8a081b",
    "title": "2026.11.20 美中俄三國元首和平宣言／國際法院裁決：緬甸政府種族滅絕羅興亞人"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/649a9054-7d08-4466-b9b1-d3c0ae520e78/rssFileVip.mp3?timestamp=1792471010596",
    "guid": "649a9054-7d08-4466-b9b1-d3c0ae520e78",
    "title": "2026.10.19 法國示威抗爭暴力升級／義大利米蘭示威警民衝突／以色列大選：川普公開支持納坦雅胡／華爾街日報：普丁想在APEC與川普、習近平會談"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 449,
-   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/b1d8d51e-ae84-47f4-a318-49924eb21f90/rssFileVip.mp3?timestamp=1792384713013",
-   "guid": "b1d8d51e-ae84-47f4-a318-49924eb21f90",
-   "title": "HelloMonday - 20261019 喬尼留下愛的傷痕"
   }
  ]
 }

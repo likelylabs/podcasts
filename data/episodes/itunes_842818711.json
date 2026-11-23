@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 2874,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/72c66943-1a58-4565-bf56-94c3493753af/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=72c66943-1a58-4565-bf56-94c3493753af&feed=JGE3yC0V",
+   "guid": "1a149f0e-47b5-4382-9be3-533a47758c3d",
+   "title": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1064,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f0a94159-1e7b-4208-9088-df19e8314067/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f0a94159-1e7b-4208-9088-df19e8314067&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/d9bff268-e096-49a4-a2a0-3ad436b025be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=d9bff268-e096-49a4-a2a0-3ad436b025be&feed=JGE3yC0V",
    "guid": "155547a3-6d30-4b48-a451-deded4179926",
    "title": "What It Takes to Win as a Founder | Ben Horowitz"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 3681,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1185d26-c41a-40d4-9210-eca5adab915a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1185d26-c41a-40d4-9210-eca5adab915a&feed=JGE3yC0V",
-   "guid": "97aecd60-4163-493a-8a2e-0ab519561ae4",
-   "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout"
   }
  ]
 }

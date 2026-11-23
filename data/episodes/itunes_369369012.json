@@ -1,6 +1,41 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 4757,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d6db6e48-bb0e-4292-9bee-23471f7a8acf.mp3?_=1795024383",
+   "guid": "d6db6e48-bb0e-4292-9bee-23471f7a8acf",
+   "title": "L'INTÉGRALE - Le Best of du dimanche 22 novembre 2026"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 398,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/6bcb236f-3353-4a24-b518-b8e771293b1a.mp3?_=1787041667",
+   "guid": "6bcb236f-3353-4a24-b518-b8e771293b1a",
+   "title": "BEST OF - Les 10 meilleures blagues du dimanche 22 novembre 2026"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 482,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/021ae061-680b-4eed-ace4-ce8085493336.mp3?_=1795184281",
+   "guid": "021ae061-680b-4eed-ace4-ce8085493336",
+   "title": "LIVRE DU JOUR - \"Atlas des mondes souterains\" d'Eric Gilli : le coup de cœur de Laurent Ruquier"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 221,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ee76d9b7-db13-4485-9d44-8017a72115d7.mp3?_=1795183982",
+   "guid": "ee76d9b7-db13-4485-9d44-8017a72115d7",
+   "title": "PÉPITE - Les Grosses Têtes et la sortie de GTA VI"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 72,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/bb75b483-f3a0-426b-b59d-2af05c4703b3.mp3?_=1795189127",
+   "guid": "bb75b483-f3a0-426b-b59d-2af05c4703b3",
+   "title": "LE MEILLEUR DE BOUVARD - Les blagues écolières Macha Méril et Jacques Balutin"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 4524,
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/eb736b9d-7246-45a3-9228-7302cbe92d31.mp3?_=1795022884",
@@ -174,41 +209,6 @@
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/310a1ea6-0639-44a9-b6fe-b832cdbabf87.mp3?_=1795017525",
    "guid": "310a1ea6-0639-44a9-b6fe-b832cdbabf87",
    "title": "LE MEILLEUR DE BOUVARD - La blague de Toto de Vincent Perrot"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 5686,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/27e6f015-b64d-4e4f-9c6f-8a4eafeec1cd.mp3?_=1795017185",
-   "guid": "27e6f015-b64d-4e4f-9c6f-8a4eafeec1cd",
-   "title": "L'INTÉGRALE - Émission du mercredi 18 novembre 2026"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 519,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/2822c52a-7b02-47c7-bd9e-cdce82b122a2.mp3?_=1795021981",
-   "guid": "2822c52a-7b02-47c7-bd9e-cdce82b122a2",
-   "title": "DÉBRIEF - \"Ça va être fou\" : Sébastien Thoen impatient d'être aux 50 ans des \"Grosses Têtes\""
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 1269,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/13962103-da75-4d07-92ff-26ffd0d46558.mp3?_=1795106585",
-   "guid": "13962103-da75-4d07-92ff-26ffd0d46558",
-   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 18 novembre 2026"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 218,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/e8796639-6d8d-44e2-91da-0fc60d9d4614.mp3?_=1795019580",
-   "guid": "e8796639-6d8d-44e2-91da-0fc60d9d4614",
-   "title": "PÉPITE - \"Je voudrais passer un message\" : Karina Marimon en a marre des rendez-vous arrangés"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 231,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d2535919-97a7-4c93-a61b-027ea2115df2.mp3?_=1795011484",
-   "guid": "d2535919-97a7-4c93-a61b-027ea2115df2",
-   "title": "EN RÉSUMÉ - François Alu fait le bilan de l'émission"
   }
  ]
 }

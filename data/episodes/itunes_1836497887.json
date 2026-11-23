@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 4182,
+   "enclosure": "https://traffic.megaphone.fm/SCIM8129984440.mp3",
+   "guid": "141e67c6-e643-11f1-bbe7-536993c97162",
+   "title": "Jensen Huang, AI & Why Founders Are Irreplaceable | Tobi Lütke, Shopify"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 3628,
    "enclosure": "https://traffic.megaphone.fm/SCIM9016341232.mp3",
    "guid": "f28f7d28-e306-11f1-9957-53a5863448de",
-   "title": "Divine Discontent, AI Agents & the Future of Money | Brian Armstrong, Coinbase"
+   "title": "Why the Game of Life Should Be Difficult | Brian Armstrong, Coinbase"
   },
   {
    "date": "2026-11-15",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/SCIM4434587074.mp3",
    "guid": "b63590f4-7db4-11f1-a7da-93832f21367c",
    "title": "Eric Glyman, Co-founder of Ramp"
-  },
-  {
-   "date": "2026-07-05",
-   "durationSec": 4310,
-   "enclosure": "https://traffic.megaphone.fm/SCIM7147283024.mp3",
-   "guid": "2c8010e0-7266-11f1-9383-c3bb503fe22f",
-   "title": "Jonathan Ross, Founder of Groq"
   }
  ]
 }

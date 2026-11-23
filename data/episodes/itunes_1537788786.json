@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 5158,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6692579488.mp3",
+   "guid": "f445cc94-e419-11f1-9e65-17e815e045f8",
+   "title": "725. The Death of Captain Cook: At World’s End (Part 1)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 4316,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1598624240.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2334035496.mp3",
    "guid": "66edb3ac-94b9-11f1-ada5-b7fb80176bc4",
    "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 3715,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5637968455.mp3",
-   "guid": "7d61db08-8f2e-11f1-ada3-f3d3fca150a4",
-   "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)"
   }
  ]
 }

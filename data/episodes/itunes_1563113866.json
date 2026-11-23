@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2576,
+   "enclosure": "https://rss.soundon.fm/rssf/db733d7f-91b1-480b-a72d-536d76909b03/feedurl/00fa61aa-c459-42bc-8beb-605328391368/rssFileVip.mp3?timestamp=1795392799659",
+   "guid": "00fa61aa-c459-42bc-8beb-605328391368",
+   "title": "[科科出來講]ep151 只有樹木知道的事：都市裡的森林經濟學 ft.國立中興大學森林學系 柳婉郁教授"
+  },
+  {
    "date": "2026-11-09",
    "durationSec": 2533,
    "enclosure": "https://rss.soundon.fm/rssf/db733d7f-91b1-480b-a72d-536d76909b03/feedurl/903ac80e-b26a-4af4-ac04-7b542289bdcb/rssFileVip.mp3?timestamp=1794215124546",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/db733d7f-91b1-480b-a72d-536d76909b03/feedurl/d29c098b-08e3-4296-abcc-ef24e8a8fd1a/rssFileVip.mp3?timestamp=1753065299476",
    "guid": "d29c098b-08e3-4296-abcc-ef24e8a8fd1a",
    "title": "[科科出來講] ep.124 怕什麼？用心理學看透你心中的恐懼 ft.中正大學犯罪防治學系暨研究所 戴伸峰教授"
-  },
-  {
-   "date": "2025-07-07",
-   "durationSec": 2217,
-   "enclosure": "https://rss.soundon.fm/rssf/db733d7f-91b1-480b-a72d-536d76909b03/feedurl/36236bf4-e11a-4e68-8349-4ca85342f47f/rssFileVip.mp3?timestamp=1751848514434",
-   "guid": "36236bf4-e11a-4e68-8349-4ca85342f47f",
-   "title": "[科科出來講] ep.123你的螢幕為什麼會發光？從CRT進化到OLED ft.中央研究院化學研究所 陳錦地教授"
   }
  ]
 }

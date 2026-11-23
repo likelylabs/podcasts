@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2033,
+   "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8979709.mp3?modified=1795222166&sid=2399216&source=rss",
+   "guid": "audioboom-01a1fb93-a567-7d54-8ed0-35844d01bf57",
+   "title": "Little Fish: Star-crossed blubber"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3713,
    "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8978941.mp3?modified=1795102228&sid=2399216&source=rss",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939287.mp3?modified=1786626430&sid=2399216&source=rss",
    "guid": "audioboom-019ffb3b-13f1-7543-a9ab-713832c03f81",
    "title": "Little Fish: I'm Not Even On The Internet Right Now"
-  },
-  {
-   "date": "2026-08-14",
-   "durationSec": 3139,
-   "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939250.mp3?modified=1791560681&sid=2399216&source=rss",
-   "guid": "audioboom-019ffad0-85cd-7169-861f-3a227a4d33cc",
-   "title": "No Such Thing As Half-Past Purple"
   }
  ]
 }

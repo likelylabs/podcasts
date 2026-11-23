@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3235,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4591025942.mp3",
+   "guid": "f86a6a84-e4f3-11f1-a0ed-637e3fc587a5",
+   "title": "416. Boer War: The British Empire’s Fight For Survival (Part 1)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2972,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6927265270.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5502547043.mp3",
    "guid": "4050af98-97e2-11f1-a4cb-5fa9136cbe30",
    "title": "387. The Vikings Invade Britain (Ep 5)"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 2741,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1217371422.mp3",
-   "guid": "1a43c108-964f-11f1-b1af-4b344766a202",
-   "title": "386. The Picts: Scotland’s Tattooed Warriors (Ep 4)"
   }
  ]
 }

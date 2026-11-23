@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1203,
+   "enclosure": "https://anchor.fm/s/42975bd4/podcast/play/129906582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F52e8bd8a-6fcd-d438-8262-5806c4e09351.mp3",
+   "guid": "0a24cd39-e873-4d2d-8c86-f2fec038d48e",
+   "title": "Apple 會輸掉 AI Agent 大戰？Power On 專欄 2026-11-23"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 913,
    "enclosure": "https://anchor.fm/s/42975bd4/podcast/play/129492137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fc27f5ca4-1a6f-5eef-be85-9b918fd215d3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/42975bd4/podcast/play/103385640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F2dbe5d4d-cfef-94e1-09d5-4c614e0ad222.mp3",
    "guid": "b0276a9a-32e7-4357-8991-0c476dd4f177",
    "title": "Google Photos 大變身！AI「P 圖神器」人人有份用 (科技消息 30/5/2025)"
-  },
-  {
-   "date": "2025-05-28",
-   "durationSec": 438,
-   "enclosure": "https://anchor.fm/s/42975bd4/podcast/play/103283104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-27%2F31cd3c45-cc23-e720-28c5-383eccdebe94.mp3",
-   "guid": "593d5963-18ee-4e0d-ba39-19a942115867",
-   "title": "iPhone 鏡頭，二億像素大戰！WhatsApp 推出 iPad 版 (終於) (科技消息 28/5/2025 )"
   }
  ]
 }

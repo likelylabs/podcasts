@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2675,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppczzt.mp3",
+   "guid": "urn:bbc:podcast:w1730bncr1nj4pf",
+   "title": "COP31 climate talks collapse without agreement"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 2847,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppc339.mp3",
+   "guid": "urn:bbc:podcast:w1730bncr1nh5qd",
+   "title": "UN climate talks in Turkey closing without agreement"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2359,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp92gr.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plr7d9.mp3",
    "guid": "urn:bbc:podcast:w1730bnc0j0s1nk",
    "title": "AI stocks climb after trillions wiped from market values"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 2616,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pln78d.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0r6fn",
-   "title": "Tech shares tumble worldwide"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 2851,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pljlv3.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0p4rg",
-   "title": "Protesters in France escalate their demands"
   }
  ]
 }

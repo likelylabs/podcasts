@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 5395,
+   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b02be49beab37b9d824caf9/media.mp3",
+   "guid": "6b02be49beab37b9d824caf9",
+   "title": "Las Vegas GP Race Review"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2161,
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b013c3436fd0bfb685d0a50/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6abfb7ef0e877e238c8f1d16/media.mp3",
    "guid": "6abfb7ef0e877e238c8f1d16",
    "title": "Reaction to Bahrain GP (in Malaysia) practice"
-  },
-  {
-   "date": "2026-09-30",
-   "durationSec": 1520,
-   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6abc08054e65eeecd4cf7de0/media.mp3",
-   "guid": "6abc08054e65eeecd4cf7de0",
-   "title": "Our 2026 Bahrain GP (in Malaysia) predictions"
   }
  ]
 }

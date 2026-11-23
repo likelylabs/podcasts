@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2251,
+   "enclosure": "https://feeds.soundcloud.com/stream/2442527715-lessonsfrommovies-ep815.mp3",
+   "guid": "tag:soundcloud,2010:tracks/2442527715",
+   "title": "ep815 - 哥吉拉有出小說？電影裡沒拍出來的秘密？快來補完《哥吉拉-0.0》更多細節！"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2584,
    "enclosure": "https://feeds.soundcloud.com/stream/2440406559-lessonsfrommovies-ep814.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://feeds.soundcloud.com/stream/2368131263-lessonsfrommovies-ep786.mp3",
    "guid": "tag:soundcloud,2010:tracks/2368131263",
    "title": "ep786 - 以前的喜劇，長大看變悲劇？《少林足球》同門六師兄弟的武功與夢想解析"
-  },
-  {
-   "date": "2026-07-23",
-   "durationSec": 1800,
-   "enclosure": "https://feeds.soundcloud.com/stream/2365139015-lessonsfrommovies-ep785-qa.mp3",
-   "guid": "tag:soundcloud,2010:tracks/2365139015",
-   "title": "ep785 - 諾蘭打包票，全部都是真的！《奧德賽》裡的巨人/豬/木船/木馬/場景之幕後製作秘辛"
   }
  ]
 }

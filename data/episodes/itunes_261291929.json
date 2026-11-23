@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2047,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppd36y.mp3",
+   "guid": "urn:bbc:podcast:p0ppcw2v",
+   "title": "Liverpool run riot for Pochettino’s nightmare debut"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 844,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp38vh.mp3",
@@ -12,7 +19,7 @@
    "durationSec": 2894,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp46xd.mp3",
    "guid": "urn:bbc:podcast:m003471n",
-   "title": "TCV: Bagpuss, commentary prep and who will be England's number one?"
+   "title": "TCV: Bagpuss, commentary prep & who will be England's number one?"
   },
   {
    "date": "2026-11-20",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phdhj1.mp3",
    "guid": "urn:bbc:podcast:p0phbswc",
    "title": "Free-scoring Brighton & Man United settle for a point"
-  },
-  {
-   "date": "2026-10-17",
-   "durationSec": 805,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph396q.mp3",
-   "guid": "urn:bbc:podcast:p0ph4183",
-   "title": "Kasper and Peter Schmeichel - The Football Interview"
   }
  ]
 }

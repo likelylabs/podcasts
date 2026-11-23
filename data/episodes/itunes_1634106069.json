@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 414,
+   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/9045ba54-b0d1-401a-b067-a98b5c01ac10/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=9045ba54-b0d1-401a-b067-a98b5c01ac10&feed=fFPK3rs_",
+   "guid": "c1f5e2e6-1432-4d99-91a3-acdeca17dcda",
+   "title": "Narcissism Starts With Choosing Me Over Us | Dr. John Delony"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 558,
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/d1380c84-e455-48cc-a39f-6fe6d371d210/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=d1380c84-e455-48cc-a39f-6fe6d371d210&feed=fFPK3rs_",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/460c1b2c-5c00-4358-8e5d-d2d9aa089337/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=460c1b2c-5c00-4358-8e5d-d2d9aa089337&feed=fFPK3rs_",
    "guid": "86698fae-1d30-4db5-9012-5dbfd816442a",
    "title": "If Fear Keeps You Safe But Stuck, Open Your Sail | Scott Barry Kaufman"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 363,
-   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/bc0ac541-14a8-4894-85a5-bc9954876b0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=bc0ac541-14a8-4894-85a5-bc9954876b0c&feed=fFPK3rs_",
-   "guid": "61161bc8-309a-4b0b-87e0-b09015c7dd24",
-   "title": "Turn Your Anxiety Into a Signal That Finally Sets You Free | Dr. John Delony"
   }
  ]
 }

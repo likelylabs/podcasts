@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1669389484",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "【動物小耳朵的秘密任務】EP.6 長壽鸚鵡的新家",
+   "date": "2026-11-22",
+   "enclosure": "https://m.cdn.firstory.me/track/cld0588if003s01v77vwe7tl3/cmwrqa4yo042801t2hmkv5sf6/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcld0588if003s01v77vwe7tl3%2Fcmwrqa4yo042901t2axkn9wys.mp3?v=1795345417928",
+   "durationSec": 1622,
+   "guid": "cmwrqa4yo042801t2hmkv5sf6"
+  },
   {
    "title": "【動物小耳朵的秘密任務】EP.5 深夜的滾輪派對",
    "date": "2026-11-15",
@@ -205,13 +212,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/cld0588if003s01v77vwe7tl3/cmr0a7lx2002701z55gbgfcx8/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcld0588if003s01v77vwe7tl3%2Fcmr0a7lx2002801z571120oor.mp3?v=1782801926079",
    "durationSec": 1289,
    "guid": "cmr0a7lx2002701z55gbgfcx8"
-  },
-  {
-   "title": "EP.309 環遊世界的老鼠",
-   "date": "2026-07-01",
-   "enclosure": "https://m.cdn.firstory.me/track/cld0588if003s01v77vwe7tl3/cmr0a1gb500cl01x377a8ghju/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcld0588if003s01v77vwe7tl3%2Fcmr0a1gb500cm01x3f2toflb0.mp3?v=1782801682366",
-   "durationSec": 449,
-   "guid": "cmr0a1gb500cl01x377a8ghju"
   }
  ]
 }

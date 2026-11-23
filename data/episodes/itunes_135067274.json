@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1720,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
+   "guid": "urn:bbc:podcast:p0pp0406",
+   "title": "The Global Story: AI can imitate a human. But can it think like one?"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 1658,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
+   "guid": "urn:bbc:podcast:p0pp9hxv",
+   "title": "Deadlock at UN climate summit in Turkey"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1589,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3",
    "guid": "urn:bbc:podcast:p0pllbwj",
    "title": "The Global Story: They fled Russia. The US sent them back"
-  },
-  {
-   "date": "2026-11-08",
-   "durationSec": 1656,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3",
-   "guid": "urn:bbc:podcast:p0plw73g",
-   "title": "Poland in shock as six killed in shooting"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 1590,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
-   "guid": "urn:bbc:podcast:p0plplrh",
-   "title": "The Happy Pod: Celebrating the wedding that never happened"
   }
  ]
 }

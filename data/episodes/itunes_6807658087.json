@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 354,
+   "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/129897526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F09d3f2a9-d0d9-a6a3-828a-ece3cdffa61a.mp3",
+   "guid": "6938abf5-a4c6-4fa4-94cd-c4ae43c6ad9b",
+   "title": "2026-11-26 馬可福音 4:35-41"
+  },
+  {
+   "date": "2026-11-22",
+   "durationSec": 292,
+   "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/129897358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F06fd2d4c-7b55-74e3-15d9-96ecc24fa9ae.mp3",
+   "guid": "a9ba8db6-01c7-44e8-bff4-ee6a465b8d64",
+   "title": "2026-11-23 馬可福音 4:26-29"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 311,
    "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/129743997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F6a226b4e-879e-0271-d569-17fa734e5d81.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/127864617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434699212-44100-2-fe01e8254faa5.m4a",
    "guid": "31e3d1a0-58cf-48d5-b452-27b80a4e50df",
    "title": "2026-11-04 馬可福音 1:14-15"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 285,
-   "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/127864556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434699078-44100-2-15a286f632d68.m4a",
-   "guid": "c33ab006-33d1-4cf8-9530-e8339b72fbcd",
-   "title": "2026-11-01 馬可福音 1:1-8"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 290,
-   "enclosure": "https://anchor.fm/s/116bfa6b4/podcast/play/127749605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434539932-44100-2-6a522f88786fe.m4a",
-   "guid": "6712c06e-4e00-444f-aeca-7315162e1e1b",
-   "title": "2026-10-21 啟示錄1-2章"
   }
  ]
 }

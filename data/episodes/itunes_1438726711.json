@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-22",
+   "durationSec": 826,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3069626.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3069626?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Bruno Tertrais - Et si le. président devait utiliser l'arme nucléaire?"
+  },
+  {
+   "date": "2026-11-22",
    "durationSec": 268,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3069655.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3069655?productor=6889b58c-454d-4b39-be81-d14254401a23",
@@ -202,13 +209,6 @@
    "enclosure": "https://api.octopus.saooti.com/podcast/download/2974981.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/2974981?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Trump et Poutine: ce qu'ils préparent pour l'Ukraine...et l'Europe - L'intégrale -"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 629,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2967062.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2967062?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Jérôme Fourquet - Radiographie d'un pays déprimé"
   }
  ]
 }

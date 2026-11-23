@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1634,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnvx5x.mp3",
+   "guid": "urn:bbc:podcast:p0pnw1x7",
+   "title": "America’s last prison rodeo"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1819,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnwglx.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjbhkk.mp3",
    "guid": "urn:bbc:podcast:p0pjbjsh",
    "title": "If China's exports are booming, why are consumers struggling?"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 2961,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phpbcx.mp3",
-   "guid": "urn:bbc:podcast:p0phpdlp",
-   "title": "Germany's rust belt revival"
   }
  ]
 }

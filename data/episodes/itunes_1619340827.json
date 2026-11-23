@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3375,
+   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6b0323217ac92083770a58d3/media.mp3",
+   "guid": "6b0323217ac92083770a58d3",
+   "title": "Ep219 - 上來我屋企食飯"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 5217,
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6afd2c1acef3b9c049b68f44/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7be3e919e06ec9d487445a/media.mp3",
    "guid": "6a7be3e919e06ec9d487445a",
    "title": "FGD55 - 今晚上小野屋企食飯 (feat. 盧鎮業）"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 3396,
-   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a789d4a1c6a640ec20c0a97/media.mp3",
-   "guid": "6a789d4a1c6a640ec20c0a97",
-   "title": "Ep205 - 心碎的事（我們都是弱少男孩）"
   }
  ]
 }

@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1619340827",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "Ep219 - 上來我屋企食飯",
+   "date": "2026-11-23",
+   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6b0323217ac92083770a58d3/media.mp3",
+   "durationSec": 3375,
+   "guid": "6b0323217ac92083770a58d3"
+  },
   {
    "title": "Live 62. 但誰知道呢?",
    "date": "2026-11-19",
@@ -205,13 +212,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7be3e919e06ec9d487445a/media.mp3",
    "durationSec": 1312,
    "guid": "6a7be3e919e06ec9d487445a"
-  },
-  {
-   "title": "Ep205 - 心碎的事（我們都是弱少男孩）",
-   "date": "2026-08-10",
-   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a789d4a1c6a640ec20c0a97/media.mp3",
-   "durationSec": 3396,
-   "guid": "6a789d4a1c6a640ec20c0a97"
   }
  ]
 }

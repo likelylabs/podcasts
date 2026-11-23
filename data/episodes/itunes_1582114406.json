@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 332,
+   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/129792012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fdcb5a2a1-b5c5-0b38-36df-0e8f084a15b3.mp3",
+   "guid": "d82d64cc-d547-4f64-92ea-8aaf57dc5eee",
+   "title": "Saving Forests with Palm Nut Shells"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 326,
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/129735624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F14c763c4-690a-22a6-7433-c547545612ae.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127329052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F16868c4c-6fb1-b5fa-91bd-a7699c7c3c02.mp3",
    "guid": "cdbc0098-4f25-4912-ab9a-50260932f856",
    "title": "Lost Dog Goes to the Police"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 340,
-   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127162596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F6bcb1a71-7dcd-1277-4a80-f0354a61f91f.mp3",
-   "guid": "a5ce9067-af71-4f05-9015-044a8c2095d2",
-   "title": "Pizza Shop Robots"
   }
  ]
 }

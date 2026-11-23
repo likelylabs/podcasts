@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1585375783",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-23T08:49:42+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP 243｜獨旅",
+   "date": "2026-11-23",
+   "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/129882238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F105f003d-dc1c-93d7-7825-aa259fdfacac.mp3",
+   "durationSec": 3426,
+   "guid": "97987bbf-d0e6-4d3f-b600-cc361a094d39"
+  },
   {
    "title": "EP242 |《婚禮之徒》：死不了就參加婚禮吧",
    "date": "2026-11-16",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/115284828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F57fc787c-173a-d9b5-945b-4d1fd9abc17d.mp3",
    "durationSec": 2526,
    "guid": "69957684-3935-409c-9a1a-58b945954256"
-  },
-  {
-   "title": "EP. 212 | Gen Z買貴野：Miu Miu$8000白背心、Uniqlo、我值得、會升值、Old Money、越南平替",
-   "date": "2026-02-03",
-   "enclosure": "https://anchor.fm/s/69ebdc8c/podcast/play/114922053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F64cc8f7a-fec5-281f-035a-ad61d8eaf3a0.mp3",
-   "durationSec": 1971,
-   "guid": "3268a1c5-e4dd-45fa-8212-50c34d2ddd31"
   }
  ]
 }

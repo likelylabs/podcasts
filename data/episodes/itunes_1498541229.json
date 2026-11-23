@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 9043,
+   "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3",
+   "guid": "bc105fa7-23de-4c70-a338-6d70daf9aed1",
+   "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路"
+  },
+  {
    "date": "2026-11-10",
    "durationSec": 3259,
    "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f6618818-b288-4798-bab8-d60d77c70aff.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.mp3",
    "guid": "0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
    "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？"
-  },
-  {
-   "date": "2026-03-26",
-   "durationSec": 3981,
-   "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d97446f1-d6e3-4894-89d1-dca0a362b10b.mp3",
-   "guid": "d97446f1-d6e3-4894-89d1-dca0a362b10b",
-   "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋"
   }
  ]
 }

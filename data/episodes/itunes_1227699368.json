@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 4186,
+   "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6b032ee262392d2c7697cc2e/media.mp3",
+   "guid": "6b032ee262392d2c7697cc2e",
+   "title": "Liverpool v Man Utd reaction & transfers talk!"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 3966,
    "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6b00429addc192a77baf5f1a/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6aba9676231ebc129580dac3/media.mp3",
    "guid": "6aba9676231ebc129580dac3",
    "title": "Man City verdict - what should happen next?"
-  },
-  {
-   "date": "2026-09-26",
-   "durationSec": 3025,
-   "enclosure": "https://sphinx.acast.com/p/open/s/681cccd63e6644d7a3b3065c/e/6ab65693d721eb5e8e2882cb/media.mp3",
-   "guid": "6ab65693d721eb5e8e2882cb",
-   "title": "Ring for Analysis: Why don't goalkeepers cost more?"
   }
  ]
 }

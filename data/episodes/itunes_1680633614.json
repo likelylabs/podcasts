@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1498,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/129896650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437343034-44100-2-37ce59be96df6.mp3",
+   "guid": "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
+   "title": "When AI Labs Rival Nations"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1604,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/129823342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437242919-44100-2-60737e935d621.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
    "guid": "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
    "title": "Why AI Companies Are Betting Personality Beats Intelligence"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 1950,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127738167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434525113-44100-2-23a7b40fc4d89.mp3",
-   "guid": "0f766994-679b-4091-80ae-a7b3a91e7b86",
-   "title": "The AI Wealth Problem"
   }
  ]
 }

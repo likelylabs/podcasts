@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 916,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppc308.mp3",
+   "guid": "urn:bbc:podcast:p0ppc33k",
+   "title": "အာဆီယံခေါင်းဆောင်တွေဟာ မြန်မာအပေါ် တရားမျှတမှု မရှိဘူးလို့ နေပြည်တော် နိုင်ငံခြားရေးဌာနက ပြော"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 925,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp81rd.mp3",
@@ -195,13 +202,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj47ty.mp3",
    "guid": "urn:bbc:podcast:p0pjfkp6",
    "title": "လုံခြုံရေးနဲ့နယ်စပ်ရေးရာဝန်ကြီးတွေကို စစ်တပ်လွှတ်တော်ကိုယ်စားလှယ်တွေနဲ့ အပြောင်းအလဲလုပ်"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 902,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj95cg.mp3",
-   "guid": "urn:bbc:podcast:p0pj95q3",
-   "title": "စစ်တွေမြို့လယ်ခေါင် ဗုံးနှစ်လုံး ကျလို့ အရပ်သား ခုနစ်ဦး သေဆုံး ၊ ရှမ်းမြောက် ယဥ်ကျေးမှု ကိုးကန့်  ခြိမ်း‌ခြောက်တာကို ကန့်ကွက်"
   },
   {
    "date": "2018-12-31",

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1561,
+   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/b24325f0-7331-497d-abf0-7a0026b6a0d2/rssFileVip.mp3?timestamp=1795325687432",
+   "guid": "b24325f0-7331-497d-abf0-7a0026b6a0d2",
+   "title": "EP277 | 停損捨不得，攤平又害怕，一次看懂台股流動性危機"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1641,
    "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/fbd998c6-6c2a-4102-a076-12e8b21722cc/rssFileVip.mp3?timestamp=1795067778568",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/e4c5954a-4816-4ca4-a6cb-f1796deaaa2f/rssFileVip.mp3?timestamp=1786041662891",
    "guid": "e4c5954a-4816-4ca4-a6cb-f1796deaaa2f",
    "title": "EP249 | 美國限制中國後，AI股還有第二波行情嗎？"
-  },
-  {
-   "date": "2026-08-02",
-   "durationSec": 1437,
-   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/7361dc64-47a3-4dac-9f62-e701ad685bd7/rssFileVip.mp3?timestamp=1785703638525",
-   "guid": "7361dc64-47a3-4dac-9f62-e701ad685bd7",
-   "title": "EP248 | 聯發科財報與Google TPU供應鏈，日月光LEAP上修與資本支出，CPO四階段測試設備，費半震盪與台股資金節奏"
   }
  ]
 }

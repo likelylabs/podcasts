@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 906,
+   "enclosure": "https://traffic.megaphone.fm/ALLE2948827081.mp3",
+   "guid": "8902d3fa-d7f3-11f1-8f1e-5f3428985f7d",
+   "title": "BE 650: Bounce Back with Your Business English"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 914,
    "enclosure": "https://traffic.megaphone.fm/ALLE7861755713.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE4166335755.mp3",
    "guid": "9d3b05c6-a356-11f1-86bc-eb4133c634bb",
    "title": "BE 622: Can You Call a Man's Shirt a Blouse?"
-  },
-  {
-   "date": "2026-09-15",
-   "durationSec": 929,
-   "enclosure": "https://traffic.megaphone.fm/ALLE3852994782.mp3",
-   "guid": "dc7fb132-a1ee-11f1-81bc-e71c1c869184",
-   "title": "BE 621: Is This Episode Important to You or for You?"
   }
  ]
 }

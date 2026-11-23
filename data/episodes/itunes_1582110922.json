@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 529,
+   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/129791943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F541765c7-0a69-da29-b372-ce9d08d0491d.mp3",
+   "guid": "e8f96478-be70-494a-82ab-3cf3b8adad00",
+   "title": "Hualien Visitors & Australian Reading"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 518,
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/129735568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F1306d71c-8ee6-c60a-1342-af434abff63b.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127328992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F8dd96e6d-a250-d89a-c925-ba9822063fa2.mp3",
    "guid": "295c7116-2620-4552-8fd0-9a208d236935",
    "title": "Artist Emmy & Anti-AI"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 533,
-   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127162560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F26d9f884-03ab-b30b-ca87-0dbde743af52.mp3",
-   "guid": "72f6d55f-f701-410f-a863-06eb63153b4b",
-   "title": "Night Market & Tree Poison"
   }
  ]
 }

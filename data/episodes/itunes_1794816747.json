@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1674,
+   "enclosure": "https://cdncf.stand.fm/audios/01M7VBY195T1TX2J95SY9852EA.m4a",
+   "guid": "https://stand.fm/episodes/6affad9c42da810dd140167c",
+   "title": "【餃子を食べながら、餃子の本を読んでみる】#88"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 1390,
    "enclosure": "https://cdncf.stand.fm/audios/01M7H36Q88S01PB0E6DPM0YHXQ.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://cdncf.stand.fm/audios/01KQPQPN4ZE0MV9C4HW1CK1JTR.m4a",
    "guid": "https://stand.fm/episodes/69f729b37577e3e8495ae72c",
    "title": "【無限城、台北駅と戯れる。買い物の提案】台湾、暮らしの珍道中#59"
-  },
-  {
-   "date": "2026-04-27",
-   "durationSec": 1946,
-   "enclosure": "https://cdncf.stand.fm/audios/01KQ4YRBCBRAJAAHS15G69P4QZ.m4a",
-   "guid": "https://stand.fm/episodes/69ee0f42f696b95319b0658a",
-   "title": "【無限城・台北駅で迷わないために、二人で検証したよ！】台湾、暮らしの珍道中#58"
   }
  ]
 }

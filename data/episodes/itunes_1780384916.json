@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3922,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3956828369.mp3",
+   "guid": "d5114a9a-d5e8-11f1-9bfd-93624e0cc30b",
+   "title": "205. Watergate: Nixon vs the CIA (Ep 4)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2971,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT9275240414.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4058564548.mp3",
    "guid": "49d71946-a16d-11f1-8817-5b5a77079d3c",
    "title": "188. 9/11: How to Recruit a Hijacker (Ep 2)"
-  },
-  {
-   "date": "2026-08-24",
-   "durationSec": 3818,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT9645163093.mp3",
-   "guid": "d1cd08be-9a20-11f1-a14b-679c6115c865",
-   "title": "187. 9/11: The Rise of Osama bin Laden (Ep 1)"
   }
  ]
 }

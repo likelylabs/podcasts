@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1504,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/4fca0263-f468-4e77-855f-b50a01750bff/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
+   "guid": "4fca0263-f468-4e77-855f-b50a01750bff",
+   "title": "Talk of the Town: Can creativity pave the way to independence for persons with additional needs??"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 835,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/6543974e-289c-4b69-8f9b-b50a0175ebe0/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
+   "guid": "6543974e-289c-4b69-8f9b-b50a0175ebe0",
+   "title": "Breakfast Bites: School's out, parents are in! How are you surviving the holidays?"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 526,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/7f8ec380-b7c3-47f6-8ac0-b50a0172bfe7/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
+   "guid": "7f8ec380-b7c3-47f6-8ac0-b50a0172bfe7",
+   "title": "The Final Score: Pochettino's nightmare debut as Liverpool thrash Manchester United"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1457,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/240a2008-43f1-4e8d-92a7-b5070167cee6/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
@@ -188,27 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/2c8849bf-1999-4413-82da-b4ff017a1e0e/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
    "guid": "2c8849bf-1999-4413-82da-b4ff017a1e0e",
    "title": "We Are Family: Everyone wants to be an influencer… But is content creation really a career?"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 483,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/1025bb54-91a9-427f-8b7e-b4ff0172ec1b/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
-   "guid": "1025bb54-91a9-427f-8b7e-b4ff0172ec1b",
-   "title": "The Final Score: Samba meets Samurai meets Singapore as The Kallang gears up for the Mizuho Blue Challenge"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 842,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/30d164be-c2ca-4268-bbc0-b4ff0184f145/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
-   "guid": "30d164be-c2ca-4268-bbc0-b4ff0184f145",
-   "title": "Breakfast Bites: Would you be jealous if your partner turned to AI for emotional support?"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 1719,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/b0286ec8-8ba9-44b8-8abc-adcd00425e57/32e77af5-d966-499a-b5b4-b4fe01729e2a/audio.mp3?utm_source=Podcast&in_playlist=84e58e18-45fd-409a-9f77-adcd0042dcdc",
-   "guid": "32e77af5-d966-499a-b5b4-b4fe01729e2a",
-   "title": "Singapore Unfiltered: What role does Singapore firm Megaspeed play in the Jenson Huang scandal?"
   }
  ]
 }
