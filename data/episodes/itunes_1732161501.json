@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 371,
+   "enclosure": "https://media.transistor.fm/a5d9ffdb/bc49bf4c.mp3",
+   "guid": "b8370889-0f7e-4563-9b00-c15a53648532",
+   "title": "为上帝而做"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 366,
    "enclosure": "https://media.transistor.fm/c3a84b3f/5aac2b20.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://media.transistor.fm/7a2b5a00/0b587962.mp3",
    "guid": "2dfe5af2-7ceb-47c8-8f45-6a9b3f931233",
    "title": "上帝知你名"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 367,
-   "enclosure": "https://media.transistor.fm/63e787b3/92e117bc.mp3",
-   "guid": "c969f2ad-c82e-4c43-a006-43fbdbb7dd35",
-   "title": "上帝的杰作"
   }
  ]
 }

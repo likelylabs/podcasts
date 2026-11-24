@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2401,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b0415082e1921ea66b87a34/media.mp3",
+   "guid": "6b0415082e1921ea66b87a34",
+   "title": "EP 818: \"Choosy\" with Papa Dudut"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 2369,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b03f99295641a2da52de30a/media.mp3",
+   "guid": "6b03f99295641a2da52de30a",
+   "title": "EP 817: \"No Guts\" with Papa Dudut"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2659,
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6afff67d357d3a43adf2131f/media.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/c4748571-644e-46c0-b520-2413ee0eede7/media.mp3",
    "guid": "c4748571-644e-46c0-b520-2413ee0eede7",
    "title": "EP 789: \"Sa Bawat Patak\" with Papa Dudut"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 2753,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/f19a1b77-50bf-477e-bdaa-bd2d6d27cbbb/media.mp3",
-   "guid": "f19a1b77-50bf-477e-bdaa-bd2d6d27cbbb",
-   "title": "EP 788: \"Makatatay\" with Papa Dudut"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 2329,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/135aa929-0410-4ae8-b522-464338251d27/media.mp3",
-   "guid": "135aa929-0410-4ae8-b522-464338251d27",
-   "title": "EP 787: \"Tanging Dalangin\" with Papa Dudut"
   }
  ]
 }

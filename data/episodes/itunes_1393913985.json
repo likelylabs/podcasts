@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2326,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/3bdcca65-ee0c-4e26-8782-abdb0017cbf2/6c916060-3f82-4279-8d9d-b5080057cb3b/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
+   "guid": "6c916060-3f82-4279-8d9d-b5080057cb3b",
+   "title": "S3E8:  Navigating AI headwinds: What US data centre backlash and Nvidia fallout mean for South-east Asia"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1228,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d40ea514-086b-444c-aded-ae83006c2475/668129c4-c8df-481b-a069-b50500709bff/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4d142708-9074-41ec-9c48-ae7401168a2e/c14005c1-496d-47b3-ac30-b4e9008b43bf/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "c14005c1-496d-47b3-ac30-b4e9008b43bf",
    "title": "S1E95: It’s not about greed: Behavioural scientist Serene Koh explains the psychology of falling for scams"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 2621,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/3bdcca65-ee0c-4e26-8782-abdb0017cbf2/79e5e619-ed55-4c77-aafa-b4e50053b5b0/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
-   "guid": "79e5e619-ed55-4c77-aafa-b4e50053b5b0",
-   "title": "S3E3: What if Singapore had a nuclear reactor, where’d it be?"
   }
  ]
 }

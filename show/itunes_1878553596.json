@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1878553596",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "粤语学习丨“吃瓜群众”用粤语怎么说？",
+   "date": "2026-11-23",
+   "enclosure": "https://jt.ximalaya.com//GKwRIRwO2OuYAAW2zgT_qKm9.m4a?channel=rss&album_id=79979880&track_id=1034752666&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/5d06-audiofreehighqps/06/CD/GKwRIRwO2OuYAAW2zgT_qKm9.m4a",
+   "durationSec": 46,
+   "guid": "xmly_track_1034752666"
+  },
   {
    "title": "粤语学习丨“凡尔赛”用粤语怎么说？",
    "date": "2026-11-22",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIaIOBDrpACGOlASogjYi.m4a?channel=rss&album_id=79979880&track_id=990726818&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/d084-audiofreehighqps/D2/C5/GKwRIaIOBDrpACGOlASogjYi.m4a",
    "durationSec": 271,
    "guid": "xmly_track_990726818"
-  },
-  {
-   "title": "粤语学习丨为什么广东人不说“疼”？",
-   "date": "2026-06-11",
-   "enclosure": "https://jt.ximalaya.com//GKwRIJIN-4gnABkqRASkuqKH.m4a?channel=rss&album_id=79979880&track_id=981924498&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/dcfd-audiofreehighqps/D5/B0/GKwRIJIN-4gnABkqRASkuqKH.m4a",
-   "durationSec": 203,
-   "guid": "xmly_track_981924498"
   }
  ]
 }

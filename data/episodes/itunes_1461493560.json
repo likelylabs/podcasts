@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1159,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bc7f285b-9adb-4cc4-9072-245b1395540a/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bc7f285b-9adb-4cc4-9072-245b1395540a&feed=XkY2SBZJ&t=podcast&e=nx-s1-6049553&p=510338&d=1159&size=18553295",
+   "guid": "e5d3763d-6a83-4404-8007-293cf6cf2fc1",
+   "title": "Video chatting with kids is chaos. It can be so much better"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1266,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/4f8b7bdb-ce90-4896-86e4-794f6b77e8be/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=4f8b7bdb-ce90-4896-86e4-794f6b77e8be&feed=XkY2SBZJ&t=podcast&e=nx-s1-6046479&p=510338&d=1266&size=20262705",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/9d325fc9-f6a4-4460-ba6b-31237c1b01dc/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=9d325fc9-f6a4-4460-ba6b-31237c1b01dc&feed=XkY2SBZJ&t=podcast&e=nx-s1-5968658&p=510338&d=1055&size=16891865",
    "guid": "b43d9495-e780-4433-bb7f-795f34b72443",
    "title": "Feeling insecure? Try this memory-update exercise"
-  },
-  {
-   "date": "2026-09-14",
-   "durationSec": 1045,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/8730cacb-1102-4870-ae9f-004bae5a4374/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=8730cacb-1102-4870-ae9f-004bae5a4374&feed=XkY2SBZJ&t=podcast&e=nx-s1-5965755&p=510338&d=1045&size=16727189",
-   "guid": "93bfc646-b992-4daa-9aff-a40cc37357b2",
-   "title": "Quitting is sometimes the right decision. Here's how to know when to walk away"
   }
  ]
 }

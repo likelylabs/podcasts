@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 326,
+   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/129936936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2Fb7391fa1-6c65-2ac3-4a89-18537ba51abc.mp3",
+   "guid": "96f7fd2d-d871-40ec-a041-0300f0bb4f78",
+   "title": "Night Light for the Earth"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 332,
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/129792012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fdcb5a2a1-b5c5-0b38-36df-0e8f084a15b3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127385990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F1e8cec00-3f46-fbc5-9e50-104782302dcb.mp3",
    "guid": "0f11fe45-c08f-4fb2-b991-12d18be1b734",
    "title": "The First Boat Trip in 300 Years"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 345,
-   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127329052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F16868c4c-6fb1-b5fa-91bd-a7699c7c3c02.mp3",
-   "guid": "cdbc0098-4f25-4912-ab9a-50260932f856",
-   "title": "Lost Dog Goes to the Police"
   }
  ]
 }

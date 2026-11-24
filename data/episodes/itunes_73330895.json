@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2881,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj9dsn.mp3",
+   "guid": "urn:bbc:podcast:p0pj9cd5",
+   "title": "Archive: Epic of Gilgamesh"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 3173,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phsnsv.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfns9.mp3",
    "guid": "urn:bbc:podcast:m002wt1v",
    "title": "The Welsh Marches"
-  },
-  {
-   "date": "2026-06-18",
-   "durationSec": 3332,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsbb3f.mp3",
-   "guid": "urn:bbc:podcast:m002wkhq",
-   "title": "The Levellers"
   }
  ]
 }

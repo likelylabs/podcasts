@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1128,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7802082879.mp3",
+   "guid": "b65e9efa-e767-11f1-bb63-d37556f9cda5",
+   "title": "Adam Grant on Nvidia: “With Great Power Comes No Accountability”"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1735,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2566257362.mp3",
+   "guid": "c9fb5c96-d1f6-11f0-95c8-1309c0ab8889",
+   "title": "Will AI Create More Jobs Than It Destroys? + Why Scott Is Buying Nike’s Dip"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1128,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4022258094.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5206394016.mp3",
    "guid": "77073960-d1f6-11f0-8459-0718da02e6a7",
    "title": "Can We Coexist With AI? — with Ethan Mollick"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 1307,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5693936310.mp3",
-   "guid": "76f3928e-d1f6-11f0-8459-53a8f467bb29",
-   "title": "How America Became Addicted to Debt — with Morgan Housel"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 3007,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8551533338.mp3",
-   "guid": "3bdcbc6a-b6ad-11f1-9e11-0f165becc8be",
-   "title": "Why Optimization Culture Is Making You Miserable"
   }
  ]
 }

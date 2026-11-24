@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1884618808",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "D37 | 一眼看懂台式餐桌美學 ft. 陳霈芙 Visual Grammar of Taiwanese Tables",
+   "date": "2026-11-23",
+   "enclosure": "https://rss.soundon.fm/rssf/653981b2-448e-447a-a25b-8ea82f13609b/feedurl/7a88ab01-2cb2-4c52-8774-228817624f31/rssFileVip.mp3?timestamp=1795428826204",
+   "durationSec": 3391,
+   "guid": "7a88ab01-2cb2-4c52-8774-228817624f31"
+  },
   {
    "title": "D36 | 聲音也能替食物調味？ft. 林倚萱 How Sound Influences the Way We Taste",
    "date": "2026-11-16",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/653981b2-448e-447a-a25b-8ea82f13609b/feedurl/eea4ba64-74ad-4efe-b681-a46dbc0f05bf/rssFileVip.mp3?timestamp=1786326018973",
    "durationSec": 3844,
    "guid": "eea4ba64-74ad-4efe-b681-a46dbc0f05bf"
-  },
-  {
-   "title": "B07 | 和神明吃飯的日子（下）普渡與歲末祭儀 ft.顏幻龍 Festival Foods of Taiwan (Part II)",
-   "date": "2026-04-27",
-   "enclosure": "https://rss.soundon.fm/rssf/653981b2-448e-447a-a25b-8ea82f13609b/feedurl/a2c72410-d761-4cf4-bd25-332cce42a85a/rssFileVip.mp3?timestamp=1786325987111",
-   "durationSec": 2992,
-   "guid": "a2c72410-d761-4cf4-bd25-332cce42a85a"
   }
  ]
 }

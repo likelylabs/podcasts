@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1622,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmfd30.mp3",
+   "guid": "urn:bbc:podcast:w3ct9tr2",
+   "title": "Dr Skin: 2. Acres of skin"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 1511,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmfcf1.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mn72cy.mp3",
    "guid": "urn:bbc:podcast:w3ct8vwr",
    "title": "The Child Cancer Scam: 1. The video"
-  },
-  {
-   "date": "2025-12-10",
-   "durationSec": 241,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mmpbtv.mp3",
-   "guid": "urn:bbc:podcast:p0mmpf8d",
-   "title": "The Child Cancer Scam: Trailer"
   }
  ]
 }

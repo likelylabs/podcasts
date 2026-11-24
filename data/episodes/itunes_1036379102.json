@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 380,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppf4l3.mp3",
+   "guid": "urn:bbc:podcast:p0ppf6kj",
+   "title": "Business jargon"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 383,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn7426.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlv9y6.mp3",
    "guid": "urn:bbc:podcast:p0nlvc52",
    "title": "Easily confused words"
-  },
-  {
-   "date": "2026-05-13",
-   "durationSec": 61,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nhk7qf.mp3",
-   "guid": "urn:bbc:podcast:p0nhk912",
-   "title": "English in a Minute: Phrases with 'day'"
   }
  ]
 }

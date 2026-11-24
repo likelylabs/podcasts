@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1680,
+   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/11/23/8ce8fb2d32664ca98243be70d1a5d1ae.mp3",
+   "guid": "6b0407bfadaf8217f233dfb8",
+   "title": "逐梦星空七十载 远征深空"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1701,
    "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/11/20/f291c60b629d46b687aefb6a8f051d8b.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/13/5883cff76d9e49f08f31776ee1ae5fed.mp3",
    "guid": "6acda3dfb733bf356cc78f99",
    "title": "星途征程 探九霄"
-  },
-  {
-   "date": "2026-10-10",
-   "durationSec": 1587,
-   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/10/01f34fcdac7b483d9c2214f36b96bfec.mp3",
-   "guid": "6ac9feeef44c4629b379330f",
-   "title": "星途征程 筑天宫"
   }
  ]
 }

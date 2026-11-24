@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1178,
+   "enclosure": "https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/6b045fbe236627a44726e6db/media.mp3",
+   "guid": "6b045fbe236627a44726e6db",
+   "title": "Why the best learners talk to themselves | Tania Lombrozo"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 968,
    "enclosure": "https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/6afdec8220b40c3539bf0a3e/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/6a8762f3037681afc7e2ad47/media.mp3",
    "guid": "6a8762f3037681afc7e2ad47",
    "title": "Finding Purpose: How to give your work meaning (w/ the New York Times Jodi Kantor) | from Fixable"
-  },
-  {
-   "date": "2026-08-27",
-   "durationSec": 2164,
-   "enclosure": "https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/6a87630aa103c59e02970025/media.mp3",
-   "guid": "6a87630aa103c59e02970025",
-   "title": "Finding Purpose: How to defend your values (w/ Yara Shahidi & Keri Salter) | from Fixable"
   }
  ]
 }

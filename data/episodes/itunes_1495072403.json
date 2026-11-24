@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2940,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6b04174c07effbff76aa73ad/media.mp3",
+   "guid": "6b04174c07effbff76aa73ad",
+   "title": "Can Man United shrug off Pochettino's nightmare start?"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2731,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6aff0ef18f8ad2908f8de2a2/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6a958775d292c337c0cdc9fe/media.mp3",
    "guid": "6a958775d292c337c0cdc9fe",
    "title": "Who shone in Man United's Ipswich win?"
-  },
-  {
-   "date": "2026-08-28",
-   "durationSec": 3906,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6a90efeeae4f283336386e9a/media.mp3",
-   "guid": "6a90efeeae4f283336386e9a",
-   "title": "Man United's Champions League draw: LIVE!"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2647,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/35d5d263-6b6b-417f-885c-3ff01e578545/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=35d5d263-6b6b-417f-885c-3ff01e578545&feed=TkQfZXMD",
+   "guid": "02830ed2-96de-46d4-be80-e5afc07640a4",
+   "title": "NVIDIA’s CEO Return, CrowdStrike-Zscaler Deal & AI Storage Demand"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2661,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/0d0d28ac-519f-456f-b0d5-c77835908856/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=0d0d28ac-519f-456f-b0d5-c77835908856&feed=TkQfZXMD",
    "guid": "8428fd8d-d28c-446e-8222-61dd534029db",
    "title": "Mad Money w/ Jim Cramer 10/13/26"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 2654,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6c50dfbb-92bf-4414-9759-a659a256a958/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6c50dfbb-92bf-4414-9759-a659a256a958&feed=TkQfZXMD",
-   "guid": "92128c01-7538-4fd3-8491-7b857c983fc6",
-   "title": "Mad Money w/ Jim Cramer 10/12/26"
   }
  ]
 }

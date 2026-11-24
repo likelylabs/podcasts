@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2438,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/6342e010-3d66-4b6c-8d1e-b50b0150efbc/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+   "guid": "6342e010-3d66-4b6c-8d1e-b50b0150efbc",
+   "title": "Jensen Huang Returns to Nvidia, Reigniting the AI Trade"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 3406,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e31d322b-24f8-40df-a703-b4c60101b0de/37c07cce-e329-40c6-a97b-b5060182bec0/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/3daaf6ba-a990-4313-898a-b4ec0141a9ab/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
    "guid": "3daaf6ba-a990-4313-898a-b4ec0141a9ab",
    "title": "OpenAI Moves Toward a $1.25 Trillion Value"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 2785,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/263d93e2-3f79-4018-a538-b4eb0131d247/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
-   "guid": "263d93e2-3f79-4018-a538-b4eb0131d247",
-   "title": "Meta Doubles Down on AI Spending, Plans New Class C Shares"
   }
  ]
 }

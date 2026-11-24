@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1607,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9661706738.mp3",
+   "guid": "7c3a7fb4-d05c-11f0-a63b-d3b1cbd1c075",
+   "title": "Drowning in credit card debt"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1822,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9996506259.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5969980938.mp3",
    "guid": "6524ea7a-d05d-11f0-9f07-f3d76d83b64f",
    "title": "When AI agents run your life"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 1930,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4206600717.mp3",
-   "guid": "166fbc4a-7eca-11f1-8f31-bbabbc087bfe",
-   "title": "Can Trump steal the midterms?"
   }
  ]
 }

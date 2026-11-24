@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 772,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/95396c5c-dac9-4205-895b-bb966af09d3a.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/35kHF9vSp73p8zkCLEK6B6O5TlcpYbxCj3JJlyiA-YQ",
+   "title": "From EVs to Robots: China’s Edge in Physical AI"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 725,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/1abb0c85-003d-420b-a243-f8f444b1bb1b.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/f485081c-9098-44b9-9288-e14c7ade4223.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/m-BFSR2WvjGWUaUAVRjtAXvBMDVehb1jCmskqHkABME",
    "title": "Asia Fixed Income Needs a Bigger Map"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 281,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/d4422f4e-0888-48cb-b940-e109bf513f2e.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/5f85BdeJGU8YE4DB5H9YWTgfRnB63Lmlfm_Kgk67MSM",
-   "title": "The Politics of Powering AI"
   }
  ]
 }

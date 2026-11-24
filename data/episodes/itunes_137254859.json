@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1852,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/768e6992-e05f-49b9-aec2-b50900f9656a/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
+   "guid": "768e6992-e05f-49b9-aec2-b50900f9656a",
+   "title": "Pick Up Your Mantle | Joel Osteen"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1830,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/f228336e-77b9-4386-81ea-b5070147b314/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/38dbce05-bc2e-4dca-a4ae-b4ee002306d4/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
    "guid": "38dbce05-bc2e-4dca-a4ae-b4ee002306d4",
    "title": "The Strength of Silence | Joel Osteen"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 811,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/8a0f54ff-2ac0-4c17-95f7-b4ec01800867/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "guid": "8a0f54ff-2ac0-4c17-95f7-b4ec01800867",
-   "title": "Better Together | Victoria Osteen"
   }
  ]
 }

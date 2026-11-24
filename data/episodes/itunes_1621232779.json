@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3876,
+   "enclosure": "https://rss.soundon.fm/rssf/d29691bb-5ff9-43f7-980b-df9d08f4ad97/feedurl/3c55e169-846e-49cb-9029-4febba369166/rssFileVip.mp3?timestamp=1795438520905",
+   "guid": "3c55e169-846e-49cb-9029-4febba369166",
+   "title": "EP233 | 你在內耗? 恭喜你! 為什麼?"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 3945,
    "enclosure": "https://rss.soundon.fm/rssf/d29691bb-5ff9-43f7-980b-df9d08f4ad97/feedurl/74168254-a4e7-4cdd-a3c4-5eb12e62f2d4/rssFileVip.mp3?timestamp=1794829197452",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/d29691bb-5ff9-43f7-980b-df9d08f4ad97/feedurl/51e1e3d2-1571-4a83-b094-d0bb6d5fae13/rssFileVip.mp3?timestamp=1779236539722",
    "guid": "51e1e3d2-1571-4a83-b094-d0bb6d5fae13",
    "title": "EP204 |   脆弱, 其實是一種力量! 講出來又沒怎樣! 離婚又沒怎樣! ft 黃小胖"
-  },
-  {
-   "date": "2026-05-04",
-   "durationSec": 4423,
-   "enclosure": "https://rss.soundon.fm/rssf/d29691bb-5ff9-43f7-980b-df9d08f4ad97/feedurl/7cf014de-35e4-46b1-887d-570fc4a3f151/rssFileVip.mp3?timestamp=1777902359650",
-   "guid": "7cf014de-35e4-46b1-887d-570fc4a3f151",
-   "title": "EP203 | 我們真的走進誠品了! 那天完成了26年的心願"
   }
  ]
 }

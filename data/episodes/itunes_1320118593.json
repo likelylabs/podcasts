@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 548,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/684789e8-f22c-4d22-b71b-2e4288fcdc59/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=684789e8-f22c-4d22-b71b-2e4288fcdc59&feed=IFy3imsg&t=podcast&e=nx-s1-6048592&p=510325&d=548&size=8776811",
+   "guid": "48c0daf9-915f-48fd-8566-3501cb73c548",
+   "title": "How American money is changing Europe's defense strategy"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 564,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/ace46736-91bd-469d-9cc8-711ca5b95dd0/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=ace46736-91bd-469d-9cc8-711ca5b95dd0&feed=IFy3imsg&t=podcast&e=nx-s1-6047743&p=510325&d=564&size=9026751",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d09af539-d1a1-4a5e-9063-3f8cc9539694/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d09af539-d1a1-4a5e-9063-3f8cc9539694&feed=IFy3imsg&t=podcast&e=nx-s1-6001396&p=510325&d=567&size=9082340",
    "guid": "d4209bb8-4354-454b-a409-7a7993f1b715",
    "title": "A rebate runaround, a car rental rip-off and … roaches?!"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 568,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/37710a4f-4d7f-4833-9770-261f7fb17ad5/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=37710a4f-4d7f-4833-9770-261f7fb17ad5&feed=IFy3imsg&t=podcast&e=nx-s1-5999497&p=510325&d=568&size=9099058",
-   "guid": "18116394-f4c1-4f3e-a052-3549abc54fd7",
-   "title": "How did we get a Nobel Prize in economics?"
   }
  ]
 }

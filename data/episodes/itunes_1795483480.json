@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3465,
+   "enclosure": "https://traffic.megaphone.fm/GLT6753546501.mp3",
+   "guid": "ba540578-e531-11f1-8d1d-337b3f96e4e4",
+   "title": "Dig: The Podcast E1 (with Amy Poehler & Mike Schur)"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 4513,
    "enclosure": "https://traffic.megaphone.fm/GLT8048710662.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT7892239563.mp3?updated=1778258397",
    "guid": "7fc685fc-2c95-11f1-b581-6fd787847b53",
    "title": "Billie Eilish"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 4325,
-   "enclosure": "https://traffic.megaphone.fm/GLT3367936891.mp3?updated=1777334540",
-   "guid": "7fae62f6-2c95-11f1-b581-3b59045da733",
-   "title": "Jon Hamm"
   }
  ]
 }

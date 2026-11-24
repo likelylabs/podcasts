@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2085,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6af3133a43e2f445c253dbdc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RTlXpIffdsNSeEkstgVltEvhGrX0JP25xpEoREYqG98",
+   "guid": "6af3133a43e2f445c253dbdc",
+   "title": "The Berlin Airlift"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2691,
    "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6afae122abfa3ac131f19e5a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UcX2tYR7uXB1ILmsChHsDEe6Z_psmQwwQDuZw3P17hw",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6a798d479ec7e53c6936778e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1qy8De0Qt9R9D7GupuSbXFL1A_UfB3MLmXVlVILBNQM",
    "guid": "6a798d479ec7e53c6936778e",
    "title": "Marco Polo and The Court of the Great Kublai Khan"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 2218,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6a75d6c100cf2d5dab0f2f09/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vFpcrXDf3rUo6iLQEa8OLIHdTeczC5bScvmO2MaQiXo",
-   "guid": "6a75d6c100cf2d5dab0f2f09",
-   "title": "The Naval Revolution: Triumph and Disaster"
   }
  ]
 }

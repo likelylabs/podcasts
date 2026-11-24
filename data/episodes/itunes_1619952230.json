@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1325,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/65bb6071-83b1-4aeb-8ed3-b50c0026e3bd/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
+   "guid": "65bb6071-83b1-4aeb-8ed3-b50c0026e3bd",
+   "title": "MITM Best Of 241126"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1737,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/79be16b0-4c3d-482a-8736-b50b002df874/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
+   "guid": "79be16b0-4c3d-482a-8736-b50b002df874",
+   "title": "MITM Best Of 231126"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2173,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/788f5a65-52e3-47a1-9a71-b508002e1062/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
@@ -195,20 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/c58b3d2f-e74d-4f06-b949-b4e2002a67bb/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
    "guid": "c58b3d2f-e74d-4f06-b949-b4e2002a67bb",
    "title": "MITM Best Of 131026"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 1263,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/ef8c039a-8e4d-426d-9a92-b4e1002af1a4/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
-   "guid": "ef8c039a-8e4d-426d-9a92-b4e1002af1a4",
-   "title": "MITM Best Of 121026"
-  },
-  {
-   "date": "2026-10-08",
-   "durationSec": 1232,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/fa45207f-2e1f-407a-99b6-b4dd002b9e55/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
-   "guid": "fa45207f-2e1f-407a-99b6-b4dd002b9e55",
-   "title": "MITM Best Of 081026"
   }
  ]
 }

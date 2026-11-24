@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2566,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/7e643b91-e042-45ff-8852-6b7f5f235abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=7e643b91-e042-45ff-8852-6b7f5f235abc&feed=Nh1wIaXT",
+   "guid": "0782b813-4851-411d-83e0-4fe2aff48d5d",
+   "title": "NVIDIA CEO Return Sparks Tech Rally"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 2800,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/6090cd35-9a87-4421-a5a9-adf39536a144/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=6090cd35-9a87-4421-a5a9-adf39536a144&feed=Nh1wIaXT",
+   "guid": "6e6fed45-6d62-428d-8e13-97f068f4b841",
+   "title": "NVIDIA Rally, Jensen Huang’s Return and the Fed Outlook"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2564,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/dc5e64eb-c851-4c9a-a287-ab9f99afbec0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=dc5e64eb-c851-4c9a-a287-ab9f99afbec0&feed=Nh1wIaXT",
@@ -195,20 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/b93e65f7-15d2-4b30-9896-88d2f62b9075/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=b93e65f7-15d2-4b30-9896-88d2f62b9075&feed=Nh1wIaXT",
    "guid": "f9801227-a25b-459f-9d75-43c96e0fe3c2",
    "title": "Closing Bell 11/3/26"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 2438,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/facccc33-8c92-4308-9ef6-dd02c81b6c05/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=facccc33-8c92-4308-9ef6-dd02c81b6c05&feed=Nh1wIaXT",
-   "guid": "d97d1e4e-5847-4c4f-bbc4-4a84682d5334",
-   "title": "Closing Bell Overtime: Big Tech Faces Its Next Test 11/2/26"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 2512,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/e74d3834-8265-44a7-9f7a-7faea05468b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=e74d3834-8265-44a7-9f7a-7faea05468b8&feed=Nh1wIaXT",
-   "guid": "d1c21e5e-8b06-4a53-a6ea-4e7a61479485",
-   "title": "Closing Bell: 11/2/26"
   }
  ]
 }

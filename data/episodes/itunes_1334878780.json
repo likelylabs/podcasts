@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3549,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2685291702.mp3",
+   "guid": "a66f2814-e633-11f1-bc97-0bb86aa0857b",
+   "title": "TDS Time Machine | Stock Market Meltdowns"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 4071,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1424362920.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8349529130.mp3",
    "guid": "7b0f9eea-cf10-11f1-b1c8-4735956165a7",
    "title": "This Week's News | Jon Stewart on French Riots, Kosta on Midterm Meltdowns & Ronny on Vance's New Laugh"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 2604,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7342918189.mp3",
-   "guid": "8158ecce-ce8a-11f1-b7b0-4324138746b6",
-   "title": "Trump Is Hot for Tim Scott & Susan Collins Side-Eyes Troy Jackson's Second Cousin | Jimmy O. Yang"
   }
  ]
 }

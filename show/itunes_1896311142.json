@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1896311142",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP28 香港版百慕達三角？三宗離奇失蹤事件｜西貢結界",
+   "date": "2026-11-23",
+   "enclosure": "https://traffic.megaphone.fm/APO7151784487.mp3",
+   "durationSec": 2480,
+   "guid": "73867536-01c4-4a91-be52-d5d6e7ea875b"
+  },
   {
    "title": "EP27 網絡都市傳說變真實案件！12歲少女為魔人獻祭好友？｜瘦長魔人獻祭案",
    "date": "2026-11-16",
@@ -205,13 +212,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO6953453998.mp3",
    "durationSec": 1723,
    "guid": "95458527-cd35-42b5-b249-bdda72a7f7ec"
-  },
-  {
-   "title": "Ep 1 挖眼殺人魔 Eyeball killer",
-   "date": "2026-04-28",
-   "enclosure": "https://traffic.megaphone.fm/APO1647539115.mp3",
-   "durationSec": 2046,
-   "guid": "8fb4f02a-aecf-4e73-8cbe-0649d4295c48"
   }
  ]
 }

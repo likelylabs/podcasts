@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1041,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6535147408.mp3",
+   "guid": "9df7979e-e786-11f1-966d-d3e229e1a456",
+   "title": "The Return of Jensen Huang"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1235,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ5057656439.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6419773563.mp3",
    "guid": "0deae976-c8d7-11f1-9b54-f332b573aee5",
    "title": "My Monday Morning: Gayle King"
-  },
-  {
-   "date": "2026-10-17",
-   "durationSec": 1398,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6087105224.mp3",
-   "guid": "efa8be84-c99e-11f1-985a-7b437a9bc3d0",
-   "title": "The $275 Million Margaritaville Drama"
   }
  ]
 }

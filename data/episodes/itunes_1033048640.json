@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1133,
+   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/96107354-ddd9-4e10-b78a-9629399c2add/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=96107354-ddd9-4e10-b78a-9629399c2add&feed=rpKQEwel",
+   "guid": "9b5e1009-0d37-4c26-a03a-9d975c3ac524",
+   "title": "How to Stop Being Triggered"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1100,
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/004664e3-3770-4d29-a7b2-329051f692d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=004664e3-3770-4d29-a7b2-329051f692d1&feed=rpKQEwel",
@@ -202,13 +209,6 @@
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/4049eecc-000a-48a3-8df7-84d911866fa5/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=4049eecc-000a-48a3-8df7-84d911866fa5&feed=rpKQEwel",
    "guid": "cbdda500-8c29-48bc-a484-a0d058f22fe0",
    "title": "The Art of Doing Less and Achieving More"
-  },
-  {
-   "date": "2026-10-01",
-   "durationSec": 969,
-   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/26f8dd1b-ca62-4d09-a59a-336bae5efee6/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=26f8dd1b-ca62-4d09-a59a-336bae5efee6&feed=rpKQEwel",
-   "guid": "2aa23bf9-e2da-407e-b86c-64150541dd16",
-   "title": "Rewire Your Brain in the Morning"
   }
  ]
 }

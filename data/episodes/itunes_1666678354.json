@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1140,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/17aedc1b-60c2-4d4b-b6fc-1260ac204164/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=17aedc1b-60c2-4d4b-b6fc-1260ac204164&feed=ob9OSBIN",
+   "guid": "1f8749c2-2a05-4a74-9c95-53c8d0454c3a",
+   "title": "93. Pearls"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1070,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/a316cd89-3cc2-4daa-8b44-c6abdc50db4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=a316cd89-3cc2-4daa-8b44-c6abdc50db4b&feed=ob9OSBIN",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/12fcac8b-3eed-406b-869d-852f8b929910/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=12fcac8b-3eed-406b-869d-852f8b929910&feed=ob9OSBIN",
    "guid": "04dff65a-bf5e-4144-a467-a993ad26891d",
    "title": "65. Stock Photos"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 1286,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/e474ff28-ff42-42a1-8fe3-8f85a9ad70bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=e474ff28-ff42-42a1-8fe3-8f85a9ad70bb&feed=ob9OSBIN",
-   "guid": "32e1dbd9-15a5-4a26-ba08-bb2df9c55f14",
-   "title": "64. Sushi Fish"
   }
  ]
 }

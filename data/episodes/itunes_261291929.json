@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3633,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppk2y0.mp3",
+   "guid": "urn:bbc:podcast:p0ppk3nb",
+   "title": "MNC:Leeds dreaming of Europe and when's the right time to start a young player?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2047,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppd36y.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj1px1.mp3",
    "guid": "urn:bbc:podcast:m0033tlq",
    "title": "Can Michael Carrick survive as Man Utd boss?"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 1592,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phdhj1.mp3",
-   "guid": "urn:bbc:podcast:p0phbswc",
-   "title": "Free-scoring Brighton & Man United settle for a point"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 871,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b03596ec2063ef63037067d/media.mp3",
+   "guid": "6b03596ec2063ef63037067d",
+   "title": "Investors flip the switch on the AI trade"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2232,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b008d14d0e980d0cfd6dcc8/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ad9474a23f48c4f2446b3c4/media.mp3",
    "guid": "6ad9474a23f48c4f2446b3c4",
    "title": "Elon Musk’s $3.6tn gamble to merge SpaceX and Tesla"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 770,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ad7f611a25058b22a1460c5/media.mp3",
-   "guid": "6ad7f611a25058b22a1460c5",
-   "title": "Israel pushes to restart strikes against Iran"
   }
  ]
 }

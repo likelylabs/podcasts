@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3921,
+   "enclosure": "https://tracking.swap.fm/track/fxUKVg2nSMaPSHLeKNKH/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/rsv.simplecastaudio.com/ec74d48c-cbf1-4764-923e-7d584dce50fa/episodes/dfd3788e-7f39-4c17-b7b5-64b2dc6eebb3/audio/128/default.mp3?aid=rss_feed&awCollectionId=ec74d48c-cbf1-4764-923e-7d584dce50fa&awEpisodeId=dfd3788e-7f39-4c17-b7b5-64b2dc6eebb3&feed=qm_9xx0g",
+   "guid": "8b82de46-f36a-4787-b7b0-c5e5b77d8aab",
+   "title": "MURDERED: Toni Tedder"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 4438,
    "enclosure": "https://tracking.swap.fm/track/fxUKVg2nSMaPSHLeKNKH/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/rsv.simplecastaudio.com/ec74d48c-cbf1-4764-923e-7d584dce50fa/episodes/1b71380c-0285-4064-b26f-362464e5fade/audio/128/default.mp3?aid=rss_feed&awCollectionId=ec74d48c-cbf1-4764-923e-7d584dce50fa&awEpisodeId=1b71380c-0285-4064-b26f-362464e5fade&feed=qm_9xx0g",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/fxUKVg2nSMaPSHLeKNKH/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/rsv.simplecastaudio.com/ec74d48c-cbf1-4764-923e-7d584dce50fa/episodes/200c6f7a-e8ad-486f-bd02-bf568dd30fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=ec74d48c-cbf1-4764-923e-7d584dce50fa&awEpisodeId=200c6f7a-e8ad-486f-bd02-bf568dd30fcc&feed=qm_9xx0g",
    "guid": "8daa513c-aa4d-425c-875f-209011446e51",
    "title": "MISSING: Christopher “Cole” Thomas"
-  },
-  {
-   "date": "2026-05-11",
-   "durationSec": 3055,
-   "enclosure": "https://tracking.swap.fm/track/fxUKVg2nSMaPSHLeKNKH/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/rsv.simplecastaudio.com/ec74d48c-cbf1-4764-923e-7d584dce50fa/episodes/83bb5046-e60a-4331-982c-d97e12fecd5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=ec74d48c-cbf1-4764-923e-7d584dce50fa&awEpisodeId=83bb5046-e60a-4331-982c-d97e12fecd5d&feed=qm_9xx0g",
-   "guid": "b66d5600-f727-44c5-a52c-c51f5fc3d2a0",
-   "title": "MYSTERIOUS DEATH OF: Spencer Irwin"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2716,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4966547453.mp3",
+   "guid": "edabd654-e74c-11f1-8aa0-4b521831ab4a",
+   "title": "GTA6: History's Greatest Work of Art?"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1914,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT9910219733.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1822359016.mp3",
    "guid": "33354586-b695-11f1-a08e-8772955d8843",
    "title": "Inside Big Brother: Nasty Nick (Ep 1)"
-  },
-  {
-   "date": "2026-09-22",
-   "durationSec": 3355,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2464691061.mp3",
-   "guid": "7bb55b5e-b5da-11f1-b741-0f2dd8a8357c",
-   "title": "Ed Sheeran: The Fallout"
   }
  ]
 }

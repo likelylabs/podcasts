@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2314,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/15606331-de73-4170-9d75-98a8d82499fa/Episode_85_Audio_Ad.mp3?dest-id=5592589",
+   "guid": "796d980d-96c1-4db8-a872-bf0dd47c16a3",
+   "title": "The Industrials Riding the AI Data Center Boom with Steve Tusa | The Real Eisman Playbook Ep 85"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1331,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/15606331-de73-4170-9d75-98a8d82499fa/Market_Wrap_11-20-2026_Audio.mp3?dest-id=5592589",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/15606331-de73-4170-9d75-98a8d82499fa/GBLL9493851396.mp3?dest-id=5592589",
    "guid": "dd8a1ea8-7ee1-11f1-ade0-17c588c1bf44",
    "title": "250 Years of American Capitalism: Hamilton, the GFC, & the AI Boom | The Real Eisman Playbook Ep 71"
-  },
-  {
-   "date": "2026-08-01",
-   "durationSec": 1481,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/15606331-de73-4170-9d75-98a8d82499fa/GBLL1070231059.mp3?dest-id=5592589",
-   "guid": "aa3c9d32-7ee1-11f1-b650-33f2582ec2ae",
-   "title": "The AI Debate Gets More Complicated: Microsoft Has a Win, Meta Stumbles | The Weekly Wrap"
   }
  ]
 }

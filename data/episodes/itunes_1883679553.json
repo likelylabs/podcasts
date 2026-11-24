@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1646,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfr1rk.mp3",
+   "guid": "urn:bbc:podcast:w3ct9rnt",
+   "title": "7. The lost son"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 1393,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfr0t0.mp3",

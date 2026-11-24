@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1367,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/9aecea01-a45e-493d-9a0d-e1acf5687877.mp3",
+   "guid": "9aecea01-a45e-493d-9a0d-e1acf5687877",
+   "title": "Day 327: Origin of the Diaconate (2026)"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1522,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/4907e345-9fb9-415d-beaf-7a06b746f797.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1a28ec1d-84df-411d-a1da-dbc0aa6612b4.mp3",
    "guid": "1a28ec1d-84df-411d-a1da-dbc0aa6612b4",
    "title": "Day 300: Conversion of Heart (2026)"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 1337,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/ee46f763-1ab1-4090-8144-04f0a6d4a24c.mp3",
-   "guid": "ee46f763-1ab1-4090-8144-04f0a6d4a24c",
-   "title": "Day 299: Jeremiah Hides the Ark (2026)"
   }
  ]
 }

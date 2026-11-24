@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1933,
+   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/e2c1f0eb-8769-4e87-a693-d53cda6c4115/rssFileVip.mp3?timestamp=1795494557382",
+   "guid": "e2c1f0eb-8769-4e87-a693-d53cda6c4115",
+   "title": "2026/11/24(二) 單日暴漲30%，市值增加一兆美元，大快仁勳啊！"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 2151,
+   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/ec21dde9-5e04-4fe9-94a1-6d77e803292e/rssFileVip.mp3?timestamp=1795408568896",
+   "guid": "ec21dde9-5e04-4fe9-94a1-6d77e803292e",
+   "title": "2026/11/23(一) 聯準會戳破AI泡沫？財長貝森特轉彎，美股崩盤有救了？"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1826,
    "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/e2709150-2e63-4efa-bc75-248b67f46f3c/rssFileVip.mp3?timestamp=1795080152235",
@@ -195,20 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/a630efe4-5801-43f0-919f-4fd75728aaa8/rssFileVip.mp3?timestamp=1791779693990",
    "guid": "a630efe4-5801-43f0-919f-4fd75728aaa8",
    "title": "2026/10/12(一) 美股甩不掉5%長債？SpaceX殺進電信業，巨頭集體大跌"
-  },
-  {
-   "date": "2026-10-09",
-   "durationSec": 1781,
-   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/6f39f877-dcf1-494c-ab49-2ad3a2218d1b/rssFileVip.mp3?timestamp=1791521810335",
-   "guid": "6f39f877-dcf1-494c-ab49-2ad3a2218d1b",
-   "title": "2026/10/09(五) 費半為何又大跌？OpenAI數字縮水，AI基建又要重估嗎？"
-  },
-  {
-   "date": "2026-10-08",
-   "durationSec": 1740,
-   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/5de1d356-c872-4704-ac95-f15b4b112d8a/rssFileVip.mp3?timestamp=1791447174615",
-   "guid": "5de1d356-c872-4704-ac95-f15b4b112d8a",
-   "title": "2026/10/08(四) FED還想升息AI行情撐得住？"
   }
  ]
 }

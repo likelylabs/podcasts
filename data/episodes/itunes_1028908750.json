@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 5586,
+   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf",
+   "guid": "f3b10201-39da-414e-9b18-276afcdf5d40",
+   "title": "Music and Your Mind"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 5344,
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf",
    "guid": "91284f47-83b8-40e3-9e23-f6575f51c08b",
    "title": "Radical Acceptance"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 3066,
-   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
-   "guid": "92c14277-265a-4060-a681-17369700a4b3",
-   "title": "Designing a Life that Matters"
   }
  ]
 }

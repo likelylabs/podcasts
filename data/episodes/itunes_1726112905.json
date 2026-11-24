@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1220,
+   "enclosure": "https://m.cdn.firstory.me/track/clrh95cc200u901vnh3i025uu/cmwa1lrk9001y01uwew8yarrq/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrh95cc200u901vnh3i025uu%2Fcmwa1lrk9001z01uwemx45ecr.mp3?v=1794276038112",
+   "guid": "cmwa1lrk9001y01uwew8yarrq",
+   "title": "<彩虹故事屋>EP150咦?怎麼東西都看不清楚?"
+  },
+  {
    "date": "2026-11-16",
-   "durationSec": 910,
-   "enclosure": "https://m.cdn.firstory.me/track/clrh95cc200u901vnh3i025uu/cmw01yqum018n01075277bp7o/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrh95cc200u901vnh3i025uu%2Fcmw01yqum018o01078kigc58a.mp3?v=1795017893778",
+   "durationSec": 888,
+   "enclosure": "https://m.cdn.firstory.me/track/clrh95cc200u901vnh3i025uu/cmw01yqum018n01075277bp7o/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrh95cc200u901vnh3i025uu%2Fcmw01yqum018o01078kigc58a.mp3?v=1795359877399",
    "guid": "cmw01yqum018n01075277bp7o",
    "title": "<彩虹故事屋>EP149心電感應聊天室-大人可以來彩虹故事屋嗎?"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/clrh95cc200u901vnh3i025uu/cmoryhhhp051u01va88895d16/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrh95cc200u901vnh3i025uu%2Fcmoryhhhp051v01va422u7d96.mp3?v=1777944931563",
    "guid": "cmoryhhhp051u01va88895d16",
    "title": "<彩虹故事屋>EP123彩虹屋小劇場(龜兔賽跑)"
-  },
-  {
-   "date": "2026-05-11",
-   "durationSec": 1815,
-   "enclosure": "https://m.cdn.firstory.me/track/clrh95cc200u901vnh3i025uu/cmohyn5qd1b3601wy8ivghd6d/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclrh95cc200u901vnh3i025uu%2Fcmohyn5qd1b3701wy2wamc1kk.mp3?v=1777340555882",
-   "guid": "cmohyn5qd1b3601wy8ivghd6d",
-   "title": "<彩虹故事屋>EP122慢吞吞的小小哞"
   }
  ]
 }

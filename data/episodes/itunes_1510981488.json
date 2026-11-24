@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 363,
+   "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI3345108244.mp3",
+   "guid": "9eddd2fa-e4bf-11f1-b229-e7aa21e35bd1",
+   "title": "Am I Actually Making Any Progress?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 368,
    "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI5178071626.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI5029508665.mp3",
    "guid": "ac6393f6-adc9-11f1-be46-dbb8a29925c6",
    "title": "How Do You Know What To Believe?"
-  },
-  {
-   "date": "2026-09-16",
-   "durationSec": 378,
-   "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI8283293359.mp3",
-   "guid": "9b46bde6-adc9-11f1-ac98-d766c5d78095",
-   "title": "What Is Happening To My Body?"
   }
  ]
 }

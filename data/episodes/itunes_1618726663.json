@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3202,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/3a8623ee-d161-4059-a793-ae740070dd76/f0ec29e0-f38a-4e23-8d74-b5060095e323/audio.mp3?utm_source=Podcast&in_playlist=06336e13-3fdc-415f-ab40-ae74007599fe",
+   "guid": "f0ec29e0-f38a-4e23-8d74-b5060095e323",
+   "title": "The Grandmother Who Called About a Kidnapping | S19E9"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 2889,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/3a8623ee-d161-4059-a793-ae740070dd76/df00bfbe-cb9f-4b03-886d-b501003924c9/audio.mp3?utm_source=Podcast&in_playlist=06336e13-3fdc-415f-ab40-ae74007599fe",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/3a8623ee-d161-4059-a793-ae740070dd76/80287834-a3a2-4e67-bc5e-b44800333684/audio.mp3?utm_source=Podcast&in_playlist=06336e13-3fdc-415f-ab40-ae74007599fe",
    "guid": "80287834-a3a2-4e67-bc5e-b44800333684",
    "title": "Between the Mattress and the Wall | S17E6"
-  },
-  {
-   "date": "2026-05-11",
-   "durationSec": 3006,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/3a8623ee-d161-4059-a793-ae740070dd76/c009ad53-eaf4-43d1-bc9e-b44200354323/audio.mp3?utm_source=Podcast&in_playlist=06336e13-3fdc-415f-ab40-ae74007599fe",
-   "guid": "c009ad53-eaf4-43d1-bc9e-b44200354323",
-   "title": "From Cannibal to Mukbanger | S17E5"
   }
  ]
 }

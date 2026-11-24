@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1896,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3",
+   "guid": "urn:bbc:podcast:p0pphgd5",
+   "title": "Jensen Huang reinstated as Nvidia CEO"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1654,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3",
+   "guid": "urn:bbc:podcast:p0ppdfkn",
+   "title": "COP31 in Turkey ends without a deal"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1720,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm35rk.mp3",
    "guid": "urn:bbc:podcast:p0pm36r2",
    "title": "China denies spying on Nvidia boss"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 1673,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3",
-   "guid": "urn:bbc:podcast:p0plzjqt",
-   "title": "Nvidia investigates CEO's affair with suspected Chinese spy"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 1676,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3",
-   "guid": "urn:bbc:podcast:p0pllbwj",
-   "title": "The Global Story: They fled Russia. The US sent them back"
   }
  ]
 }

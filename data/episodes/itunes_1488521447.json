@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2969,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b04346be42fe26dd9f4e947/media.mp3",
+   "guid": "6b04346be42fe26dd9f4e947",
+   "title": "When did Man United’s misery become so normalised?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2601,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6aff0cca8f8ad2908f8cf1fb/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ad6101c6fcbe8d850fc9764/media.mp3",
    "guid": "6ad6101c6fcbe8d850fc9764",
    "title": "Is it time to take Brighton seriously?"
-  },
-  {
-   "date": "2026-10-18",
-   "durationSec": 3095,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ad0a1ae3dc1c1be4aef5072/media.mp3",
-   "guid": "6ad0a1ae3dc1c1be4aef5072",
-   "title": "What If… Spurs weren't ‘Spursy’?"
   }
  ]
 }

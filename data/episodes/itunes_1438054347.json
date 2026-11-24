@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 4051,
+   "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH",
+   "guid": "74e3060b-5a9a-4eed-a091-07183e3585ba",
+   "title": "Eric Idle (2026)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1552,
    "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH",
    "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
    "title": "Gillian Anderson"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 1393,
-   "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
-   "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
-   "title": "Summer S’pouses Episode 3: Tak Boroyan"
   }
  ]
 }

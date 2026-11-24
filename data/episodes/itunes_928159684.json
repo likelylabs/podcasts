@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2084,
+   "enclosure": "https://traffic.megaphone.fm/APO3915275528.mp3",
+   "guid": "40b5d72c-d596-429e-bf13-00d8a6025fd8",
+   "title": "The 34 Minute Playbook on the Business of Sports"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2325,
    "enclosure": "https://traffic.megaphone.fm/APO3580509709.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO9224455417.mp3",
    "guid": "f76e9aee-5e8b-471e-bf7a-7fa4a6619dcc",
    "title": "Why the World Needs More Purple"
-  },
-  {
-   "date": "2026-09-04",
-   "durationSec": 1808,
-   "enclosure": "https://traffic.megaphone.fm/APO4515749732.mp3",
-   "guid": "e65a1060-f250-49fd-bde8-aad9581c8f34",
-   "title": "Why Judging Yourself is Never the Answer"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1189,
+   "enclosure": "https://traffic.megaphone.fm/ALLE9506246639.mp3",
+   "guid": "78966272-d7f6-11f1-88ee-83fc3e921bce",
+   "title": "AEE 2726: What to Say When You Didn’t Get the Joke"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1277,
    "enclosure": "https://traffic.megaphone.fm/ALLE7283071966.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE5548745138.mp3",
    "guid": "0442d272-bb07-11f1-b28e-d3f11b441d1b",
    "title": "AEE 2704: Are You Giving Fluency?"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 866,
-   "enclosure": "https://traffic.megaphone.fm/ALLE2049564324.mp3",
-   "guid": "e1e22f5c-bb06-11f1-a51c-b72e5e075629",
-   "title": "AEE 2703: A More Interesting Way to Say You're Interested"
   }
  ]
 }

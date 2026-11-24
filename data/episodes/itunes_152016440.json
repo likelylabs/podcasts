@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 600,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/01d6d97e-e3b5-4c97-8b0e-669dab9bf739/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=01d6d97e-e3b5-4c97-8b0e-669dab9bf739&feed=BA5QWI2p",
+   "guid": "E28887AA-C69B-4605-ABCE-A534256D2EAE",
+   "title": "Jensen Huang Is Back at Nvidia. What’s Next?"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 847,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/bab2ee08-52c9-47e1-83e8-3bfad1552542/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=bab2ee08-52c9-47e1-83e8-3bfad1552542&feed=BA5QWI2p",
+   "guid": "F363B081-AB45-47D5-800F-EB1CF2987373",
+   "title": "Tech Stocks Recover After U.S. Wipeout"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 799,
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4becf049-1722-4e99-87ba-4c9f87421cd9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4becf049-1722-4e99-87ba-4c9f87421cd9&feed=BA5QWI2p",
@@ -195,20 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/86462851-c231-4dfe-8ba6-9c7aebce0866/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=86462851-c231-4dfe-8ba6-9c7aebce0866&feed=BA5QWI2p",
    "guid": "8DA6004B-8A34-4C55-8F6A-7483FD3DFB58",
    "title": "Elon Musk Says Good-Bye to Tesla’s Cybertruck… and Hello to Texas Democrats"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 743,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/3fae8e99-c59d-4a4a-aee4-443b3135b891/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=3fae8e99-c59d-4a4a-aee4-443b3135b891&feed=BA5QWI2p",
-   "guid": "AE45B6DF-402F-4B27-A97B-592024F99407",
-   "title": "Is Anthropic’s $1.5 Trillion Valuation Too Rich?"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 698,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/41228017-4489-4596-b1c3-5c69db404678/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=41228017-4489-4596-b1c3-5c69db404678&feed=BA5QWI2p",
-   "guid": "74D803DC-A1BD-4956-8F22-267483A6E7D8",
-   "title": "Nasdaq Loses a Historic $2.5 Trillion in Market Cap in AI Rout After Election"
   }
  ]
 }

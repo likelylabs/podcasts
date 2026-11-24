@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 918,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppglgj.mp3",
+   "guid": "urn:bbc:podcast:p0ppgm36",
+   "title": "ICJ ဆုံးဖြတ်ချက် ထွက်လာအပြီး ကုလ လုံခြုံရေးကောင်စီ တံခါးပိတ် အစည်းအ‌ဝေး ရက်ပိုင်းအတွင်းလုပ်မယ်"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 916,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppc308.mp3",
@@ -41,13 +48,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnfnqz.mp3",
    "guid": "urn:bbc:podcast:p0pnfp34",
    "title": "မြဝတီမြို့နယ်ထဲက ကျားဖြန့်လုပ်ငန်းတွေ ဆက်လက်လည်ပတ်နေပြီး အမေရိကန်က သူတို့ ဆုကြေးနဲ့ ဖမ်းဝရမ်းထုတ်ထားကြောင်း ထပ်မံထုတ်ပြန်"
-  },
-  {
-   "date": "2026-11-16",
-   "durationSec": 936,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn8n50.mp3",
-   "guid": "urn:bbc:podcast:p0pn8nj5",
-   "title": "အာဆီယံက မြန်မာ နေပြည်တော် အစိုးရ လုပ်ဆောင်ချက်တွေ အပေါ် အကဲဖြတ်ချက်တွေက ဘာတွေလဲ"
   },
   {
    "date": "2026-11-15",
@@ -188,20 +188,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjkg95.mp3",
    "guid": "urn:bbc:podcast:p0pjkgch",
    "title": "ဆောက်လုပ်ရေးစီမံကိန်း ဘတ်ဂျတ်လျာထားချက်တွေ ကာလပေါက်စျေးထက်ပိုပြထားလို့ ရန်ကုန်တိုင်း လွှတ်တော် ကော်မတီက ဖြတ်တောက် လျှော့ချခဲ့ရ"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 883,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjg2hv.mp3",
-   "guid": "urn:bbc:podcast:p0pjg2pn",
-   "title": "ဆားတောင်မိုးကြိုးအဖွဲ့ခေါင်းဆောင် လုပ်ကြံသတ်ဖြတ်ခံလိုက်ရပြီးနောက် အဖွဲ့ကို ဖျက်သိမ်းလိုက်တာလို့ သတင်းတွေ ထွက်နေ"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 892,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj47ty.mp3",
-   "guid": "urn:bbc:podcast:p0pjfkp6",
-   "title": "လုံခြုံရေးနဲ့နယ်စပ်ရေးရာဝန်ကြီးတွေကို စစ်တပ်လွှတ်တော်ကိုယ်စားလှယ်တွေနဲ့ အပြောင်းအလဲလုပ်"
   },
   {
    "date": "2018-12-31",

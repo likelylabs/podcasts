@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 880,
+   "enclosure": "https://traffic.megaphone.fm/STM7636382673.mp3",
+   "guid": "1dc37be0-dd38-11f1-b0a3-9f028c44e67b",
+   "title": "Why Do Stink Bugs Stink?"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 875,
    "enclosure": "https://traffic.megaphone.fm/STM1601608478.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM6298359285.mp3",
    "guid": "82fc611c-ca63-11f1-a445-bfd5d2152c3a",
    "title": "What are Fingerprints?"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 840,
-   "enclosure": "https://traffic.megaphone.fm/STM8761335264.mp3",
-   "guid": "807277ba-ca63-11f1-a238-97d6e21dc82e",
-   "title": "Why Do Turtles Have Shells?"
   }
  ]
 }

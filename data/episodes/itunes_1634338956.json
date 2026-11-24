@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1579,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/24ec6a8a-dde6-4b26-b3ac-aec200735b53/ec1287b4-c43b-40f3-b47d-b50b003a1c73/audio.mp3?utm_source=Podcast&in_playlist=d5890d3f-14d1-43c2-ac61-aec20073c58b",
+   "guid": "ec1287b4-c43b-40f3-b47d-b50b003a1c73",
+   "title": "How to build a resilient portfolio that can survive market shocks"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 1522,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/24ec6a8a-dde6-4b26-b3ac-aec200735b53/5adca440-44d0-48ce-afed-b504017b6a6d/audio.mp3?utm_source=Podcast&in_playlist=d5890d3f-14d1-43c2-ac61-aec20073c58b",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/24ec6a8a-dde6-4b26-b3ac-aec200735b53/dce6cc9b-7cdd-4aca-b93d-b440008731b2/audio.mp3?utm_source=Podcast&in_playlist=d5890d3f-14d1-43c2-ac61-aec20073c58b",
    "guid": "dce6cc9b-7cdd-4aca-b93d-b440008731b2",
    "title": "Are safe-haven assets still safe?"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 1520,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/24ec6a8a-dde6-4b26-b3ac-aec200735b53/e288bc0e-03d9-4e29-8e1c-b436007198fe/audio.mp3?utm_source=Podcast&in_playlist=d5890d3f-14d1-43c2-ac61-aec20073c58b",
-   "guid": "e288bc0e-03d9-4e29-8e1c-b436007198fe",
-   "title": "Buying the dip during uncertain times"
   }
  ]
 }

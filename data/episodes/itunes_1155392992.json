@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 602,
+   "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM6361251286.mp3",
+   "guid": "6d2e691c-ca94-11f1-bf90-efe19df403a4",
+   "title": "The Story of the Cherokee Nation"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 709,
    "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM5931690230.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM6321516135.mp3",
    "guid": "fadc2582-676c-11f1-a33e-fff6eb3fbc07",
    "title": "John Paul Jones: Hero of the American Navy"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 553,
-   "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM4780651138.mp3",
-   "guid": "41d34e66-878e-11f1-a180-932e2922d1ce",
-   "title": "Dave Pilkey: Creator of Dogman"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 831,
+   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/fe6f739e-50b6-485c-9dbd-27f0d031cd3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=fe6f739e-50b6-485c-9dbd-27f0d031cd3e&feed=ui_HbBma",
+   "guid": "2C94614B-A6D5-4388-BE18-ECC28B2B7F0A",
+   "title": "‘Grand Theft Auto VI’ Is Here, and It May Be the Last of Its Kind"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 546,
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/566b7ae2-3d4c-49a9-ad64-8c1dc5252d13/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=566b7ae2-3d4c-49a9-ad64-8c1dc5252d13&feed=ui_HbBma",
@@ -202,13 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/87e4a253-cd62-42a1-9bd4-c0e86734cb18/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=87e4a253-cd62-42a1-9bd4-c0e86734cb18&feed=ui_HbBma",
    "guid": "9936AF42-AE9E-4676-BE8D-90F5D6B34BE8",
    "title": "Why the EV Charging Business Is Booming"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 523,
-   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/e64656bd-459c-40c4-883a-b15c320060ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=e64656bd-459c-40c4-883a-b15c320060ac&feed=ui_HbBma",
-   "guid": "BD8E4A9E-C990-4438-90E9-6D6D76B42544",
-   "title": "The AI Computing Power Gold Rush"
   }
  ]
 }

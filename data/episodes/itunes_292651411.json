@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1587,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppkblt.mp3",
+   "guid": "urn:bbc:podcast:w3ct8fnz",
+   "title": "Jensen Huang is back"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 536,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pphgsr.mp3",
+   "guid": "urn:bbc:podcast:p0pphkp3",
+   "title": "Jensen Huang reinstated as Nvidia CEO"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1588,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp5rnq.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl3jtm.mp3",
    "guid": "urn:bbc:podcast:p0pl3k5s",
    "title": "US Midterms: Americans head to the polls"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 1586,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkytg4.mp3",
-   "guid": "urn:bbc:podcast:w3ct8fnw",
-   "title": "Could the economy decide the US midterms?"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 536,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl1qx0.mp3",
-   "guid": "urn:bbc:podcast:p0pl1sv8",
-   "title": "Bangladeshi garment workers protest cost of living"
   }
  ]
 }

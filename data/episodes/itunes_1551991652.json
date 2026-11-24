@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 645,
+   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/40ec1632-1276-43f4-ac77-9903afbfc844/rssFileVip.mp3?timestamp=1795406845510",
+   "guid": "40ec1632-1276-43f4-ac77-9903afbfc844",
+   "title": "《史記．戰國》EP9 — 只愛聽故事的文青國王"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 784,
+   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/c0fdf338-f2b6-4ad2-bddf-7438cefe71f8/rssFileVip.mp3?timestamp=1795320633117",
+   "guid": "c0fdf338-f2b6-4ad2-bddf-7438cefe71f8",
+   "title": "《史記．戰國》EP8 — 黑幫手段擋猛虎"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1485,
    "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/18248271-1f59-4c28-99ed-0c251660b61a/rssFileVip.mp3?timestamp=1795148224389",
@@ -52,7 +66,7 @@
   {
    "date": "2026-11-13",
    "durationSec": 1306,
-   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/4cb2c8b1-150f-4181-a720-5e3ee3611491/rssFileVip.mp3?timestamp=1794457031578",
+   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/4cb2c8b1-150f-4181-a720-5e3ee3611491/rssFileVip.mp3?timestamp=1795451944285",
    "guid": "4cb2c8b1-150f-4181-a720-5e3ee3611491",
    "title": "《史記．春秋》EP21(完結) — 一個嬰兒要怎樣才能為家族復仇？"
   },
@@ -94,7 +108,7 @@
   {
    "date": "2026-11-06",
    "durationSec": 812,
-   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/200a0a6e-fda7-40f8-9fd8-f7f5ae4421b2/rssFileVip.mp3?timestamp=1793852497546",
+   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/200a0a6e-fda7-40f8-9fd8-f7f5ae4421b2/rssFileVip.mp3?timestamp=1794011775982",
    "guid": "200a0a6e-fda7-40f8-9fd8-f7f5ae4421b2",
    "title": "《史記．春秋》EP15 — 伍子胥之二：伍子胥復仇成功"
   },
@@ -115,7 +129,7 @@
   {
    "date": "2026-11-03",
    "durationSec": 1022,
-   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/b68292c5-8120-4b95-aa62-133cd36e710d/rssFileVip.mp3?timestamp=1795363290912",
+   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/b68292c5-8120-4b95-aa62-133cd36e710d/rssFileVip.mp3?timestamp=1795452484361",
    "guid": "b68292c5-8120-4b95-aa62-133cd36e710d",
    "title": "《史記．春秋》EP12 — 秦穆公之一：忘恩負義的晉國"
   },
@@ -195,20 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/59c36911-d1f1-44d0-ace0-1442d9fee88b/rssFileVip.mp3?timestamp=1794499703417",
    "guid": "59c36911-d1f1-44d0-ace0-1442d9fee88b",
    "title": "《史記．春秋》EP1 — 齊桓公之一：不良爸爸糟糕兒子"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 1181,
-   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/ba83601f-1650-4fec-8edc-d36e64a48fb6/rssFileVip.mp3?timestamp=1793590520959",
-   "guid": "ba83601f-1650-4fec-8edc-d36e64a48fb6",
-   "title": "《唐玄宗》EP60(完結) — 差點被李輔國殺害"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 748,
-   "enclosure": "https://rss.soundon.fm/rssf/053ddecd-fce2-44f0-89e0-dd89c3433449/feedurl/2493841f-de0d-4bc6-95cc-a851b707856c/rssFileVip.mp3?timestamp=1794494490700",
-   "guid": "2493841f-de0d-4bc6-95cc-a851b707856c",
-   "title": "《唐玄宗》EP59 — 太上皇只想留四川"
   }
  ]
 }

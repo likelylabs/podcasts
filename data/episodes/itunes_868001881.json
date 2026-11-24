@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 710,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/2fd78c3b-a7d0-41d1-be37-b50b018ae69a/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
+   "guid": "2fd78c3b-a7d0-41d1-be37-b50b018ae69a",
+   "title": "Has Jensen Huang’s Return Saved The AI Trade?"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 668,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/2d18227e-548e-4406-928d-b50b000307b5/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
+   "guid": "2d18227e-548e-4406-928d-b50b000307b5",
+   "title": "AI Trade Unravels: Is The Bull Market Over?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 812,
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/badc371f-a48f-4410-b42a-b50800013eda/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
@@ -195,20 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/1b27dc4c-cba8-4053-a800-b4e200438f9a/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
    "guid": "1b27dc4c-cba8-4053-a800-b4e200438f9a",
    "title": "Looking Forward To Earnings' Season"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 648,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/ad0af212-5feb-40d0-bc41-b4e1001b38a0/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
-   "guid": "ad0af212-5feb-40d0-bc41-b4e1001b38a0",
-   "title": "Wall Street Rallies Despite Mounting Risks"
-  },
-  {
-   "date": "2026-10-09",
-   "durationSec": 747,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/87a31250-4f2e-4bd5-aead-b4de001b6865/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
-   "guid": "87a31250-4f2e-4bd5-aead-b4de001b6865",
-   "title": "Can Budget 2027 Keep Investors Confident?"
   }
  ]
 }

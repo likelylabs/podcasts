@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 570,
+   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b045e0af068e148d201778b/media.mp3",
+   "guid": "6b045e0af068e148d201778b",
+   "title": "Why government is slow — and how to fix it | Li Hongyi"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2629,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b007e1204470b737a38a15b/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3",
    "guid": "6ae35ff72ce0a6edbe8a84d3",
    "title": "How fossil fuel companies keep your energy costs high | Jon Powers"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 1020,
-   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3",
-   "guid": "6adb8f7a52428fc30bf6f9ca",
-   "title": "How people are using AI to grieve, love and connect | Jennifer Cearns"
   }
  ]
 }

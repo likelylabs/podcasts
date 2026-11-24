@@ -1,6 +1,83 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 69,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/5280ea59-774b-4558-9bc3-576ae19c4a35.mp3?_=1795188939",
+   "guid": "5280ea59-774b-4558-9bc3-576ae19c4a35",
+   "title": "LE MEILLEUR DE BOUVARD - La blague de Chantal Ladesou"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 6230,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/12b299e9-f771-45f9-be64-d749f8e3e99a.mp3?_=1795450085",
+   "guid": "12b299e9-f771-45f9-be64-d749f8e3e99a",
+   "title": "L'INTÉGRALE - Émission du lundi 23 novembre 2026"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 824,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/e9e6d248-3c25-4cd9-b483-91cd5fa8249c.mp3?_=1795447681",
+   "guid": "e9e6d248-3c25-4cd9-b483-91cd5fa8249c",
+   "title": "DÉBRIEF - \"J'aurais pu briller, mais c'est Michel qui a donné la réponse\" : Ana Godefroy revient sur l'émission du jour"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 1262,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/97f8e4e8-16aa-468d-b3e9-318fa3e4f229.mp3?_=1795451281",
+   "guid": "97f8e4e8-16aa-468d-b3e9-318fa3e4f229",
+   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 23 novembre 2026"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 156,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/254e36e1-217c-4e05-90d8-6ee828232972.mp3?_=1795450980",
+   "guid": "254e36e1-217c-4e05-90d8-6ee828232972",
+   "title": "PÉPITE - Jeanfi Janssen, sosie de Daniel Craig ?"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 491,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ad36173e-12c7-47de-8771-b2499c0e8f3c.mp3?_=1795450081",
+   "guid": "ad36173e-12c7-47de-8771-b2499c0e8f3c",
+   "title": "EN RÉSUMÉ - Alexis Le Rossignol fait le bilan de l'émission"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 366,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/aa69b56f-fc36-44ca-9ca3-b9fbef73ac3f.mp3?_=1795445281",
+   "guid": "aa69b56f-fc36-44ca-9ca3-b9fbef73ac3f",
+   "title": "FACE AUX AUDITEURS - \"C'est marqué complet !\" : elle n'arrive jamais à avoir des places pour l'émission"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 397,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/92cf9f49-68f5-43de-b623-9b48e7447066.mp3?_=1795445582",
+   "guid": "92cf9f49-68f5-43de-b623-9b48e7447066",
+   "title": "FAKE NEWS - Pluie, de Villepin, Shein... Quelle Grosse Tête dit vrai ?"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 545,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/167fee5b-0937-4f59-ab3c-dffdd22d7cc9.mp3?_=1795448583",
+   "guid": "167fee5b-0937-4f59-ab3c-dffdd22d7cc9",
+   "title": "QUI QUI EXPRESS - Qui est la personnalité en couverture de Paris-Match cette semaine ?"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 90,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/26d809d4-d8f0-4fff-8e7e-37dd8fb9413f.mp3?_=1795189324",
+   "guid": "26d809d4-d8f0-4fff-8e7e-37dd8fb9413f",
+   "title": "LE MEILLEUR DE RUQUIER - \"Y'a pas que moi qui pisse dans la piscine !\" : L'histoire drôle d'Éric Laugérias"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 99,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/137fefce-aef1-4823-9bfc-ba9ecea9e17d.mp3?_=1795189783",
+   "guid": "137fefce-aef1-4823-9bfc-ba9ecea9e17d",
+   "title": "LE MEILLEUR DE BOUVARD - Les blagues grivoises de Michel Leeb"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 4757,
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d6db6e48-bb0e-4292-9bee-23471f7a8acf.mp3?_=1795024383",
@@ -132,83 +209,6 @@
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/83fdaa95-b656-409f-96c0-dd21a6114618.mp3?_=1794321114",
    "guid": "83fdaa95-b656-409f-96c0-dd21a6114618",
    "title": "LE MEILLEUR DE BOUVARD  - La blague Corse d'André Santini"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 5729,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/a8043807-82e5-45fa-9ba5-13f559312267.mp3?_=1795108084",
-   "guid": "a8043807-82e5-45fa-9ba5-13f559312267",
-   "title": "L'INTÉGRALE - Émission du jeudi 19 novembre 2026"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 1549,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/c95f2d59-03bf-471f-a805-5e2ad3b8307f.mp3?_=1795106583",
-   "guid": "c95f2d59-03bf-471f-a805-5e2ad3b8307f",
-   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 19 novembre 2026"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 718,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/a53c3ba5-b9c9-4187-b368-80501fa12e29.mp3?_=1795101182",
-   "guid": "a53c3ba5-b9c9-4187-b368-80501fa12e29",
-   "title": "DÉBRIEF - \"J'étais un immense fan de Pierre Bénichou\" : Ethan Oliel se confie après ses débuts aux \"Grosses Têtes\""
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 165,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/8df44d74-2702-4881-92cf-f0a95e2c54f5.mp3?_=1795106880",
-   "guid": "8df44d74-2702-4881-92cf-f0a95e2c54f5",
-   "title": "PÉPITE - \"Aller au fitness en scooter pour faire du vélo\" : \"L'homme moderne\" selon Thibaud Agoston"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 403,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ded03040-d3d2-4a6c-9e58-ea045bd55f21.mp3?_=1795106584",
-   "guid": "ded03040-d3d2-4a6c-9e58-ea045bd55f21",
-   "title": "EN RÉSUMÉ - Christophe Barbier fait le bilan de l'émission"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 306,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/4bc7c92a-065d-4b0e-ae26-e781edeb89c3.mp3?_=1795105981",
-   "guid": "4bc7c92a-065d-4b0e-ae26-e781edeb89c3",
-   "title": "FACE AUX AUDITEURS - \"Vous refaites partie de ma vie\" : infidèle à l'émission pendant quelques temps, il la réécoute depuis l'année dernière"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 211,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d8a40651-0fcc-4f38-96d4-e76efd0593f4.mp3?_=1795106583",
-   "guid": "d8a40651-0fcc-4f38-96d4-e76efd0593f4",
-   "title": "FAKE NEWS - Beaujolais nouveau, Lisnard, Jupiter... Quelle Grosse Tête dit vrai ?"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 567,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/b7c49324-6aa9-4c45-ba10-d7eba5526283.mp3?_=1795106581",
-   "guid": "b7c49324-6aa9-4c45-ba10-d7eba5526283",
-   "title": "QUI QUI EXPRESS - Quel artiste va battre un nouveau record mondial aux enchères avec la vente de son tableau ?"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 326,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/748fef09-a82f-4d63-a98b-9c36546b0430.mp3?_=1795095781",
-   "guid": "748fef09-a82f-4d63-a98b-9c36546b0430",
-   "title": "INÉDIT - Côté coulisses : Stéphane se confie avant l'émission"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 101,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/80e29c74-1833-4908-bc58-12283600b0b2.mp3?_=1795017756",
-   "guid": "80e29c74-1833-4908-bc58-12283600b0b2",
-   "title": "LE MEILLEUR DE RUQUIER - Une touriste égarée dans la forêt équatoriale... L'histoire drôle de Marcela Iacub"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 82,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/310a1ea6-0639-44a9-b6fe-b832cdbabf87.mp3?_=1795017525",
-   "guid": "310a1ea6-0639-44a9-b6fe-b832cdbabf87",
-   "title": "LE MEILLEUR DE BOUVARD - La blague de Toto de Vincent Perrot"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1032,
+   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121665245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Ff60a42e3-883d-2d34-bf0d-bafbbd3052a9.mp3",
+   "guid": "9113e9d0-8260-4f06-a8fe-d12dd7f178ce",
+   "title": "EP328 Cooking A Thanksgiving Dinner"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 766,
    "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121663939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fa3ebb708-fc1b-9d52-ab16-8f4324e4545b.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121662082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Ffad28542-3edf-4da3-6701-ea92995193ce.mp3",
    "guid": "c4e60fb4-55c7-49b1-85c0-7d39a85bb64b",
    "title": "EP299 Small talk 3 | The Office"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 760,
-   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121662010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F72d0f7b7-1c53-2af3-a04d-32ec349d6d68.mp3",
-   "guid": "8888604d-0982-4965-b8e3-d909f80975c8",
-   "title": "EP298 Ordering Drinks | The Weekend"
   }
  ]
 }

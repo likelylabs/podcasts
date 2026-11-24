@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3657,
+   "enclosure": "https://rss.soundon.fm/rssf/02c73c89-a8a0-4a8a-9ccb-fe361d87d1c2/feedurl/b840b64d-89c2-4e98-b2de-b6dd9fbda2c7/rssFileVip.mp3?timestamp=1795486075863",
+   "guid": "b840b64d-89c2-4e98-b2de-b6dd9fbda2c7",
+   "title": "EP185 | 這次除了性福還知識滿滿 ft.紅犀牛"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 2895,
    "enclosure": "https://rss.soundon.fm/rssf/02c73c89-a8a0-4a8a-9ccb-fe361d87d1c2/feedurl/dbff3bd1-7673-449e-aa3c-a4095486f82d/rssFileVip.mp3?timestamp=1794881246841",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/02c73c89-a8a0-4a8a-9ccb-fe361d87d1c2/feedurl/d942eb8c-cad8-4390-af5f-ff01e904b039/rssFileVip.mp3?timestamp=1778004451357",
    "guid": "d942eb8c-cad8-4390-af5f-ff01e904b039",
    "title": "EP156 | 唸徵稿總是會離題"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 2595,
-   "enclosure": "https://rss.soundon.fm/rssf/02c73c89-a8a0-4a8a-9ccb-fe361d87d1c2/feedurl/85bb10e5-60f7-44ac-8aa9-d57acdac103f/rssFileVip.mp3?timestamp=1777399620572",
-   "guid": "85bb10e5-60f7-44ac-8aa9-d57acdac103f",
-   "title": "EP155 | 事隔兩年再聊聊關係"
   }
  ]
 }

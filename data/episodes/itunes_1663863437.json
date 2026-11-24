@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1078,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/642b668e-24c4-44ba-bddf-b50c00310666/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "642b668e-24c4-44ba-bddf-b50c00310666",
+   "title": "Nvidia Rehires Jensen Huang After Trump Push"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1369,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/00f526e8-89b9-4c5d-9986-b50b00312ba0/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "00f526e8-89b9-4c5d-9986-b50b00312ba0",
+   "title": "US Stock Futures Bounce After Rout, WeRide Earnings"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2357,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/a0227218-835b-43eb-b389-b50801058747/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
@@ -195,20 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/910d9b4c-fea0-4b7e-87ab-b4eb0015b48f/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
    "guid": "910d9b4c-fea0-4b7e-87ab-b4eb0015b48f",
    "title": "Meta AI Bet, Tesla Cuts Spending, Barclays Asia Forum"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 1173,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/58610c06-892d-486f-80de-b4ea003383cc/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "58610c06-892d-486f-80de-b4ea003383cc",
-   "title": "Asia Equities Rebound on Strong Earnings, Elice Jumps"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 1349,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/026de1be-7ef9-4452-924e-b4e90024a7fe/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "026de1be-7ef9-4452-924e-b4e90024a7fe",
-   "title": "Asian Stocks Decline in Break From US Chip Rally"
   }
  ]
 }

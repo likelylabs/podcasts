@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1485,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/129969396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437442747-44100-2-331e70c28ee87.mp3",
+   "guid": "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
+   "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1498,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/129896650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437343034-44100-2-37ce59be96df6.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
    "guid": "e5d74574-145f-41bb-b23c-9c4bb6521746",
    "title": "How AI Is Changing What Work Means"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 1719,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
-   "guid": "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
-   "title": "Why AI Companies Are Betting Personality Beats Intelligence"
   }
  ]
 }

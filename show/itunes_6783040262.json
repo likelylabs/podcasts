@@ -1,8 +1,15 @@
 {
  "showId": "itunes_6783040262",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "五种月收入的马来西亚生活",
+   "date": "2026-11-24",
+   "enclosure": "https://anchor.fm/s/110c50164/podcast/play/129955821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437438798-44100-2-be9922af0d0c28.mp3",
+   "durationSec": 1336,
+   "guid": "af7aac65-f020-477f-a2be-552362d44821"
+  },
   {
    "title": "创业还没成功，就不算失败？｜在中国创业的大马程序员的一天 ft.MJCX Studio",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/110c50164/podcast/play/121623605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426339804-44100-2-05f27bc30ec0b.mp3",
    "durationSec": 1058,
    "guid": "f4918ea6-cfa0-448a-a0ed-b59c12db51ee"
-  },
-  {
-   "title": "S1E29 竞选宣言不是圣经！解密民粹狂欢如何掏空大马国库",
-   "date": "2026-06-15",
-   "enclosure": "https://anchor.fm/s/110c50164/podcast/play/121496137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-15%2F426165057-44100-2-d3584e4061ae.mp3",
-   "durationSec": 1024,
-   "guid": "6558dfd8-34ca-4297-813f-e262d42043fb"
   }
  ]
 }

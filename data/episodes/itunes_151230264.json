@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1449,
+   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b041882eb893786ae9e232d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4D7MLoEgyN02erBB3_8PGPw83AN8dD8pJEUXIMkHfaQ",
+   "guid": "6b041882eb893786ae9e232d",
+   "title": "In the life of prime: AI’s latest maths triumph"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1638,
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b0029dc322405712ca22bff/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3NeVmxxZZSH8YjgdiyPEW9bMWTZfW4suGFkZk8xFDtg",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6acf5699937a3c900fd4f56f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mLpT7V7XEPrMp9VDZ79IaMZJYQ8PSmwITy6c9gH0VYo",
    "guid": "6acf5699937a3c900fd4f56f",
    "title": "Kicking Kyiv: Trump’s doubtful deals"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 1495,
-   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ace029d37f0bd18cc1c7df0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wTHANCMrOFvtucsBsP73zMU-JkSDtZPqPmGZOgVAfgc",
-   "guid": "6ace029d37f0bd18cc1c7df0",
-   "title": "Unrest in peace: misery in Gaza"
   }
  ]
 }

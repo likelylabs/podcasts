@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1629,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppjjln.mp3",
+   "guid": "urn:bbc:podcast:p0ppjjt3",
+   "title": "How did Trump convince Nvidia to reinstate Jensen Huang as CEO?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1928,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp1h44.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc3glr.mp3",
    "guid": "urn:bbc:podcast:p0pc3j27",
    "title": "Did Trump's UN speech convince voters on Iran?"
-  },
-  {
-   "date": "2026-09-22",
-   "durationSec": 2085,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbsyy9.mp3",
-   "guid": "urn:bbc:podcast:p0pbsz5b",
-   "title": "Americanswers… Why has Denmark made a deal with Trump over Greenland?"
   }
  ]
 }

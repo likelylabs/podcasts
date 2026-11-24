@@ -1,6 +1,118 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 262,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/24/A1949625-8FAF-4A76-8863-C3002A3FDACF/A1949625-8FAF-4A76-8863-C3002A3FDACF.mp3&audioId=6b050ceca937fc438190d987&dist=generic",
+   "guid": "6b050ceca937fc438190d987",
+   "title": "Las noticias de Onda Cero de las 5:00h (24/11/2026)"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 272,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/24/D6F1D5C5-7B84-46A4-8377-A276160B3ECC/D6F1D5C5-7B84-46A4-8377-A276160B3ECC.mp3&audioId=6b04fedca937fc438190d97f&dist=generic",
+   "guid": "6b04fedca937fc438190d97f",
+   "title": "Las noticias de Onda Cero de las 4:00h (24/11/2026)"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 267,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/24/6006AA7A-DD85-46EC-8331-8977D9460128/6006AA7A-DD85-46EC-8331-8977D9460128.mp3&audioId=6b04f0cca937fc438190d979&dist=generic",
+   "guid": "6b04f0cca937fc438190d979",
+   "title": "Las noticias de Onda Cero de las 3:00h (24/11/2026)"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 266,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/24/E5FB86E0-3C31-495A-B8A6-8D84E20BB6C4/E5FB86E0-3C31-495A-B8A6-8D84E20BB6C4.mp3&audioId=6b04e2bcd712f925d62ce925&dist=generic",
+   "guid": "6b04e2bcd712f925d62ce925",
+   "title": "Las noticias de Onda Cero de las 2:00h (24/11/2026)"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 319,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/C68A4F24-AEDD-42A3-BCAB-AF70EB9D6D5E/C68A4F24-AEDD-42A3-BCAB-AF70EB9D6D5E.mp3&audioId=6b0472f0a937fc438190c92b&dist=generic",
+   "guid": "6b0472f0a937fc438190c92b",
+   "title": "Las noticias de Onda Cero de las 18:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 272,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/E97AC4FA-A808-4F0E-8D64-E28265750E04/E97AC4FA-A808-4F0E-8D64-E28265750E04.mp3&audioId=6b04642cd712f925d62cd57f&dist=generic",
+   "guid": "6b04642cd712f925d62cd57f",
+   "title": "Las noticias de Onda Cero de las 17:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 288,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/2DAE6141-85AA-4ED0-B989-CBC41B55653D/2DAE6141-85AA-4ED0-B989-CBC41B55653D.mp3&audioId=6b04561ca937fc438190c4bb&dist=generic",
+   "guid": "6b04561ca937fc438190c4bb",
+   "title": "Las noticias de Onda Cero de las 16:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 185,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/3729B368-5821-43DA-AAB9-8967EDAC8162/3729B368-5821-43DA-AAB9-8967EDAC8162.mp3&audioId=6b04480ca937fc438190c237&dist=generic",
+   "guid": "6b04480ca937fc438190c237",
+   "title": "Las noticias de Onda Cero de las 15:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 290,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/FC8613D8-8899-43A1-9270-F03C90C8D850/FC8613D8-8899-43A1-9270-F03C90C8D850.mp3&audioId=6b042beca937fc438190bf3d&dist=generic",
+   "guid": "6b042beca937fc438190bf3d",
+   "title": "Las noticias de Onda Cero de las 13:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 341,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/24FB8E0A-9ECA-4D63-AE97-1E1D3F20BAD8/24FB8E0A-9ECA-4D63-AE97-1E1D3F20BAD8.mp3&audioId=6b041e90d712f925d62ccdc3&dist=generic",
+   "guid": "6b041e90d712f925d62ccdc3",
+   "title": "Las noticias de Onda Cero de las 12:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 181,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/1147E143-AF7B-4F38-9268-8618BD9FD4F6/1147E143-AF7B-4F38-9268-8618BD9FD4F6.mp3&audioId=6b040fccd712f925d62ccce7&dist=generic",
+   "guid": "6b040fccd712f925d62ccce7",
+   "title": "Las noticias de Onda Cero de las 11:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 181,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/4C5E9AD7-7527-4FD1-ABCA-C25F66121794/4C5E9AD7-7527-4FD1-ABCA-C25F66121794.mp3&audioId=6b0401bcd712f925d62ccc0b&dist=generic",
+   "guid": "6b0401bcd712f925d62ccc0b",
+   "title": "Las noticias de Onda Cero de las 10:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 280,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/7CDAF456-3872-4684-88FA-A499AA587B26/7CDAF456-3872-4684-88FA-A499AA587B26.mp3&audioId=6b03bb6ca937fc438190bb69&dist=generic",
+   "guid": "6b03bb6ca937fc438190bb69",
+   "title": "Las noticias de Onda Cero de las 5:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 285,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/76E83FDC-5967-4E56-973D-6844F157A75B/76E83FDC-5967-4E56-973D-6844F157A75B.mp3&audioId=6b03ad5cd712f925d62cc9d5&dist=generic",
+   "guid": "6b03ad5cd712f925d62cc9d5",
+   "title": "Las noticias de Onda Cero de las 4:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 288,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/05C756F8-194C-41A8-9349-DDDE08FA4E31/05C756F8-194C-41A8-9349-DDDE08FA4E31.mp3&audioId=6b039f4ca937fc438190bb2b&dist=generic",
+   "guid": "6b039f4ca937fc438190bb2b",
+   "title": "Las noticias de Onda Cero de las 3:00h (23/11/2026)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 265,
+   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/23/E2B8F7E2-C5DE-4F5E-8D8D-53F85F7E17B9/E2B8F7E2-C5DE-4F5E-8D8D-53F85F7E17B9.mp3&audioId=6b03913cd712f925d62cc9af&dist=generic",
+   "guid": "6b03913cd712f925d62cc9af",
+   "title": "Las noticias de Onda Cero de las 2:00h (23/11/2026)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 254,
    "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/22/5952C5D8-6BEC-490F-B929-ECFE908B1B6A/5952C5D8-6BEC-490F-B929-ECFE908B1B6A.mp3&audioId=6b03670ca937fc438190ba95&dist=generic",
@@ -97,118 +209,6 @@
    "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/BF90866E-F858-420A-AE05-2F39B2E88FC6/BF90866E-F858-420A-AE05-2F39B2E88FC6.mp3&audioId=6b016d80a937fc438190af7f&dist=generic",
    "guid": "6b016d80a937fc438190af7f",
    "title": "Las noticias de Onda Cero de las 11:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 351,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/DD4A5B16-A6B1-40EF-99C0-A01729B80D97/DD4A5B16-A6B1-40EF-99C0-A01729B80D97.mp3&audioId=6b015f70d712f925d62cbd0f&dist=generic",
-   "guid": "6b015f70d712f925d62cbd0f",
-   "title": "Las noticias de Onda Cero de las 10:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 287,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/B52AE921-F796-424B-87E0-0B3EFA9363E4/B52AE921-F796-424B-87E0-0B3EFA9363E4.mp3&audioId=6b01267ca937fc438190aedd&dist=generic",
-   "guid": "6b01267ca937fc438190aedd",
-   "title": "Las noticias de Onda Cero de las 6:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 287,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/A207D329-4B54-45FA-B738-5664A7BB3DE6/A207D329-4B54-45FA-B738-5664A7BB3DE6.mp3&audioId=6b01186ca937fc438190aec7&dist=generic",
-   "guid": "6b01186ca937fc438190aec7",
-   "title": "Las noticias de Onda Cero de las 5:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 298,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/B2F501C0-6050-410E-83AD-4BA98D4DC86E/B2F501C0-6050-410E-83AD-4BA98D4DC86E.mp3&audioId=6b010b10d712f925d62cbc97&dist=generic",
-   "guid": "6b010b10d712f925d62cbc97",
-   "title": "Las noticias de Onda Cero de las 4:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 297,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/21/C06F8FAA-1E78-40EF-95F8-6F1238504315/C06F8FAA-1E78-40EF-95F8-6F1238504315.mp3&audioId=6b00fd00d712f925d62cbc87&dist=generic",
-   "guid": "6b00fd00d712f925d62cbc87",
-   "title": "Las noticias de Onda Cero de las 3:00h (21/11/2026)"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 261,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/06600B0C-2A8A-4E65-A45E-E94B704E8F7E/06600B0C-2A8A-4E65-A45E-E94B704E8F7E.mp3&audioId=6b006faca937fc4381909f1d&dist=generic",
-   "guid": "6b006faca937fc4381909f1d",
-   "title": "Las noticias de Onda Cero de las 17:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 328,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/314B2B53-F9FF-4544-A086-962BA8D9B0E1/314B2B53-F9FF-4544-A086-962BA8D9B0E1.mp3&audioId=6b006250a937fc4381909d4b&dist=generic",
-   "guid": "6b006250a937fc4381909d4b",
-   "title": "Las noticias de Onda Cero de las 16:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 178,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/9D18B199-7DE2-4629-ADEA-4BE946ABE4AA/9D18B199-7DE2-4629-ADEA-4BE946ABE4AA.mp3&audioId=6b00538cd712f925d62ca8bb&dist=generic",
-   "guid": "6b00538cd712f925d62ca8bb",
-   "title": "Las noticias de Onda Cero de las 15:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 327,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/EECB266B-32A9-415A-8273-2D276B6B387D/EECB266B-32A9-415A-8273-2D276B6B387D.mp3&audioId=6b003820a937fc43819098bd&dist=generic",
-   "guid": "6b003820a937fc43819098bd",
-   "title": "Las noticias de Onda Cero de las 13:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 353,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/8C75B256-8C27-49EB-ABD5-593B8E59FBAC/8C75B256-8C27-49EB-ABD5-593B8E59FBAC.mp3&audioId=6b002a10a937fc438190981f&dist=generic",
-   "guid": "6b002a10a937fc438190981f",
-   "title": "Las noticias de Onda Cero de las 12:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 182,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/8D73290B-2396-461B-88DD-17C3F4AE1CD6/8D73290B-2396-461B-88DD-17C3F4AE1CD6.mp3&audioId=6b001b4cd712f925d62ca527&dist=generic",
-   "guid": "6b001b4cd712f925d62ca527",
-   "title": "Las noticias de Onda Cero de las 11:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 178,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/992CE72A-F9E7-4BC2-AA58-CBA65DDDD2F8/992CE72A-F9E7-4BC2-AA58-CBA65DDDD2F8.mp3&audioId=6b000d3cd712f925d62ca489&dist=generic",
-   "guid": "6b000d3cd712f925d62ca489",
-   "title": "Las noticias de Onda Cero de las 10:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 277,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/A83DC979-AA9A-4B6E-8F45-5994EFB4416E/A83DC979-AA9A-4B6E-8F45-5994EFB4416E.mp3&audioId=6affc6ecd712f925d62ca365&dist=generic",
-   "guid": "6affc6ecd712f925d62ca365",
-   "title": "Las noticias de Onda Cero de las 5:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 281,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/ED3A768B-9750-4D8A-A179-8248D88054C9/ED3A768B-9750-4D8A-A179-8248D88054C9.mp3&audioId=6affb8dca937fc43819095c3&dist=generic",
-   "guid": "6affb8dca937fc43819095c3",
-   "title": "Las noticias de Onda Cero de las 4:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 286,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/2C8946D1-361C-47E5-9728-8D6676FDAF87/2C8946D1-361C-47E5-9728-8D6676FDAF87.mp3&audioId=6affaaccd712f925d62ca357&dist=generic",
-   "guid": "6affaaccd712f925d62ca357",
-   "title": "Las noticias de Onda Cero de las 3:00h (20/11/2026)"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 275,
-   "enclosure": "https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LAS_NOTICIAS_EN_ONDA_CERO_AOD_P&origen=/mp_audios4/2026/11/20/5B9C65CF-D6AD-47DB-8D9D-E4E15BB884C0/5B9C65CF-D6AD-47DB-8D9D-E4E15BB884C0.mp3&audioId=6aff9cbcd712f925d62ca351&dist=generic",
-   "guid": "6aff9cbcd712f925d62ca351",
-   "title": "Las noticias de Onda Cero de las 2:00h (20/11/2026)"
   }
  ]
 }

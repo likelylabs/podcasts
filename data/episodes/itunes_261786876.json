@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1048,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppgczr.mp3",
+   "guid": "urn:bbc:podcast:w3ct8grv",
+   "title": "Follow the Money: Where did Trump's tariff refunds go?"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1048,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppf6j7.mp3",
+   "guid": "urn:bbc:podcast:w3ct8ggt",
+   "title": "Can Chile turn methane into money?"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1463,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn7s86.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phnd4b.mp3",
    "guid": "urn:bbc:podcast:w3ct98sm",
    "title": "Founders: Olio CEO Tessa Clarke's fight against food waste"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 1049,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phgf4y.mp3",
-   "guid": "urn:bbc:podcast:w3ct8grj",
-   "title": "Follow the Money: The cost of sending money home"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 1048,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph49hj.mp3",
-   "guid": "urn:bbc:podcast:w3ct8ggh",
-   "title": "What China's solar panel obsession means for the world"
   }
  ]
 }

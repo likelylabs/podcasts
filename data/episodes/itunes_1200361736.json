@@ -1,8 +1,15 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1430,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a8d1f8a0-bcc3-4a3c-b97f-3ed92b5bd827/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a8d1f8a0-bcc3-4a3c-b97f-3ed92b5bd827&feed=Sl5CSM3S",
+   "guid": "a09af04f-0727-4432-bde5-6813f246bcb1",
+   "title": "Measles Is Officially Back. What Now?"
+  },
+  {
    "date": "2026-11-22",
-   "durationSec": 1954,
+   "durationSec": 1952,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/57bc2ca1-3760-44d3-bd26-681571452202/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=57bc2ca1-3760-44d3-bd26-681571452202&feed=Sl5CSM3S",
    "guid": "895e35e8-8529-456a-8558-3760a73ec40a",
    "title": "A Thanksgiving Dinner for $100? Yes, It’s Possible (and Delicious)."
@@ -29,25 +36,11 @@
    "title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week"
   },
   {
-   "date": "2026-11-18",
-   "durationSec": 1569,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd&feed=Sl5CSM3S",
-   "guid": "7772cec6-c093-4168-b8b7-b5bdaf5dfbc5",
-   "title": "How Stable Is the A.I. Industry? We’re About to Find Out."
-  },
-  {
    "date": "2026-11-15",
    "durationSec": 2548,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/89222de7-90a4-481a-9e4e-db26e4c06bf4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=89222de7-90a4-481a-9e4e-db26e4c06bf4&feed=Sl5CSM3S",
    "guid": "35451939-87b4-4c1d-bbc6-693c40725c0b",
    "title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto"
-  },
-  {
-   "date": "2026-11-14",
-   "durationSec": 3050,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/61a2969e-d107-405b-9ce5-ab96d16ea7cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=61a2969e-d107-405b-9ce5-ab96d16ea7cc&feed=Sl5CSM3S",
-   "guid": "657707df-b84a-4835-af8d-d04c7cda4e2c",
-   "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back."
   },
   {
    "date": "2026-11-07",
@@ -209,6 +202,13 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/820abebb-b174-4782-99c8-03a58af1f879/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=820abebb-b174-4782-99c8-03a58af1f879&feed=Sl5CSM3S",
    "guid": "6ba726ba-bce0-4c50-be92-5857cfd57311",
    "title": "Everything You Need to Know About the World Cup"
+  },
+  {
+   "date": "2026-05-31",
+   "durationSec": 5396,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a95b086e-81f2-4a1e-9b4b-1ba68aadd090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a95b086e-81f2-4a1e-9b4b-1ba68aadd090&feed=Sl5CSM3S",
+   "guid": "4936db14-27d8-49ab-814e-341415ac2839",
+   "title": "Popcast: Olivia Rodrigo Tried Writing Love Songs. Then Life Got Messy."
   }
  ]
 }

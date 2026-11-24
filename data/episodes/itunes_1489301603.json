@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1549,
+   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/19220d0a/0a848fcd.mp3",
+   "guid": "8eed6233-22e3-4e33-a9a3-d133edf7b403",
+   "title": "[Black Friday Freebie #2] The Extraordinary Life of Charlie Chaplin"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1399,
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/563c1bbc/b8a4f8ae.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/eccdaa67/84de4c72.mp3",
    "guid": "4173d2a2-f670-48f7-8745-d0458584be0b",
    "title": "#577 | A Short History Of Universities"
-  },
-  {
-   "date": "2025-10-24",
-   "durationSec": 1374,
-   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/9f5d232d/6ffc6b9c.mp3",
-   "guid": "f4ce18ca-8c00-41a2-a094-ed7c7c9fd863",
-   "title": "#575 | The Science of Happiness: Can It Be Measured?"
   }
  ]
 }

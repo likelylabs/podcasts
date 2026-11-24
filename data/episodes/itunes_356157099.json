@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2847,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppk5vg.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39yqwvp",
+   "title": "The Nvidia board reinstates Jensen Huang as CEO"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 2787,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppgvjb.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39yq1ms",
+   "title": "Nvidia reinstates Jensen Huang as CEO"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2675,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppczzt.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plxyw3.mp3",
    "guid": "urn:bbc:podcast:w1730bnc0j0xwhq",
    "title": "Poland in shock after Saturday’s mass shooting"
-  },
-  {
-   "date": "2026-11-08",
-   "durationSec": 2845,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plvs70.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0vykn",
-   "title": "Heavy rain in Gaza floods tens of thousands of tents"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 2851,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plr7d9.mp3",
-   "guid": "urn:bbc:podcast:w1730bnc0j0s1nk",
-   "title": "AI stocks climb after trillions wiped from market values"
   }
  ]
 }

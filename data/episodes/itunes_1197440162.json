@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3388,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppjk36.mp3",
+   "guid": "urn:bbc:podcast:p0ppjrj3",
+   "title": "Rassie's watchalong & who wins the Nations Championship?"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2872,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp8yg1.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7n2ql.mp3",
    "guid": "urn:bbc:podcast:p0p7n4dz",
    "title": "We’re back with Itoje, Russell & Janse van Rensburg!"
-  },
-  {
-   "date": "2026-07-21",
-   "durationSec": 3473,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzwpdn.mp3",
-   "guid": "urn:bbc:podcast:p0nzwqp2",
-   "title": "Have we learnt anything from the Nations Championship?"
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1292,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppj6jb.mp3",
+   "guid": "urn:bbc:podcast:p0ppj8w7",
+   "title": "The women challenging period myths"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1150,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4t4t.mp3",
+   "guid": "urn:bbc:podcast:p0pp4v9w",
+   "title": "Can Chile turn methane into money?"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1634,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnvx5x.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjqbrd.mp3",
    "guid": "urn:bbc:podcast:p0pjqd1j",
    "title": "Digging deep to help farmers"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 3314,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjq7k7.mp3",
-   "guid": "urn:bbc:podcast:p0pjqbfz",
-   "title": "Duo-euthanasia – a family’s story"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 1218,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjbhkk.mp3",
-   "guid": "urn:bbc:podcast:p0pjbjsh",
-   "title": "If China's exports are booming, why are consumers struggling?"
   }
  ]
 }

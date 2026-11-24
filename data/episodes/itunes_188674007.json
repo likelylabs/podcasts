@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3411,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/23-45373-gnl.fw.jg.23112026.welcome_pochettino.mp3",
+   "guid": "6b03eeb28f08268116cd59cf",
+   "title": "Welcome to Manchester United, Mauricio Pochettino: Football Weekly"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 3189,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/19-45514-gnl.fw.jg.19112026.scotland_smashed_by_swiss.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/14-58686-gdn.fw.20261509.tp.Kane_scores_again_Barcelona_stay_perfect_as_ballon_dor_debate_intensifies.mp3",
    "guid": "6aa8017c8f085b2bd2162645",
    "title": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly"
-  },
-  {
-   "date": "2026-09-14",
-   "durationSec": 3331,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/14-45199-gdn.fw.20261409.tp.Var_controversy_decides_the_manchester_derby.mp3",
-   "guid": "6aa7ce0c8f0828e7af7f2dda",
-   "title": "VAR controversy decides Manchester derby as City keep pace with Arsenal: Football Weekly"
   }
  ]
 }

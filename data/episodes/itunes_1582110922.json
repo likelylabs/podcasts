@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 522,
+   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/129936889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F2f91ecf6-bf0c-45d7-1200-68d1bbcfa7b4.mp3",
+   "guid": "0000767f-9a57-42de-98db-8a0bcddf8fdb",
+   "title": "Taiwanese Food & Chimp Drones"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 529,
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/129791943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F541765c7-0a69-da29-b372-ce9d08d0491d.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127385942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F48a48a69-3963-3730-d211-c4f00321cfb6.mp3",
    "guid": "dc51fc55-7250-43bf-84de-734429f52dbf",
    "title": "UN March & Blind Biking"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 522,
-   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127328992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F8dd96e6d-a250-d89a-c925-ba9822063fa2.mp3",
-   "guid": "295c7116-2620-4552-8fd0-9a208d236935",
-   "title": "Artist Emmy & Anti-AI"
   }
  ]
 }

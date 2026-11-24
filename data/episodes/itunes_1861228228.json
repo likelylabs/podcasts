@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 557,
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/a412fb63-3e1a-4f0f-8dec-d6782e84748a/rssFileVip.mp3?timestamp=1795468544661",
+   "guid": "a412fb63-3e1a-4f0f-8dec-d6782e84748a",
+   "title": "AI台灣日報 EP324 [黃仁勳重返輝達總部 向員工承諾「第二次會做得更好」]"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 530,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/306d38e7-a181-43f0-8b0c-ad69b7d22d35/rssFileVip.mp3?timestamp=1795382079132",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/306d38e7-a181-43f0-8b0c-ad69b7d22d35/rssFileVip.mp3?timestamp=1795416547143",
    "guid": "306d38e7-a181-43f0-8b0c-ad69b7d22d35",
    "title": "AI台灣日報 EP323 [3枚俄羅斯巡弋飛彈墜落波蘭境內 北約將召開會議討論]"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/aeee96c9-3c9f-4133-b679-276ae5630a36/rssFileVip.mp3?timestamp=1793181876337",
    "guid": "aeee96c9-3c9f-4133-b679-276ae5630a36",
    "title": "AI台灣日報 EP290 [PS6售價可能突破1000美元！記憶體與]"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 590,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/c70c13e6-e4cc-4060-9d27-71d68ff19e3a/rssFileVip.mp3?timestamp=1793153576934",
-   "guid": "c70c13e6-e4cc-4060-9d27-71d68ff19e3a",
-   "title": "AI台灣日報 EP297 [輝達 973 億美元參與 Meta 新股發行、巴西參議員拒交護照赴美、以色列大選 44.9% 已投票、美軍海上行動、蘋果 M6 機款、台積電 ADR 近 2%]"
   }
  ]
 }

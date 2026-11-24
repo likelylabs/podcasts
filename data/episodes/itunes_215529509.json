@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2610,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/390134df-3170-4ecb-9030-5cedb3973ffd/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=390134df-3170-4ecb-9030-5cedb3973ffd&feed=szW8tJ16",
+   "guid": "3f24cf90-732c-47e8-8b4c-52a9145ca7d3",
+   "title": "Is Nvidia's Rebound an All-Clear for the AI Trade?"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2625,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/4f96a067-fa41-4546-adc5-83550f4e2f47/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=4f96a067-fa41-4546-adc5-83550f4e2f47&feed=szW8tJ16",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/41d842c5-9ac0-4db2-b51e-0ff5bb79afd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=41d842c5-9ac0-4db2-b51e-0ff5bb79afd1&feed=szW8tJ16",
    "guid": "f02636de-80b1-4db8-b43d-9290d41982d8",
    "title": "AI Debt Concerns Grip Market… And Bank Of America’s Rough Day 10/14/26"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 2608,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/44688fad-d7d9-4e32-af34-6ab061820c10/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=44688fad-d7d9-4e32-af34-6ab061820c10&feed=szW8tJ16",
-   "guid": "a91258f9-0183-435e-9c90-a54b6c890397",
-   "title": "Drama in DRAM Memory ETF… And Trading Apple & Others At Record Highs… 10/13/26"
   }
  ]
 }

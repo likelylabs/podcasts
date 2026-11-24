@@ -1,6 +1,34 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1346,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261123 - Top of the Morning_YA.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261123 - Top of the Morning_YA.mp3",
+   "title": "Top of the Morning: CIO Strategy Snapshot - Year Ahead 2027: Sustaining resilience"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1601,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261117 - Talking Markets_Muni edition Invesco_Podcast.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261117 - Talking Markets_Muni edition Invesco_Podcast.mp3",
+   "title": "Talking Markets Podcast Series (Munis) with Mark Paris (Invesco) & Sudip Mukherjee (UBS CIO)"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 371,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261123-slowdown-silver-linings.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261123-slowdown-silver-linings.mp3",
+   "title": "UBS On-Air: Paul Donovan Daily Audio 'Slowdown silver-linings?'"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 348,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261123-signal-over-noise.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261123-signal-over-noise.mp3",
+   "title": "Signal over Noise: Shifting gears for the Year Ahead: Bonds in the lead, Equities to Neutral"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1589,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261110 - Talking Markets_Phil Orlando.mp3",
@@ -181,34 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261105 - Top of the Morning.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261105 - Top of the Morning.mp3",
    "title": "Top of the Morning: CEO Macro Briefing Book - Election digestion"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 561,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261104-Viewpoints_Podcast.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261104-Viewpoints_Podcast.mp3",
-   "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 76)"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 356,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261105-shifting-expectations.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261105-shifting-expectations.mp3",
-   "title": "UBS On-Air: Paul Donovan Daily Audio 'Shifting expectations'"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 1256,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261104 - Top of the Morning_Election Watch.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261104 - Top of the Morning_Election Watch.mp3",
-   "title": "Top of the Morning: Election Day takeaways - Markets, policy & positioning"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 349,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261104-five-points.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261104-five-points.mp3",
-   "title": "UBS On-Air: Paul Donovan Daily Audio 'Five points'"
   }
  ]
 }

@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1622,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/23-73480-TIFMyanmarGenoicderuling.mp3",
+   "guid": "6b0468c98f084f2c090aa631",
+   "title": "Myanmar has been found guilty of genocide. Should Israel be worried?"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 743,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/23-62377-2311cop31v2.mp3",
+   "guid": "6b0443d28f08c3b17e08f2cc",
+   "title": "Cop31 collapses: why did climate talks fall apart? - The Latest"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1502,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-59769-20261123tifbyrne2.mp3",
+   "guid": "6aff57e98f0857f622c1c190",
+   "title": "David Byrne on the great ideas that got away"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2250,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-60674-20261121tifcloseup.mp3",
@@ -188,27 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/04-63067-0411midterms.mp3",
    "guid": "6aeb4c348f08a66ebb927112",
    "title": "Democrats’ triumph deals devastating blow to Trump - The Latest"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 1547,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/04-50467-BinancenewCredits.mp3",
-   "guid": "6aea21c88f08a3199bcbe6f7",
-   "title": "Kim Jong-un, crypto bros and a $6.3bn heist"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 783,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/03-66045-0311fridgehack.mp3",
-   "guid": "6aea00f68f08b88686ec0bae",
-   "title": "Cold war? Why are fridges being hacked and what could be next? - The Latest"
-  },
-  {
-   "date": "2026-11-03",
-   "durationSec": 2596,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/02-69272-TIFTahnoonMix.mp3",
-   "guid": "6ae8d4318f08f0ebf8069c08",
-   "title": "Sheikh Tahnoon: the most powerful man you’ve never heard of"
   }
  ]
 }

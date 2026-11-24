@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 473,
+   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/f6041d61-3805-4346-bf5e-442aa3345470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=f6041d61-3805-4346-bf5e-442aa3345470&feed=fFPK3rs_",
+   "guid": "fce2d19d-c8a3-47e1-a85c-1ed84dc65c7a",
+   "title": "How Avoiding Stress Can Lead to Depression | Dr. Alia Crum"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 414,
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/9045ba54-b0d1-401a-b067-a98b5c01ac10/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=9045ba54-b0d1-401a-b067-a98b5c01ac10&feed=fFPK3rs_",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/70afbad1-f625-4804-b2b3-aaaeb75b8b5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=70afbad1-f625-4804-b2b3-aaaeb75b8b5f&feed=fFPK3rs_",
    "guid": "30f3acb2-0072-4653-b5e4-3b12163956f6",
    "title": "How To Train Your Brain and Learn Faster Starting Today | Jim Kwik"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 443,
-   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/460c1b2c-5c00-4358-8e5d-d2d9aa089337/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=460c1b2c-5c00-4358-8e5d-d2d9aa089337&feed=fFPK3rs_",
-   "guid": "86698fae-1d30-4db5-9012-5dbfd816442a",
-   "title": "If Fear Keeps You Safe But Stuck, Open Your Sail | Scott Barry Kaufman"
   }
  ]
 }

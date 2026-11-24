@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1426,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/025a058a-64f0-4c87-9ba3-b50b011aa394/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "025a058a-64f0-4c87-9ba3-b50b011aa394",
+   "title": "Bloomberg Surveillance TV: November 23rd, 2026"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 1870,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/663d7236-9919-4775-bd08-b50b010339a6/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "663d7236-9919-4775-bd08-b50b010339a6",
+   "title": "Jensen Huang Returns to Nvidia"
+  },
+  {
+   "date": "2026-11-23",
+   "durationSec": 2375,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/86b054f5-6696-4abe-8f55-b50b00f5ad23/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "86b054f5-6696-4abe-8f55-b50b00f5ad23",
+   "title": "Instant Reaction: Jensen Huang Back at Nvidia"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1778,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/f1210527-f9a0-43f0-b1db-b508018709c7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
@@ -188,27 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/850e5fed-9cea-428c-b059-b4f90113e17b/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
    "guid": "850e5fed-9cea-428c-b059-b4f90113e17b",
    "title": "Bloomberg Surveillance TV: November 5th, 2026"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 1841,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/0b60d542-b881-4eff-b38e-b4f900eff6a9/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "0b60d542-b881-4eff-b38e-b4f900eff6a9",
-   "title": "Markets Price in Midterms"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 1286,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/5f7abc2c-50fc-420f-955a-b4f80123fcec/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "5f7abc2c-50fc-420f-955a-b4f80123fcec",
-   "title": "Bloomberg Surveillance TV: November 4th, 2026"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 2098,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/49330726-0e0a-4740-9d3c-b4f800f5c925/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "49330726-0e0a-4740-9d3c-b4f800f5c925",
-   "title": "Dem Midterm Sweep"
   }
  ]
 }

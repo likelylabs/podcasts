@@ -1,8 +1,22 @@
 {
  "showId": "itunes_1528053800",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "在Benz上修行 EP184 － 唱K可以舒緩情緒？",
+   "date": "2026-11-24",
+   "enclosure": "https://feeds.soundcloud.com/stream/2443349100-ytstormtrooper-benz-ep184-k.mp3",
+   "durationSec": 3099,
+   "guid": "tag:soundcloud,2010:tracks/2443349100"
+  },
+  {
+   "title": "寶藥黨 EP306－AI連賭場都收皮？｜GTA 6要你做beta男？｜",
+   "date": "2026-11-24",
+   "enclosure": "https://feeds.soundcloud.com/stream/2443348233-ytstormtrooper-ep306-ai-gta-6-beta.mp3",
+   "durationSec": 4432,
+   "guid": "tag:soundcloud,2010:tracks/2443348233"
+  },
   {
    "title": "寶藥黨 EP305－真最強出軌：黃仁勳落台！｜白兵iPhone Duo 一日後番生～悟出人生道理｜",
    "date": "2026-11-18",
@@ -198,20 +212,6 @@
    "enclosure": "https://feeds.soundcloud.com/stream/2410641099-ytstormtrooper-ep298.mp3",
    "durationSec": 3590,
    "guid": "tag:soundcloud,2010:tracks/2410641099"
-  },
-  {
-   "title": "水與金融 EP 171— 地產苦水會，好景唔出聲，跌市扮死狗？",
-   "date": "2026-10-01",
-   "enclosure": "https://feeds.soundcloud.com/stream/2410637661-ytstormtrooper-ep-171-1.mp3",
-   "durationSec": 1651,
-   "guid": "tag:soundcloud,2010:tracks/2410637661"
-  },
-  {
-   "title": "在Benz上修行 EP175 － 從尼泊爾泥石流看現代人危機意識",
-   "date": "2026-09-19",
-   "enclosure": "https://feeds.soundcloud.com/stream/2403134502-ytstormtrooper-benz-ep175.mp3",
-   "durationSec": 2907,
-   "guid": "tag:soundcloud,2010:tracks/2403134502"
   }
  ]
 }

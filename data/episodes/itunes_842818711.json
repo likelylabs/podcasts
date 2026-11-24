@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3986,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f4221967-bfe3-477d-85f4-72463c8670f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f4221967-bfe3-477d-85f4-72463c8670f4&feed=JGE3yC0V",
+   "guid": "59b03949-d611-4a90-952e-93929d5a6e07",
+   "title": "The One-Person Biotech | OpenAI Life Sciences"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2874,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/72c66943-1a58-4565-bf56-94c3493753af/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=72c66943-1a58-4565-bf56-94c3493753af&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cf152414-3a4b-46e0-a3ab-13cdcf42822e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cf152414-3a4b-46e0-a3ab-13cdcf42822e&feed=JGE3yC0V",
    "guid": "631e269e-b6a1-4241-8992-8a9d97cb83ff",
    "title": "The New Startup Playbook | Box CEO Aaron Levie"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 2512,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/d9bff268-e096-49a4-a2a0-3ad436b025be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=d9bff268-e096-49a4-a2a0-3ad436b025be&feed=JGE3yC0V",
-   "guid": "155547a3-6d30-4b48-a451-deded4179926",
-   "title": "What It Takes to Win as a Founder | Ben Horowitz"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 2631,
+   "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261123-distance.mp3",
+   "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261123-distance.mp3[Mon, 23 Nov 2026 04:00:00 +0000]",
+   "title": "EP41：把台灣味賣進大蘋果 ft. 紐約珍奶教父 林慶甫 Sam Lin"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2764,
    "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261119-distance.mp3",
@@ -201,13 +208,6 @@
    "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260813-distance.mp3",
    "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260813-distance.mp3[Thu, 13 Aug 2026 04:00:00 +0000]",
    "title": "EP12：在美國教室裡說台灣 ft. 黃寶儀博士"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 2720,
-   "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260810-distance.mp3",
-   "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260810-distance.mp3[Mon, 10 Aug 2026 04:00:00 +0000]",
-   "title": "EP11：父親角色與文化傳承 ft. 紐約 New Practice Studio 共同創辦人Taili Lee"
   }
  ]
 }

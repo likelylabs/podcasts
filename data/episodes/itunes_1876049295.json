@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 5065,
+   "enclosure": "https://traffic.megaphone.fm/GLT1112994774.mp3",
+   "guid": "4f25c368-e74d-11f1-9d59-3f3363592ee1",
+   "title": "42. Money: Martin Amis’s Black Comedy"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 4795,
    "enclosure": "https://traffic.megaphone.fm/GLT9806408989.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT9913335101.mp3?updated=1778506920",
    "guid": "887deab2-4d3a-11f1-9034-ef387b35cfae",
    "title": "13. The Woman In White: Victorians, Sensation, and Scandal"
-  },
-  {
-   "date": "2026-05-05",
-   "durationSec": 4510,
-   "enclosure": "https://traffic.megaphone.fm/GLT4243643989.mp3?updated=1777719470",
-   "guid": "84b9056e-4561-11f1-bff1-2fd08ff7ccdf",
-   "title": "12. A Court of Thorns and Roses: ''Fairy Smut'' or Fantasy Sensation?"
   }
  ]
 }

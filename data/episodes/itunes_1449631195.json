@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 1449,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b041882eb893786ae9e232d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8n0bxJCZXnwUDGLyPdtH0z2-I2A8Hr2hbPEDGJdzDmU",
+   "guid": "6b041882eb893786ae9e232d",
+   "title": "In the life of prime: AI’s latest maths triumph"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1638,
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0029dc322405712ca22bff/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LRZ9mJt-MwREk-T2wqLuyVDlJlpsICOpgpLckWl4XHA",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6acf5699937a3c900fd4f56f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YjsgjVAo5Nh2xNb6TFKUp6Xkn3gloz1U5r6VnjZqgik",
    "guid": "6acf5699937a3c900fd4f56f",
    "title": "Kicking Kyiv: Trump’s doubtful deals"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 1495,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ace029d37f0bd18cc1c7df0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zjPwDuaQX0ZW6bK2ELpXuBucuHNNshoJKLZiRWTH694",
-   "guid": "6ace029d37f0bd18cc1c7df0",
-   "title": "Unrest in peace: misery in Gaza"
   }
  ]
 }

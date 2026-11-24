@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3751,
+   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO",
+   "guid": "e2f105ef-0055-4055-b4bb-92a04ad975f5",
+   "title": "\"Mike Schur\""
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 3791,
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO",
    "guid": "3f535a56-fe2f-4ae1-b30c-11a84a4adebd",
    "title": "\"Emma Thompson\""
-  },
-  {
-   "date": "2026-06-22",
-   "durationSec": 3443,
-   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO",
-   "guid": "eb3c6be8-3c56-4322-96a8-cc04ca167478",
-   "title": "\"Amy Adams\""
   }
  ]
 }

@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1633600039",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-24T12:51:22+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "A Stone Monster Crashed the Strawberry Farm P1 | Safety Sheriff Labrador👮",
+   "date": "2026-11-24",
+   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288665.mp3?v=4BACAA285DD0D1C958FAE7801C14C799",
+   "durationSec": 180,
+   "guid": "E444E59BFAE5D83C1D2F3F76DBF71E5E"
+  },
   {
    "title": "❄️ Coming Soon: Adventures in Snowflake Town!",
    "date": "2026-11-22",
@@ -205,13 +212,6 @@
    "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288141.mp3?v=D179C523A07EF474F6AF708BB326F1DF",
    "durationSec": 187,
    "guid": "CA4BC4CB053F53BC94FDE75B85351B59"
-  },
-  {
-   "title": "Dangerous BiteDelights P2丨Safety Sheriff Labrador👮",
-   "date": "2026-10-17",
-   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288140.mp3?v=0BBE15B0DCB6C775E4E90D4024CDEC57",
-   "durationSec": 151,
-   "guid": "F1E9305B0CFB8F4754BD03BD6714717A"
   }
  ]
 }

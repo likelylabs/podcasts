@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 3339,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6b0068a11ab32089565d3d2c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_DdfQJLSAWS2Gx569sZXcwIzEJ74_TAyPdlHRjel5FA",
+   "guid": "6b0068a11ab32089565d3d2c",
+   "title": "Tom Brady: The Brutal Mentality Shift That Made Me The GOAT (E450)"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1536,
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6aff040012bc101a64c08943/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Mi48YSaIPNGHdNyorhIytwrEaycD33iXltzY53bSfh8",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ab4f6bc65834fd052729127/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=asF71AhoZYWoRYwpaiz1pg3Xu6QiR2UgO3g5VRjNKNw",
    "guid": "6ab4f6bc65834fd052729127",
    "title": "Usain Bolt: The Failure That Changed Everything"
-  },
-  {
-   "date": "2026-09-23",
-   "durationSec": 1869,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6aad5ed7dd79a7ace6301aef/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BplgNXvKks1gO6z1AzTSAlaWs0Kyd5WhcgkMT1-SuSk",
-   "guid": "6aad5ed7dd79a7ace6301aef",
-   "title": "Is Alcohol Permission To Stop Performing in Sport?"
   }
  ]
 }

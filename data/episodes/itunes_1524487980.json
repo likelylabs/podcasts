@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3012,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/142ce09d-0be9-41ce-9ea1-7bb3887bf782/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=142ce09d-0be9-41ce-9ea1-7bb3887bf782&feed=qltQrd_8",
+   "guid": "57b4b590-af4d-4eac-a3b4-71f727a859f8",
+   "title": "NVIDIA Rebounds as Jensen Huang Returns; AI Trade Rally Debate"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 2844,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/15c0ce7d-7d71-4a86-a356-99eb5f9bfa88/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=15c0ce7d-7d71-4a86-a356-99eb5f9bfa88&feed=qltQrd_8",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/9080962c-5c33-4497-8931-4568e3a005af/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=9080962c-5c33-4497-8931-4568e3a005af&feed=qltQrd_8",
    "guid": "4d763eb4-a992-41a0-92df-2b84d1cec900",
    "title": "Halftime Report Live at the CAIS Summit 10/13/26"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 2588,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/750cecff-8688-4506-afac-50bbef59ce8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=750cecff-8688-4506-afac-50bbef59ce8a&feed=qltQrd_8",
-   "guid": "88f42333-312f-4a39-9eb9-8cfa5581b170",
-   "title": "High Bar for Q3 Earnings? The Investment Committee Debates 10/12/26"
   }
  ]
 }
