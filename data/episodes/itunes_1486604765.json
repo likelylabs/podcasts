@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1708,
+   "enclosure": "https://traffic.megaphone.fm/APO4318338527.mp3",
+   "guid": "4d06bbf8-deff-42c2-aa1a-66e40ee254b4",
+   "title": "The Horrible Case of Myls Dobson"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 7444,
    "enclosure": "https://traffic.megaphone.fm/APO6920793780.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO1770348585.mp3",
    "guid": "3034e496-8b3e-4d87-a684-5e00ef2a1a33",
    "title": "The Tragic Case of Marley & Elijah Thomas"
-  },
-  {
-   "date": "2026-08-19",
-   "durationSec": 909,
-   "enclosure": "https://traffic.megaphone.fm/APO2046985484.mp3",
-   "guid": "400b3094-2dba-4403-b1b0-ce3326bef562",
-   "title": "The Tragic Case of Zya Singleton"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 906,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppncpv.mp3",
+   "guid": "urn:bbc:podcast:p0ppndd2",
+   "title": "ICJ ဆုံးဖြတ်ချက်ကို ထောက်ခံကြောင်း ယူကေ တရားဝင် ထုတ်ပြန်ပြီး၊ မြန်မာ စစ်ဗိုလ်ချုပ် နောက်ထပ် ၅ ယောက်ကို ကန့်သတ်မှုချမှတ်"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 918,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppglgj.mp3",
@@ -41,13 +48,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnn7j0.mp3",
    "guid": "urn:bbc:podcast:p0pnn87l",
    "title": "နေပြည်တော် သမ္မတက လွှတ်တော်မှာပေးတဲ့ မိန့်ခွန်းထဲ အာဆီယံနဲ့ ရှေ့ဆက်ဖို့ကို ပြန်စဥ်းစားမယ်လို့ ပြောပါတယ်၊ ဘာသဘောဆောင်ပါသလဲ။"
-  },
-  {
-   "date": "2026-11-17",
-   "durationSec": 928,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnfnqz.mp3",
-   "guid": "urn:bbc:podcast:p0pnfp34",
-   "title": "မြဝတီမြို့နယ်ထဲက ကျားဖြန့်လုပ်ငန်းတွေ ဆက်လက်လည်ပတ်နေပြီး အမေရိကန်က သူတို့ ဆုကြေးနဲ့ ဖမ်းဝရမ်းထုတ်ထားကြောင်း ထပ်မံထုတ်ပြန်"
   },
   {
    "date": "2026-11-15",
@@ -181,13 +181,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjp950.mp3",
    "guid": "urn:bbc:podcast:p0pjp98y",
    "title": "နောင်ချိုက မွတ်ဆလင်  ၂ ဦးကို ထောင် ၁၁ နှစ် ချပြီး ဗလီသိမ်း ၊ ရန်ကုန်  KTV မှာ စစ်အရာရှိတွေနဲ့ တရားသူကြီးတွေ ဖမ်းမိ"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 893,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjkg95.mp3",
-   "guid": "urn:bbc:podcast:p0pjkgch",
-   "title": "ဆောက်လုပ်ရေးစီမံကိန်း ဘတ်ဂျတ်လျာထားချက်တွေ ကာလပေါက်စျေးထက်ပိုပြထားလို့ ရန်ကုန်တိုင်း လွှတ်တော် ကော်မတီက ဖြတ်တောက် လျှော့ချခဲ့ရ"
   },
   {
    "date": "2018-12-31",

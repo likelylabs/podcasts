@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1592,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5596739047.mp3",
+   "guid": "7c246936-d05c-11f0-a63b-7f33214216ae",
+   "title": "Why Trump saved Jensen Huang"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1607,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9661706738.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9646248999.mp3",
    "guid": "7a77b390-d05c-11f0-a63b-333764623dc7",
    "title": "Democrats find God"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 1830,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5969980938.mp3",
-   "guid": "6524ea7a-d05d-11f0-9f07-f3d76d83b64f",
-   "title": "When AI agents run your life"
   }
  ]
 }

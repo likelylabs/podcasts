@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3429,
+   "enclosure": "https://traffic.megaphone.fm/GLT4230077354.mp3",
+   "guid": "3c025f76-a585-11f1-b239-cf870460ba4f",
+   "title": "Hugh Laurie"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3465,
    "enclosure": "https://traffic.megaphone.fm/GLT6753546501.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT6793378205.mp3?updated=1778555718",
    "guid": "7fdd8df6-2c95-11f1-b581-33492de1f94d",
    "title": "Da'Vine Joy Randolph"
-  },
-  {
-   "date": "2026-05-05",
-   "durationSec": 5009,
-   "enclosure": "https://traffic.megaphone.fm/GLT7892239563.mp3?updated=1778258397",
-   "guid": "7fc685fc-2c95-11f1-b581-6fd787847b53",
-   "title": "Billie Eilish"
   }
  ]
 }

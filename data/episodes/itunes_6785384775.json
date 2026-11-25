@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2700,
+   "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261124-twarthistory.mp3",
+   "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261124-twarthistory.mp3[Tue, 24 Nov 2026 12:00:00 +0000]",
+   "title": "EP41：女性主義的抬頭，當女人拿起畫筆，重新定義自己"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 2695,
    "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20261118-twarthistory.mp3",
@@ -200,13 +207,6 @@
    "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260812-twarthistory.mp3",
    "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260812-twarthistory.mp3[Wed, 12 Aug 2026 12:00:00 +0000]",
    "title": "EP12：一顆彩虹之珠，串起一段琉璃傳奇"
-  },
-  {
-   "date": "2026-08-11",
-   "durationSec": 2640,
-   "enclosure": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260811-twarthistory.mp3",
-   "guid": "https://media.blubrry.com/ic975broadcast/ins.blubrry.com/ic975broadcast/icv-20260811-twarthistory.mp3[Tue, 11 Aug 2026 12:00:00 +0000]",
-   "title": "EP11：竹籐編器編出千百年的生活智慧！"
   }
  ]
 }

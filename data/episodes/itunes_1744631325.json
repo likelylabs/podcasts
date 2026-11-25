@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1712,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8853773004.mp3",
+   "guid": "a0c555c0-c3c8-11f0-a59c-33c1d8e139b6",
+   "title": "Unprecedented Corruption: How Jensen Huang Got His Job Back"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3405,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8490818003.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4151581900.mp3",
    "guid": "e8dd1e1a-c3c8-11f0-b1f3-03309b3a9c84",
    "title": "Why Elon Might Merge Tesla And SpaceX"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 3056,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5848576328.mp3",
-   "guid": "e881fe36-c3c8-11f0-b1f3-23e5229a0e77",
-   "title": "Is Nvidia Selling More Chips Than Anyone Can Use?"
   }
  ]
 }

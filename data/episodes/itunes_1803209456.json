@@ -1,6 +1,76 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 210,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/384b3794-ef00-44a6-9c05-b50c016c0d6c/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "384b3794-ef00-44a6-9c05-b50c016c0d6c",
+   "title": "Dell Rises on AI Demand, Nutanix Slumps, Dollar Tree Jumps"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 219,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/0eec5913-0ec4-4967-b96c-b50c01604f66/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "0eec5913-0ec4-4967-b96c-b50c01604f66",
+   "title": "Closing Bell: Moderna Rallies, Dollar Tree Jumps, Dell Reports"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 310,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/0a6343c6-a854-4dcc-a092-b50c014e2683/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "0a6343c6-a854-4dcc-a092-b50c014e2683",
+   "title": "HPE Tumbles, Anthropic Falls, Dick’s Sporting Goods Jumps"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 160,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/baeec532-a247-4d28-ab70-b50c010d6f4b/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "baeec532-a247-4d28-ab70-b50c010d6f4b",
+   "title": "Anthropic Sinks, Insmed Gains, and Dollar Tree Rises as Sales Grow Faster Than Expected"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 229,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/fd33c156-76dc-44d8-88e8-b50c00fb91be/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "fd33c156-76dc-44d8-88e8-b50c00fb91be",
+   "title": "Anthropic Sinks, Dick's Sporting Goods Surges, Best Buy Up After Raising Guidance on Demand for Computing"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 309,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/c00e6109-3fb0-47a9-80e4-b50c00e8b5ed/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "c00e6109-3fb0-47a9-80e4-b50c00e8b5ed",
+   "title": "Anthropic Drops Below IPO Price; McDonald's Makeover; Dick's Reports"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 264,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/ea38df15-8833-4e99-a572-b50c00c608fc/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "ea38df15-8833-4e99-a572-b50c00c608fc",
+   "title": "Nvidia Latest; HPE Reports; Semtech Dips"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 241,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/83e3948e-81e8-46eb-a68b-b50c00a7edff/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "83e3948e-81e8-46eb-a68b-b50c00a7edff",
+   "title": "Sanofi Deal, Aixtron Sinks, Balfour Beatty Gains"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 279,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/de7a021e-49c7-4290-a015-b50c009d07f9/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "de7a021e-49c7-4290-a015-b50c009d07f9",
+   "title": "Sanofi Deal, Compass Exit, Antofagasta Stall"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 295,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/12dcd948-0615-4483-93d8-b50c007bf2cc/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "12dcd948-0615-4483-93d8-b50c007bf2cc",
+   "title": "Samsung Electronics Up, TSMC Soars, Xiaomi Falls"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 258,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/5bd1e30d-edae-4d37-bff7-b50b017cfcb3/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
@@ -139,76 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/be1badd1-e897-48aa-9ffa-b50800797c7a/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
    "guid": "be1badd1-e897-48aa-9ffa-b50800797c7a",
    "title": "Softbank Plunges, Alibaba Up, Netease Dives"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 335,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/2a0beb64-3621-4970-8356-b5070187cb4c/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "2a0beb64-3621-4970-8356-b5070187cb4c",
-   "title": "Anthropic's First Day Of Trading, Gap's Full-Year Guidance, Intuit Falls"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 277,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/f7ffd500-0813-4951-abd9-b50701617bce/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "f7ffd500-0813-4951-abd9-b50701617bce",
-   "title": "Closing Bell: Anthropic Rockets in Debut, AMD Falls, Williams-Sonoma Slumps"
-  },
-  {
-   "date": "2026-11-20",
-   "durationSec": 260,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/0c0a727e-d955-454c-a96f-b50701518dd9/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "0c0a727e-d955-454c-a96f-b50701518dd9",
-   "title": "Anthropic Makes Big Debut, Walmart Raises Outlook, Palo Alto Gains"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 220,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/c7a30570-24e8-4a0e-8481-b50700fc7043/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "c7a30570-24e8-4a0e-8481-b50700fc7043",
-   "title": "Super Micro Computer Gains, Palo Alto Networks Rises, Walmart Mixed After Raising Outlook"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 282,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/0b8e9bc7-7459-4b72-8cf9-b50700e86054/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "0b8e9bc7-7459-4b72-8cf9-b50700e86054",
-   "title": "Walmart and BBWI Report; Palo Alto Gains"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 259,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/8f4e6d62-5e32-4b6d-9864-b50700c646f2/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "8f4e6d62-5e32-4b6d-9864-b50700c646f2",
-   "title": "Anthropic Blockbuster IPO; Palo Alto Networks and Everpure Gain"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 249,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/01c8fb0a-9e63-4866-9171-b50700a7ab4d/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "01c8fb0a-9e63-4866-9171-b50700a7ab4d",
-   "title": "Soitec Climbs, Babcock Rallies, Novartis Slips"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 251,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/0ad15006-37d8-4182-b376-b50700a37be0/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "0ad15006-37d8-4182-b376-b50700a37be0",
-   "title": "Soitec Climbs, Sthree's No Bid, JD Sports Falls"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 331,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/e8ac0146-4c89-4649-9be5-b5070077d5f7/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "e8ac0146-4c89-4649-9be5-b5070077d5f7",
-   "title": "TSMC Dips, Tencent Slides, Hybe Pops"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 273,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/350401cb-3c82-4418-b9ad-b506016c2109/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "350401cb-3c82-4418-b9ad-b506016c2109",
-   "title": "Nvidia Sinks, Okta Rallies, Take-Two Jumps on GTA6"
   }
  ]
 }

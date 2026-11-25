@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1959,
+   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/11/25/1cec470e3fdc4ee792b15d97642a619b.mp3",
+   "guid": "6b0652cbadaf8217f233e6c6",
+   "title": "还我净土"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1680,
    "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/11/23/8ce8fb2d32664ca98243be70d1a5d1ae.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/14/69d4224995a444d3ad2282737eb9e18e.mp3",
    "guid": "6acef972b733bf356cc794ad",
    "title": "和合之声 筑基"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 1699,
-   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/13/5883cff76d9e49f08f31776ee1ae5fed.mp3",
-   "guid": "6acda3dfb733bf356cc78f99",
-   "title": "星途征程 探九霄"
   }
  ]
 }

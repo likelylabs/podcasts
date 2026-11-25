@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1859,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/58aee528-0329-43a7-9dc2-b50900fbedf6/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
+   "guid": "58aee528-0329-43a7-9dc2-b50900fbedf6",
+   "title": "Nothing To Prove | Joel Osteen"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1852,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/768e6992-e05f-49b9-aec2-b50900f9656a/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/c8823a9f-0786-42fb-8ef6-b4ee0182127d/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
    "guid": "c8823a9f-0786-42fb-8ef6-b4ee0182127d",
    "title": "Stop Counting on People | Joel Osteen"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 1822,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/38dbce05-bc2e-4dca-a4ae-b4ee002306d4/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "guid": "38dbce05-bc2e-4dca-a4ae-b4ee002306d4",
-   "title": "The Strength of Silence | Joel Osteen"
   }
  ]
 }

@@ -1,8 +1,15 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1654,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ8505673966.mp3",
+   "guid": "44f331f8-e830-11f1-8e5f-935c48e3027e",
+   "title": "87,000 Fake Cows and a Ponzi Scheme"
+  },
+  {
    "date": "2026-11-24",
-   "durationSec": 1041,
+   "durationSec": 1056,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6535147408.mp3",
    "guid": "9df7979e-e786-11f1-966d-d3e229e1a456",
    "title": "The Return of Jensen Huang"
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ3154297257.mp3",
    "guid": "b39f7bca-cbf7-11f1-afff-cba3fc3904e4",
    "title": "Tension and Tirades Inside the U.S. Treasury"
-  },
-  {
-   "date": "2026-10-18",
-   "durationSec": 1392,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6419773563.mp3",
-   "guid": "0deae976-c8d7-11f1-9b54-f332b573aee5",
-   "title": "My Monday Morning: Gayle King"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 523,
+   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/130005335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F172645b1-6caa-74b8-3879-3c68a94f89b2.mp3",
+   "guid": "f61931e3-c3ef-48fd-befc-c5428be10750",
+   "title": "Bunun Book & French Protests"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 522,
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/129936889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F2f91ecf6-bf0c-45d7-1200-68d1bbcfa7b4.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127452585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F1de7acf2-cf9b-0903-1c18-0b69d8d32661.mp3",
    "guid": "cbe03981-bf65-4652-bb99-28c46e10b590",
    "title": "Hualien Bear & Rubik's Cube"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 540,
-   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127385942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F48a48a69-3963-3730-d211-c4f00321cfb6.mp3",
-   "guid": "dc51fc55-7250-43bf-84de-734429f52dbf",
-   "title": "UN March & Blind Biking"
   }
  ]
 }

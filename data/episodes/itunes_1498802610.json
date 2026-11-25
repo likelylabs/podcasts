@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-24",
+   "durationSec": 3210,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8230292463.mp3",
+   "guid": "3d6a51fa-b6ad-11f1-ac5d-e7d93d98e3df",
+   "title": "How America Lost Its Social Life — with Daniel Cox"
+  },
+  {
+   "date": "2026-11-24",
    "durationSec": 1128,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7802082879.mp3",
    "guid": "b65e9efa-e767-11f1-bb63-d37556f9cda5",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7712856360.mp3",
    "guid": "c98dff34-d1f6-11f0-95c8-4320497425c2",
    "title": "The Week: Paris under Curfew, Trump’s Gift to Putin, and a Looming Data Center Bubble"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 3584,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5206394016.mp3",
-   "guid": "77073960-d1f6-11f0-8459-0718da02e6a7",
-   "title": "Can We Coexist With AI? — with Ethan Mollick"
   }
  ]
 }

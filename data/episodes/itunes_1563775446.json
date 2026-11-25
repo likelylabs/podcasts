@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2148,
+   "enclosure": "https://rss.art19.com/episodes/7b1e4df9-39ff-49d6-a61e-60a4f3ee3fcb.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/lkGxcDYeZZ74q1wHNtqHQUMlSGeRFD5J08fdtXGDDpA",
+   "title": "The Suez Plot | Who is Britain's Worst Prime Minister? | 4"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 653,
    "enclosure": "https://rss.art19.com/episodes/0171c69d-b17a-40cd-b57b-8a18e58de82a.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.art19.com/episodes/000bd34d-c6fd-4f88-be2b-8950273cd782.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/TG9MjANhF34Hjhevluy3-K64T-VyqmOfbrkt87P3SQk",
    "title": "The Warring Queens | History’s Messiest Royal Rivalry | 4"
-  },
-  {
-   "date": "2026-05-13",
-   "durationSec": 3177,
-   "enclosure": "https://rss.art19.com/episodes/d3746ff4-10a9-4ddc-a5c4-df4f382afb98.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/YwjhwfoTrRXYn22h5rtknSAU1qMqjrXSORyYTn-VYv0",
-   "title": "The Warring Queens | The Last Gasp | 3"
   }
  ]
 }

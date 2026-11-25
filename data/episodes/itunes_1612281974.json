@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2589,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/3abaf727-ab29-4a6b-ae04-465c0879857d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=3abaf727-ab29-4a6b-ae04-465c0879857d&feed=Nh1wIaXT",
+   "guid": "b2f70edb-55b0-46bc-8a2c-4d95e75e38c8",
+   "title": "AI Trade Turmoil, Nvidia Fallout and Holiday Retail Outlook"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 2568,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/a624e5a7-ac32-4f51-9e2b-84971ac302d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=a624e5a7-ac32-4f51-9e2b-84971ac302d7&feed=Nh1wIaXT",
+   "guid": "80c20e54-5f53-444f-a08e-ea1bb1e4611a",
+   "title": "NVIDIA Volatility, AI Trade Risks and Market Rotation"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2566,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/7e643b91-e042-45ff-8852-6b7f5f235abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=7e643b91-e042-45ff-8852-6b7f5f235abc&feed=Nh1wIaXT",
@@ -195,20 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/1d684ba6-8c22-44f9-9d62-96c13118d164/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=1d684ba6-8c22-44f9-9d62-96c13118d164&feed=Nh1wIaXT",
    "guid": "2b028eeb-88eb-4353-a4fe-55dd39bd6876",
    "title": "Closing Bell 11/4/26"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 2621,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/f298ca0b-2933-4c05-a350-68ebf023de89/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=f298ca0b-2933-4c05-a350-68ebf023de89&feed=Nh1wIaXT",
-   "guid": "536da822-14f0-45c1-b712-a0d565acdfb3",
-   "title": "Closing Bell Overtime: Markets Brace for Election Results 11/3/26"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 2556,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/b93e65f7-15d2-4b30-9896-88d2f62b9075/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=b93e65f7-15d2-4b30-9896-88d2f62b9075&feed=Nh1wIaXT",
-   "guid": "f9801227-a25b-459f-9d75-43c96e0fe3c2",
-   "title": "Closing Bell 11/3/26"
   }
  ]
 }

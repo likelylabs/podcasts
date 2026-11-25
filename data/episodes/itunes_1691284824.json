@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1340,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6b05eb5dced26bb723221a46/media.mp3",
+   "guid": "6b05eb5dced26bb723221a46",
+   "title": "Is the Booma-Huang a bad day for capitalism?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1075,
    "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6aff6dc18f8ad2908fc27499/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a7e0a46ff328abd84337abc/media.mp3",
    "guid": "6a7e0a46ff328abd84337abc",
    "title": "Hot Stoxx summer"
-  },
-  {
-   "date": "2026-08-12",
-   "durationSec": 1314,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a7b709df91cd396b39a6705/media.mp3",
-   "guid": "6a7b709df91cd396b39a6705",
-   "title": "Why the yen matters"
   }
  ]
 }

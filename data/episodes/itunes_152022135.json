@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1558,
+   "enclosure": "https://audio.hbr.org/ideacast/20261120124023_745115-TheSubtleMarketingTacticsThatShapeWhatWeBuy.mp3",
+   "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1106",
+   "title": "The Subtle Marketing Tactics That Shape What We Buy"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2185,
    "enclosure": "https://audio.hbr.org/ideacast/20261118072624_894716-InnovationSummit2026_Block_sJackDorseyonBuildingaCompanyAroundIntelligence.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio.hbr.org/ideacast/20260706121716-HowLeadersCanUseAItoSolveRealBusinessProblems.mp3",
    "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1086",
    "title": "How Leaders Can Use AI to Solve Real Business Problems"
-  },
-  {
-   "date": "2026-07-02",
-   "durationSec": 1672,
-   "enclosure": "https://audio.hbr.org/ideacast/20260701151130-LeadershipSummit2026_MattelsCEOonDrivingConsumerEngagementandCulturalImpact.mp3",
-   "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1085b",
-   "title": "Leadership Summit 2026: Mattel’s CEO on Driving Consumer Engagement and Cultural Impact"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 846,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b04daea1543e10360312596/media.mp3",
+   "guid": "6b04daea1543e10360312596",
+   "title": "Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 871,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b03596ec2063ef63037067d/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adab0bfb4643bca15ec48b1/media.mp3",
    "guid": "6adab0bfb4643bca15ec48b1",
    "title": "US prepared for protracted stalemate with Iran"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 662,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ad9474a23f48c4f2446b3c4/media.mp3",
-   "guid": "6ad9474a23f48c4f2446b3c4",
-   "title": "Elon Musk’s $3.6tn gamble to merge SpaceX and Tesla"
   }
  ]
 }

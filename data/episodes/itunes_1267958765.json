@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 4169,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6b04de217c5143e15b342376/media.mp3",
+   "guid": "6b04de217c5143e15b342376",
+   "title": "Kane injured as Dortmund go top and goals galore in Serie A"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 4147,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6b03390a65423076736fdc9c/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6aba55a537c5b25db988d9f4/media.mp3",
    "guid": "6aba55a537c5b25db988d9f4",
    "title": "Totally Extra: Absolutely Fabregas"
-  },
-  {
-   "date": "2026-09-27",
-   "durationSec": 3362,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6ab81e076bffad1b00393a51/media.mp3",
-   "guid": "6ab81e076bffad1b00393a51",
-   "title": "England 2-3 Spain, plus Man City found guilty of 114 charges"
   }
  ]
 }

@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 643,
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/3b7c6ef7-bbc5-4f62-bdb2-fe94079258ec/rssFileVip.mp3?timestamp=1795558856822",
+   "guid": "3b7c6ef7-bbc5-4f62-bdb2-fe94079258ec",
+   "title": "AI台灣日報 EP325 [央行預告穩定幣準備金新規 明定繳存門檻與比率]"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 557,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/a412fb63-3e1a-4f0f-8dec-d6782e84748a/rssFileVip.mp3?timestamp=1795468544661",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/a412fb63-3e1a-4f0f-8dec-d6782e84748a/rssFileVip.mp3?timestamp=1795501754521",
    "guid": "a412fb63-3e1a-4f0f-8dec-d6782e84748a",
    "title": "AI台灣日報 EP324 [黃仁勳重返輝達總部 向員工承諾「第二次會做得更好」]"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/ef06ee24-d937-4a7e-912e-faf76ef5b1ca/rssFileVip.mp3?timestamp=1793181875245",
    "guid": "ef06ee24-d937-4a7e-912e-faf76ef5b1ca",
    "title": "AI台灣日報 EP286 [白宮新聞秘書上任5天閃辭 川普坦言已要求]"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 766,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/aeee96c9-3c9f-4133-b679-276ae5630a36/rssFileVip.mp3?timestamp=1793181876337",
-   "guid": "aeee96c9-3c9f-4133-b679-276ae5630a36",
-   "title": "AI台灣日報 EP290 [PS6售價可能突破1000美元！記憶體與]"
   }
  ]
 }

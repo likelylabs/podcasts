@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2681,
+   "enclosure": "https://anchor.fm/s/1156f1c04/podcast/play/129992999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437477332-44100-2-14b3d8ff78f07.mp3",
+   "guid": "42ca5d45-da96-459a-9903-feca8c448e2f",
+   "title": "Benchmark Breakfast #3 | November 24, 2026"
+  },
+  {
    "date": "2026-11-12",
    "durationSec": 3750,
    "enclosure": "https://anchor.fm/s/1156f1c04/podcast/play/129289998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436537091-44100-2-2aea83c7e3af.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/1156f1c04/podcast/play/123449615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790026-44100-2-8ea1707c32a06.mp3",
    "guid": "f0a815c4-bf80-11f0-a74e-bf7218da61a6",
    "title": "Uncapped #32 | Kyle Vogt from The Bot Company"
-  },
-  {
-   "date": "2025-11-05",
-   "durationSec": 3399,
-   "enclosure": "https://anchor.fm/s/1156f1c04/podcast/play/123449879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790439-44100-2-c69cd5ed4fcb1.mp3",
-   "guid": "addb2f76-ba1a-11f0-809a-130953dd7f04",
-   "title": "Uncapped #31 | Dylan Field from Figma"
   }
  ]
 }

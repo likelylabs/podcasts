@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2659,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/31d4be89-e4d6-4926-82ce-a64f465e04dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=31d4be89-e4d6-4926-82ce-a64f465e04dd&feed=TkQfZXMD",
+   "guid": "d3f74f1d-e915-4986-831d-a9f99dda2044",
+   "title": "NVIDIA, AI Volatility, Agilent and Retail Earnings After the Sell-Off"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2647,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/35d5d263-6b6b-417f-885c-3ff01e578545/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=35d5d263-6b6b-417f-885c-3ff01e578545&feed=TkQfZXMD",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/16e897c6-3482-448d-9cb1-ced78419228e/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=16e897c6-3482-448d-9cb1-ced78419228e&feed=TkQfZXMD",
    "guid": "5a8373cc-6e79-4c70-9c64-fbec3c09ae2d",
    "title": "Mad Money w/ Jim Cramer 10/14/26"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 2660,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/0d0d28ac-519f-456f-b0d5-c77835908856/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=0d0d28ac-519f-456f-b0d5-c77835908856&feed=TkQfZXMD",
-   "guid": "8428fd8d-d28c-446e-8222-61dd534029db",
-   "title": "Mad Money w/ Jim Cramer 10/13/26"
   }
  ]
 }

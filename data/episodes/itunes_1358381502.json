@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 261,
+   "enclosure": "https://api.spreaker.com/download/episode/76557976/utf_8_q_wsbf_5fcombined_5f112426_11_24_26_7_36_e2_80_afam_wav.mp3",
+   "guid": "https://api.spreaker.com/episode/76557976",
+   "title": "AI giants grapple with models too dangerous to release"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 220,
    "enclosure": "https://api.spreaker.com/download/episode/76539352/utf_8_q_wsl_5fcombined_5f112326_11_23_26_10_53_e2_80_afam_wav.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://api.spreaker.com/download/episode/76112335/utf_8_q_wsb_5fcombined_5f110126_11_1_26_9_35_e2_80_afam_wav.mp3",
    "guid": "https://api.spreaker.com/episode/76112335",
    "title": "Midterms put Congress up for grabs"
-  },
-  {
-   "date": "2026-10-30",
-   "durationSec": 256,
-   "enclosure": "https://api.spreaker.com/download/episode/76085024/utf_8_q_wsbf_5fcombined_5f103026_10_30_26_7_30_e2_80_afam_wav.mp3",
-   "guid": "https://api.spreaker.com/episode/76085024",
-   "title": "Binance hit by $6.3B record crypto hack"
   }
  ]
 }

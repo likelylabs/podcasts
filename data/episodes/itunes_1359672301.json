@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2764,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b0509ade994d57d711a8fcf/media.mp3",
+   "guid": "6b0509ade994d57d711a8fcf",
+   "title": "Biogirl MJ: Everyone Must Lose a Little To Win As One S'pore | Hour #8, 24-Hour Podcast Marathon"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 2761,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b0503c2e994d57d711a8fce/media.mp3",
+   "guid": "6b0503c2e994d57d711a8fce",
+   "title": "Rishi Budhrani: Raising $11 Million Dancing with Avantgardey | Hour #7, 24-Hour Podcast Marathon"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2774,
    "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b03dd5763e55ba64867a992/media.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6aa4f51fda3b22173212f863/media.mp3",
    "guid": "6aa4f51fda3b22173212f863",
    "title": "#869 ft. Gavin Lee - Is This A New Era For S’pore Football?"
-  },
-  {
-   "date": "2026-09-24",
-   "durationSec": 3981,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6ab465971a0061fb0977ce10/media.mp3",
-   "guid": "6ab465971a0061fb0977ce10",
-   "title": "#868: Jeffrey Siow Backs Waymo’s Driverless Taxis In S’pore & LTA’s $500 Bus Fines for Loud Music?"
-  },
-  {
-   "date": "2026-09-22",
-   "durationSec": 3883,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6ab1ad92bcf3f7ba7c6cd4ae/media.mp3",
-   "guid": "6ab1ad92bcf3f7ba7c6cd4ae",
-   "title": "#867: Macklemore Row Splits Ed Sheeran’s Tour & Should S’pore Punish Speak Seah For Sleeping?"
   }
  ]
 }

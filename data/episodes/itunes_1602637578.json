@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1327,
+   "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/95642811-b995-4e31-8ff0-b84b930dc9dc/rssFileVip.mp3?timestamp=1795515529211",
+   "guid": "95642811-b995-4e31-8ff0-b84b930dc9dc",
+   "title": "EP467｜黃仁勳回歸，台股能攻五萬點？"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1425,
    "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/1db378cf-8158-4627-8304-9ff86aa0790f/rssFileVip.mp3?timestamp=1795000469908",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/27aa9a8d-17a0-4035-b4ad-ae5f7aae11e2/rssFileVip.mp3?timestamp=1786130638764",
    "guid": "27aa9a8d-17a0-4035-b4ad-ae5f7aae11e2",
    "title": "EP438｜投資美學"
-  },
-  {
-   "date": "2026-08-04",
-   "durationSec": 1725,
-   "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/6a0f8d31-1f23-473d-8855-565b9fa6000d/rssFileVip.mp3?timestamp=1785872178629",
-   "guid": "6a0f8d31-1f23-473d-8855-565b9fa6000d",
-   "title": "EP437｜好股票，就是一部好劇"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 201,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/034b1221-468c-4ab1-850c-b4fe00ae171a/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
+   "guid": "034b1221-468c-4ab1-850c-b4fe00ae171a",
+   "title": "2411 不要为难自己"
+  },
+  {
    "date": "2026-11-13",
    "durationSec": 192,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/0c3119f1-1811-45bc-b3a9-b4fe00adc54a/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/3c2fbc51-f461-48b7-b71d-b4da00845282/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
    "guid": "3c2fbc51-f461-48b7-b71d-b4da00845282",
    "title": "0510 维持高质量关系的做法"
-  },
-  {
-   "date": "2026-09-18",
-   "durationSec": 191,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/446843ae-62a7-4b42-b4dc-b4be008f0a53/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
-   "guid": "446843ae-62a7-4b42-b4dc-b4be008f0a53",
-   "title": "1809 把一分钟还给我"
   }
  ]
 }

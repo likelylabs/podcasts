@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1044,
+   "enclosure": "https://traffic.megaphone.fm/ALLE4622448901.mp3",
+   "guid": "9b84320a-d7f6-11f1-9e73-a3e9173c0071",
+   "title": "AEE 2727: You Too! How to Instantly Connect When Someone Says Goodbye"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 1178,
+   "enclosure": "https://traffic.megaphone.fm/ALLE9255205101.mp3",
+   "guid": "7690e1cc-e16b-11f1-886f-4bfbba601291",
+   "title": "AEE: Why Do I Feel Left Out of English Conversations?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1189,
    "enclosure": "https://traffic.megaphone.fm/ALLE9506246639.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE8466926854.mp3",
    "guid": "7cac1b9c-bb07-11f1-b06e-4b45aff1f8f0",
    "title": "AEE: Can Movies Make You More Excited to Read?"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 1083,
-   "enclosure": "https://traffic.megaphone.fm/ALLE5084205021.mp3",
-   "guid": "511eb6a6-bb07-11f1-94a5-73c736c4e72f",
-   "title": "AEE 2705: Could Have, Should Have or Must Have?"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 1034,
-   "enclosure": "https://traffic.megaphone.fm/ALLE5548745138.mp3",
-   "guid": "0442d272-bb07-11f1-b28e-d3f11b441d1b",
-   "title": "AEE 2704: Are You Giving Fluency?"
   }
  ]
 }

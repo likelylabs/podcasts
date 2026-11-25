@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3304,
+   "enclosure": "https://episode.flightcast.com/01M852Q3CDXQRQJDW19VX06509.mp3",
+   "guid": "flightcast:01M852Q3CDXQRQJDW19VX06509",
+   "title": "The Real Reason We Put Off Hard Conversations with Communication Expert Jefferson Fisher"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 3287,
    "enclosure": "https://episode.flightcast.com/01M7K1K67MV3G2AKFYMSCFVJZT.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://episode.flightcast.com/01KQTEFR22A19VK9W8HWBAG8H3.mp3",
    "guid": "flightcast:01KQTEFR2219Q272PEMEF5AGC7",
    "title": "The Real Reason You Feel Empty (Even When Life Looks Good) with Musician Mike Posner"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 3828,
-   "enclosure": "https://episode.flightcast.com/01KQ88EQV3SV2NN8Z3W7JX9V6T.mp3",
-   "guid": "flightcast:01KQ88EQV3E3YDW7FWRAVA0KW8",
-   "title": "The Real Reason Young People Don't Have 'The Hunger' for Work (And What Leaders Need to Hear) with Generations Expert Dr. Eliza Filby"
   }
  ]
 }

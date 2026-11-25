@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1048,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pppbbh.mp3",
+   "guid": "urn:bbc:podcast:w3ct98sy",
+   "title": "Founders: How Whatnot built a live shopping giant"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1048,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppgczr.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phsqxz.mp3",
    "guid": "urn:bbc:podcast:w3ct8gm0",
    "title": "Power Players: Has Netflix hit a wall?"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 1048,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phnd4b.mp3",
-   "guid": "urn:bbc:podcast:w3ct98sm",
-   "title": "Founders: Olio CEO Tessa Clarke's fight against food waste"
   }
  ]
 }

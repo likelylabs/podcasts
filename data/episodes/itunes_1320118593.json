@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 569,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/847a48ee-4e48-47d5-9d3a-ae9acac40684/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=847a48ee-4e48-47d5-9d3a-ae9acac40684&feed=IFy3imsg&t=podcast&e=nx-s1-6051562&p=510325&d=569&size=9111994",
+   "guid": "cbc4c13f-f631-46bc-8677-187fff50ccc0",
+   "title": "Is Jensen Huang too big to fail?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 548,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/684789e8-f22c-4d22-b71b-2e4288fcdc59/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=684789e8-f22c-4d22-b71b-2e4288fcdc59&feed=IFy3imsg&t=podcast&e=nx-s1-6048592&p=510325&d=548&size=8776811",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3c0f1911-9fff-46e3-bfed-1fcc0682e7e9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3c0f1911-9fff-46e3-bfed-1fcc0682e7e9&feed=IFy3imsg&t=podcast&e=nx-s1-6002938&p=510325&d=492&size=7876109",
    "guid": "8585c5a3-1058-4ac4-9bba-c2175731c78f",
    "title": "How did political campaigns get so expensive?"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 567,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d09af539-d1a1-4a5e-9063-3f8cc9539694/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d09af539-d1a1-4a5e-9063-3f8cc9539694&feed=IFy3imsg&t=podcast&e=nx-s1-6001396&p=510325&d=567&size=9082340",
-   "guid": "d4209bb8-4354-454b-a409-7a7993f1b715",
-   "title": "A rebate runaround, a car rental rip-off and … roaches?!"
   }
  ]
 }

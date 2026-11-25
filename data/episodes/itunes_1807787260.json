@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2640,
+   "enclosure": "https://episodes.captivate.fm/episode/a4cea423-66ed-446d-9ead-53e6121afc95.mp3?aw_0_1st.showid=fbbc0fd6-7f5d-4503-91ab-00eef2763889&aw_0_1st.episodeid=a4cea423-66ed-446d-9ead-53e6121afc95",
+   "guid": "a4cea423-66ed-446d-9ead-53e6121afc95",
+   "title": "Is Trump being played by the world’s most powerful leaders?"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1001,
    "enclosure": "https://episodes.captivate.fm/episode/317f7926-e518-4344-9a3b-ad8de4650f25.mp3?aw_0_1st.showid=fbbc0fd6-7f5d-4503-91ab-00eef2763889&aw_0_1st.episodeid=317f7926-e518-4344-9a3b-ad8de4650f25",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/5530bd0e-41a4-4f62-bdaa-2510812dc25c.mp3?aw_0_1st.showid=fbbc0fd6-7f5d-4503-91ab-00eef2763889&aw_0_1st.episodeid=5530bd0e-41a4-4f62-bdaa-2510812dc25c",
    "guid": "5530bd0e-41a4-4f62-bdaa-2510812dc25c",
    "title": "How’s Trump’s new American Empire going?"
-  },
-  {
-   "date": "2026-08-07",
-   "durationSec": 1271,
-   "enclosure": "https://episodes.captivate.fm/episode/650c0444-1e3a-483d-9982-bfd9741d6b6f.mp3?aw_0_1st.showid=fbbc0fd6-7f5d-4503-91ab-00eef2763889&aw_0_1st.episodeid=650c0444-1e3a-483d-9982-bfd9741d6b6f",
-   "guid": "650c0444-1e3a-483d-9982-bfd9741d6b6f",
-   "title": "Q&A: The most unpopular US conflict ever & why is Trump so hostile to journalists?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 4571,
+   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b05a4b5f402e492d24439b8/media.mp3",
+   "guid": "6b05a4b5f402e492d24439b8",
+   "title": "Las Vegas GP Driver Ratings"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 5395,
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b02be49beab37b9d824caf9/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6ac0fcaa665d97c5014c81b6/media.mp3",
    "guid": "6ac0fcaa665d97c5014c81b6",
    "title": "Reaction to Bahrain GP (in Malaysia) qualifying"
-  },
-  {
-   "date": "2026-10-02",
-   "durationSec": 2655,
-   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6abfb7ef0e877e238c8f1d16/media.mp3",
-   "guid": "6abfb7ef0e877e238c8f1d16",
-   "title": "Reaction to Bahrain GP (in Malaysia) practice"
   }
  ]
 }

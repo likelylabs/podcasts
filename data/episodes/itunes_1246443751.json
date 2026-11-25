@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1926,
+   "enclosure": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR5292347376.mp3",
+   "guid": "a82417f4-db4f-4737-af68-f16c2a76c744",
+   "title": "Encore: The Fast Feast"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1269,
    "enclosure": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR6540878517.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR2634581850.mp3",
    "guid": "6e78f87d-71f9-428a-aa07-5648a16e6824",
    "title": "The Storyteller"
-  },
-  {
-   "date": "2026-05-20",
-   "durationSec": 1233,
-   "enclosure": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR3876089099.mp3",
-   "guid": "0540f5c5-b712-4350-bd42-40cae1dc7402",
-   "title": "Seven Silver Rings"
   }
  ]
 }

@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1523253391",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "霸軒廣播電台#164 小精靈怎麼長得像霸軒",
+   "date": "2026-11-24",
+   "enclosure": "https://m.cdn.firstory.me/track/ckchxr5qgx5pp091870hk05lx/cmwuc3jmf05ix01s3hefd0h7p/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckchxr5qgx5pp091870hk05lx%2Fcmwuc3jmf05iy01s376ib7xu9.mp3?v=1795515394793",
+   "durationSec": 2653,
+   "guid": "cmwuc3jmf05ix01s3hefd0h7p"
+  },
   {
    "title": "霸軒廣播電台#163 馬路如虎口，車禍遠離我",
    "date": "2026-11-09",
@@ -205,13 +212,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/ckchxr5qgx5pp091870hk05lx/cmh25x49m005001x96y5u4rzk/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckchxr5qgx5pp091870hk05lx%2Fcmh25x49m005101x992v6a8b9.mp3?v=1794996643222",
    "durationSec": 1735,
    "guid": "cmh25x49m005001x96y5u4rzk"
-  },
-  {
-   "title": "霸軒廣播電台#134 帶工作室全員割包皮",
-   "date": "2025-10-07",
-   "enclosure": "https://m.cdn.firstory.me/track/ckchxr5qgx5pp091870hk05lx/cmgfz66ky01r901x88m5xgro4/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckchxr5qgx5pp091870hk05lx%2Fcmgfz66ky01ra01x8bv9u3lcc.mp3?v=1794997798331",
-   "durationSec": 3071,
-   "guid": "cmgfz66ky01r901x88m5xgro4"
   }
  ]
 }

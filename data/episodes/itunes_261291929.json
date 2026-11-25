@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1910,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppqrm6.mp3",
+   "guid": "urn:bbc:podcast:p0ppqs2g",
+   "title": "Can Man City stop conceding & will Pochettino get his first Man Utd win in Lisbon?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 3633,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppk2y0.mp3",
    "guid": "urn:bbc:podcast:p0ppk3nb",
-   "title": "MNC:Leeds dreaming of Europe and when's the right time to start a young player?"
+   "title": "MNC: Leeds' European dream & when is a young player ready?"
   },
   {
    "date": "2026-11-23",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj8r9f.mp3",
    "guid": "urn:bbc:podcast:m003322l",
    "title": "TCV: Vikings, traitors, faithfuls & getting the Bilic"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 2239,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj1px1.mp3",
-   "guid": "urn:bbc:podcast:m0033tlq",
-   "title": "Can Michael Carrick survive as Man Utd boss?"
   }
  ]
 }

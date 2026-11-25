@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 235,
+   "enclosure": "https://anchor.fm/s/1fe5323c/podcast/play/129465355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fd3870375-3d6d-715b-09e2-5c0b80b2697c.m4a",
+   "guid": "368d37e9-828b-484f-a8ce-cdd32e966372",
+   "title": "#452 金沢の旅"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1749,
    "enclosure": "https://anchor.fm/s/1fe5323c/podcast/play/128594987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F604f05e6-074f-b8da-be95-128b9910fa61.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/1fe5323c/podcast/play/123361467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F65f04e5d-f0d3-7165-f567-fd8212bbc8de.m4a",
    "guid": "98411b4f-e54f-4d5a-b807-3aa5df3cfebd",
    "title": "#423 ラジオ―買い物で使える日本語オノマトペ"
-  },
-  {
-   "date": "2026-08-12",
-   "durationSec": 239,
-   "enclosure": "https://anchor.fm/s/1fe5323c/podcast/play/123883670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F884c022f-b261-da36-8853-39e3846620fc.m4a",
-   "guid": "468f8ce8-54dd-439a-bd55-367afab78605",
-   "title": "#422 夏休みの思い出"
   }
  ]
 }

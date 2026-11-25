@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3463,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9871067377.mp3",
+   "guid": "1f88aaa0-d47d-11f0-95d3-8fbd28db7746",
+   "title": "Jensen Huang Returns: Nvidia’s Future, Trump’s Power Play, and the Market Reaction"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3775,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3305736224.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5161005222.mp3",
    "guid": "1df9bfa8-d47d-11f0-95d3-133b76a24316",
    "title": "Trump’s Map Makeover, Milo’s Deportation, and Gwyneth’s AI Dinner Drama"
-  },
-  {
-   "date": "2026-08-28",
-   "durationSec": 4261,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7852442343.mp3",
-   "guid": "1de792c4-d47d-11f0-95d3-3b4e3e325f8d",
-   "title": "Meta’s Massive Settlement, Bill Gates’ AI Warning, and Remembering Dolly Parton"
   }
  ]
 }

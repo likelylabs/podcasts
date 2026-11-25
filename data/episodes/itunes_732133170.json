@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3191,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppmj5g.mp3",
+   "guid": "urn:bbc:podcast:p0ppmjkz",
+   "title": "Rent A Presenter heads to the farm!"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3346,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppg3fz.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgfs5h.mp3",
    "guid": "urn:bbc:podcast:p0pgfzmw",
    "title": "Should The Vet Kiss Your Pet?"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 2742,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pg8xps.mp3",
-   "guid": "urn:bbc:podcast:p0pg8y6x",
-   "title": "The One Where Greg Missed His Alarm!"
   }
  ]
 }

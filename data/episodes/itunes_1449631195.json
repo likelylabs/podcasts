@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1422,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0570ccced26bb723ddd995/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lvdyBGVqQXVPY2pdQZCTS3N3CKiMwQ_yWZvDF187Lac",
+   "guid": "6b0570ccced26bb723ddd995",
+   "title": "Alice forgiven? Jensen Huang back at Nvidia"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1449,
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b041882eb893786ae9e232d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8n0bxJCZXnwUDGLyPdtH0z2-I2A8Hr2hbPEDGJdzDmU",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad0aad75f788808a7715263/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1TLXAXYY5SuAVglDd_MGYnU5JdH5hdcJH0RicSXq2ks",
    "guid": "6ad0aad75f788808a7715263",
    "title": "Who wants to be a millennial? Generation comeback"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 1583,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6acf5699937a3c900fd4f56f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YjsgjVAo5Nh2xNb6TFKUp6Xkn3gloz1U5r6VnjZqgik",
-   "guid": "6acf5699937a3c900fd4f56f",
-   "title": "Kicking Kyiv: Trump’s doubtful deals"
   }
  ]
 }

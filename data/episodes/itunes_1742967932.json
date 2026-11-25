@@ -1,39 +1,46 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 504,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppl9wl.mp3",
+   "guid": "urn:bbc:podcast:p0pplc90",
+   "title": "Real Easy English: Talking about embarrassing moments"
+  },
+  {
    "date": "2026-11-13",
    "durationSec": 458,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmsl91.mp3",
    "guid": "urn:bbc:podcast:p0pmsm9x",
-   "title": "Talking about the countryside"
+   "title": "Real Easy English: Talking about the countryside"
   },
   {
    "date": "2026-11-06",
    "durationSec": 426,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pll9yk.mp3",
    "guid": "urn:bbc:podcast:p0pllb58",
-   "title": "Talking about weddings"
+   "title": "Real Easy English: Talking about weddings"
   },
   {
    "date": "2026-10-30",
    "durationSec": 286,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkbphb.mp3",
    "guid": "urn:bbc:podcast:p0pkbqt5",
-   "title": "Talking about the ocean"
+   "title": "Real Easy English: Talking about the ocean"
   },
   {
    "date": "2026-10-23",
    "durationSec": 379,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj6kp3.mp3",
    "guid": "urn:bbc:podcast:p0pj6kt3",
-   "title": "Talking about job interviews"
+   "title": "Real Easy English: Talking about job interviews"
   },
   {
    "date": "2026-10-16",
    "durationSec": 418,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph0t3j.mp3",
    "guid": "urn:bbc:podcast:p0ph0tcx",
-   "title": "Talking about British landmarks"
+   "title": "Real Easy English: Talking about British landmarks"
   },
   {
    "date": "2026-10-09",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhrk3n.mp3",
    "guid": "urn:bbc:podcast:p0nhrlbd",
    "title": "Real Easy English: Talking about the dentist"
-  },
-  {
-   "date": "2026-04-24",
-   "durationSec": 383,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngbww4.mp3",
-   "guid": "urn:bbc:podcast:p0ngbyrq",
-   "title": "Real Easy English: Talking about memory"
   }
  ]
 }

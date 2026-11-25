@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-23",
+   "durationSec": 661,
+   "enclosure": "https://traffic.megaphone.fm/APO4104402468.mp3",
+   "guid": "1f89e9a8-3f7e-4793-8944-65e8c099ca1e",
+   "title": "Learn English Through Story | Come Rain or Shine 2.2"
+  },
+  {
    "date": "2026-11-16",
    "durationSec": 1083,
    "enclosure": "https://traffic.megaphone.fm/APO5965628430.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/112158700/podcast/play/119280850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F423190463-44100-2-b429922515917.mp3",
    "guid": "Buzzsprout-18911779",
    "title": "British Culture: Easter Origins"
-  },
-  {
-   "date": "2026-03-27",
-   "durationSec": 1230,
-   "enclosure": "https://traffic.megaphone.fm/APO9095807938.mp3",
-   "guid": "Buzzsprout-18911269",
-   "title": "Learn English Through Story - Chapter 9"
   }
  ]
 }

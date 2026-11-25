@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1486,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/9c51cd08-df2c-4ee9-b624-67ff69f0e789.mp3",
+   "guid": "9c51cd08-df2c-4ee9-b624-67ff69f0e789",
+   "title": "Day 328: Stephen Is Martyred (2026)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1367,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/9aecea01-a45e-493d-9a0d-e1acf5687877.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/29cae658-534a-47b8-bdfb-ffd4bde185ad.mp3",
    "guid": "29cae658-534a-47b8-bdfb-ffd4bde185ad",
    "title": "Day 301: Rising Again (2026)"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 1603,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1a28ec1d-84df-411d-a1da-dbc0aa6612b4.mp3",
-   "guid": "1a28ec1d-84df-411d-a1da-dbc0aa6612b4",
-   "title": "Day 300: Conversion of Heart (2026)"
   }
  ]
 }

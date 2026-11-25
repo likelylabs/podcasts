@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1133,
+   "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/130036417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F63453e08-0057-83e3-3716-519a8c36c99e.m4a",
+   "guid": "c231e83f-0e15-447a-b6b0-7091bbc9c023",
+   "title": "EP45 【 語音 AI 助理實戰：從日常特助到資產配置與退休理財的真實對話 】2026年11月24日"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 991,
+   "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/129963406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F9618e096-e49e-794c-c701-52a83e211ba0.m4a",
+   "guid": "b0de5c8f-7d96-4399-8ada-8beb5c5b89d4",
+   "title": "EP44 【 黃仁勳回歸輝達啟示：留在市場、打死不賣，才是投資最高準則！】2026年11月23日"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1219,
    "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/129818933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F33df693f-4079-94eb-fd54-2503b620287d.m4a",
@@ -195,20 +209,6 @@
    "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/125079113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F0f25be2b-d9f7-2174-94f2-1444f8bea096.m4a",
    "guid": "e6e9ed2e-3210-4076-a4ad-77de202ad9b3",
    "title": "EP18 CLEC James 漫談 | 全球算力壟斷危機與避開個人理財的三大陷阱 | 2026-09-03"
-  },
-  {
-   "date": "2026-09-02",
-   "durationSec": 1446,
-   "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/125031522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2Fbb616246-096d-9d28-e6a4-331684de44a8.m4a",
-   "guid": "fdf44c49-8d19-4fb9-b941-a06ce8a6534a",
-   "title": "EP17 CLEC James 漫談 | 美債利率趨勢分析、NVIDIA 財報展望與 AI 產業融資疑慮解析 | 2026-09-02"
-  },
-  {
-   "date": "2026-09-01",
-   "durationSec": 1291,
-   "enclosure": "https://anchor.fm/s/115b2b324/podcast/play/125010827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F906ae0c7-ca38-2370-d86e-6ece27328fb2.m4a",
-   "guid": "de7444fd-1d4b-405a-8afa-0dcd9f63209b",
-   "title": "EP16 CLEC James 漫談｜從個股迷惘到長期持有QQQ：普通人也能改變財務人生｜2026-09-01"
   }
  ]
 }

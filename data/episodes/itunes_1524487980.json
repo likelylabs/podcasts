@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2611,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/18ed81b7-2b1a-4f79-9cfb-a3275082354f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=18ed81b7-2b1a-4f79-9cfb-a3275082354f&feed=qltQrd_8",
+   "guid": "966da6e0-aa13-49b2-b3c3-ff215451fbf1",
+   "title": "NVIDIA Overhang, AI Trade Reset and Market Bounce"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 3012,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/142ce09d-0be9-41ce-9ea1-7bb3887bf782/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=142ce09d-0be9-41ce-9ea1-7bb3887bf782&feed=qltQrd_8",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/f1da32db-81d0-45a4-80c1-fbb43eab7a8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=f1da32db-81d0-45a4-80c1-fbb43eab7a8b&feed=qltQrd_8",
    "guid": "0c26cfe1-0fa2-41e9-b6b4-e347f2d190ff",
    "title": "Rising Yields & Rally Risk: The Investment Committee's Strategy 10/14/26"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 2798,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/9080962c-5c33-4497-8931-4568e3a005af/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=9080962c-5c33-4497-8931-4568e3a005af&feed=qltQrd_8",
-   "guid": "4d763eb4-a992-41a0-92df-2b84d1cec900",
-   "title": "Halftime Report Live at the CAIS Summit 10/13/26"
   }
  ]
 }

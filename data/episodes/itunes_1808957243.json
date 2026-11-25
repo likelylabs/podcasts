@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1669,
+   "enclosure": "https://traffic.megaphone.fm/STM9732067484.mp3",
+   "guid": "ed1e259c-e2cf-11f1-83db-7fbdac414f27",
+   "title": "How Does Hair Grow? (Curious Kids Club)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 880,
    "enclosure": "https://traffic.megaphone.fm/STM7636382673.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM5403982476.mp3",
    "guid": "0631cbfa-ca58-11f1-9df6-d791083f0d97",
    "title": "Why Can't You Put Metal in the Microwave?"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 925,
-   "enclosure": "https://traffic.megaphone.fm/STM6298359285.mp3",
-   "guid": "82fc611c-ca63-11f1-a445-bfd5d2152c3a",
-   "title": "What are Fingerprints?"
   }
  ]
 }

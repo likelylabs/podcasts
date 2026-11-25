@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2597,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/7a14ae68-02bd-4d87-9e62-b06c00478f57/c84d1d07-02e3-4bfc-8380-b50c004fa1e0/audio.mp3?utm_source=Podcast&in_playlist=d57d0f48-b5e7-4435-8d7e-b19d0026b6e6",
+   "guid": "c84d1d07-02e3-4bfc-8380-b50c004fa1e0",
+   "title": "How Did Mas Selamat Really Get Out of Singapore?"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 2008,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/7a14ae68-02bd-4d87-9e62-b06c00478f57/d7961440-4893-4287-ade1-b505003f892d/audio.mp3?utm_source=Podcast&in_playlist=d57d0f48-b5e7-4435-8d7e-b19d0026b6e6",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/7a14ae68-02bd-4d87-9e62-b06c00478f57/ce3570d5-6562-4999-acdf-b401005a43e5/audio.mp3?utm_source=Podcast&in_playlist=d57d0f48-b5e7-4435-8d7e-b19d0026b6e6",
    "guid": "ce3570d5-6562-4999-acdf-b401005a43e5",
    "title": "When the British Blew Up One of Singapore's Oldest Relics"
-  },
-  {
-   "date": "2026-02-27",
-   "durationSec": 2807,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/7a14ae68-02bd-4d87-9e62-b06c00478f57/91d79a19-24ba-40b5-bb8b-b3fc00416fe9/audio.mp3?utm_source=Podcast&in_playlist=d57d0f48-b5e7-4435-8d7e-b19d0026b6e6",
-   "guid": "91d79a19-24ba-40b5-bb8b-b3fc00416fe9",
-   "title": "The Golden Age of YouTube in Singapore and Why It Disappeared"
   }
  ]
 }

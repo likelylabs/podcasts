@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2909,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd/episodes/8b614a72-ba87-4e87-95dd-57643a8e1a92/audio/128/default.mp3?aid=rss_feed&awCollectionId=2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd&awEpisodeId=8b614a72-ba87-4e87-95dd-57643a8e1a92&feed=C8KWN7oI",
+   "guid": "e966f73d-fa6a-46ba-946d-e11eaabe31d0",
+   "title": "AMERICAN THANKSGIVING IS OVERRATED..."
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 3230,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd/episodes/12f61a53-69a2-493d-a245-c34599cb8d07/audio/128/default.mp3?aid=rss_feed&awCollectionId=2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd&awEpisodeId=12f61a53-69a2-493d-a245-c34599cb8d07&feed=C8KWN7oI",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd/episodes/1c4f0d53-0fe5-41d8-b866-baa9bb2ffec6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd&awEpisodeId=1c4f0d53-0fe5-41d8-b866-baa9bb2ffec6&feed=C8KWN7oI",
    "guid": "2635ff0b-f73d-46d4-bbcb-68c6f2de5299",
    "title": "CATCHING UP ON OUR LIVES..."
-  },
-  {
-   "date": "2026-03-11",
-   "durationSec": 4864,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd/episodes/ccbedda8-e097-41c2-8983-2e9ba163881a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2fa36b2b-a9fc-46b0-b2cb-c3a3964399dd&awEpisodeId=ccbedda8-e097-41c2-8983-2e9ba163881a&feed=C8KWN7oI",
-   "guid": "db2198df-a0e5-46bc-9a8b-5c12a754ed13",
-   "title": "WHAT WORKING WITH SIBLINGS IS LIKE | ERIC NAM"
   }
  ]
 }

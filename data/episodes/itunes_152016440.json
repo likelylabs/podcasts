@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 800,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0ec701cf-4030-4cfa-8308-3067f80f81dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0ec701cf-4030-4cfa-8308-3067f80f81dc&feed=BA5QWI2p",
+   "guid": "DD978D62-F97A-4651-9E4C-2FF0D926B5EB",
+   "title": "How the White House Made Jensen Huang CEO Again"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 883,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/329ddf45-2e4d-4415-bd72-894a4cc17d9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=329ddf45-2e4d-4415-bd72-894a4cc17d9c&feed=BA5QWI2p",
+   "guid": "CD6EB73A-8801-4DDB-9CE7-5AA81CA6705A",
+   "title": "Nvidia’s ‘Key-Man Risk’ Is Bigger Than Ever"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 600,
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/01d6d97e-e3b5-4c97-8b0e-669dab9bf739/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=01d6d97e-e3b5-4c97-8b0e-669dab9bf739&feed=BA5QWI2p",
@@ -195,20 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4965932a-cca1-47af-aba9-8deceff6b607/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4965932a-cca1-47af-aba9-8deceff6b607&feed=BA5QWI2p",
    "guid": "F22CF8F5-4A01-4235-8973-C2C308275135",
    "title": "Democrats Promised to Fix the Economy. Can They?"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 330,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0e475146-7398-4d41-a7ae-ac7ab467dab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0e475146-7398-4d41-a7ae-ac7ab467dab1&feed=BA5QWI2p",
-   "guid": "4B80E3A3-E2C6-49E0-8520-94231E764363",
-   "title": "What’s News in Markets: AI Blues, Musk Under the Microscope, Housing Hope"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 789,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/86462851-c231-4dfe-8ba6-9c7aebce0866/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=86462851-c231-4dfe-8ba6-9c7aebce0866&feed=BA5QWI2p",
-   "guid": "8DA6004B-8A34-4C55-8F6A-7483FD3DFB58",
-   "title": "Elon Musk Says Good-Bye to Tesla’s Cybertruck… and Hello to Texas Democrats"
   }
  ]
 }

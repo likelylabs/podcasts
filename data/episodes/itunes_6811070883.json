@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 163,
+   "enclosure": "https://rss.soundon.fm/rssf/9e373b4f-6a62-434c-9b84-4768b69cba45/feedurl/fb9b2ec9-8816-410e-8530-c00e970f8dcf/rssFileVip.mp3?timestamp=1795526621962",
+   "guid": "fb9b2ec9-8816-410e-8530-c00e970f8dcf",
+   "title": "20261124 睡前輕鬆聊台灣"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 165,
-   "enclosure": "https://rss.soundon.fm/rssf/9e373b4f-6a62-434c-9b84-4768b69cba45/feedurl/d061b462-a55e-4870-bf95-e4c263f78c5a/rssFileVip.mp3?timestamp=1795443220286",
+   "enclosure": "https://rss.soundon.fm/rssf/9e373b4f-6a62-434c-9b84-4768b69cba45/feedurl/d061b462-a55e-4870-bf95-e4c263f78c5a/rssFileVip.mp3?timestamp=1795504547524",
    "guid": "d061b462-a55e-4870-bf95-e4c263f78c5a",
    "title": "20261123 睡前輕鬆聊台灣"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/9e373b4f-6a62-434c-9b84-4768b69cba45/feedurl/8a37cf3d-2057-440c-b18a-7ce8806d5144/rssFileVip.mp3?timestamp=1793074071441",
    "guid": "8a37cf3d-2057-440c-b18a-7ce8806d5144",
    "title": "20261025 睡前輕鬆聊台灣"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 196,
-   "enclosure": "https://rss.soundon.fm/rssf/9e373b4f-6a62-434c-9b84-4768b69cba45/feedurl/e36d6dba-8ed7-42be-834b-9c8df4461e86/rssFileVip.mp3?timestamp=1792902598602",
-   "guid": "e36d6dba-8ed7-42be-834b-9c8df4461e86",
-   "title": "20261024 睡前輕鬆聊台灣"
   }
  ]
 }

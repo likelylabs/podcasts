@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 582,
+   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/573dd297-45b8-4f13-9903-329b69c75b0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=573dd297-45b8-4f13-9903-329b69c75b0b&feed=ui_HbBma",
+   "guid": "1950EB77-E06C-4AB4-B403-6CB0C5A0F21D",
+   "title": "Inside Jensen Huang’s Whirlwind Return to Nvidia"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 831,
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/fe6f739e-50b6-485c-9dbd-27f0d031cd3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=fe6f739e-50b6-485c-9dbd-27f0d031cd3e&feed=ui_HbBma",
@@ -202,13 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/75b55387-f253-4e8b-b86a-d57cad3a3d3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=75b55387-f253-4e8b-b86a-d57cad3a3d3f&feed=ui_HbBma",
    "guid": "1647F54A-EF07-45ED-94AB-3B6258D858E4",
    "title": "Some Wearables Can Track Blood Pressure. Do They Work?"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 470,
-   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/87e4a253-cd62-42a1-9bd4-c0e86734cb18/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=87e4a253-cd62-42a1-9bd4-c0e86734cb18&feed=ui_HbBma",
-   "guid": "9936AF42-AE9E-4676-BE8D-90F5D6B34BE8",
-   "title": "Why the EV Charging Business Is Booming"
   }
  ]
 }

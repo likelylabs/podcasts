@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 4219,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/FSMI7914124591.mp3",
+   "guid": "38e17c96-e784-11f1-b700-3fff4990cad5",
+   "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
+  },
+  {
    "date": "2026-11-10",
    "durationSec": 6390,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/FSMI6834983232.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/FSMI2611918358.mp3?updated=1769464261",
    "guid": "d0322c9e-fafe-11f0-9d3a-33cd8954a249",
    "title": "Ray Kroc : How McDonald’s Took Over America"
-  },
-  {
-   "date": "2026-01-20",
-   "durationSec": 7075,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/FSMI4336447579.mp3?updated=1772414960",
-   "guid": "20c61048-f560-11f0-84f5-6f1bb3eae5e5",
-   "title": "Morgan Housel: Wealth is What You Have Minus What You Want"
   }
  ]
 }

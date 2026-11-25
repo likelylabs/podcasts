@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1957,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6b056233255eba6cc94a9cdf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QMp-wvTTRQeiiFWkygPEdJRHBMAlEKg26CO-F_tAtfQ",
+   "guid": "6b056233255eba6cc94a9cdf",
+   "title": "5 Things Old School Leaders Got Right?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3339,
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6b0068a11ab32089565d3d2c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_DdfQJLSAWS2Gx569sZXcwIzEJ74_TAyPdlHRjel5FA",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ab536fb80b1e516b17673e5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9hkem_Nad_tHzPzwxwbC_KtKD7nfSiLpjzWD_DJXn60",
    "guid": "6ab536fb80b1e516b17673e5",
    "title": "Kevin Sinfield: The Day He Said Goodbye to Rob Burrow (E440)"
-  },
-  {
-   "date": "2026-09-25",
-   "durationSec": 3770,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ab4f6bc65834fd052729127/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=asF71AhoZYWoRYwpaiz1pg3Xu6QiR2UgO3g5VRjNKNw",
-   "guid": "6ab4f6bc65834fd052729127",
-   "title": "Usain Bolt: The Failure That Changed Everything"
   }
  ]
 }

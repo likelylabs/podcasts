@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 538,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppljm7.mp3",
+   "guid": "urn:bbc:podcast:p0ppljp3",
+   "title": "Predicting the future"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 575,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pndtyk.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nkqm4j.mp3",
    "guid": "urn:bbc:podcast:p0nkqm84",
    "title": "Things you have to do"
-  },
-  {
-   "date": "2026-05-05",
-   "durationSec": 538,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0njcphf.mp3",
-   "guid": "urn:bbc:podcast:p0njcprh",
-   "title": "Predicting the future"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2548,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT7800500182.mp3",
+   "guid": "3b9561f8-e82b-11f1-8288-73c552c05a1b",
+   "title": "Cecil Rhodes: Making of a Monster (Part 1)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3235,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4591025942.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6836317177.mp3",
    "guid": "f4da72c4-9bd3-11f1-961c-2b3e02c59a02",
    "title": "388. Viking Mythology: Thor, Ragnarok, & Jesus Christ (Ep 6)"
-  },
-  {
-   "date": "2026-08-17",
-   "durationSec": 2792,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5502547043.mp3",
-   "guid": "4050af98-97e2-11f1-a4cb-5fa9136cbe30",
-   "title": "387. The Vikings Invade Britain (Ep 5)"
   }
  ]
 }

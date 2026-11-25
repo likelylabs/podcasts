@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3202,
+   "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/9071405/9071405_2026-11-23-235405.192.mp3?rssID=6042",
+   "guid": "mlK9QW4ZNjbPnJvQfMbmAkt0wD3cUD1e",
+   "title": "Should I take my money out of the bank? How we got to this cybersecurity crisis."
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2804,
    "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238804/8238804_2026-04-14-011804.192.mp3?rssID=6042",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238854/8238854_2026-04-14-014754.192.mp3?rssID=6042",
    "guid": "f796cd70-8aa7-11f0-a931-2b9a12fc1a07",
    "title": "What we got wrong about GLP-1s"
-  },
-  {
-   "date": "2026-03-26",
-   "durationSec": 3820,
-   "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238874/8238874_2026-04-14-010514.192.mp3?rssID=6042",
-   "guid": "f773052a-8aa7-11f0-a931-5f168aafd8dc",
-   "title": "The Trial of the Driverless Car"
   }
  ]
 }

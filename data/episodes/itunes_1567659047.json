@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3266,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/1005/traffic.megaphone.fm/MEKML1199271300.mp3",
+   "guid": "59599caa-e7d5-11f1-95bd-63e95ec393c1",
+   "title": "Devil's Advocate (Part 3)"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 4066,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/1005/traffic.megaphone.fm/MEKML9299330061.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/1005/traffic.megaphone.fm/MEKML1230880099.mp3",
    "guid": "4aa96ee8-62f5-11f1-8aee-934409b6d8c9",
    "title": "Burnout"
-  },
-  {
-   "date": "2026-06-01",
-   "durationSec": 4330,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/1005/traffic.megaphone.fm/MEKML6372118245.mp3",
-   "guid": "0db340a0-5d2c-11f1-a8cf-b7651c78dd83",
-   "title": "Hard or Soft?"
   }
  ]
 }

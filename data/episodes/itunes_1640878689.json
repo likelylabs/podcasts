@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1843,
+   "enclosure": "https://episodes.captivate.fm/episode/a52a538b-babf-4e29-90a5-0a8f8abc0571.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=a52a538b-babf-4e29-90a5-0a8f8abc0571",
+   "guid": "a52a538b-babf-4e29-90a5-0a8f8abc0571",
+   "title": "Nvidia sex scandal - Trump's most corrupt act yet?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2182,
    "enclosure": "https://episodes.captivate.fm/episode/098cdfc8-00ff-40ae-acca-cba63d5443d7.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=098cdfc8-00ff-40ae-acca-cba63d5443d7",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/d20ba23a-fa2a-4872-8bb6-8df03e039cd2.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=d20ba23a-fa2a-4872-8bb6-8df03e039cd2",
    "guid": "d20ba23a-fa2a-4872-8bb6-8df03e039cd2",
    "title": "Could this election spell the end of Netanyahu?"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 2588,
-   "enclosure": "https://dax.captivate.fm/035a73b8-9326-4e38-a909-cc01d4b82fba/POD-2026-10-20-SPORTS-AGENTS-CHRISTIAN-HORNER-audio-encoded.mp3?aw_0_1st.showid=7772fc46-ea54-4d40-88c5-4fb111af73a8&aw_0_1st.episodeid=8bbcd68a-66cd-4950-a220-0464da8350d4&played_on=c49390b9-6909-4cd3-a974-e270cf686f27",
-   "guid": "8bbcd68a-66cd-4950-a220-0464da8350d4",
-   "title": "Christian Horner Interview: \"No Regrets\" - The Sports Agents"
   }
  ]
 }

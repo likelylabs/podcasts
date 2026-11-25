@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 905,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/13252dbc-20ce-4296-b492-b50c01861a61/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
+   "guid": "13252dbc-20ce-4296-b492-b50c01861a61",
+   "title": "Looking Beyond Big Tech for Market Value"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 710,
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/2fd78c3b-a7d0-41d1-be37-b50b018ae69a/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/51f5c7c0-c027-4058-8913-b4e3000f523d/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
    "guid": "51f5c7c0-c027-4058-8913-b4e3000f523d",
    "title": "US Q3 Earnings Kickoff: JP Morgan, TSMC, Tesla & Netflix"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 602,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/1b27dc4c-cba8-4053-a800-b4e200438f9a/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
-   "guid": "1b27dc4c-cba8-4053-a800-b4e200438f9a",
-   "title": "Looking Forward To Earnings' Season"
   }
  ]
 }

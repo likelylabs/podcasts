@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3000,
+   "enclosure": "https://rss.art19.com/episodes/9172fbec-da2b-41bb-903e-bc4c2dd82a70.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/aRUSXcd9a_rHd5UWc9WZt2WnQrQJQ9aD4P3RT0BIt1Y",
+   "title": "Choosing to Live in the Face of Death: Andrew Scott and His Powerful Film ‘Elsinore’"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 3032,
    "enclosure": "https://rss.art19.com/episodes/ba4300b8-54b7-4359-bacc-0428bd25cbb4.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.art19.com/episodes/ab3a2c93-b1fb-45fc-af3d-7246af872938.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/75oiReLLQ_E-YkO6QjixjQWz_60qcVZ10xc8Y2qfP_w",
    "title": "How to Get Along When Every Generation Thinks Differently"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 2753,
-   "enclosure": "https://rss.art19.com/episodes/a28dc8a1-d5a9-449b-99a3-432385a73bb3.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/rg7Bk3tTn9h2KkSfIPzhGVNrBhHXjpSpoPQe61v6X78",
-   "title": "Quiet Quitting: Why Women Are Emotionally Checking Out of Their Marriage"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1544,
+   "enclosure": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/afp-940002-injected.calisto.simplecastaudio.com/0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777/episodes/385660b4-f0aa-45f4-95dc-1ce02c646e43/audio/128/default.mp3?aid=rss_feed&awCollectionId=0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777&awEpisodeId=385660b4-f0aa-45f4-95dc-1ce02c646e43&feed=Y5N0xWWZ",
+   "guid": "74febf4f-7ca1-476d-af6b-b6896205790f",
+   "title": "‘Mom Magic’ Isn't Enough, and Other Holiday Myths"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 2928,
    "enclosure": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/afp-940002-injected.calisto.simplecastaudio.com/0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777/episodes/7a21269c-9e3c-4845-a442-3eb8017eff8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777&awEpisodeId=7a21269c-9e3c-4845-a442-3eb8017eff8d&feed=Y5N0xWWZ",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/afp-940002-injected.calisto.simplecastaudio.com/0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777/episodes/aaacb105-50fe-48c0-a9b7-103c9d7e519f/audio/128/default.mp3?aid=rss_feed&awCollectionId=0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777&awEpisodeId=aaacb105-50fe-48c0-a9b7-103c9d7e519f&feed=Y5N0xWWZ",
    "guid": "70dcf448-47c4-49ea-ba32-5456e882e854",
    "title": "Why Your Kid’s Behavior Feels So Big"
-  },
-  {
-   "date": "2026-05-12",
-   "durationSec": 2285,
-   "enclosure": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/afp-940002-injected.calisto.simplecastaudio.com/0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777/episodes/d57aa8df-7cad-4d86-aeb5-9b0a71aee958/audio/128/default.mp3?aid=rss_feed&awCollectionId=0cb2e4b1-5eda-4ee8-bb0e-6f61f20ba777&awEpisodeId=d57aa8df-7cad-4d86-aeb5-9b0a71aee958&feed=Y5N0xWWZ",
-   "guid": "77efc565-d89c-425e-8227-99c963703e92",
-   "title": "The New Fatherhood: “You Either Sort It Out or Pass It On”"
   }
  ]
 }

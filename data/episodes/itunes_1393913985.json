@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3406,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4d142708-9074-41ec-9c48-ae7401168a2e/94ef14a5-01b6-46df-be62-b50c00c87dd5/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
+   "guid": "94ef14a5-01b6-46df-be62-b50c00c87dd5",
+   "title": "S1E100: Zaqy Mohamad talks on Middle East turmoil, job fears and PAP renewal"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2326,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/3bdcca65-ee0c-4e26-8782-abdb0017cbf2/6c916060-3f82-4279-8d9d-b5080057cb3b/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "6c916060-3f82-4279-8d9d-b5080057cb3b",
-   "title": "S3E8:  Navigating AI headwinds: What US data centre backlash and Nvidia fallout mean for South-east Asia"
+   "title": "S3E8: Why was Singapore cautious about data centre expansion?"
   },
   {
    "date": "2026-11-23",
@@ -19,7 +26,7 @@
    "durationSec": 1886,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/2b672915-720f-4e47-8810-b4f20096cadb/f7f2ff55-90c8-46be-9f12-b5060081799f/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "f7f2ff55-90c8-46be-9f12-b5060081799f",
-   "title": "S1E4: Beyond the screen: Where can youth connect offline?"
+   "title": "S1E4: Your child can't put down the phone. But what if screens aren't the real problem?"
   },
   {
    "date": "2026-11-19",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/7c2fcfa2-e852-4b8f-88d7-b13b00a5aa43/31c0f989-d522-425a-bc7a-b4eb007b1c0d/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "31c0f989-d522-425a-bc7a-b4eb007b1c0d",
    "title": "S1E115: Can Singapore take Indonesia to the International Court of Justice over the haze?"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 2160,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4d142708-9074-41ec-9c48-ae7401168a2e/c14005c1-496d-47b3-ac30-b4e9008b43bf/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
-   "guid": "c14005c1-496d-47b3-ac30-b4e9008b43bf",
-   "title": "S1E95: It’s not about greed: Behavioural scientist Serene Koh explains the psychology of falling for scams"
   }
  ]
 }

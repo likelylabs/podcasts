@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1718,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3",
+   "guid": "urn:bbc:podcast:p0ppp111",
+   "title": "Is Jensen Huang's reinstatement good news for China?"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 1721,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3",
+   "guid": "urn:bbc:podcast:p0ppkqn5",
+   "title": "Stock markets jump after Nvidia boss reinstated"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1896,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
    "guid": "urn:bbc:podcast:p0pm9szt",
    "title": "How US model agencies helped Epstein access victims"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 1633,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3",
-   "guid": "urn:bbc:podcast:p0pm6qtr",
-   "title": "Trump backs Hegseth as he faces impeachment push"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 1759,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm35rk.mp3",
-   "guid": "urn:bbc:podcast:p0pm36r2",
-   "title": "China denies spying on Nvidia boss"
   }
  ]
 }

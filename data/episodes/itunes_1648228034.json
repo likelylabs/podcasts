@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 4695,
+   "enclosure": "https://traffic.megaphone.fm/DVVTS3694191137.mp3",
+   "guid": "5cc398a8-e822-11f1-b097-0f454450a69c",
+   "title": "Jensen Huang Is Back: Inside NVIDIA’s $1 Trillion Comeback After 11 Days Out | EP #315"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 7916,
    "enclosure": "https://traffic.megaphone.fm/DVVTS8174343580.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/DVVTS8141798281.mp3",
    "guid": "127a7240-ad48-11f1-b62b-bfe6dd52d2bd",
    "title": "Ask the Mates anything | MOONSHOTS AMA  #289"
-  },
-  {
-   "date": "2026-09-10",
-   "durationSec": 8623,
-   "enclosure": "https://traffic.megaphone.fm/DVVTS6594767855.mp3",
-   "guid": "a3d21db6-ac70-11f1-b56c-733b4d57ca80",
-   "title": "Why Jensen Huang Believes We’ve Reached AGI and Inside OpenAI’s German Website Hijack | #287"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 145,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pplj4v.mp3",
+   "guid": "urn:bbc:podcast:p0ppljhw",
+   "title": "A regular fixture"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 178,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pndt26.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0njcnkq.mp3",
    "guid": "urn:bbc:podcast:p0njcp6n",
    "title": "The English We Speak: Take it as a given"
-  },
-  {
-   "date": "2026-04-28",
-   "durationSec": 169,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nh0dqf.mp3",
-   "guid": "urn:bbc:podcast:p0nh0hhc",
-   "title": "The English We Speak: Think on your feet"
   }
  ]
 }

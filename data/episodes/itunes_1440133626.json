@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1308,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/24-70583-TIFRussiaWardeadEpisode.mp3",
+   "guid": "6b059a598f08cbc874011c56",
+   "title": "The Russian army’s secret death toll"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 770,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/24-59497-2411nvidiatrump.mp3",
+   "guid": "6b059ec18f086454a25974f3",
+   "title": "Trump chips in to secure Huang’s return to Nvidia - The Latest"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1622,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/23-73480-TIFMyanmarGenoicderuling.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/05-61009-0511antigua.mp3",
    "guid": "6aec8bb98f08877db871e092",
    "title": "Will the UK finally pay slavery reparations? – The Latest"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 1622,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/04-75799-20261105tifmidterms.mp3",
-   "guid": "6aeb84138f08d1fc1f47c0b0",
-   "title": "Trump has been humbled. Now what?"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 818,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/04-63067-0411midterms.mp3",
-   "guid": "6aeb4c348f08a66ebb927112",
-   "title": "Democrats’ triumph deals devastating blow to Trump - The Latest"
   }
  ]
 }

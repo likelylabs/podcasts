@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1510554676",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP601 鎖子甲哪邊買",
+   "date": "2026-11-25",
+   "enclosure": "https://anchor.fm/s/1ea77470/podcast/play/130032126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fa2c18494-36aa-efc6-c8f6-92a82c57cfdb.mp3",
+   "durationSec": 3076,
+   "guid": "d001a6fc-26b0-4126-a659-d8f30d026fbc"
+  },
   {
    "title": "EP600 大家的振熙 ft. 蛋堡",
    "date": "2026-11-19",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/1ea77470/podcast/play/124024652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F50246c0b-0412-26fa-9a35-6e1769cdf87d.mp3",
    "durationSec": 3175,
    "guid": "dcfb3301-f65b-4fb4-8472-6d8cc96a1445"
-  },
-  {
-   "title": "EP571 其實要從聖鬥士星矢開始",
-   "date": "2026-08-06",
-   "enclosure": "https://anchor.fm/s/1ea77470/podcast/play/123864761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2Ff50801ea-e325-0efa-3ddf-a5bf48ff5f2b.mp3",
-   "durationSec": 3471,
-   "guid": "3d5e110e-ee91-48cd-942d-9cfadf52feca"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2479,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT5493933110.mp3",
+   "guid": "6ea28904-ddf4-11f1-af95-07e6a08c3850",
+   "title": "A Study in Scarlet - Part Eight"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 1867,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT8203190222.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT4631113843.mp3?updated=1778488249",
    "guid": "afc7e4ce-4d12-11f1-92fd-735aacaa8665",
    "title": "The Empty House - Part Three"
-  },
-  {
-   "date": "2026-05-05",
-   "durationSec": 1727,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT8015721335.mp3?updated=1777882471",
-   "guid": "3a9484fa-4790-11f1-89af-0fe3743203de",
-   "title": "The Empty House - Part Two"
   }
  ]
 }

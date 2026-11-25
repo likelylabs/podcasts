@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3006,
+   "enclosure": "https://anchor.fm/s/cda85d4/podcast/play/129987247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F7abb9d24-c53f-6b3e-ca26-b4c9cbb1ad67.mp3",
+   "guid": "4ebc8448-fb65-42e9-a647-4de83e16ba0a",
+   "title": "Vol.507 【フリートーク】ただいま！日本までのフライト🛫で起こった事件 (Japanese Radio for Listening practice)"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 2161,
    "enclosure": "https://anchor.fm/s/cda85d4/podcast/play/129598491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Fd63c5b07-ef91-3651-ccac-36d10060412e.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/cda85d4/podcast/play/123735154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2Fd873fd7b-7901-9579-62d1-0ad9a1e45327.mp3",
    "guid": "227f389e-da04-4337-a254-5f3ce8e8169f",
    "title": "Vol.477 いろいろな服 (Japanese Radio for Listening practice)"
-  },
-  {
-   "date": "2026-08-02",
-   "durationSec": 2850,
-   "enclosure": "https://anchor.fm/s/cda85d4/podcast/play/123637113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-2%2F4d8a37f6-8de0-3b33-524b-aa871949b1d1.mp3",
-   "guid": "335b8fc8-992f-4900-bf63-a4c53ad3df05",
-   "title": "Vol.476 日記を半年続けて気が付いたこと！ダラダラトーク (Japanese Radio for Listening practice)"
   }
  ]
 }

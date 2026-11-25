@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3561,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6b05b597b67cafa450ebebf7/media.mp3",
+   "guid": "6b05b597b67cafa450ebebf7",
+   "title": "Mo Gilligan"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 2720,
    "enclosure": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6afc965692ab9d05d2d5d0c0/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69dd245bdaa5b95957dcbb62/media.mp3",
    "guid": "69dd245bdaa5b95957dcbb62",
    "title": "Kae Tempest"
-  },
-  {
-   "date": "2026-04-08",
-   "durationSec": 3112,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69d4e30df44b357ce96269d6/media.mp3",
-   "guid": "69d4e30df44b357ce96269d6",
-   "title": "Lisa Kudrow"
   }
  ]
 }

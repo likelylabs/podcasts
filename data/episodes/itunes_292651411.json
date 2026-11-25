@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1585,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppqq37.mp3",
+   "guid": "urn:bbc:podcast:w3ct8fth",
+   "title": "Nvidia shares slide, 24 hours after Jensen Huang's comeback"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 537,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppnwnm.mp3",
+   "guid": "urn:bbc:podcast:p0ppnx57",
+   "title": "Questions remain over Jensen Huang's Nvidia return"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1587,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppkblt.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl9jnb.mp3",
    "guid": "urn:bbc:podcast:p0pl9js0",
    "title": "US Midterms: What does it mean for business?"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 1586,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl62q5.mp3",
-   "guid": "urn:bbc:podcast:w3ct8ftd",
-   "title": "America votes as control of Congress hangs in the balance"
-  },
-  {
-   "date": "2026-11-04",
-   "durationSec": 535,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl3jtm.mp3",
-   "guid": "urn:bbc:podcast:p0pl3k5s",
-   "title": "US Midterms: Americans head to the polls"
   }
  ]
 }

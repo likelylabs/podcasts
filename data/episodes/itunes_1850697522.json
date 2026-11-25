@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1331,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppl1md.mp3",
+   "guid": "urn:bbc:podcast:p0ppl1np",
+   "title": "A social reckoning for Indonesia?"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1049,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnygpm.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p62lrn.mp3",
    "guid": "urn:bbc:podcast:p0p62mvj",
    "title": "Why are lab monkeys so expensive?"
-  },
-  {
-   "date": "2026-08-22",
-   "durationSec": 1049,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5m3bb.mp3",
-   "guid": "urn:bbc:podcast:w3ct9byw",
-   "title": "The fight to define ‘Asian pop’ at the Grammys"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1881,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/02cb7d51-09f9-4aae-907e-64eee1212c6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=02cb7d51-09f9-4aae-907e-64eee1212c6d&feed=JGE3yC0V",
+   "guid": "e21c8c84-43db-469e-b476-885b802bc758",
+   "title": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3986,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f4221967-bfe3-477d-85f4-72463c8670f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f4221967-bfe3-477d-85f4-72463c8670f4&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c129b5d-535b-4c40-a104-2d0a66853196/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2c129b5d-535b-4c40-a104-2d0a66853196&feed=JGE3yC0V",
    "guid": "62b74e3f-b5e0-4b51-8d87-9d4b12ef86d1",
    "title": "OpenAI: When AI Agents Use Computers Faster Than You"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 2064,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cf152414-3a4b-46e0-a3ab-13cdcf42822e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cf152414-3a4b-46e0-a3ab-13cdcf42822e&feed=JGE3yC0V",
-   "guid": "631e269e-b6a1-4241-8992-8a9d97cb83ff",
-   "title": "The New Startup Playbook | Box CEO Aaron Levie"
   }
  ]
 }

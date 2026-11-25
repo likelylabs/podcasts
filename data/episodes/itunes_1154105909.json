@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 3870,
+   "enclosure": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+   "guid": "9a5d37c6-e7d9-11f1-b2ec-930476c9d7cf",
+   "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 5062,
    "enclosure": "https://traffic.megaphone.fm/CLS6783435309.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
    "guid": "3bc7d580-53ec-11f1-99c0-3bd245449e4f",
    "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]"
-  },
-  {
-   "date": "2026-05-13",
-   "durationSec": 4567,
-   "enclosure": "https://traffic.megaphone.fm/CLS3629415437.mp3?updated=1778621552",
-   "guid": "fdfca472-4e43-11f1-bf1a-cf5adcc9aeb5",
-   "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]"
   }
  ]
 }

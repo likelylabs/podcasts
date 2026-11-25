@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1619340827",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "Live 63. 落雨濕濕",
+   "date": "2026-11-25",
+   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6b056be3e3a33f314c4471ef/media.mp3",
+   "durationSec": 5939,
+   "guid": "6b056be3e3a33f314c4471ef"
+  },
   {
    "title": "Ep219 - 上來我屋企食飯",
    "date": "2026-11-23",
@@ -205,13 +212,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7d618d2c2af4c24b552437/media.mp3",
    "durationSec": 7415,
    "guid": "6a7d618d2c2af4c24b552437"
-  },
-  {
-   "title": "FGD55 - 今晚上小野屋企食飯 (feat. 盧鎮業）",
-   "date": "2026-08-12",
-   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7be3e919e06ec9d487445a/media.mp3",
-   "durationSec": 1312,
-   "guid": "6a7be3e919e06ec9d487445a"
   }
  ]
 }

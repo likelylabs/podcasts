@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2495,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/dd323ddf-11d2-474c-b31e-b50c01498bcf/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+   "guid": "dd323ddf-11d2-474c-b31e-b50c01498bcf",
+   "title": "Tech Selloff Deepens as AI Risks Rattle Markets"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2438,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/6342e010-3d66-4b6c-8d1e-b50b0150efbc/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/e84e7a43-7bd6-4000-bc66-b4ef01695d02/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
    "guid": "e84e7a43-7bd6-4000-bc66-b4ef01695d02",
    "title": "Anthropic Files for IPO, Giving Market A Glimpse Into Its Finances"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 2597,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/3daaf6ba-a990-4313-898a-b4ec0141a9ab/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
-   "guid": "3daaf6ba-a990-4313-898a-b4ec0141a9ab",
-   "title": "OpenAI Moves Toward a $1.25 Trillion Value"
   }
  ]
 }

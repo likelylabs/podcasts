@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3828,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b0573fb458948a54c664e59/media.mp3",
+   "guid": "6b0573fb458948a54c664e59",
+   "title": "EP 819: \"Lagapak\" with Papa Dudut"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2401,
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b0415082e1921ea66b87a34/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/3fa53d46-3355-4dc1-81a7-ed24a2f4b8f8/media.mp3",
    "guid": "3fa53d46-3355-4dc1-81a7-ed24a2f4b8f8",
    "title": "EP 790: \"Shop\" with Papa Dudut"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 2867,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/c4748571-644e-46c0-b520-2413ee0eede7/media.mp3",
-   "guid": "c4748571-644e-46c0-b520-2413ee0eede7",
-   "title": "EP 789: \"Sa Bawat Patak\" with Papa Dudut"
   }
  ]
 }

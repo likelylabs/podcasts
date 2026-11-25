@@ -2,6 +2,20 @@
  "episodes": [
   {
    "date": "2026-11-24",
+   "durationSec": 1170,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261117-Talking_Markets_PIMCO.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261117-Talking_Markets_PIMCO.mp3",
+   "title": "Talking Markets (Post-Election Day takeaways) with Libby Cantrill of PIMCO"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 320,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261124-the-visible-hand.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261124-the-visible-hand.mp3",
+   "title": "UBS On-Air: Paul Donovan Daily Audio 'The visible hand'"
+  },
+  {
+   "date": "2026-11-24",
    "durationSec": 1346,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261123 - Top of the Morning_YA.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261123 - Top of the Morning_YA.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261106 - Top of the Morning_Preferreds.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261106 - Top of the Morning_Preferreds.mp3",
    "title": "Top of the Morning: Preferred Securities - Performance & positioning"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 363,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261106-reassessing-markets-not-economics.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261106-reassessing-markets-not-economics.mp3",
-   "title": "UBS On-Air: Paul Donovan Daily Audio 'Reassessing markets, not economics'"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 685,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261105 - Top of the Morning.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261105 - Top of the Morning.mp3",
-   "title": "Top of the Morning: CEO Macro Briefing Book - Election digestion"
   }
  ]
 }

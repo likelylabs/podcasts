@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1633600039",
- "generatedAt": "2026-11-24T12:51:22+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "A Stone Monster Crashed the Strawberry Farm P2 | Safety Sheriff Labrador👮",
+   "date": "2026-11-24",
+   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288666.mp3?v=DE2C259AAC3DEB79E340066EE01233D7",
+   "durationSec": 150,
+   "guid": "C4FB895CE020B4D25AB9B8AB61833D33"
+  },
   {
    "title": "A Stone Monster Crashed the Strawberry Farm P1 | Safety Sheriff Labrador👮",
    "date": "2026-11-24",
@@ -205,13 +212,6 @@
    "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288142.mp3?v=4E54DE29E706B5E99BBDC3DCBCB96562",
    "durationSec": 162,
    "guid": "3FFBDB0662563D6F209862B9D29B3624"
-  },
-  {
-   "title": "Dangerous BiteDelights P3丨Safety Sheriff Labrador👮",
-   "date": "2026-10-19",
-   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288141.mp3?v=D179C523A07EF474F6AF708BB326F1DF",
-   "durationSec": 187,
-   "guid": "CA4BC4CB053F53BC94FDE75B85351B59"
   }
  ]
 }

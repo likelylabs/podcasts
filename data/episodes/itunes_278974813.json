@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1472,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/16387654-f838-41fd-a436-2eace79e5f49/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=16387654-f838-41fd-a436-2eace79e5f49&feed=QGMNw0q1&t=podcast&e=nx-s1-6050256&p=510282&d=1472&size=23564583",
+   "guid": "e563bc3d-1404-4539-b7d3-d3d936bd894c",
+   "title": "Dig and What's Making Us Happy"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1327,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/b9f3e7f4-2d55-4ff3-8ed3-16af4c49bc19/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=b9f3e7f4-2d55-4ff3-8ed3-16af4c49bc19&feed=QGMNw0q1&t=podcast&e=nx-s1-6047363&p=510282&d=1327&size=21243237",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/c5fcf0a4-164c-43af-b4d2-e36c690df3cc/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=c5fcf0a4-164c-43af-b4d2-e36c690df3cc&feed=QGMNw0q1&t=podcast&e=nx-s1-5987700&p=510282&d=1325&size=21216489",
    "guid": "7af6459d-a302-4acc-9b6a-a85f52ba61ae",
    "title": "Digger and What’s Making Us Happy"
-  },
-  {
-   "date": "2026-09-30",
-   "durationSec": 1704,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/9941bbfe-f027-4787-b579-5413073e9ae7/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=9941bbfe-f027-4787-b579-5413073e9ae7&feed=QGMNw0q1&t=podcast&e=nx-s1-5984593&p=510282&d=1704&size=27265612",
-   "guid": "e7140cca-11db-4020-9ea7-a71b68a7ef92",
-   "title": "A Different World"
   }
  ]
 }

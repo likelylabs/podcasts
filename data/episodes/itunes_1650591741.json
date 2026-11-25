@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1263,
+   "enclosure": "https://traffic.megaphone.fm/ALLE9565236581.mp3",
+   "guid": "21d04ec2-d7f5-11f1-80c1-17af99911364",
+   "title": "BE 651: Mastering Business Emails Part 1: How to Give a Polite Nudge"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 906,
    "enclosure": "https://traffic.megaphone.fm/ALLE2948827081.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE3407936765.mp3",
    "guid": "12884d2a-a9a1-11f1-9223-833d645f7cd2",
    "title": "BE 623: Couldn't Help But Overhear? What to Do Now!"
-  },
-  {
-   "date": "2026-09-17",
-   "durationSec": 1292,
-   "enclosure": "https://traffic.megaphone.fm/ALLE4166335755.mp3",
-   "guid": "9d3b05c6-a356-11f1-86bc-eb4133c634bb",
-   "title": "BE 622: Can You Call a Man's Shirt a Blouse?"
   }
  ]
 }

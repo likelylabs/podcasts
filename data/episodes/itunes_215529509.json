@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2602,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/25c8c9d3-0df7-42ad-92b5-46ac9c5a89f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=25c8c9d3-0df7-42ad-92b5-46ac9c5a89f6&feed=szW8tJ16",
+   "guid": "1ef13473-6a02-46f4-8929-a738c1542c0b",
+   "title": "The Hangover After Nvidia's Rally and a Pop in Retail Stocks"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2610,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/390134df-3170-4ecb-9030-5cedb3973ffd/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=390134df-3170-4ecb-9030-5cedb3973ffd&feed=szW8tJ16",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/27d61a56-0fbe-413b-bb34-f48ed2b427b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=27d61a56-0fbe-413b-bb34-f48ed2b427b6&feed=szW8tJ16",
    "guid": "b8835c18-1b3b-45e2-bbf9-6128f1cef318",
    "title": "Rate Drop Helps Fuel Bounces… And Apple And Meta’s AI Partnership 10/15/26"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2655,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/41d842c5-9ac0-4db2-b51e-0ff5bb79afd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=41d842c5-9ac0-4db2-b51e-0ff5bb79afd1&feed=szW8tJ16",
-   "guid": "f02636de-80b1-4db8-b43d-9290d41982d8",
-   "title": "AI Debt Concerns Grip Market… And Bank Of America’s Rough Day 10/14/26"
   }
  ]
 }

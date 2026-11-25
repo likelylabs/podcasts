@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 5184,
+   "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b5fd41-4431-485c-98e6-c8a7008b2d62.mp3",
+   "guid": "34b5fd41-4431-485c-98e6-c8a7008b2d62",
+   "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 9043,
    "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.mp3",
    "guid": "3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d",
    "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起"
-  },
-  {
-   "date": "2026-04-01",
-   "durationSec": 3561,
-   "enclosure": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.mp3",
-   "guid": "0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
-   "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？"
   }
  ]
 }

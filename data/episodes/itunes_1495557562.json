@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 2675,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b04704f794e824f621284b6/media.mp3",
+   "guid": "6b04704f794e824f621284b6",
+   "title": "Will Vegas clash finally force Ferrari change?"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 4218,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b030497c2063ef63012e2e5/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6acc00488f340788893f236b/media.mp3",
    "guid": "6acc00488f340788893f236b",
    "title": "Singapore GP: How Ferrari gave Verstappen an easy route to first Marina Bay win"
-  },
-  {
-   "date": "2026-10-10",
-   "durationSec": 2162,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6ac93a4839599f7c567ae8a9/media.mp3",
-   "guid": "6ac93a4839599f7c567ae8a9",
-   "title": "In-Car Insights: F1's latest software woes & Verstappen's sprint pole"
   }
  ]
 }

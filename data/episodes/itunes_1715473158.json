@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 1610,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppl2wm.mp3",
+   "guid": "urn:bbc:podcast:w3ct8mjk",
+   "title": "Was Jensen Huang too big to fail?"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1668,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppf1jg.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgrh4w.mp3",
    "guid": "urn:bbc:podcast:w3ct8mfy",
    "title": "Why Trump is not going to war with the Houthis"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 1603,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgklfy.mp3",
-   "guid": "urn:bbc:podcast:w3ct8mlg",
-   "title": "Could Gen Z bring down India’s Modi?"
   }
  ]
 }

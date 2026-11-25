@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1782,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130043247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437541143-44100-2-3f2cc326c94d7.mp3",
+   "guid": "43f659d9-6f1b-4b0e-9478-278aa059b338",
+   "title": "AI Just Made History in the Middle of a Meltdown"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1485,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/129969396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437442747-44100-2-331e70c28ee87.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127912717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434765371-44100-2-ba24a88164185.mp3",
    "guid": "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
    "title": "The AI vs AI Battle for the Internet"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 1700,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
-   "guid": "e5d74574-145f-41bb-b23c-9c4bb6521746",
-   "title": "How AI Is Changing What Work Means"
   }
  ]
 }

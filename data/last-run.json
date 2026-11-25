@@ -1,16 +1,16 @@
 {
  "aborted": null,
  "budget": 3000,
- "episode_lists_pruned": 3,
+ "episode_lists_pruned": 2,
  "failures": 2,
- "feeds_bad": 62,
- "feeds_ok": 833,
- "feeds_validated": 895,
- "finishedAt": "2026-11-24T12:51:22+08:00",
+ "feeds_bad": 64,
+ "feeds_ok": 830,
+ "feeds_validated": 894,
+ "finishedAt": "2026-11-25T11:31:37+08:00",
  "markets": {
   "hk": {
    "chart": 100,
-   "chart_resolved": 99,
+   "chart_resolved": 97,
    "keyword_hits": {
     "廣東話": 21,
     "粵語": 19,
@@ -20,7 +20,7 @@
   },
   "my": {
    "chart": 100,
-   "chart_resolved": 94,
+   "chart_resolved": 95,
    "keyword_hits": {
     "华语": 17,
     "马来西亚": 6
@@ -38,7 +38,7 @@
   },
   "tw": {
    "chart": 100,
-   "chart_resolved": 100,
+   "chart_resolved": 99,
    "keyword_hits": {
     "台灣": 31,
     "台灣 podcast": 21
@@ -48,11 +48,11 @@
  },
  "podcastindex": "skipped (no PODCASTINDEX_KEY/SECRET)",
  "pool": 892,
- "pool_forgotten": 3,
- "requests": 1237,
- "rthk_episodes": 31161,
+ "pool_forgotten": 2,
+ "requests": 1236,
+ "rthk_episodes": 31238,
  "rthk_programmes": 322,
- "seconds": 1348,
- "startedAt": "2026-11-24T12:28:54+08:00",
+ "seconds": 1146,
+ "startedAt": "2026-11-25T11:12:31+08:00",
  "warnings": []
 }

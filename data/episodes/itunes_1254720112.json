@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 830,
+   "enclosure": "https://pscrb.fm/rss/p/episode.flightcast.com/01M85EHQFTXM51RY7461QZTCPX.mp3",
+   "guid": "flightcast:01M85EHQFTXM51RY7461QZTCPX",
+   "title": "If I Had to Start a Business Tomorrow, I'd Do This | Ep 1017"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 12096,
    "enclosure": "https://pscrb.fm/rss/p/episode.flightcast.com/01M7T1QJHNMV29JN3QYFZF4H7B.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3",
    "guid": "flightcast:01KZ53VKWA5D0ZBSJMWAZBRK6H",
    "title": "The Offer So Good People Feel Stupid Saying No | Ep 990"
-  },
-  {
-   "date": "2026-07-30",
-   "durationSec": 488,
-   "enclosure": "https://pscrb.fm/rss/p/episode.flightcast.com/01KYQYJFYY843C66A4SKFJDNHY.mp3",
-   "guid": "flightcast:01KYQYJFYYNE9W0533GDQAMMTT",
-   "title": "Economies of Scale, Vertical Integration, and the Brand I Love Most | Ep 989"
   }
  ]
 }

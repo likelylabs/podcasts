@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "durationSec": 796,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e7452ac-2de2-4336-8d0b-8f08ad9a0495/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e7452ac-2de2-4336-8d0b-8f08ad9a0495&feed=HMwRVgVt&t=podcast&e=nx-s1-6052075&p=510318&d=796&size=12745709",
+   "guid": "be333a95-a7a7-4061-9731-63adbdcb1393",
+   "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 831,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5ed55f35-ad34-4ac9-9417-564dcf9d6f12/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5ed55f35-ad34-4ac9-9417-564dcf9d6f12&feed=HMwRVgVt&t=podcast&e=nx-s1-6050781&p=510318&d=831&size=13299923",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/550765f1-a761-4d80-b829-adb84cf37e08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=550765f1-a761-4d80-b829-adb84cf37e08&feed=HMwRVgVt&t=podcast&e=nx-s1-6020166&p=510318&d=775&size=12403400",
    "guid": "0467a881-8166-4057-9ef9-4942ab192729",
    "title": "Trump Rallies For Republicans, Israel Election Results, Fed Interest Rates Meeting"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 788,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/1331dd71-7f89-44b4-b744-b58082cf5303/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=1331dd71-7f89-44b4-b744-b58082cf5303&feed=HMwRVgVt&t=podcast&e=nx-s1-6019096&p=510318&d=788&size=12615306",
-   "guid": "b5a7901c-d34f-4fc2-8c6c-05fb1cc151b2",
-   "title": "Democrats Lead In NPR Poll, Preparations For Election Challenge, Israel Voting Begins"
   }
  ]
 }

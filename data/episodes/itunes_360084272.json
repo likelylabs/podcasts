@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 10241,
+   "enclosure": "https://traffic.megaphone.fm/GLT3903659981.mp3",
+   "guid": "f0ddd1ca-e7b9-11f1-a591-d7385ac06142",
+   "title": "#2585 - Sam Tripoli & Eddie Bravo"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 10079,
    "enclosure": "https://traffic.megaphone.fm/GLT2887940704.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT2730878908.mp3",
    "guid": "f3a56dec-bc61-11f1-b794-3f2a4515ae58",
    "title": "#2560 - David Grusch"
-  },
-  {
-   "date": "2026-09-30",
-   "durationSec": 10394,
-   "enclosure": "https://traffic.megaphone.fm/GLT1481505854.mp3",
-   "guid": "15242aa8-bb9a-11f1-b421-f7d46b049862",
-   "title": "#2559 - Sam Morril"
   }
  ]
 }

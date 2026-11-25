@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1522773953",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP338 🐓我要開飛機 !!! 🐓",
+   "date": "2026-11-24",
+   "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/33915029-a298-4b38-82dc-bf94c481e0ca/rssFileVip.mp3?timestamp=1795516837469",
+   "durationSec": 3276,
+   "guid": "33915029-a298-4b38-82dc-bf94c481e0ca"
+  },
   {
    "title": "EP337 🐲獸帝大獸神!!!🐲",
    "date": "2026-11-17",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/e9f05fd9-45f9-4408-8da1-8120aef695cc/rssFileVip.mp3?timestamp=1778023266382",
    "durationSec": 3566,
    "guid": "e9f05fd9-45f9-4408-8da1-8120aef695cc"
-  },
-  {
-   "title": "EP308 沖繩真是緊張刺激😬😬😬",
-   "date": "2026-04-28",
-   "enclosure": "https://rss.soundon.fm/rssf/adf29720-e93b-4856-a09e-b73544147ec4/feedurl/0c0e463b-4f57-4875-ba0b-1e61afff8730/rssFileVip.mp3?timestamp=1777418308382",
-   "durationSec": 3311,
-   "guid": "0c0e463b-4f57-4875-ba0b-1e61afff8730"
   }
  ]
 }

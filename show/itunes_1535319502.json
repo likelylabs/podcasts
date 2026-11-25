@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1535319502",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-25T11:31:37+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "我才不做大笨蛋！",
+   "date": "2026-11-25",
+   "enclosure": "https://m.cdn.firstory.me/track/ckg2mhkljssl708756xu1zvcy/cmwujsucj05qj01tih6nb9fph/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckg2mhkljssl708756xu1zvcy%2Fcmwujsucj05qk01ticdnidkh7.mp3?v=1795515910188",
+   "durationSec": 696,
+   "guid": "cmwujsucj05qj01tih6nb9fph"
+  },
   {
    "title": "小豬戰隊1：勇者小豬在哪裡？",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/ckg2mhkljssl708756xu1zvcy/cmosl0hif08ah01vmbxxtcoci/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckg2mhkljssl708756xu1zvcy%2Fcmosl0hif08ai01vm0lxq2m3s.mp3?v=1777982753599",
    "durationSec": 615,
    "guid": "cmosl0hif08ah01vmbxxtcoci"
-  },
-  {
-   "title": "驚嚇測試中心：頂天公公",
-   "date": "2026-04-29",
-   "enclosure": "https://m.cdn.firstory.me/track/ckg2mhkljssl708756xu1zvcy/cmoiwe8680k5s01vggnva8pqb/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckg2mhkljssl708756xu1zvcy%2Fcmoiwe8680k5t01vg7kkbb4bh.mp3?v=1777889039526",
-   "durationSec": 773,
-   "guid": "cmoiwe8680k5s01vggnva8pqb"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 5939,
+   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6b056be3e3a33f314c4471ef/media.mp3",
+   "guid": "6b056be3e3a33f314c4471ef",
+   "title": "Live 63. 落雨濕濕"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3375,
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6b0323217ac92083770a58d3/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7d618d2c2af4c24b552437/media.mp3",
    "guid": "6a7d618d2c2af4c24b552437",
    "title": "Live 48.  沒有碳水 沒有派對"
-  },
-  {
-   "date": "2026-08-12",
-   "durationSec": 1312,
-   "enclosure": "https://sphinx.acast.com/p/open/s/654a5331cce18a00123dd5f3/e/6a7be3e919e06ec9d487445a/media.mp3",
-   "guid": "6a7be3e919e06ec9d487445a",
-   "title": "FGD55 - 今晚上小野屋企食飯 (feat. 盧鎮業）"
   }
  ]
 }

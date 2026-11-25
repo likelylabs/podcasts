@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1651,
+   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/79bb228c/7892332c.mp3",
+   "guid": "ee03c8eb-8629-4d4e-bb9c-b20202a39fe5",
+   "title": "[Black Friday Freebie #3] The Daylight Assassination of Kim Jong-nam"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1549,
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/19220d0a/0a848fcd.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/2b490114/ac1e6cc7.mp3",
    "guid": "fe81e6d6-e233-4616-ab4e-ff4baf1485ba",
    "title": "#580 | Operation Valkyrie & The Plot To Kill Hitler"
-  },
-  {
-   "date": "2025-11-07",
-   "durationSec": 1364,
-   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/eccdaa67/84de4c72.mp3",
-   "guid": "4173d2a2-f670-48f7-8745-d0458584be0b",
-   "title": "#577 | A Short History Of Universities"
   }
  ]
 }

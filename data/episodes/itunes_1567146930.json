@@ -1,16 +1,30 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3589,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/11311255-0c23-497f-9932-732198bb4738/rssFileVip.mp3?timestamp=1795575663275",
+   "guid": "11311255-0c23-497f-9932-732198bb4738",
+   "title": "台灣羚聲播客-2026年11月25日新聞評論"
+  },
+  {
+   "date": "2026-11-24",
+   "durationSec": 3601,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/5d709d5e-573b-45e0-a695-a65d5926f111/rssFileVip.mp3?timestamp=1795500555250",
+   "guid": "5d709d5e-573b-45e0-a695-a65d5926f111",
+   "title": "台灣羚聲播客第4461-專訪鍾佳濱辦公室助理宥達"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 3591,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/6605c38a-65d7-4519-a037-270dabbe87a7/rssFileVip.mp3?timestamp=1795493858010",
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/6605c38a-65d7-4519-a037-270dabbe87a7/rssFileVip.mp3?timestamp=1795498391142",
    "guid": "6605c38a-65d7-4519-a037-270dabbe87a7",
    "title": "台灣羚聲播客第4460-專訪台北市議員李建昌"
   },
   {
    "date": "2026-11-24",
    "durationSec": 3589,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/60dc4113-35bf-4408-9c83-472ee957ef49/rssFileVip.mp3?timestamp=1795489866714",
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/60dc4113-35bf-4408-9c83-472ee957ef49/rssFileVip.mp3?timestamp=1795498397690",
    "guid": "60dc4113-35bf-4408-9c83-472ee957ef49",
    "title": "台灣羚聲播客-2026年11月24日新聞評論"
   },
@@ -195,20 +209,6 @@
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/74737c0f-f812-470e-8934-3076ebfc26b6/rssFileVip.mp3?timestamp=1794635454041",
    "guid": "74737c0f-f812-470e-8934-3076ebfc26b6",
    "title": "台灣羚聲播客第4441-專訪新北市板橋西區立委張宏陸"
-  },
-  {
-   "date": "2026-11-14",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/b017865d-605f-44d1-b6c7-0eff2f110ea0/rssFileVip.mp3?timestamp=1794635458656",
-   "guid": "b017865d-605f-44d1-b6c7-0eff2f110ea0",
-   "title": "台灣羚聲播客第4440-專訪台中市北屯區議員候選人陳信秀"
-  },
-  {
-   "date": "2026-11-13",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/69d4101b-209f-4524-95ca-3e38a74499df/rssFileVip.mp3?timestamp=1794635455317",
-   "guid": "69d4101b-209f-4524-95ca-3e38a74499df",
-   "title": "台灣羚聲播客第4439-專訪新北市三重蘆洲議員顏蔚慈"
   }
  ]
 }
