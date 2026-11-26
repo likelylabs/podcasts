@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1588,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppyjj7.mp3",
+   "guid": "urn:bbc:podcast:w3ct8fwr",
+   "title": "Trump rebuilds his tariff wall"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 536,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppwbpb.mp3",
+   "guid": "urn:bbc:podcast:p0ppwbyq",
+   "title": "US imposes new tariffs on some of its biggest trade partners"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1585,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppqq37.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plh026.mp3",
    "guid": "urn:bbc:podcast:p0plh0f1",
    "title": "Bomb threats disrupt European flights"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 1581,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plc8d6.mp3",
-   "guid": "urn:bbc:podcast:w3ct8fwn",
-   "title": "After the blue wave, what happens to the US economy?"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 536,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pl9jnb.mp3",
-   "guid": "urn:bbc:podcast:p0pl9js0",
-   "title": "US Midterms: What does it mean for business?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2847,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6aff0ad7c838fad86f16f7b2/media.mp3",
+   "guid": "6aff0ad7c838fad86f16f7b2",
+   "title": "The most famous economist you've never heard of"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 2606,
    "enclosure": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6afb2cd88ed174b349337b48/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a03587f5c981a357370ba1b/media.mp3",
    "guid": "6a03587f5c981a357370ba1b",
    "title": "Why money is the biggest shared hallucination in human history"
-  },
-  {
-   "date": "2026-05-06",
-   "durationSec": 3370,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69fa2a3c1932a077a9adc243/media.mp3",
-   "guid": "69fa2a3c1932a077a9adc243",
-   "title": "When money went rogue: banking in 19th-century frontier America"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1357,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/74601896-86e6-4de0-b97d-5525806a87e2/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=74601896-86e6-4de0-b97d-5525806a87e2&feed=XkY2SBZJ&t=podcast&e=nx-s1-6048706&p=510338&d=1357&size=21718457",
+   "guid": "6ea34488-b925-4ecd-9504-efaa941a0df4",
+   "title": "Brush up on your food safety knowledge before Thanksgiving"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1159,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bc7f285b-9adb-4cc4-9072-245b1395540a/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bc7f285b-9adb-4cc4-9072-245b1395540a&feed=XkY2SBZJ&t=podcast&e=nx-s1-6049553&p=510338&d=1159&size=18553295",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f2a1a587-680e-417b-85c0-dd8c79a696fb/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f2a1a587-680e-417b-85c0-dd8c79a696fb&feed=XkY2SBZJ&t=podcast&e=nx-s1-5971269&p=510338&d=1019&size=16315081",
    "guid": "8d8f5051-3ca7-4270-99c9-a074a42e078c",
    "title": "No, it's not too early to start saving for the holidays"
-  },
-  {
-   "date": "2026-09-15",
-   "durationSec": 1055,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/9d325fc9-f6a4-4460-ba6b-31237c1b01dc/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=9d325fc9-f6a4-4460-ba6b-31237c1b01dc&feed=XkY2SBZJ&t=podcast&e=nx-s1-5968658&p=510338&d=1055&size=16891865",
-   "guid": "b43d9495-e780-4433-bb7f-795f34b72443",
-   "title": "Feeling insecure? Try this memory-update exercise"
   }
  ]
 }

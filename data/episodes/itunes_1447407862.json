@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 405,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261125-muted-tariffs-meet-consumer-resilience.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261125-muted-tariffs-meet-consumer-resilience.mp3",
+   "title": "UBS On-Air: Paul Donovan Daily Audio 'Muted tariffs meet consumer resilience'"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1170,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261117-Talking_Markets_PIMCO.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261109-signal-over-noise.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261109-signal-over-noise.mp3",
    "title": "Signal Over Noise: The three math problems AI still needs to solve"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 926,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261106 - Top of the Morning_Preferreds.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261106 - Top of the Morning_Preferreds.mp3",
-   "title": "Top of the Morning: Preferred Securities - Performance & positioning"
   }
  ]
 }

@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1732161501",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "恩典的管道",
+   "date": "2026-11-26",
+   "enclosure": "https://media.transistor.fm/819948a0/05403d68.mp3",
+   "durationSec": 362,
+   "guid": "8f1ab4bb-da09-4c1e-92a3-8a7c9c78454c"
+  },
   {
    "title": "爱的管教",
    "date": "2026-11-25",
@@ -205,13 +212,6 @@
    "enclosure": "https://media.transistor.fm/7bd62db0/6dbb037f.mp3",
    "durationSec": 393,
    "guid": "a55baf31-d775-4168-b5f3-921d928ad4ad"
-  },
-  {
-   "title": "感恩与富足",
-   "date": "2026-10-27",
-   "enclosure": "https://media.transistor.fm/d08cd00b/5deba47d.mp3",
-   "durationSec": 376,
-   "guid": "ed5c2314-c25c-4afd-9d30-374039b26048"
   }
  ]
 }

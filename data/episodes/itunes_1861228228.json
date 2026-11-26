@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 744,
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/b18d5fc1-71bf-4ca6-9132-5a567ec2d057/rssFileVip.mp3?timestamp=1795641207960",
+   "guid": "b18d5fc1-71bf-4ca6-9132-5a567ec2d057",
+   "title": "AI台灣日報 EP326 [美情報機構疑遭駭　4名知情人士指源頭初步指向中國]"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 643,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/3b7c6ef7-bbc5-4f62-bdb2-fe94079258ec/rssFileVip.mp3?timestamp=1795558856822",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/3b7c6ef7-bbc5-4f62-bdb2-fe94079258ec/rssFileVip.mp3?timestamp=1795588296100",
    "guid": "3b7c6ef7-bbc5-4f62-bdb2-fe94079258ec",
    "title": "AI台灣日報 EP325 [央行預告穩定幣準備金新規 明定繳存門檻與比率]"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/4e93b5fa-58f0-4779-b46c-d971804912ff/rssFileVip.mp3?timestamp=1793181875742",
    "guid": "4e93b5fa-58f0-4779-b46c-d971804912ff",
    "title": "AI台灣日報 EP279 [AR 實景探索周邊好去處 原價 US $]"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 528,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/ef06ee24-d937-4a7e-912e-faf76ef5b1ca/rssFileVip.mp3?timestamp=1793181875245",
-   "guid": "ef06ee24-d937-4a7e-912e-faf76ef5b1ca",
-   "title": "AI台灣日報 EP286 [白宮新聞秘書上任5天閃辭 川普坦言已要求]"
   }
  ]
 }

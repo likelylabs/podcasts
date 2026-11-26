@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 358,
+   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/134c99e0-a850-4aaa-9f5b-ac1f24ae2ab4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=134c99e0-a850-4aaa-9f5b-ac1f24ae2ab4&feed=fFPK3rs_",
+   "guid": "70d28b7f-03a6-4f68-ba73-a2b346a160df",
+   "title": "It's Not Humility if You Think You're in Charge | Jonathan Roumie"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 471,
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/941260b8-239f-4ccd-b6d7-8303f69228a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=941260b8-239f-4ccd-b6d7-8303f69228a9&feed=fFPK3rs_",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/4b4a6c43-9057-4a7a-a44f-88f427db9e4c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=4b4a6c43-9057-4a7a-a44f-88f427db9e4c&feed=fFPK3rs_",
    "guid": "4373b708-ffe6-41a1-a97d-2297c1b68332",
    "title": "5 Longevity Foods You Need To Eat Every Day To Live Longer | Dr. Michael Greger"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 375,
-   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/ed69fe23-cb88-4259-80d6-0e5d69ace0d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=ed69fe23-cb88-4259-80d6-0e5d69ace0d0&feed=fFPK3rs_",
-   "guid": "631db90c-6382-47fd-9f17-67e3ba472209",
-   "title": "How A Sociopath Builds A Moral Code Without Guilt | Dr. Patric Gagne"
   }
  ]
 }

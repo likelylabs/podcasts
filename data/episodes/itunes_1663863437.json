@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1053,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/313c3625-384c-4a7a-833a-b50d004c5614/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "313c3625-384c-4a7a-833a-b50d004c5614",
+   "title": "AI Trade Falters, Xiaomi Shares Leap"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1078,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/642b668e-24c4-44ba-bddf-b50c00310666/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/e816c149-c190-4fa2-979a-b4ec001e3ddd/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
    "guid": "e816c149-c190-4fa2-979a-b4ec001e3ddd",
    "title": "Tech Stock Selloff Deepens, AI Safety Discussion"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 1194,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/910d9b4c-fea0-4b7e-87ab-b4eb0015b48f/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "910d9b4c-fea0-4b7e-87ab-b4eb0015b48f",
-   "title": "Meta AI Bet, Tesla Cuts Spending, Barclays Asia Forum"
   }
  ]
 }

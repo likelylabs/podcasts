@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2609,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/59254193-bd84-4c63-bca5-12d00a7e4f08/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=59254193-bd84-4c63-bca5-12d00a7e4f08&feed=Nh1wIaXT",
+   "guid": "53db839f-bd64-4398-930b-bd040302c975",
+   "title": "Stocks Rebound as AI, Fed and Housing Risks Test Markets"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2589,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/3abaf727-ab29-4a6b-ae04-465c0879857d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=3abaf727-ab29-4a6b-ae04-465c0879857d&feed=Nh1wIaXT",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/52aabf89-9283-4862-9442-18d2329f1be8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=52aabf89-9283-4862-9442-18d2329f1be8&feed=Nh1wIaXT",
    "guid": "498ae852-703c-43b3-accc-19bde51c692a",
    "title": "Closing Bell Overtime: Stocks Surge After Democrats Retake Both Chambers of Congress 11/4/26"
-  },
-  {
-   "date": "2026-11-05",
-   "durationSec": 2484,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/1d684ba6-8c22-44f9-9d62-96c13118d164/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=1d684ba6-8c22-44f9-9d62-96c13118d164&feed=Nh1wIaXT",
-   "guid": "2b028eeb-88eb-4353-a4fe-55dd39bd6876",
-   "title": "Closing Bell 11/4/26"
   }
  ]
 }

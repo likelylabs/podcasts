@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3338,
+   "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6b06a552da4f9555efc2a72a/media.mp3",
+   "guid": "6b06a552da4f9555efc2a72a",
+   "title": "A Dark Tale Comes to FNL Part 1"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 449,
    "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6ad44c6e6f1842347ff568ef/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6ac5cce9d2d31a76bce5c211/media.mp3",
    "guid": "6ac5cce9d2d31a76bce5c211",
    "title": "How Singaporean is This? Part 1"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 3389,
-   "enclosure": "https://sphinx.acast.com/p/open/s/69d4da06bfb0dc501b2ef5c2/e/6ac24b1a427ebd7f3024d389/media.mp3",
-   "guid": "6ac24b1a427ebd7f3024d389",
-   "title": "Declassified Case Files Part 1"
   }
  ]
 }

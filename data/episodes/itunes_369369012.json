@@ -1,6 +1,76 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 66,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/00ead3d9-6412-43c5-af78-0a608d1fd41b.mp3?_=1795433982",
+   "guid": "00ead3d9-6412-43c5-af78-0a608d1fd41b",
+   "title": "LE MEILLEUR DE BOUVARD - Quand le champagne vaut mieux que la bière... La blague d'Évelyne Leclercq"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 5829,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/3eaf0e1a-ef07-4711-85e8-5454bac4a620.mp3?_=1795620484",
+   "guid": "3eaf0e1a-ef07-4711-85e8-5454bac4a620",
+   "title": "L'INTÉGRALE - Émission du mercredi 25 novembre 2026"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 1056,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/c74039c4-6644-4cf9-89cf-c2bff5816f15.mp3?_=1795621081",
+   "guid": "c74039c4-6644-4cf9-89cf-c2bff5816f15",
+   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 25 novembre 2026"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 325,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/228cd215-6fd4-40e1-b8b9-c6f05bcb32ac.mp3?_=1795617181",
+   "guid": "228cd215-6fd4-40e1-b8b9-c6f05bcb32ac",
+   "title": "EN RÉSUMÉ - Roselyne Bachelot fait le bilan de l'émission"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 133,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/93e3cda0-a621-415a-a064-8e5507ead2ce.mp3?_=1795620780",
+   "guid": "93e3cda0-a621-415a-a064-8e5507ead2ce",
+   "title": "PÉPITE - Roselyne Bachelot séduite par Booder"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 374,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/675ff605-30c2-4ee1-9fa8-da2534a0d518.mp3?_=1795612981",
+   "guid": "675ff605-30c2-4ee1-9fa8-da2534a0d518",
+   "title": "FACE AUX AUDITEURS - \"J'ai changé d'avis\" : il n'aime plus Sébastien Thoen"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 426,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/f2fe6e38-6f62-4ce0-9740-224852465fb7.mp3?_=1795613282",
+   "guid": "f2fe6e38-6f62-4ce0-9740-224852465fb7",
+   "title": "FAKE NEWS - GTA VI, athlètes féminines, Sénégal... Quelle Grosse Tête dit vrai ?"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 379,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/660ab296-c9ad-4ab4-bbac-a0c5c724c632.mp3?_=1795617181",
+   "guid": "660ab296-c9ad-4ab4-bbac-a0c5c724c632",
+   "title": "QUI QUI EXPRESS - Comment s'appelle le réalisateur du film \"Un bon petit soldat\" ?"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 555,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/0bcfd65e-65df-4acf-bc1b-32b1fea5125e.mp3?_=1795614481",
+   "guid": "0bcfd65e-65df-4acf-bc1b-32b1fea5125e",
+   "title": "INÉDIT - Côté coulisses : Noé Preszow se confie avant l'émission"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 156,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/3fa4aba8-a2b2-4623-acd7-334d738e5c73.mp3?_=1795538000",
+   "guid": "3fa4aba8-a2b2-4623-acd7-334d738e5c73",
+   "title": "LE MEILLEUR DE RUQUIER - Les souvenirs de jeunesse... L'histoire drôle d'Eric Thomas"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 89,
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ed36d094-c2e8-49e1-9967-613c537e3a76.mp3?_=1795433881",
@@ -139,76 +209,6 @@
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d6db6e48-bb0e-4292-9bee-23471f7a8acf.mp3?_=1795024383",
    "guid": "d6db6e48-bb0e-4292-9bee-23471f7a8acf",
    "title": "L'INTÉGRALE - Le Best of du dimanche 22 novembre 2026"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 398,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/6bcb236f-3353-4a24-b518-b8e771293b1a.mp3?_=1787041667",
-   "guid": "6bcb236f-3353-4a24-b518-b8e771293b1a",
-   "title": "BEST OF - Les 10 meilleures blagues du dimanche 22 novembre 2026"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 482,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/021ae061-680b-4eed-ace4-ce8085493336.mp3?_=1795184281",
-   "guid": "021ae061-680b-4eed-ace4-ce8085493336",
-   "title": "LIVRE DU JOUR - \"Atlas des mondes souterains\" d'Eric Gilli : le coup de cœur de Laurent Ruquier"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 221,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ee76d9b7-db13-4485-9d44-8017a72115d7.mp3?_=1795183982",
-   "guid": "ee76d9b7-db13-4485-9d44-8017a72115d7",
-   "title": "PÉPITE - Les Grosses Têtes et la sortie de GTA VI"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 72,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/bb75b483-f3a0-426b-b59d-2af05c4703b3.mp3?_=1795189127",
-   "guid": "bb75b483-f3a0-426b-b59d-2af05c4703b3",
-   "title": "LE MEILLEUR DE BOUVARD - Les blagues écolières Macha Méril et Jacques Balutin"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 4524,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/eb736b9d-7246-45a3-9228-7302cbe92d31.mp3?_=1795022884",
-   "guid": "eb736b9d-7246-45a3-9228-7302cbe92d31",
-   "title": "L'INTÉGRALE - Le Best of du samedi 21 novembre 2026"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 127,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/f6133487-2c23-49e3-913c-ee8476f425cf.mp3?_=1795188790",
-   "guid": "f6133487-2c23-49e3-913c-ee8476f425cf",
-   "title": "LE MEILLEUR DE RUQUIER - Une institutrice qui aurait dû préciser les consignes... L'histoire drôle de Booder"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 525,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/afbf8404-8203-4735-87e4-0d60773b369c.mp3?_=1795183968",
-   "guid": "afbf8404-8203-4735-87e4-0d60773b369c",
-   "title": "LIVRE DU JOUR - \"Schnock chez soi\" d'Alister : la recommandation de Laurent Ruquier"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 98,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/7cee1d11-d630-4c28-be29-8a94c2dbb0cd.mp3?_=1795183981",
-   "guid": "7cee1d11-d630-4c28-be29-8a94c2dbb0cd",
-   "title": "PÉPITE - Les talents cachés de David Castello-Lopes"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 86,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/aac16f0f-399a-4f0f-bff9-7ed37f059e95.mp3?_=1795105630",
-   "guid": "aac16f0f-399a-4f0f-bff9-7ed37f059e95",
-   "title": "LE MEILLEUR DE BOUVARD - Les blagues de Sim"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 5820,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/4a8d5e55-255f-4c3e-b632-edfef34372ce.mp3?_=1795190284",
-   "guid": "4a8d5e55-255f-4c3e-b632-edfef34372ce",
-   "title": "L'INTÉGRALE - Émission du vendredi 20 novembre 2026"
   }
  ]
 }

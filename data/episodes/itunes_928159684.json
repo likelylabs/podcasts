@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1546,
+   "enclosure": "https://traffic.megaphone.fm/APO4662090060.mp3",
+   "guid": "a32ecfc2-4792-4f2a-950b-a06a38a317f2",
+   "title": "26 Minutes on the Power of Gratitude"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2084,
    "enclosure": "https://traffic.megaphone.fm/APO3915275528.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO3117371380.mp3",
    "guid": "4e81aafe-f4a7-4935-a657-60e69421d247",
    "title": "The Most Underrated Social Media Platform You Need to Start Posting On"
-  },
-  {
-   "date": "2026-09-07",
-   "durationSec": 1309,
-   "enclosure": "https://traffic.megaphone.fm/APO9224455417.mp3",
-   "guid": "f76e9aee-5e8b-471e-bf7a-7fa4a6619dcc",
-   "title": "Why the World Needs More Purple"
   }
  ]
 }

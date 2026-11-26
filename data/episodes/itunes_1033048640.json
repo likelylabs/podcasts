@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1173,
+   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/ebae6374-682c-434f-96aa-e2f1b9bc9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=ebae6374-682c-434f-96aa-e2f1b9bc9c7d&feed=rpKQEwel",
+   "guid": "a040fff3-36d2-4f25-abf8-9fce8987aad2",
+   "title": "Rewire Your Brain: All You Need to Know"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1133,
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/96107354-ddd9-4e10-b78a-9629399c2add/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=96107354-ddd9-4e10-b78a-9629399c2add&feed=rpKQEwel",
@@ -202,13 +209,6 @@
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/5146bb5d-4c1b-4b3a-9e5b-97fd515bf368/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=5146bb5d-4c1b-4b3a-9e5b-97fd515bf368&feed=rpKQEwel",
    "guid": "66d9da03-f9f0-45d1-86ed-78f9e910a351",
    "title": "Are You Ambitious but Lazy?"
-  },
-  {
-   "date": "2026-10-02",
-   "durationSec": 1052,
-   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/4049eecc-000a-48a3-8df7-84d911866fa5/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=4049eecc-000a-48a3-8df7-84d911866fa5&feed=rpKQEwel",
-   "guid": "cbdda500-8c29-48bc-a484-a0d058f22fe0",
-   "title": "The Art of Doing Less and Achieving More"
   }
  ]
 }

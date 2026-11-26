@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3538,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/453uwimkeczm6d9q/Macrovoices-2026-11-25-Daniel-Lacalle.mp3",
+   "guid": "macrovoices.podbean.com/8b742955-309a-3bb7-9e40-3f813d00d37e",
+   "title": "MacroVoices #560 Daniel Lacalle: “The European ER AH Situation…”"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3378,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/wguym9jufbfwn3uj/Macrovoices-11-19-2026-ole-hansen.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/xc4c8ppunb6hctx8/Macrovoices-2026-05-14-Mike-Green.mp3",
    "guid": "macrovoices.podbean.com/d97b7e41-af5b-378b-9e8f-c18cbe83e306",
    "title": "MacroVoices #532 Mike Green: Record Mechanical Flows"
-  },
-  {
-   "date": "2026-05-08",
-   "durationSec": 4769,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/p7quvugtmxpkw9r4/Macrovoices-2026-05-07-Louis-Vincent-Gave.mp3",
-   "guid": "macrovoices.podbean.com/b38be333-f937-32d3-8512-33330b38e884",
-   "title": "MacroVoices #531 Louis-Vincent Gave: Semiconductors, AI & Iran Conflict"
   }
  ]
 }

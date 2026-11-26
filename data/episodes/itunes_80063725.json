@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 7600,
+   "enclosure": "https://www.hkpug.org/podcast/./hkpug20261081_FI579H5ymtB3nfYUMbl1.mp3",
+   "guid": "https://www.hkpug.org/podcast/?p=2984",
+   "title": "第 1081 集：AI 令專業平民化！Vibe Coding 寫網站寫 Game 心得分享"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 9204,
    "enclosure": "https://www.hkpug.org/podcast/./hkpug20261080_x89fe0Wa7P8K5qALAlIm.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.hkpug.org/podcast/./hkpug20261052_9IHhgl544o5zF4WWUzFy.mp3",
    "guid": "https://www.hkpug.org/podcast/?p=2865",
    "title": "第 1052 集：我的回憶（與資產）不是我的？"
-  },
-  {
-   "date": "2026-05-01",
-   "durationSec": 9749,
-   "enclosure": "https://www.hkpug.org/podcast/./hkpug20261051_8y4sOWQ2mRo6u4IuI6Xl.mp3",
-   "guid": "https://www.hkpug.org/podcast/?p=2861",
-   "title": "第 1051 集：影響 OpenAI 生死存亡的下一步棋…"
   }
  ]
 }

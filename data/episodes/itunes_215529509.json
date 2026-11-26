@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2613,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/e007766b-e00b-4819-b440-d9c43f4d64dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=e007766b-e00b-4819-b440-d9c43f4d64dc&feed=szW8tJ16",
+   "guid": "2269dc39-d183-4866-890b-c0535538ff63",
+   "title": "Market's Big Rebound and AI Debt Concerns"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2602,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/25c8c9d3-0df7-42ad-92b5-46ac9c5a89f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=25c8c9d3-0df7-42ad-92b5-46ac9c5a89f6&feed=szW8tJ16",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/cb46fe22-a486-445c-88fe-0ceb3bb0d703/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=cb46fe22-a486-445c-88fe-0ceb3bb0d703&feed=szW8tJ16",
    "guid": "97761888-ab1f-4f65-9692-98183c11fdb9",
    "title": "Coreweave’s Impact On AI Trade… And Netflix Results On Deck 10/16/26"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 2597,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/27d61a56-0fbe-413b-bb34-f48ed2b427b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=27d61a56-0fbe-413b-bb34-f48ed2b427b6&feed=szW8tJ16",
-   "guid": "b8835c18-1b3b-45e2-bbf9-6128f1cef318",
-   "title": "Rate Drop Helps Fuel Bounces… And Apple And Meta’s AI Partnership 10/15/26"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2350,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b06add87db94972bd1184a0/media.mp3",
+   "guid": "6b06add87db94972bd1184a0",
+   "title": "EP 820: \"Screenshot\" with Papa Dudut"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3828,
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b0573fb458948a54c664e59/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/06bcc7c2-115d-4299-9a38-e62048dafe60/media.mp3",
    "guid": "06bcc7c2-115d-4299-9a38-e62048dafe60",
    "title": "EP 791: \"Clan Mate\" with Papa Dudut"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2812,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/3fa53d46-3355-4dc1-81a7-ed24a2f4b8f8/media.mp3",
-   "guid": "3fa53d46-3355-4dc1-81a7-ed24a2f4b8f8",
-   "title": "EP 790: \"Shop\" with Papa Dudut"
   }
  ]
 }

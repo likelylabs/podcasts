@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2834,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS2337403812.mp3",
+   "guid": "1ca9ba14-e88f-11f1-9b37-f3b5c83ffbbb",
+   "title": "The cheating men are back"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2857,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS1941948859.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS4290610319.mp3",
    "guid": "f04ca5e2-b307-11f1-b5d2-533ca56da99f",
    "title": "Mr Word Salad"
-  },
-  {
-   "date": "2026-09-16",
-   "durationSec": 3258,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS2257833727.mp3",
-   "guid": "bcee9ad8-b196-11f1-8027-870c3c9b10f9",
-   "title": "Giving Sydney Sweeney what she wanted"
   }
  ]
 }

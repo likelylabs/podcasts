@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 4008,
+   "enclosure": "https://rss.soundon.fm/rssf/98bf5fdc-7866-4c6f-8927-dcf9e54d52d8/feedurl/d6b59253-28c2-4957-9d1c-7c7d4dc4753c/rssFileVip.mp3?timestamp=1795606381842",
+   "guid": "d6b59253-28c2-4957-9d1c-7c7d4dc4753c",
+   "title": "EP104｜英文面試卡關，一樣拼進 UCLA！ft. 分子醫學與生物工程研究所 林柏亨老師"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 3024,
    "enclosure": "https://rss.soundon.fm/rssf/98bf5fdc-7866-4c6f-8927-dcf9e54d52d8/feedurl/2bf95d73-275e-4cea-8de7-d28fd6907e5b/rssFileVip.mp3?timestamp=1795073447653",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/98bf5fdc-7866-4c6f-8927-dcf9e54d52d8/feedurl/f389bf03-59ae-4bbd-acc0-66d356fe98a3/rssFileVip.mp3?timestamp=1778107323770",
    "guid": "f389bf03-59ae-4bbd-acc0-66d356fe98a3",
    "title": "EP75｜65歲不再是老的開始 ft. 關渡醫院 陳亮恭 院長"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 4195,
-   "enclosure": "https://rss.soundon.fm/rssf/98bf5fdc-7866-4c6f-8927-dcf9e54d52d8/feedurl/4c31fd24-bd50-482c-9be8-0ab60cbffa94/rssFileVip.mp3?timestamp=1777502828296",
-   "guid": "4c31fd24-bd50-482c-9be8-0ab60cbffa94",
-   "title": "EP74｜人生不是選對 而是走到對 ft. 醫放系 盧家鋒老師"
   }
  ]
 }

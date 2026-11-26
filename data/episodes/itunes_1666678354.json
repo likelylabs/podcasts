@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1273,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/4bae4f96-ffa0-4c95-a97f-8df90cb6acfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=4bae4f96-ffa0-4c95-a97f-8df90cb6acfc&feed=ob9OSBIN",
+   "guid": "13bd25bd-0746-4677-a86b-1a919f63ff47",
+   "title": "94. Fireworks Shows"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1140,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/17aedc1b-60c2-4d4b-b6fc-1260ac204164/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=17aedc1b-60c2-4d4b-b6fc-1260ac204164&feed=ob9OSBIN",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/615c6270-6de3-42ab-a988-1809eb623672/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=615c6270-6de3-42ab-a988-1809eb623672&feed=ob9OSBIN",
    "guid": "4793e02d-bd5c-44d6-81b7-7393c55f9290",
    "title": "66. Stradivarius Violins"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 1380,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/12fcac8b-3eed-406b-869d-852f8b929910/audio/128/default.mp3?aid=rss_feed&awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&awEpisodeId=12fcac8b-3eed-406b-869d-852f8b929910&feed=ob9OSBIN",
-   "guid": "04dff65a-bf5e-4144-a467-a993ad26891d",
-   "title": "65. Stock Photos"
   }
  ]
 }

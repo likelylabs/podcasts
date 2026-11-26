@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2140,
+   "enclosure": "https://feeds.soundcloud.com/stream/2444333337-lessonsfrommovies-ep816.mp3",
+   "guid": "tag:soundcloud,2010:tracks/2444333337",
+   "title": "ep816 - 這哪是紀錄片？根本就是實境恐怖片！矽谷惡血詐騙案罪犯，邀你上床一起追劇？《袒裎相見》無雷前導，看前必聽！"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2251,
    "enclosure": "https://feeds.soundcloud.com/stream/2442527715-lessonsfrommovies-ep815.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://feeds.soundcloud.com/stream/2369959586-lessonsfrommovies-ep787.mp3",
    "guid": "tag:soundcloud,2010:tracks/2369959586",
    "title": "ep787 - 諾蘭神改編打臉酸民 ?!《奧德賽》西農與雅典娜角色深度解析"
-  },
-  {
-   "date": "2026-07-27",
-   "durationSec": 2102,
-   "enclosure": "https://feeds.soundcloud.com/stream/2368131263-lessonsfrommovies-ep786.mp3",
-   "guid": "tag:soundcloud,2010:tracks/2368131263",
-   "title": "ep786 - 以前的喜劇，長大看變悲劇？《少林足球》同門六師兄弟的武功與夢想解析"
   }
  ]
 }

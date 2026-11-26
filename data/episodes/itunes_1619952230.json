@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1709,
+   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/3b5828f9-4817-4815-bbd8-b50e0025f8ab/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
+   "guid": "3b5828f9-4817-4815-bbd8-b50e0025f8ab",
+   "title": "MITM Best Of 261126"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1219,
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/32e940d8-3b94-41e5-a18b-b50d002462c4/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/fbe67015-6c83-436f-9a05-b4e4002832a2/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
    "guid": "fbe67015-6c83-436f-9a05-b4e4002832a2",
    "title": "MITM Best Of 151026"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 1111,
-   "enclosure": "https://traffic.omny.fm/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/c0941054-ea71-4c25-978f-a96700a4d800/8ede57ce-4f84-49e3-bee3-b4e3002ab8fe/audio.mp3?utm_source=Podcast&in_playlist=3e642e65-0221-4e5d-a3f6-a96700a61b86",
-   "guid": "8ede57ce-4f84-49e3-bee3-b4e3002ab8fe",
-   "title": "MITM Best Of 141026"
   }
  ]
 }

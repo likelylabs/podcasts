@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1977,
+   "enclosure": "https://episodes.captivate.fm/episode/443ccc72-d4fa-4100-a187-e0a843f5e565.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=443ccc72-d4fa-4100-a187-e0a843f5e565",
+   "guid": "443ccc72-d4fa-4100-a187-e0a843f5e565",
+   "title": "Will the Russell Brand case lead to the end of gagging orders?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1843,
    "enclosure": "https://episodes.captivate.fm/episode/a52a538b-babf-4e29-90a5-0a8f8abc0571.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=a52a538b-babf-4e29-90a5-0a8f8abc0571",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/6b19c871-6379-4060-ae90-135a6aaf4de4.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=6b19c871-6379-4060-ae90-135a6aaf4de4",
    "guid": "6b19c871-6379-4060-ae90-135a6aaf4de4",
    "title": "Blockers: Inside Musk’s War on the US Government"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 2538,
-   "enclosure": "https://episodes.captivate.fm/episode/d20ba23a-fa2a-4872-8bb6-8df03e039cd2.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=d20ba23a-fa2a-4872-8bb6-8df03e039cd2",
-   "guid": "d20ba23a-fa2a-4872-8bb6-8df03e039cd2",
-   "title": "Could this election spell the end of Netanyahu?"
   }
  ]
 }

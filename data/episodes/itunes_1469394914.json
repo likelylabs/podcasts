@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1207,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ3580341608.mp3",
+   "guid": "38e37664-e913-11f1-96a8-43173c25a434",
+   "title": "Americans Love Honeycrisp Apples. Farmers Hate Them."
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1654,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ8505673966.mp3",
@@ -65,7 +72,7 @@
   },
   {
    "date": "2026-11-13",
-   "durationSec": 1189,
+   "durationSec": 1204,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ7835978048.mp3",
    "guid": "344464dc-dee2-11f1-a756-3b36d0de5b50",
    "title": "What is Nvidia Without Jensen Huang?"
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ2601135661.mp3",
    "guid": "8f93902a-cccb-11f1-9e52-032c4fd59ded",
    "title": "Trump Turns on Ukraine"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 1230,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/WSJ3154297257.mp3",
-   "guid": "b39f7bca-cbf7-11f1-afff-cba3fc3904e4",
-   "title": "Tension and Tirades Inside the U.S. Treasury"
   }
  ]
 }

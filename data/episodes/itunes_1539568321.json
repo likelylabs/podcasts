@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1267,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/414a9e20-6da9-4c23-a9e8-2cb58da94cdc.mp3",
+   "guid": "414a9e20-6da9-4c23-a9e8-2cb58da94cdc",
+   "title": "Day 329: The Ethiopian Eunuch (2026)"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1486,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/9c51cd08-df2c-4ee9-b624-67ff69f0e789.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/c6195108-f3c5-4f31-a76a-b43d15c04973.mp3",
    "guid": "c6195108-f3c5-4f31-a76a-b43d15c04973",
    "title": "Day 302: The Pursuit of Wisdom (2026)"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 1398,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/29cae658-534a-47b8-bdfb-ffd4bde185ad.mp3",
-   "guid": "29cae658-534a-47b8-bdfb-ffd4bde185ad",
-   "title": "Day 301: Rising Again (2026)"
   }
  ]
 }

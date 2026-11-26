@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 4722,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2770007115.mp3",
+   "guid": "38ffadac-e8e1-11f1-a448-af57e857471c",
+   "title": "726. The Death of Captain Cook: Massacre on the Beach (Part 2)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 5158,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6692579488.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4877520736.mp3",
    "guid": "f0d4749a-9728-11f1-a724-e7821230328e",
    "title": "697. The Troubles: Murder in Belfast (Part 1)"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 4189,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2334035496.mp3",
-   "guid": "66edb3ac-94b9-11f1-ada5-b7fb80176bc4",
-   "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)"
   }
  ]
 }

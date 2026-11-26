@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3643,
+   "enclosure": "https://traffic.megaphone.fm/SCIM2553863461.mp3",
+   "guid": "ce1d0c9e-e88d-11f1-a9af-97eebdfbe80f",
+   "title": "A Deep Dive Into Palmer Luckey’s Bank | Jacob Hirshman, Erebor"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 4182,
    "enclosure": "https://traffic.megaphone.fm/SCIM8129984440.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/SCIM7686081189.mp3",
    "guid": "13040624-8325-11f1-834f-7377e2e16888",
    "title": "The Restaurant Genius Behind Carbone, ZZ’s, Torrisi & More | Jeff Zalaznick"
-  },
-  {
-   "date": "2026-07-12",
-   "durationSec": 3529,
-   "enclosure": "https://traffic.megaphone.fm/SCIM4434587074.mp3",
-   "guid": "b63590f4-7db4-11f1-a7da-93832f21367c",
-   "title": "Eric Glyman, Co-founder of Ramp"
   }
  ]
 }

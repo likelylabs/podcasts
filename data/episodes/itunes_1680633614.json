@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1678,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130122747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437646451-44100-2-5bfe36b839b42.mp3",
+   "guid": "eda4b892-9917-49c9-b82e-6a2f5e6ac0c0",
+   "title": "How to Talk About AI at Thanksgiving"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1782,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130043247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437541143-44100-2-3f2cc326c94d7.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127968273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434838595-44100-2-2b56a37789614.mp3",
    "guid": "62d1d33d-62be-436b-8d5b-de9330b4b55e",
    "title": "The Most Concerning AI Bubble Signals"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1688,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127912717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434765371-44100-2-ba24a88164185.mp3",
-   "guid": "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
-   "title": "The AI vs AI Battle for the Internet"
   }
  ]
 }

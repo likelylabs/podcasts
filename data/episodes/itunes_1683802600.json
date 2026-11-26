@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 715,
+   "enclosure": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4117722841.mp3",
+   "guid": "99f41ab0-e852-11f1-8392-7f99a26259ce",
+   "title": "How Hedge Funds Are Navigating Stock Market Volatility"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 631,
    "enclosure": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7851843506.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8921187590.mp3",
    "guid": "10248f94-39d0-11f1-84e6-7be9fd26204d",
    "title": "Chase or Fade the Rally?"
-  },
-  {
-   "date": "2026-04-10",
-   "durationSec": 585,
-   "enclosure": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD5315174599.mp3",
-   "guid": "f1814fc6-3454-11f1-be1d-5bc912834995",
-   "title": "Big Tech Opportunity"
   }
  ]
 }

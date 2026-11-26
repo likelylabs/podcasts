@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2738,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/25-45828-gnl.fw.jg.25112026.poor_showing_in_europe_for_prem.mp3",
+   "guid": "6b0691458f08a16dd5e43f19",
+   "title": "Premier League sides stumble in Europe and Bellingham brilliance - Football Weekly"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3411,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/23-45373-gnl.fw.jg.23112026.welcome_pochettino.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/17-44860-gdn.fw.20261709.tp.Manchester_united_crash_out_of_cup_again_at_first_hurdle.mp3",
    "guid": "6aaba4ea8f08c4af80ed61b9",
    "title": "Manchester United crisis klaxon alert and Sunderland soar: Football Weekly Extra"
-  },
-  {
-   "date": "2026-09-15",
-   "durationSec": 2896,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/14-58686-gdn.fw.20261509.tp.Kane_scores_again_Barcelona_stay_perfect_as_ballon_dor_debate_intensifies.mp3",
-   "guid": "6aa8017c8f085b2bd2162645",
-   "title": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly"
   }
  ]
 }

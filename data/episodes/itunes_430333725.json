@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-25",
+   "durationSec": 2301,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8650026494.mp3",
+   "guid": "476f892c-e8d5-11f1-adbe-5b74d303eb28",
+   "title": "Big Tech is ready to spend even bigger to win in 2028"
+  },
+  {
+   "date": "2026-11-25",
    "durationSec": 2166,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2774880051.mp3",
    "guid": "cc63f002-c3c7-11f0-8340-cb9f192b0822",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8399712454.mp3",
    "guid": "cb68b3b8-c3c7-11f0-8340-9fd6c7b49460",
    "title": "Apple's HomeView has an app problem"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 2343,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8179591152.mp3",
-   "guid": "4a6c39c4-6e7b-11f1-94bf-5b791dc3d173",
-   "title": "Everything's recording everybody. What now?"
   }
  ]
 }

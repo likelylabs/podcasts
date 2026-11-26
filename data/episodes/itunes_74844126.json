@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1428,
+   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/139b4fc0-b824-4be8-8399-241f68a223f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=139b4fc0-b824-4be8-8399-241f68a223f3&feed=ui_HbBma",
+   "guid": "A7CAB2E6-C2D3-425D-B8CB-F13AF19BF8FD",
+   "title": "How Jensen Huang and Sam Altman ‘Un-Fired’ Themselves"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 582,
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/573dd297-45b8-4f13-9903-329b69c75b0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=573dd297-45b8-4f13-9903-329b69c75b0b&feed=ui_HbBma",
@@ -202,13 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/1c75e7f6-d8cf-40ba-b5cd-69f6b620fb34/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=1c75e7f6-d8cf-40ba-b5cd-69f6b620fb34&feed=ui_HbBma",
    "guid": "241E84A2-1056-44FA-B8D7-476F054C7C02",
    "title": "Can Tesla’s New Roadster Live Up to Nearly a Decade of Hype?"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 629,
-   "enclosure": "https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/75b55387-f253-4e8b-b86a-d57cad3a3d3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=75b55387-f253-4e8b-b86a-d57cad3a3d3f&feed=ui_HbBma",
-   "guid": "1647F54A-EF07-45ED-94AB-3B6258D858E4",
-   "title": "Some Wearables Can Track Blood Pressure. Do They Work?"
   }
  ]
 }

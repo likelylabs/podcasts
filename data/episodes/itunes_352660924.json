@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2539,
+   "enclosure": "https://mcdn.podbean.com/mf/web/egg624nqkgwdbw2v/261125_HospitalityAndGodsGrace.mp3",
+   "guid": "ginl.podbean.com/3b8b904d-6a7b-3f93-b6c3-9ea2227bc081",
+   "title": "Hospitality and God’s Grace"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2531,
    "enclosure": "https://mcdn.podbean.com/mf/web/z4kmttkvphu8g7je/261123_GenerosityAndRelationships.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://mcdn.podbean.com/mf/web/97k93qkhtsqqmr2c/260921_PoliticsOfTheKingdom.mp3",
    "guid": "ginl.podbean.com/ad657892-7361-30c5-8201-f1d11ecd67eb",
    "title": "Politics of the Kingdom"
-  },
-  {
-   "date": "2026-09-20",
-   "durationSec": 823,
-   "enclosure": "https://mcdn.podbean.com/mf/web/iajwmz3bivtrmdht/260919_TheStoriesWeLiveBy_v27pbsd.mp3",
-   "guid": "ginl.podbean.com/272ec89c-067b-34a9-a4a1-76b7f8b1bb6b",
-   "title": "The Stories We Live By"
   }
  ]
 }

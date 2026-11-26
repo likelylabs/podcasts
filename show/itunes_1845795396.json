@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1845795396",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP57 茶餐廳早餐ABCD",
+   "date": "2026-11-25",
+   "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/17d3ff1d-28ae-435d-b27d-029811036e60/rssFileVip.mp3?timestamp=1795581540104",
+   "durationSec": 1876,
+   "guid": "17d3ff1d-28ae-435d-b27d-029811036e60"
+  },
   {
    "title": "EP56 舊電腦 回憶殺",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/ee41c684-26c1-4f00-ad79-f995ef3ba598/rssFileVip.mp3?timestamp=1782882319981",
    "durationSec": 1715,
    "guid": "ee41c684-26c1-4f00-ad79-f995ef3ba598"
-  },
-  {
-   "title": "EP27 我係儲分人",
-   "date": "2026-04-29",
-   "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/512d0816-3db9-4685-8e16-646d33702584/rssFileVip.mp3?timestamp=1782882301184",
-   "durationSec": 1854,
-   "guid": "512d0816-3db9-4685-8e16-646d33702584"
   }
  ]
 }

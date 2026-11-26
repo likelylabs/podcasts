@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 406,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3113468.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3113468?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Lisnard : une percée qui bouscule la droite...et le RN ? Vos questions sms -"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 3746,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3113401.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3113401?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Lisnard : une percée qui bouscule la droite...et le RN ? - L'intégrale -"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 676,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3101207.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3101207?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Érik Orsenna - ce qu'il a vu à l'Elysée"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 337,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3101614.mp3?origin=rss",
@@ -188,27 +209,6 @@
    "enclosure": "https://api.octopus.saooti.com/podcast/download/2993162.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/2993162?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Olivier Mas - Comment une espionne chinoise a piégé un grand patron américain?"
-  },
-  {
-   "date": "2026-11-14",
-   "durationSec": 198,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2993197.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2993197?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Le milliardaire et l'espionne chinoise : Trump dans le viseur - Vos questions sms -"
-  },
-  {
-   "date": "2026-11-14",
-   "durationSec": 3839,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2993198.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2993198?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Le milliardaire et l'espionne chinoise: Trump dans le viseur - L'intégrale -"
-  },
-  {
-   "date": "2026-11-13",
-   "durationSec": 660,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2985314.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2985314?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Alice Rufo - frigos piratés, alertes à la bombe...qui menace la France?"
   }
  ]
 }

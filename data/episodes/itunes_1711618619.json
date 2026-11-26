@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1299,
+   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/3281c45b-1ae8-4cae-8b81-1d3194d2b777/rssFileVip.mp3?timestamp=1795649749644",
+   "guid": "3281c45b-1ae8-4cae-8b81-1d3194d2b777",
+   "title": "EP278 | 連融資都在隔日沖 這個盤到底有多瘋"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 1561,
-   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/b24325f0-7331-497d-abf0-7a0026b6a0d2/rssFileVip.mp3?timestamp=1795325687432",
+   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/b24325f0-7331-497d-abf0-7a0026b6a0d2/rssFileVip.mp3?timestamp=1795326442446",
    "guid": "b24325f0-7331-497d-abf0-7a0026b6a0d2",
    "title": "EP277 | 停損捨不得，攤平又害怕，一次看懂台股流動性危機"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/82fbcab9-7810-413e-92c7-d6bbc4b64484/rssFileVip.mp3?timestamp=1786300893347",
    "guid": "82fbcab9-7810-413e-92c7-d6bbc4b64484",
    "title": "EP250 | 處置股規則大改，熱門股會更好做嗎 ？"
-  },
-  {
-   "date": "2026-08-06",
-   "durationSec": 1347,
-   "enclosure": "https://rss.soundon.fm/rssf/70907bd6-d0ae-4b64-bc38-2bf48ae4fc36/feedurl/e4c5954a-4816-4ca4-a6cb-f1796deaaa2f/rssFileVip.mp3?timestamp=1786041662891",
-   "guid": "e4c5954a-4816-4ca4-a6cb-f1796deaaa2f",
-   "title": "EP249 | 美國限制中國後，AI股還有第二波行情嗎？"
   }
  ]
 }

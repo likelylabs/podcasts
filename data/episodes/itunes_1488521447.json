@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-25",
+   "durationSec": 2787,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b06e92b8017d52a71a094f6/media.mp3",
+   "guid": "6b06e92b8017d52a71a094f6",
+   "title": "Why are Man City a shadow of themselves?"
+  },
+  {
+   "date": "2026-11-25",
    "durationSec": 3247,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b05bb26adf1e02d02bb28b1/media.mp3",
    "guid": "6b05bb26adf1e02d02bb28b1",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ad8d2e9f92693313cc1382f/media.mp3",
    "guid": "6ad8d2e9f92693313cc1382f",
    "title": "PSG’s three-peat war path + Ten Hag fallout"
-  },
-  {
-   "date": "2026-10-20",
-   "durationSec": 3175,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ad7574910faf2bcfcce958b/media.mp3",
-   "guid": "6ad7574910faf2bcfcce958b",
-   "title": "Who is the best team in Europe right now?"
   }
  ]
 }

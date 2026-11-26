@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1085,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML3302147512.mp3",
+   "guid": "59809d64-05d6-11f1-8acd-37fec6bdc14d",
+   "title": "Who Will Win the Robotaxi Race?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1398,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML4665255207.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML6360282794.mp3",
    "guid": "385b79ba-05d6-11f1-bdf8-879cd0613325",
    "title": "SoFi’s Earnings Shine While PayPal & Boeing’s Earnings Look “Meh”"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 1164,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML9444649499.mp3",
-   "guid": "383ba946-05d6-11f1-bdf8-63b5da726a8f",
-   "title": "Anthropic’s $500 Billion Question"
   }
  ]
 }

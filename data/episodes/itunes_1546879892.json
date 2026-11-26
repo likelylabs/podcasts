@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1668,
+   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/de9aebf7-5011-4a67-b857-40e643ef5d3b/rssFileVip.mp3?timestamp=1795655822639",
+   "guid": "de9aebf7-5011-4a67-b857-40e643ef5d3b",
+   "title": "2026/11/26(四)  落底訊號出現了嗎？"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1760,
-   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/1b7fa62e-6acd-4bd9-9775-b4dd49cde7ff/rssFileVip.mp3?timestamp=1795569304263",
+   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/1b7fa62e-6acd-4bd9-9775-b4dd49cde7ff/rssFileVip.mp3?timestamp=1795580671810",
    "guid": "1b7fa62e-6acd-4bd9-9775-b4dd49cde7ff",
    "title": "2026/11/25(三)  輝達又跌，抄底趁現在？Tesla SpaceX真的要合併？"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/220e1c6b-b99d-457b-9f98-7f84f7085a4d/rssFileVip.mp3?timestamp=1791952515242",
    "guid": "220e1c6b-b99d-457b-9f98-7f84f7085a4d",
    "title": "2026/10/14(三) AI泡沫重演2008？Apple推新智能家居HomeView"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 1731,
-   "enclosure": "https://rss.soundon.fm/rssf/4a8660a0-e0d0-490b-8d46-c28219606f47/feedurl/90282731-9478-4e46-b5f1-6f6571f4ccc4/rssFileVip.mp3?timestamp=1791866033585",
-   "guid": "90282731-9478-4e46-b5f1-6f6571f4ccc4",
-   "title": "2026/10/13(二) AI缺資金嗎，費半為何再崩潰？"
   }
  ]
 }

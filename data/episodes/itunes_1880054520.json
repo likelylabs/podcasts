@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1292,
+   "enclosure": "https://content.rss.com/episodes/374902/3318021/admit-it/2026_11_13_14_24_36_d9e26c23-6676-4e78-a8f5-c19e55fa8e5c.mp3",
+   "guid": "4da797ad-9f5d-4944-a7eb-49bbaefef2c1",
+   "title": "Finding Direction in Life"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1582,
    "enclosure": "https://content.rss.com/episodes/374902/3318006/admit-it/2026_11_13_14_16_14_54921e00-74d3-4512-b079-6b4aad962723.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://content.rss.com/episodes/374902/2774523/admit-it/2026_04_28_14_17_04_f8033948-7e8f-44dc-8305-c2dc64e4a947.mp3",
    "guid": "1ae2eab8-fef1-4be0-b510-17b825f9cdf6",
    "title": "Can You Admit It?"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 369,
-   "enclosure": "https://content.rss.com/episodes/374902/2774514/admit-it/2026_04_28_14_13_00_8647049c-5dcf-47ad-a375-6446b3b5b761.mp3",
-   "guid": "46e9176b-d151-457f-9006-2b09b9e0bece",
-   "title": "The Grip of Fear"
   }
  ]
 }

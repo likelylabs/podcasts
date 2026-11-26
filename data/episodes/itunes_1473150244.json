@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1593,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppy2zf.mp3",
+   "guid": "urn:bbc:podcast:p0ppy2zy",
+   "title": "Is Trump risking the global economy on Jensen Huang?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1629,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppjjln.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pchv3q.mp3",
    "guid": "urn:bbc:podcast:w3ct8lzp",
    "title": "Has Trump’s ban against the media backfired?"
-  },
-  {
-   "date": "2026-09-24",
-   "durationSec": 1283,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc3glr.mp3",
-   "guid": "urn:bbc:podcast:p0pc3j27",
-   "title": "Did Trump's UN speech convince voters on Iran?"
   }
  ]
 }

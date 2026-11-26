@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3294,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b05c6a2ced26bb7230d9d15/media.mp3",
+   "guid": "6b05c6a2ced26bb7230d9d15",
+   "title": "Why F1’s biggest names are going to war"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2675,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b04704f794e824f621284b6/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6acdeaae65f99a36eb537be6/media.mp3",
    "guid": "6acdeaae65f99a36eb537be6",
    "title": "Mailbag: Is Russell F1’s most underwhelming pre-season favourite?"
-  },
-  {
-   "date": "2026-10-12",
-   "durationSec": 3724,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6acc00488f340788893f236b/media.mp3",
-   "guid": "6acc00488f340788893f236b",
-   "title": "Singapore GP: How Ferrari gave Verstappen an easy route to first Marina Bay win"
   }
  ]
 }

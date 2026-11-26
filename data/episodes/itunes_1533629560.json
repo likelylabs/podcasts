@@ -1,23 +1,30 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1222,
+   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/d5ae236c-84a8-45f4-b38f-687db706dca4/rssFileVip.mp3?timestamp=1795596832672",
+   "guid": "d5ae236c-84a8-45f4-b38f-687db706dca4",
+   "title": "AI 泡沫？貨攬業者駁：我們真的在運這些貨｜#聽了財知道 EP389"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1013,
-   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/304e4fd9-0318-4fbf-a6ca-93fe2746119e/rssFileVip.mp3?timestamp=1795424910506",
+   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/304e4fd9-0318-4fbf-a6ca-93fe2746119e/rssFileVip.mp3?timestamp=1795471823674",
    "guid": "304e4fd9-0318-4fbf-a6ca-93fe2746119e",
    "title": "劉德音台大閉門演講 揭開半導體殘酷真相｜#聽了財知道 EP388 #劉德音"
   },
   {
    "date": "2026-11-21",
    "durationSec": 1498,
-   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/3b77962c-8fef-438b-8498-62d299bad150/rssFileVip.mp3?timestamp=1795169047369",
+   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/3b77962c-8fef-438b-8498-62d299bad150/rssFileVip.mp3?timestamp=1795169323658",
    "guid": "3b77962c-8fef-438b-8498-62d299bad150",
    "title": "黃仁勳 AI 風暴全解析｜#財訊不漏接 EP069 #財訊podcast #nvidia #黃仁勳"
   },
   {
    "date": "2026-11-18",
    "durationSec": 1061,
-   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/bd6d517f-2f94-4776-8114-77d112e9877c/rssFileVip.mp3?timestamp=1795212730174",
+   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/bd6d517f-2f94-4776-8114-77d112e9877c/rssFileVip.mp3?timestamp=1795107738530",
    "guid": "bd6d517f-2f94-4776-8114-77d112e9877c",
    "title": "預售屋掀起解約潮 營建股的新變數｜#聽了財知道 EP387 #房地產"
   },
@@ -45,7 +52,7 @@
   {
    "date": "2026-11-13",
    "durationSec": 709,
-   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/b3de8c8f-d6f8-4ce1-a392-b0683d6432d3/rssFileVip.mp3?timestamp=1794812239650",
+   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/b3de8c8f-d6f8-4ce1-a392-b0683d6432d3/rssFileVip.mp3?timestamp=1794550986233",
    "guid": "b3de8c8f-d6f8-4ce1-a392-b0683d6432d3",
    "title": "洋流席捲全台灣 台北市長選戰變天？｜#老謝開講 EP301 #財訊"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/6df29b74-db71-43c9-a719-c79aa8bb00bc/rssFileVip.mp3?timestamp=1791770226846",
    "guid": "6df29b74-db71-43c9-a719-c79aa8bb00bc",
    "title": "拒絕進入大語言紅海 資策會押注實體 AI｜#財訊不漏接 EP056 #財訊podcast #LLM #資策會"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 1222,
-   "enclosure": "https://rss.soundon.fm/rssf/0de673e9-8be2-4863-8b50-ccacb785bfda/feedurl/be064177-5a64-4fb8-b21a-e7ddff76d732/rssFileVip.mp3?timestamp=1792946018733",
-   "guid": "be064177-5a64-4fb8-b21a-e7ddff76d732",
-   "title": "掌握千億家產 宏泰集團林鴻南 竟是社恐 I 人｜#聽了財知道 EP374 #宏泰 #公益信託"
   }
  ]
 }

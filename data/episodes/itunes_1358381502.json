@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 234,
+   "enclosure": "https://api.spreaker.com/download/episode/76582696/utf_8_q_wsbf_5fcombined_5f112526_11_25_26_6_05_e2_80_afam_wav.mp3",
+   "guid": "https://api.spreaker.com/episode/76582696",
+   "title": "New FAA rule clouds Thanksgiving travel"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 261,
    "enclosure": "https://api.spreaker.com/download/episode/76557976/utf_8_q_wsbf_5fcombined_5f112426_11_24_26_7_36_e2_80_afam_wav.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://api.spreaker.com/download/episode/76133785/utf_8_q_wsbf_5fb_5fcombined_5f110226_11_2_26_6_52_e2_80_afam_wav.mp3",
    "guid": "https://api.spreaker.com/episode/76133785",
    "title": "S&P cuts Meta's credit outlook to negative"
-  },
-  {
-   "date": "2026-11-01",
-   "durationSec": 268,
-   "enclosure": "https://api.spreaker.com/download/episode/76112335/utf_8_q_wsb_5fcombined_5f110126_11_1_26_9_35_e2_80_afam_wav.mp3",
-   "guid": "https://api.spreaker.com/episode/76112335",
-   "title": "Midterms put Congress up for grabs"
   }
  ]
 }

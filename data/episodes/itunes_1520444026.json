@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1372,
+   "enclosure": "https://traffic.megaphone.fm/STM4451893608.mp3",
+   "guid": "cd64f2ec-e7fe-11f1-82ea-57fa72afa82e",
+   "title": "Do You Know About Ladybugs? 🐞"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1523,
    "enclosure": "https://traffic.megaphone.fm/STM2030397357.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM1777570276.mp3",
    "guid": "de9af8b6-5953-11f1-a112-7fb06b83eeaf",
    "title": "Fun Facts: Bodies, Beasts, and the Big Beyond 🧠🐾🚀"
-  },
-  {
-   "date": "2026-05-20",
-   "durationSec": 1610,
-   "enclosure": "https://traffic.megaphone.fm/STM6004014175.mp3",
-   "guid": "429d42de-53d6-11f1-9a20-7b4bd403108d",
-   "title": "Understanding Animals: Do you know about crocodiles? 🐊"
   }
  ]
 }

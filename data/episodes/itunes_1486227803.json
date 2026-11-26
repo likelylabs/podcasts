@@ -1,9 +1,30 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 537,
+   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/3fb9f84a-17e0-48ff-ab53-62a368bd1fd0/rssFileVip.mp3?timestamp=1795641192186",
+   "guid": "3fb9f84a-17e0-48ff-ab53-62a368bd1fd0",
+   "title": "【天下零時差11.26.26】黃仁勳回歸，輝達供應商怎麼看？"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 2275,
+   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/545a6905-48fd-4850-87e5-e9c6d130ec80/rssFileVip.mp3?timestamp=1795599099809",
+   "guid": "545a6905-48fd-4850-87e5-e9c6d130ec80",
+   "title": "【永續會Ep.124】護國神山背後的減碳推手！ASML 台灣總經理汪佳慧，解析企業永續共融文化"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 2126,
+   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/d39c1a79-ccd4-4eba-b4ed-799e85635ec8/rssFileVip.mp3?timestamp=1795599099137",
+   "guid": "d39c1a79-ccd4-4eba-b4ed-799e85635ec8",
+   "title": "【教育不停學】孩子如何從新竹，走進世界？"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 345,
-   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/832a4221-ade6-468b-b3f1-79efd9e963a0/rssFileVip.mp3?timestamp=1795572365916",
+   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/832a4221-ade6-468b-b3f1-79efd9e963a0/rssFileVip.mp3?timestamp=1795599098745",
    "guid": "832a4221-ade6-468b-b3f1-79efd9e963a0",
    "title": "【天下零時差11.25.26】韓國AI作弊連環爆：240萬檢舉金、教育部長下台，為何AI讓人更想投機？"
   },
@@ -188,27 +209,6 @@
    "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/7576382b-1a85-4dd6-bfa9-1096e670afc2/rssFileVip.mp3?timestamp=1794390071402",
    "guid": "7576382b-1a85-4dd6-bfa9-1096e670afc2",
    "title": "【銀天下】當我們都會變老，AI如何把時間還給照顧者？直擊新北「高齡長期照顧處」！從定位鞋墊、防跌偵測到賦能運動，打造有溫度的智慧長照"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 606,
-   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/2486a1b8-cd32-4069-84d4-6aaa438030bd/rssFileVip.mp3?timestamp=1794390070480",
-   "guid": "2486a1b8-cd32-4069-84d4-6aaa438030bd",
-   "title": "【天下零時差11.11.26】黃仁勳撐得過這一次的風暴嗎？3.6%持股成為權力弱點"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 4612,
-   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/8f858fa0-e489-4ced-a075-d0ce1c6ea121/rssFileVip.mp3?timestamp=1794304020752",
-   "guid": "8f858fa0-e489-4ced-a075-d0ce1c6ea121",
-   "title": "【經濟學人@天下 Ep.281】川普大翻船！共和黨經歷挫敗後，兩黨下一步要怎麼走？"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 445,
-   "enclosure": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/7ee19d83-75f6-4755-a435-cd99aa5413d9/rssFileVip.mp3?timestamp=1794304019904",
-   "guid": "7ee19d83-75f6-4755-a435-cd99aa5413d9",
-   "title": "【天下零時差11.10.26】「駭客颱風季」籠罩台灣　開源模型不再安全？5招建立資安防線！"
   }
  ]
 }

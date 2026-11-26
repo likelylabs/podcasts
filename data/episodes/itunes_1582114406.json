@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 320,
+   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/130074161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F306c6290-5921-75c0-b966-3ea8c2d380d0.mp3",
+   "guid": "7dc053ce-fbd6-49ff-a57d-759d077344a2",
+   "title": "App Helps People Help Trees in Germany"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 323,
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/130005383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fb25335ae-7dc7-ee12-3005-944c53cda84e.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127505636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fcdc6c506-132c-8053-d2f9-81c929732f2f.mp3",
    "guid": "10c4a7d6-3f01-44f9-bad1-178d9d916387",
    "title": "A Soccer School Saves a Team"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 339,
-   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127452655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2Fc618cb44-754e-7387-0689-0836e84059cc.mp3",
-   "guid": "fd79b014-5a03-414f-ae9b-6f24ddee86e5",
-   "title": "Tainan Takes Care of Stray Animals at New Shelter"
   }
  ]
 }

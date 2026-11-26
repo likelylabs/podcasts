@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1876,
+   "enclosure": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6b0598c3ced26bb723f43b2a/media.mp3",
+   "guid": "6b0598c3ced26bb723f43b2a",
+   "title": "Euroclear CEO: Europe’s Financial Markets, Frozen Russian Assets and Tokenisation"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 717,
    "enclosure": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6aff3b4d8f8ad2908faa4583/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a73c41daa557e62dcdfd3e1/media.mp3",
    "guid": "6a73c41daa557e62dcdfd3e1",
    "title": "HIGHLIGHTS: Susan Cain"
-  },
-  {
-   "date": "2026-08-05",
-   "durationSec": 2288,
-   "enclosure": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a71bfff2031aa1a283a1af9/media.mp3",
-   "guid": "6a71bfff2031aa1a283a1af9",
-   "title": "Susan Cain: Why Introverts Make Great Leaders, Staying Human in the AI Age and the Bittersweet Life"
   }
  ]
 }

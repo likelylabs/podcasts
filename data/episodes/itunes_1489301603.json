@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1088,
+   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/af8749e6/70acc1c6.mp3",
+   "guid": "32134124-cafe-4616-b30f-6027b1c891d4",
+   "title": "[Black Friday Freebie #4] The Unusual British News of 2025"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1651,
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/79bb228c/7892332c.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/a1da504e/bd04d856.mp3",
    "guid": "93e6817f-4348-42af-b573-06a7f99123ce",
    "title": "#582 | Piazza Fontana & The Accidental Death of An Anarchist"
-  },
-  {
-   "date": "2025-11-21",
-   "durationSec": 1315,
-   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/2b490114/ac1e6cc7.mp3",
-   "guid": "fe81e6d6-e233-4616-ab4e-ff4baf1485ba",
-   "title": "#580 | Operation Valkyrie & The Plot To Kill Hitler"
   }
  ]
 }

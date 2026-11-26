@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 508,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/708e74fd-2bbd-4840-8e8d-97da6ea423f9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=708e74fd-2bbd-4840-8e8d-97da6ea423f9&feed=IFy3imsg&t=podcast&e=nx-s1-6053235&p=510325&d=508&size=8129393",
+   "guid": "8813bae8-fd34-40b6-a535-3d56f927066f",
+   "title": "Sorry, even store brands are expensive now"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 569,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/847a48ee-4e48-47d5-9d3a-ae9acac40684/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=847a48ee-4e48-47d5-9d3a-ae9acac40684&feed=IFy3imsg&t=podcast&e=nx-s1-6051562&p=510325&d=569&size=9111994",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/dffa7745-568d-4656-a698-e11117f57ce9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=dffa7745-568d-4656-a698-e11117f57ce9&feed=IFy3imsg&t=podcast&e=nx-s1-6004278&p=510325&d=553&size=8856225",
    "guid": "c7ce6c91-840b-449a-800b-f918f58548a7",
    "title": "Supercore inflation, Bumble valuation and Pooh's repatriation"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 492,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3c0f1911-9fff-46e3-bfed-1fcc0682e7e9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3c0f1911-9fff-46e3-bfed-1fcc0682e7e9&feed=IFy3imsg&t=podcast&e=nx-s1-6002938&p=510325&d=492&size=7876109",
-   "guid": "8585c5a3-1058-4ac4-9bba-c2175731c78f",
-   "title": "How did political campaigns get so expensive?"
   }
  ]
 }

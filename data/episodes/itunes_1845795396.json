@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1876,
+   "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/17d3ff1d-28ae-435d-b27d-029811036e60/rssFileVip.mp3?timestamp=1795581540104",
+   "guid": "17d3ff1d-28ae-435d-b27d-029811036e60",
+   "title": "EP57 茶餐廳早餐ABCD"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1994,
    "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/61729af0-fc61-4e77-8e48-672c319a99e7/rssFileVip.mp3?timestamp=1794977744868",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/ee41c684-26c1-4f00-ad79-f995ef3ba598/rssFileVip.mp3?timestamp=1782882319981",
    "guid": "ee41c684-26c1-4f00-ad79-f995ef3ba598",
    "title": "EP28 媽媽撚手小菜"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 1854,
-   "enclosure": "https://rss.soundon.fm/rssf/519eab15-78dd-43f8-835c-3aa3965a17fd/feedurl/512d0816-3db9-4685-8e16-646d33702584/rssFileVip.mp3?timestamp=1782882301184",
-   "guid": "512d0816-3db9-4685-8e16-646d33702584",
-   "title": "EP27 我係儲分人"
   }
  ]
 }

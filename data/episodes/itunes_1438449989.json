@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 744,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b0620af38d4dce52709bcbe/media.mp3",
+   "guid": "6b0620af38d4dce52709bcbe",
+   "title": "The tech bros strike back"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 846,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b04daea1543e10360312596/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adb202823f48c4f24a22a30/media.mp3",
    "guid": "6adb202823f48c4f24a22a30",
    "title": "Martin Wolf on the US midterms: What’s at stake for the world?"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 885,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adab0bfb4643bca15ec48b1/media.mp3",
-   "guid": "6adab0bfb4643bca15ec48b1",
-   "title": "US prepared for protracted stalemate with Iran"
   }
  ]
 }

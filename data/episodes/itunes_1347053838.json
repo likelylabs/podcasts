@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 202,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/728815ce-a243-4f23-b4ab-b501008092e3/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
+   "guid": "728815ce-a243-4f23-b4ab-b501008092e3",
+   "title": "2511 像看电影一样倾听"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 201,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/034b1221-468c-4ab1-850c-b4fe00ae171a/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/b7c46f2b-1961-4e96-8a19-b4da0086219b/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
    "guid": "b7c46f2b-1961-4e96-8a19-b4da0086219b",
    "title": "0610 不要去责怪任何人"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 177,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/3c2fbc51-f461-48b7-b71d-b4da00845282/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
-   "guid": "3c2fbc51-f461-48b7-b71d-b4da00845282",
-   "title": "0510 维持高质量关系的做法"
   }
  ]
 }

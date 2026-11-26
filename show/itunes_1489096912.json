@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1489096912",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP1755 我們有最寶貴的源頭",
+   "date": "2026-11-26",
+   "enclosure": "https://anchor.fm/s/107a0994/podcast/play/128079718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F49e59632-8f88-d394-95ec-156adbbea312.mp3",
+   "durationSec": 517,
+   "guid": "94d15294-60ac-4b48-9ab1-3bbf9f21a3bc"
+  },
   {
    "title": "EP1754 心靈經歷神的重要(3)",
    "date": "2026-11-25",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/107a0994/podcast/play/125752081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F7213533d-7442-db98-4ba7-dec9301a6ae6.mp3",
    "durationSec": 573,
    "guid": "a40bad1f-b144-4471-ac22-a0cb9424ed81"
-  },
-  {
-   "title": "EP1725 永恆者愛的目光(2)",
-   "date": "2026-10-14",
-   "enclosure": "https://anchor.fm/s/107a0994/podcast/play/125752044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2Fa46fa329-6ffe-7be5-daa1-be9f33113d19.mp3",
-   "durationSec": 481,
-   "guid": "147cae0c-488c-4fa5-804d-82eb326b2a49"
   }
  ]
 }

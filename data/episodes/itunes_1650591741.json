@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1016,
+   "enclosure": "https://traffic.megaphone.fm/ALLE7171373006.mp3",
+   "guid": "7fbc8bb0-e16c-11f1-8804-5bbaaa54504f",
+   "title": "BE: Can Your Boss Trust You?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1263,
    "enclosure": "https://traffic.megaphone.fm/ALLE9565236581.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE8640310516.mp3",
    "guid": "32683844-a9a1-11f1-a919-8fbf79e5b261",
    "title": "BE 624: Hear Me Out! Phrases for Grabbing Attention and Asking for Respect"
-  },
-  {
-   "date": "2026-09-20",
-   "durationSec": 1080,
-   "enclosure": "https://traffic.megaphone.fm/ALLE3407936765.mp3",
-   "guid": "12884d2a-a9a1-11f1-9223-833d645f7cd2",
-   "title": "BE 623: Couldn't Help But Overhear? What to Do Now!"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1019,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/c8bf226e-c496-4659-a11a-2bdf977e3f48/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=c8bf226e-c496-4659-a11a-2bdf977e3f48&feed=QGMNw0q1&t=podcast&e=nx-s1-6053037&p=510282&d=1019&size=16319282",
+   "guid": "78b89cfb-232d-40fa-87eb-5897766df879",
+   "title": "Focker-In-Law"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1472,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/16387654-f838-41fd-a436-2eace79e5f49/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=16387654-f838-41fd-a436-2eace79e5f49&feed=QGMNw0q1&t=podcast&e=nx-s1-6050256&p=510282&d=1472&size=23564583",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/d0c1cd59-a311-42cd-b91b-8c5a0daa2e67/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=d0c1cd59-a311-42cd-b91b-8c5a0daa2e67&feed=QGMNw0q1&t=podcast&e=nx-s1-5987804&p=510282&d=1411&size=22592827",
    "guid": "c2b0cbfb-096e-42e2-91cc-a2d0703e8975",
    "title": "Verity"
-  },
-  {
-   "date": "2026-10-02",
-   "durationSec": 1325,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/c5fcf0a4-164c-43af-b4d2-e36c690df3cc/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=c5fcf0a4-164c-43af-b4d2-e36c690df3cc&feed=QGMNw0q1&t=podcast&e=nx-s1-5987700&p=510282&d=1325&size=21216489",
-   "guid": "7af6459d-a302-4acc-9b6a-a85f52ba61ae",
-   "title": "Digger and What’s Making Us Happy"
   }
  ]
 }

@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-25",
+   "durationSec": 986,
+   "enclosure": "https://traffic.megaphone.fm/ALLE6456788864.mp3",
+   "guid": "bbcb01b0-d7f6-11f1-b1a5-07454610a825",
+   "title": "AEE 2728: Speak English Naturally Out of Habit"
+  },
+  {
+   "date": "2026-11-25",
    "durationSec": 1044,
    "enclosure": "https://traffic.megaphone.fm/ALLE4622448901.mp3",
    "guid": "9b84320a-d7f6-11f1-9e73-a3e9173c0071",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE1838463876.mp3",
    "guid": "eeef1a02-bbf6-11f1-b648-f3e42f94814c",
    "title": "AEE 2706: When to Use \"That\" in English"
-  },
-  {
-   "date": "2026-10-17",
-   "durationSec": 1111,
-   "enclosure": "https://traffic.megaphone.fm/ALLE8466926854.mp3",
-   "guid": "7cac1b9c-bb07-11f1-b06e-4b45aff1f8f0",
-   "title": "AEE: Can Movies Make You More Excited to Read?"
   }
  ]
 }

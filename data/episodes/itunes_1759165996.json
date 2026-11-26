@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 70,
+   "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a1433896ee822cbfb7d1b2f/media.mp3",
+   "guid": "6a1433896ee822cbfb7d1b2f",
+   "title": "Make Recitation Your Habit | Mufti Menk"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 507,
    "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a143244942fd18754c392a9/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a0618873fd6979bfc172592/media.mp3",
    "guid": "6a0618873fd6979bfc172592",
    "title": "Encouraging Words at the Reverts Conference in South Africa | Mufti Menk"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 3372,
-   "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a06171cd98ee73f63ca5a85/media.mp3",
-   "guid": "6a06171cd98ee73f63ca5a85",
-   "title": "Lecture - Fine-Tuning Your Social Media Habits | Mufti Menk"
   }
  ]
 }

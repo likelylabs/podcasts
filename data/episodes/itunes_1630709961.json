@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-22",
+   "durationSec": 1250,
+   "enclosure": "https://episodes.captivate.fm/episode/85f75948-330d-4ca5-8e12-ea86c5e8a99f.mp3",
+   "guid": "85f75948-330d-4ca5-8e12-ea86c5e8a99f",
+   "title": "【粵語版-曠野嗎哪】EP691 使人得自由的真理"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1275,
    "enclosure": "https://episodes.captivate.fm/episode/ff847c8a-510e-40d1-94b6-79659fc47fc3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/c5a5ade2-461a-4f64-8f96-9b3cb01fb340.mp3",
    "guid": "c5a5ade2-461a-4f64-8f96-9b3cb01fb340",
    "title": "【粵語版-曠野嗎哪】EP662 愛的耕耘"
-  },
-  {
-   "date": "2026-08-09",
-   "durationSec": 1163,
-   "enclosure": "https://episodes.captivate.fm/episode/d0403d72-2dcc-489c-b5f8-18ea6050dfb6.mp3",
-   "guid": "d0403d72-2dcc-489c-b5f8-18ea6050dfb6",
-   "title": "【粵語版-曠野嗎哪】EP661 保守你心"
   }
  ]
 }

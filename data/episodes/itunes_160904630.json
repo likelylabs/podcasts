@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 982,
+   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3",
+   "guid": "6b04888bf5587e011de1fed1",
+   "title": "Can AI show us how language works? | Jennifer Hu"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 868,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b0461613ec60db8fc5cfeba/media.mp3",
@@ -89,7 +96,7 @@
    "durationSec": 875,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3",
    "guid": "6af5e8e843d8776fbbb21b34",
-   "title": "How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich"
+   "title": "Why clean energy is an unstoppable force | Michael Liebreich"
   },
   {
    "date": "2026-11-12",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3",
    "guid": "6ad667bb98b58b8b524628ec",
    "title": "Zombie roaches and other parasite tales | Ed Yong (re-release)"
-  },
-  {
-   "date": "2026-10-30",
-   "durationSec": 960,
-   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3",
-   "guid": "6ae36e30e9e95f232bb6df41",
-   "title": "How to make friends (and keep them) | Sheridan Voysey"
   }
  ]
 }

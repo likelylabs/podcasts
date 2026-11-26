@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2567,
+   "enclosure": "https://rss.soundon.fm/rssf/3da2c44e-888c-4bcd-90f1-bd142ec6179b/feedurl/81e658a6-a906-4d50-bad3-b27456c06452/rssFileVip.mp3?timestamp=1795579943739",
+   "guid": "81e658a6-a906-4d50-bad3-b27456c06452",
+   "title": "EP174｜測不準原理 Ft. 陳嫺靜"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 4053,
    "enclosure": "https://rss.soundon.fm/rssf/3da2c44e-888c-4bcd-90f1-bd142ec6179b/feedurl/5f6f3f01-369e-4235-8eef-eb1083ddd02e/rssFileVip.mp3?timestamp=1795060024705",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/3da2c44e-888c-4bcd-90f1-bd142ec6179b/feedurl/7409c6dc-f554-4436-afe9-df18fa025349/rssFileVip.mp3?timestamp=1779301384490",
    "guid": "7409c6dc-f554-4436-afe9-df18fa025349",
    "title": "EP146｜你們是不是怕沒話聊？Ft. 9m88"
-  },
-  {
-   "date": "2026-05-13",
-   "durationSec": 3584,
-   "enclosure": "https://rss.soundon.fm/rssf/3da2c44e-888c-4bcd-90f1-bd142ec6179b/feedurl/de62d68a-ffc4-4d6e-884a-de5fb5274bc5/rssFileVip.mp3?timestamp=1778701595069",
-   "guid": "de62d68a-ffc4-4d6e-884a-de5fb5274bc5",
-   "title": "EP145｜生活可以打破常規，但嘻哈就是要用Diss解決！"
   }
  ]
 }

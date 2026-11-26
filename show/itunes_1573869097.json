@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1573869097",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "11.26（四）抬起頭來",
+   "date": "2026-11-25",
+   "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmutx5y1e00i401t6hkjydjda/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmutx5y1e00i501t6e674378e.mp3?v=1792769234710",
+   "durationSec": 434,
+   "guid": "cmutx5y1e00i401t6hkjydjda"
+  },
   {
    "title": "11.25（三）為祢作證",
    "date": "2026-11-24",
@@ -205,13 +212,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmtke7d6j0kv201y6cijn3q4j/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmtke7d6j0kv301y6b0bl5vpk.mp3?v=1790521165037",
    "durationSec": 324,
    "guid": "cmtke7d6j0kv201y6cijn3q4j"
-  },
-  {
-   "title": "10.27（二）完全交付",
-   "date": "2026-10-26",
-   "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmtke6vwr022101sn3g5n7h9f/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmtke6vwr022201sndboj95q1.mp3?v=1790521225739",
-   "durationSec": 388,
-   "guid": "cmtke6vwr022101sn3g5n7h9f"
   }
  ]
 }

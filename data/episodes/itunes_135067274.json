@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1781,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3",
+   "guid": "urn:bbc:podcast:p0ppwqrn",
+   "title": "US announces new tariffs on China and other countries"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 1799,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppr6k6.mp3",
+   "guid": "urn:bbc:podcast:p0pprc4x",
+   "title": "Huawei has been found guilty of bank fraud in the US"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1718,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3",
    "guid": "urn:bbc:podcast:p0pmgsdd",
    "title": "Russia-Ukraine talks: Prisoner release agreed"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 1640,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3",
-   "guid": "urn:bbc:podcast:p0pmcskb",
-   "title": "US soldier arrested in UK on suspicion of spying for Russia"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 1724,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
-   "guid": "urn:bbc:podcast:p0pm9szt",
-   "title": "How US model agencies helped Epstein access victims"
   }
  ]
 }

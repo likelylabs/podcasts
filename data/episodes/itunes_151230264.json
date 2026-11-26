@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1122,
+   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LeaMbGoC3S6b3Tbwj7L9N0ToaKpbnIjIIEHzI-AFNNQ",
+   "guid": "6b06bf53b6f9fb45eca7d2de",
+   "title": "Strait draw: Iran’s hot war cools"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1422,
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b0570ccced26bb723ddd995/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=q-17ioj4z3QAuNDybYAZwbCLNWUV6fEm7jIarnNyfJ0",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ad0f9cc3b418431370456ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xAGlTnlzQDVefJRYzKFVER0LXjW3twOCF7tI-j-Ctdo",
    "guid": "6ad0f9cc3b418431370456ec",
    "title": "An interview with Alice Weidel"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 1338,
-   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ad0aad75f788808a7715263/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bXVCaiOt8xiYUJIzxeyCy0mC26snJYRw7I9i-0DusRg",
-   "guid": "6ad0aad75f788808a7715263",
-   "title": "Who wants to be a millennial? Generation comeback"
   }
  ]
 }

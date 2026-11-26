@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3220,
+   "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
+   "guid": "17f79d45-e41c-478e-b687-b671a058dd7d",
+   "title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3309,
    "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4",
    "guid": "87ea13c4-1f60-4692-baf8-428bb9faf128",
    "title": "Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person"
-  },
-  {
-   "date": "2026-07-17",
-   "durationSec": 3915,
-   "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4",
-   "guid": "0705766d-11e7-4930-9cad-e98d30a94a48",
-   "title": "Are You Really Allergic to Penicillin? (Update)"
   }
  ]
 }

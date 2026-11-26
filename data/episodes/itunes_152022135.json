@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1774,
+   "enclosure": "https://audio.hbr.org/ideacast/20261120131324_193061-InnovationSummit2026_FedEx_sRajSubramaniamonInnovatingattheSpeedofGlobalCommerce.mp3",
+   "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1106b",
+   "title": "Innovation Summit 2026: FedEx’s Raj Subramaniam on Innovating at the Speed of Global Commerce"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1558,
    "enclosure": "https://audio.hbr.org/ideacast/20261120124023_745115-TheSubtleMarketingTacticsThatShapeWhatWeBuy.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio.hbr.org/ideacast/20260708172140-LeadershipSummit2026_HonestCompanyCEOCarlaVernononLeadingwithFocusinTurbulentTimes.mp3",
    "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1086b",
    "title": "Leadership Summit 2026: Honest Company CEO Carla Vernón on Leading with Focus in Turbulent Times"
-  },
-  {
-   "date": "2026-07-07",
-   "durationSec": 1624,
-   "enclosure": "https://audio.hbr.org/ideacast/20260706121716-HowLeadersCanUseAItoSolveRealBusinessProblems.mp3",
-   "guid": "tag:audio.hbr.org,2006-05-08:ideacast.1086",
-   "title": "How Leaders Can Use AI to Solve Real Business Problems"
   }
  ]
 }

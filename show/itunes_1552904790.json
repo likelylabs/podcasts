@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1552904790",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "Vol.283 游戏行业的A24应该长什么样？",
+   "date": "2026-11-26",
+   "enclosure": "https://jt.ximalaya.com//GKwRIJIO3J3wAm8EzwUBIQG4.m4a?channel=rss&album_id=46587439&track_id=1035573922&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/a5a3-audiofreehighqps/71/5A/GKwRIJIO3J3wAm8EzwUBIQG4.m4a",
+   "durationSec": 5043,
+   "guid": "xmly_track_1035573922"
+  },
   {
    "title": "商业小样54 | 可可豆一直缺，怎么不缺巧克力？",
    "date": "2026-11-23",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIMAOSPK6AXCuagTCdO2E.m4a?channel=rss&album_id=46587439&track_id=1004793119&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/19dc-audiofreehighqps/9A/D9/GKwRIMAOSPK6AXCuagTCdO2E.m4a",
    "durationSec": 2984,
    "guid": "xmly_track_1004793119"
-  },
-  {
-   "title": "Vol.268 两个劳斯莱斯",
-   "date": "2026-07-30",
-   "enclosure": "https://jt.ximalaya.com//GKwRIJEOP8-YAXQZmAS_CRQK.m4a?channel=rss&album_id=46587439&track_id=1003563933&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/1599-audiofreehighqps/0C/3B/GKwRIJEOP8-YAXQZmAS_CRQK.m4a",
-   "durationSec": 3012,
-   "guid": "xmly_track_1003563933"
   }
  ]
 }

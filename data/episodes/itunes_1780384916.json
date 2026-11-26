@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3974,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2079898218.mp3",
+   "guid": "3954e404-e830-11f1-83a0-3749c586db6b",
+   "title": "Intelligence Scoop: Why Every CIA Spy Takes a Lie Detector Test"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3922,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3956828369.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6815275119.mp3",
    "guid": "3d4d6bb6-a2c2-11f1-bcd3-1bc565635ded",
    "title": "189. 9/11: How Much Did the Saudis Know? (Ep 3)"
-  },
-  {
-   "date": "2026-08-27",
-   "durationSec": 3860,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4058564548.mp3",
-   "guid": "49d71946-a16d-11f1-8817-5b5a77079d3c",
-   "title": "188. 9/11: How to Recruit a Hijacker (Ep 2)"
   }
  ]
 }

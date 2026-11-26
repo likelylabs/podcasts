@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 258,
+   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/a89acfff-6a93-45c6-bba9-136abfa4bd40.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/Q91TPkjaxU7KDX9d6V56dcNJVacHmBu3O-NhffCxMlM",
+   "title": "Sneak Peek – Who, When, Wow: Everyday Mysteries"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 1440,
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/d698aa62-7d32-4e2c-8e71-30e9297a87c1.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/35ebb5c7-1b17-4a41-8c01-45ac4f90d268.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/ufNC9iJ6lPiXK1lTv7wdH5tSk3qsqdo-st-BsL8xcMI",
    "title": "Sneak Peek: World Organization of Wowzers Members-Only Meeting - October 2026"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 1256,
-   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/e2580a51-9c93-490e-ad4b-18529927756c.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/S4-0QNOU-Ta6tWSWLbIsFmb2CEP9z9J67QEYLp4JypI",
-   "title": "Summerville Lights: A Scientific Ghost Story (Encore)"
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2700,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppylp6.mp3",
+   "guid": "urn:bbc:podcast:p0ppynxc",
+   "title": "Kolisi, Fin Smith & Eddie Jones preview finals weekend"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 3580,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppq68v.mp3",
+   "guid": "urn:bbc:podcast:p0ppqhts",
+   "title": "Nations Pod: Does Finals Weekend Need a Rethink?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 3388,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppjk36.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p8myfj.mp3",
    "guid": "urn:bbc:podcast:p0p8n1hf",
    "title": "Conor O'Shea: Borthwick's contract, overseas rule & Red Roses"
-  },
-  {
-   "date": "2026-09-07",
-   "durationSec": 4252,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p89v0q.mp3",
-   "guid": "urn:bbc:podcast:p0p8b209",
-   "title": "Lawes, Morgan & Quirke: The New Signings"
-  },
-  {
-   "date": "2026-09-03",
-   "durationSec": 4108,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7n2ql.mp3",
-   "guid": "urn:bbc:podcast:p0p7n4dz",
-   "title": "We’re back with Itoje, Russell & Janse van Rensburg!"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1122,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e-85GFju3Hl3YIzBPXzeoFb3ZlRY8sv3zkq-NcTZ_ns",
+   "guid": "6b06bf53b6f9fb45eca7d2de",
+   "title": "Strait draw: Iran’s hot war cools"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1422,
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0570ccced26bb723ddd995/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lvdyBGVqQXVPY2pdQZCTS3N3CKiMwQ_yWZvDF187Lac",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad0f9cc3b418431370456ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4FFEtplTl3zamGgSsmOKL8xCbJEQeVg6u4IfQwLhd74",
    "guid": "6ad0f9cc3b418431370456ec",
    "title": "An interview with Alice Weidel"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 1338,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad0aad75f788808a7715263/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1TLXAXYY5SuAVglDd_MGYnU5JdH5hdcJH0RicSXq2ks",
-   "guid": "6ad0aad75f788808a7715263",
-   "title": "Who wants to be a millennial? Generation comeback"
   }
  ]
 }

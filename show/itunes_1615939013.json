@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1615939013",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "No.228 马拉松：跑步大时代",
+   "date": "2026-11-25",
+   "enclosure": "https://tk.wavpub.com/WPTK_RL1VQqVS4EHFUzVS.m4a",
+   "durationSec": 9586,
+   "guid": "xmly_track_1035547028"
+  },
   {
    "title": "No.227 长虹往事：彩电大王今何在",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://tk.wavpub.com/WPDL_HcKhZBGXWHxeaUDBMFhKMwDbbGWsfKGkNuLgdkgtQbDHjLyBtySpffwuJF-06.m4a",
    "durationSec": 8618,
    "guid": "xmly_track_976314772"
-  },
-  {
-   "title": "No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",
-   "date": "2026-05-06",
-   "enclosure": "https://tk.wavpub.com/WPDL_uRdUZZhdqpcrtczGBBgjFjNzvzsqXCdpzQcMhCRkTHqTkNLXBNAmPLjARP-14.m4a",
-   "durationSec": 10671,
-   "guid": "xmly_track_974601500"
   }
  ]
 }

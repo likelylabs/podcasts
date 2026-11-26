@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 6999,
+   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/58752851-8f0c-4d2b-affc-a3eadf8b613e/rssFileVip.mp3?timestamp=1795609039664",
+   "guid": "58752851-8f0c-4d2b-affc-a3eadf8b613e",
+   "title": "【呱吉直播】呱吉電台EP261：去動物園看企鵝"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 5102,
    "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/561f86e4-2532-4b0b-bd1e-1fc817eb71f7/rssFileVip.mp3?timestamp=1795169293872",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9a1d9a0f-e0ff-4a41-a273-111a4125c5c7/rssFileVip.mp3?timestamp=1787945557733",
    "guid": "9a1d9a0f-e0ff-4a41-a273-111a4125c5c7",
    "title": "【呱吉】新資料夾(298)：超難聽像雞在叫"
-  },
-  {
-   "date": "2026-08-26",
-   "durationSec": 8987,
-   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/602a9ab8-8798-41af-be03-5c1f9729b624/rssFileVip.mp3?timestamp=1787772566931",
-   "guid": "602a9ab8-8798-41af-be03-5c1f9729b624",
-   "title": "【呱吉直播】呱吉電台EP255：懶惰的社會"
   }
  ]
 }

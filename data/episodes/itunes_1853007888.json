@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2977,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT8287666383.mp3",
+   "guid": "86635fe4-e8e6-11f1-828f-0bd12b9d7213",
+   "title": "The Ancient Weapon Physicists Love"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2779,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3422455500.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT9645398146.mp3",
    "guid": "0a61de4e-97c8-11f1-90a9-671b316e0f3e",
    "title": "Why Your Brain Thinks You're Full (Even When You're Not)"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 2823,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5508391153.mp3",
-   "guid": "5993fda2-9634-11f1-a666-fbfd20bc037b",
-   "title": "The Lake At The North Pole That Stops Europe From Freezing"
   }
  ]
 }

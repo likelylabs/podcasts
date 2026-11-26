@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1477164549",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "【呱吉直播】呱吉電台EP261：去動物園看企鵝",
+   "date": "2026-11-25",
+   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/58752851-8f0c-4d2b-affc-a3eadf8b613e/rssFileVip.mp3?timestamp=1795609039664",
+   "durationSec": 6999,
+   "guid": "58752851-8f0c-4d2b-affc-a3eadf8b613e"
+  },
   {
    "title": "【呱吉】新資料夾(310)：大一變胖五公斤",
    "date": "2026-11-20",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9a1d9a0f-e0ff-4a41-a273-111a4125c5c7/rssFileVip.mp3?timestamp=1787945557733",
    "durationSec": 5124,
    "guid": "9a1d9a0f-e0ff-4a41-a273-111a4125c5c7"
-  },
-  {
-   "title": "【呱吉直播】呱吉電台EP255：懶惰的社會",
-   "date": "2026-08-26",
-   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/602a9ab8-8798-41af-be03-5c1f9729b624/rssFileVip.mp3?timestamp=1787772566931",
-   "durationSec": 8987,
-   "guid": "602a9ab8-8798-41af-be03-5c1f9729b624"
   }
  ]
 }

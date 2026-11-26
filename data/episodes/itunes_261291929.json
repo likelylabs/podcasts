@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1651,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppyk0z.mp3",
+   "guid": "urn:bbc:podcast:p0ppyk6l",
+   "title": "Dramatic draw for Man United, and Liverpool beat Brugge"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1910,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppqrm6.mp3",
@@ -181,13 +188,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pjy3ml.mp3",
    "guid": "urn:bbc:podcast:p0pjy46g",
    "title": "Carrick Stays at United & Kane Wins Ballon d’Or"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 3648,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pjqwll.mp3",
-   "guid": "urn:bbc:podcast:p0pjqwyh",
-   "title": "MNC: Should fingers be pointed higher up at Man Utd?"
   },
   {
    "date": "2026-10-26",

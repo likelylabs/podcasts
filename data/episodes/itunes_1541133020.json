@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 853,
+   "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/6eda8499-1c8e-45f7-a3d3-8130559da941/rssFileVip.mp3?timestamp=1795600610666",
+   "guid": "6eda8499-1c8e-45f7-a3d3-8130559da941",
+   "title": "295【原創故事】小芙星王國：好朋友，怎麼變成對手了？"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 846,
    "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/5c4dcbe7-2a1b-471b-9af9-a55cc050f5f8/rssFileVip.mp3?timestamp=1795565048850",
@@ -17,7 +24,7 @@
   {
    "date": "2026-11-04",
    "durationSec": 817,
-   "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/37184de7-1358-43c6-90cc-96d22d1b94e9/rssFileVip.mp3?timestamp=1795536079196",
+   "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/37184de7-1358-43c6-90cc-96d22d1b94e9/rssFileVip.mp3?timestamp=1795647677186",
    "guid": "37184de7-1358-43c6-90cc-96d22d1b94e9",
    "title": "292【原創故事】小芙星王國：南瓜燈裡的大怪獸"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/b7ad075e-902c-4249-a822-954b76a71562/rssFileVip.mp3?timestamp=1782814252040",
    "guid": "b7ad075e-902c-4249-a822-954b76a71562",
    "title": "266【原創故事】小芙星王國：一起來吃飯吧 世界文化小旅行系列～韓國（下）"
-  },
-  {
-   "date": "2026-04-22",
-   "durationSec": 658,
-   "enclosure": "https://rss.soundon.fm/rssf/6451fc3b-507e-4a86-a9a0-1df082b5687e/feedurl/cf080a6e-eb1f-425e-9aa5-1f068d67ab8e/rssFileVip.mp3?timestamp=1782793956465",
-   "guid": "cf080a6e-eb1f-425e-9aa5-1f068d67ab8e",
-   "title": "265【原創故事】小芙星王國：一起來做泡菜 世界文化小旅行系列～韓國（上）"
   }
  ]
 }

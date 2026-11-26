@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1347053838",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "2511 像看电影一样倾听",
+   "date": "2026-11-25",
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/728815ce-a243-4f23-b4ab-b501008092e3/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
+   "durationSec": 202,
+   "guid": "728815ce-a243-4f23-b4ab-b501008092e3"
+  },
   {
    "title": "2411 不要为难自己",
    "date": "2026-11-24",
@@ -205,13 +212,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/b7c46f2b-1961-4e96-8a19-b4da0086219b/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
    "durationSec": 182,
    "guid": "b7c46f2b-1961-4e96-8a19-b4da0086219b"
-  },
-  {
-   "title": "0510 维持高质量关系的做法",
-   "date": "2026-10-05",
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/3c2fbc51-f461-48b7-b71d-b4da00845282/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
-   "durationSec": 177,
-   "guid": "3c2fbc51-f461-48b7-b71d-b4da00845282"
   }
  ]
 }

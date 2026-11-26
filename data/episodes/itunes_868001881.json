@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 598,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/44d94865-ac8c-4407-8df7-b50d01853e3b/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
+   "guid": "44d94865-ac8c-4407-8df7-b50d01853e3b",
+   "title": "The AI Trade Isn't Dead. Here's Why."
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 905,
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/13252dbc-20ce-4296-b492-b50c01861a61/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/39e9f648-43d9-4c79-a0c8-b4e4000f3bba/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
    "guid": "39e9f648-43d9-4c79-a0c8-b4e4000f3bba",
    "title": "How Bond Traders, Not Central Banks, Are Driving Rates"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 770,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/51f5c7c0-c027-4058-8913-b4e3000f523d/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
-   "guid": "51f5c7c0-c027-4058-8913-b4e3000f523d",
-   "title": "US Q3 Earnings Kickoff: JP Morgan, TSMC, Tesla & Netflix"
   }
  ]
 }

@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3897,
+   "enclosure": "https://anchor.fm/s/11a664d68/podcast/play/130064982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437569725-44100-2-a44d393a92e298.mp3",
+   "guid": "41ae4df5-a3cb-40e8-9991-b5c407a5db9f",
+   "title": "EP7 Yes! 我要到歐洲當華語助教"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 3244,
    "enclosure": "https://anchor.fm/s/11a664d68/podcast/play/129817786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F91b90d39-ab30-8c2b-69e1-b561c27ea85a.mp3",
    "guid": "217a8990-013d-4919-83d7-a64bc7b241ef",
-   "title": "EP5 華語方程式: 多元華語應用， 媒開二度！"
+   "title": "EP5 華語方程式: 從語言學習到文化交流，探索跨文化溝通的魅力！"
   },
   {
    "date": "2026-11-20",
@@ -33,7 +40,7 @@
    "durationSec": 2883,
    "enclosure": "https://anchor.fm/s/11a664d68/podcast/play/129810354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437225315-44100-1-74a262569a384ee0.mp3",
    "guid": "Buzzsprout-20113295",
-   "title": "EP1 外過人來台創業，媒問題！"
+   "title": "EP1 外國人來台創業，媒問題！"
   }
  ]
 }

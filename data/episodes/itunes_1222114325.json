@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 741,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/801857a0-f121-4480-9603-6098df5bb7b2/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=801857a0-f121-4480-9603-6098df5bb7b2&feed=HMwRVgVt&t=podcast&e=nx-s1-6053785&p=510318&d=741&size=11862143",
+   "guid": "02ca882f-26a6-48b4-b5cb-36c93a193ee8",
+   "title": "Army Explosives Detonation In Iowa, Abrego Garcia Leaves The US, Congress And Nvidia"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 796,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e7452ac-2de2-4336-8d0b-8f08ad9a0495/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e7452ac-2de2-4336-8d0b-8f08ad9a0495&feed=HMwRVgVt&t=podcast&e=nx-s1-6052075&p=510318&d=796&size=12745709",
@@ -54,7 +61,7 @@
    "durationSec": 807,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/207319f2-4e0d-45f8-b821-5b8f59592950/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=207319f2-4e0d-45f8-b821-5b8f59592950&feed=HMwRVgVt&t=podcast&e=nx-s1-6045399&p=510318&d=807&size=12919581",
    "guid": "48903ab9-29f1-4b6d-bfaa-70e296e7c345",
-   "title": "Trump-Xi-Putin Meeting, Nvidia Board Rejects Haung's Return, Computer System Outages"
+   "title": "Trump-Xi-Putin Meeting, Nvidia Board Rejects Huang's Return, Computer System Outages"
   },
   {
    "date": "2026-11-17",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/403f08a6-9425-44b7-922a-519df253da08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=403f08a6-9425-44b7-922a-519df253da08&feed=HMwRVgVt&t=podcast&e=nx-s1-6021969&p=510318&d=772&size=12365366",
    "guid": "9ca55116-0206-40f2-9e57-d9d891f290b7",
    "title": "Midterm Spending Blitz, GDP & Inflations Reports, Israel Election Deadlock & Iran War"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 775,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/550765f1-a761-4d80-b829-adb84cf37e08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=550765f1-a761-4d80-b829-adb84cf37e08&feed=HMwRVgVt&t=podcast&e=nx-s1-6020166&p=510318&d=775&size=12403400",
-   "guid": "0467a881-8166-4057-9ef9-4942ab192729",
-   "title": "Trump Rallies For Republicans, Israel Election Results, Fed Interest Rates Meeting"
   }
  ]
 }

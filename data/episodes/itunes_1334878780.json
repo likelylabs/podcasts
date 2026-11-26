@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2565,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8690131885.mp3",
+   "guid": "525e2fa8-e850-11f1-bbf4-9f489c6f1f43",
+   "title": "Thirty F#@king Years | Thanksgiving with Jordan Klepper and Grace Kuhlenschmidt"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 3549,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2685291702.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6194586043.mp3",
    "guid": "c689a722-cf1e-11f1-a2f4-03b0ee2d22a9",
    "title": "The Interviews | David Corn, Ben Gibbard, Taika Waititi, Jimmy O. Yang"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 2826,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8349529130.mp3",
-   "guid": "7b0f9eea-cf10-11f1-b1c8-4735956165a7",
-   "title": "This Week's News | Jon Stewart on French Riots, Kosta on Midterm Meltdowns & Ronny on Vance's New Laugh"
   }
  ]
 }

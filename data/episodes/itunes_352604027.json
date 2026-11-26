@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 905,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppvs53.mp3",
+   "guid": "urn:bbc:podcast:p0ppvtf6",
+   "title": "အာဆီယံအလှည့်ကျ ဥက္ကဋ္ဌ စင်္ကာပူကလည်း ICJ ဆုံးဖြတ်ချက်ကို လေးစားကြောင်းပြောင်း"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 906,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppncpv.mp3",
@@ -41,13 +48,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnvt1t.mp3",
    "guid": "urn:bbc:podcast:p0pnvtp9",
    "title": "မြန်မာဟာ ရိုဟင်ဂျာလူမျိုးစုတွေ အပေါ် လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ခဲ့ကြောင်း ICJ အပြည်ပြည်ဆိုင်ရာ တရားရုံးက ဆုံးဖြတ်"
-  },
-  {
-   "date": "2026-11-18",
-   "durationSec": 930,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnn7j0.mp3",
-   "guid": "urn:bbc:podcast:p0pnn87l",
-   "title": "နေပြည်တော် သမ္မတက လွှတ်တော်မှာပေးတဲ့ မိန့်ခွန်းထဲ အာဆီယံနဲ့ ရှေ့ဆက်ဖို့ကို ပြန်စဥ်းစားမယ်လို့ ပြောပါတယ်၊ ဘာသဘောဆောင်ပါသလဲ။"
   },
   {
    "date": "2026-11-15",
@@ -174,13 +174,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjv4n1.mp3",
    "guid": "urn:bbc:podcast:p0pjv62w",
    "title": "ဖိလစ်ပိုင်နိုင်ငံခြားရေးဝန်ကြီးရဲ့ မြန်မာနိုင်ငံခရီး ဘာထူးနိုင်သလဲ၊ မလေးရှားက ပြန်ပို့တဲ့ ရခိုင် ၄၀၀ ကျော် နေရပ်မပြန်ရသေး"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 898,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjp950.mp3",
-   "guid": "urn:bbc:podcast:p0pjp98y",
-   "title": "နောင်ချိုက မွတ်ဆလင်  ၂ ဦးကို ထောင် ၁၁ နှစ် ချပြီး ဗလီသိမ်း ၊ ရန်ကုန်  KTV မှာ စစ်အရာရှိတွေနဲ့ တရားသူကြီးတွေ ဖမ်းမိ"
   },
   {
    "date": "2018-12-31",

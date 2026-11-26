@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 870,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c85933b6-5947-49ba-974f-4f7cf7eda04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c85933b6-5947-49ba-974f-4f7cf7eda04e&feed=BA5QWI2p",
+   "guid": "726DECE1-16D1-4FD1-9EB8-E79E09D4E893",
+   "title": "The Growing Cost of Caring for America’s Aging Population"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 1128,
+   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/34229b47-a243-426b-9fd5-84e6c31a55be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=34229b47-a243-426b-9fd5-84e6c31a55be&feed=BA5QWI2p",
+   "guid": "47835CF4-DE8B-4542-9010-143F5571FE40",
+   "title": "Is Medicare for All Within Reach?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 800,
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0ec701cf-4030-4cfa-8308-3067f80f81dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0ec701cf-4030-4cfa-8308-3067f80f81dc&feed=BA5QWI2p",
@@ -195,20 +209,6 @@
    "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2d832f5e-1809-4cda-b495-2129ead722e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2d832f5e-1809-4cda-b495-2129ead722e0&feed=BA5QWI2p",
    "guid": "E790E0D1-1C33-41E6-9B2E-321446EB85F2",
    "title": "Broad Market Rally Leaves Nvidia Decline an Outlier"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 692,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1e34de24-55f2-4156-b832-49784d29e27f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1e34de24-55f2-4156-b832-49784d29e27f&feed=BA5QWI2p",
-   "guid": "641D1DB1-545F-41E7-AC10-DA5C238C5571",
-   "title": "What Does Beijing Know About Nvidia’s Jensen Huang?"
-  },
-  {
-   "date": "2026-11-08",
-   "durationSec": 851,
-   "enclosure": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4965932a-cca1-47af-aba9-8deceff6b607/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4965932a-cca1-47af-aba9-8deceff6b607&feed=BA5QWI2p",
-   "guid": "F22CF8F5-4A01-4235-8973-C2C308275135",
-   "title": "Democrats Promised to Fix the Economy. Can They?"
   }
  ]
 }

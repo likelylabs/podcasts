@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2141,
+   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/6f58ca24-6785-4f26-aa03-1ca6398d024b/rssFileVip.mp3?timestamp=1795580194787",
+   "guid": "6f58ca24-6785-4f26-aa03-1ca6398d024b",
+   "title": "這個不能講180 柯文哲騎著蔣萬安出門玩 周偉航 Sophie"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 4067,
-   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/2bdce189-89f2-4199-93c3-9fe23bba7caf/rssFileVip.mp3?timestamp=1795497035826",
+   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/2bdce189-89f2-4199-93c3-9fe23bba7caf/rssFileVip.mp3?timestamp=1795576852231",
    "guid": "2bdce189-89f2-4199-93c3-9fe23bba7caf",
    "title": "我那山小多多的國家 EP08 陳峙穎你在衝山小 要強調你上了就可以拉一個國民黨的下來 周偉航 來賓：大安文山 市議員候選人 陳峙穎"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/0fd0f8cf-891a-448f-8a05-6aaf0365168c/rssFileVip.mp3?timestamp=1791346789279",
    "guid": "0fd0f8cf-891a-448f-8a05-6aaf0365168c",
    "title": "這個不能講173 不懂不要講，講了變白蔣 周偉航 Sophie"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 2986,
-   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/59b1ca98-50c7-4465-95a1-2e45655c5417/rssFileVip.mp3?timestamp=1791223320955",
-   "guid": "59b1ca98-50c7-4465-95a1-2e45655c5417",
-   "title": "匪情研究 EP23 掛在壁上的人 周偉航"
   }
  ]
 }

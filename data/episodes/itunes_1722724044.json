@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1821,
+   "enclosure": "https://rss.soundon.fm/rssf/cef82d25-62c2-4563-bab4-8c713a0a2126/feedurl/ee3d105e-6322-49f2-891a-0dff68cc3763/rssFileVip.mp3?timestamp=1795656042113",
+   "guid": "ee3d105e-6322-49f2-891a-0dff68cc3763",
+   "title": "你以為記得很清楚，其實大腦一直在騙你《記憶七罪》｜|ep113"
+  },
+  {
    "date": "2026-11-12",
    "durationSec": 1464,
-   "enclosure": "https://rss.soundon.fm/rssf/cef82d25-62c2-4563-bab4-8c713a0a2126/feedurl/5037fb31-2871-4a94-ab6d-7af1e09e5b33/rssFileVip.mp3?timestamp=1794475383604",
+   "enclosure": "https://rss.soundon.fm/rssf/cef82d25-62c2-4563-bab4-8c713a0a2126/feedurl/5037fb31-2871-4a94-ab6d-7af1e09e5b33/rssFileVip.mp3?timestamp=1795615121204",
    "guid": "5037fb31-2871-4a94-ab6d-7af1e09e5b33",
    "title": "不怕3C育兒，只怕父母人在心不在《真人養育》|ep112"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/cef82d25-62c2-4563-bab4-8c713a0a2126/feedurl/38cdf7e4-ad9e-4bda-9009-dc51d7331dc4/rssFileVip.mp3?timestamp=1756329474062",
    "guid": "38cdf7e4-ad9e-4bda-9009-dc51d7331dc4",
    "title": "掌握溝通，把衝突變理解，讓彼此有連結《不吵架也能贏的溝通術》|ep84"
-  },
-  {
-   "date": "2025-08-18",
-   "durationSec": 1903,
-   "enclosure": "https://rss.soundon.fm/rssf/cef82d25-62c2-4563-bab4-8c713a0a2126/feedurl/587e3865-d63a-418b-9220-56f913ee7907/rssFileVip.mp3?timestamp=1755503688953",
-   "guid": "587e3865-d63a-418b-9220-56f913ee7907",
-   "title": "卓越不是天賦，而是自我認同與韌性的鍛鍊《刻意進化》|ep83"
   }
  ]
 }

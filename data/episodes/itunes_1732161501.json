@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 362,
+   "enclosure": "https://media.transistor.fm/819948a0/05403d68.mp3",
+   "guid": "8f1ab4bb-da09-4c1e-92a3-8a7c9c78454c",
+   "title": "恩典的管道"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 375,
    "enclosure": "https://media.transistor.fm/7c38118b/490b78b6.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://media.transistor.fm/7bd62db0/6dbb037f.mp3",
    "guid": "a55baf31-d775-4168-b5f3-921d928ad4ad",
    "title": "因为上帝⋯⋯"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 376,
-   "enclosure": "https://media.transistor.fm/d08cd00b/5deba47d.mp3",
-   "guid": "ed5c2314-c25c-4afd-9d30-374039b26048",
-   "title": "感恩与富足"
   }
  ]
 }

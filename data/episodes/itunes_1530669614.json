@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 4181,
+   "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/b45be470-6176-4158-8975-07a25dbdf9b7/rssFileVip.mp3?timestamp=1795612950668",
+   "guid": "b45be470-6176-4158-8975-07a25dbdf9b7",
+   "title": "講經萬應室EP177. 大喇叭"
+  },
+  {
    "date": "2026-11-06",
    "durationSec": 3993,
    "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/362389db-49ab-40a6-94ae-ae07f1a7bbd9/rssFileVip.mp3?timestamp=1794043650436",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/f76a01a4-3ac1-4c6c-951c-3f9eb866d6e5/rssFileVip.mp3?timestamp=1783207102362",
    "guid": "f76a01a4-3ac1-4c6c-951c-3f9eb866d6e5",
    "title": "講經EP216. 個人收藏美學"
-  },
-  {
-   "date": "2026-07-01",
-   "durationSec": 4346,
-   "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/b66f5671-b3c1-4480-a376-412f92c31c83/rssFileVip.mp3?timestamp=1782932845110",
-   "guid": "b66f5671-b3c1-4480-a376-412f92c31c83",
-   "title": "講經萬應室EP161. 信不信由你"
   }
  ]
 }

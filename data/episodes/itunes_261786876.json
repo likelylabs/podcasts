@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1503,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppyl03.mp3",
+   "guid": "urn:bbc:podcast:w3ct8gmb",
+   "title": "Power Players: Why did Trump want Jensen Huang back at Nvidia?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1048,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pppbbh.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj34xb.mp3",
    "guid": "urn:bbc:podcast:w3ct8g9z",
    "title": "Taking Stock: What French protests, Netflix data and the Alberta referendum reveal"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 1493,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phsqxz.mp3",
-   "guid": "urn:bbc:podcast:w3ct8gm0",
-   "title": "Power Players: Has Netflix hit a wall?"
   }
  ]
 }

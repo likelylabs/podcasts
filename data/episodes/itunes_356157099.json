@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2831,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppy9sq.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39yxpnw",
+   "title": "25/11/2026 21:06 GMT"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 2811,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppw5l2.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39ywvfz",
+   "title": "‘My family was killed in the Ukraine war’"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2822,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppqjnz.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmc88p.mp3",
    "guid": "urn:bbc:podcast:w1730bnccsb8hk3",
    "title": "Zelensky hails talks in Abu Dhabi as 'constructive and quite substantive'"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 2843,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9ljt.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsb7nb6",
-   "title": "US Defence Secretary calls impeachment attempt a \"farce\""
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 2848,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm644g.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsb5ln0",
-   "title": "Nvidia shares fall after spying claims"
   }
  ]
 }

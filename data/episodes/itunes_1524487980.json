@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2826,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/19391ca3-0716-4811-8bf8-0b2a81aed8b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=19391ca3-0716-4811-8bf8-0b2a81aed8b8&feed=qltQrd_8",
+   "guid": "cea1dad9-8af8-40b8-9e7d-56893ec42e50",
+   "title": "Market Sell-Off, AI Trade Retest and Fed Mistake Debate"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2611,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/18ed81b7-2b1a-4f79-9cfb-a3275082354f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=18ed81b7-2b1a-4f79-9cfb-a3275082354f&feed=qltQrd_8",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/bd07f79d-408e-43cc-9037-e9686f06288f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=bd07f79d-408e-43cc-9037-e9686f06288f&feed=qltQrd_8",
    "guid": "eb86d2bb-eb69-481f-a6a5-908b8307965d",
    "title": "The AI Trade in Focus: Altimeter's Brad Gerstner joins \"Halftime Report\" live in San Francisco 10/15/26"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2603,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/f1da32db-81d0-45a4-80c1-fbb43eab7a8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=f1da32db-81d0-45a4-80c1-fbb43eab7a8b&feed=qltQrd_8",
-   "guid": "0c26cfe1-0fa2-41e9-b6b4-e347f2d190ff",
-   "title": "Rising Yields & Rally Risk: The Investment Committee's Strategy 10/14/26"
   }
  ]
 }

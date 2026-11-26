@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1428,
+   "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-11-25_DailyHope_building-a-better-future_podcast_how-to-earn-the-respect-of-others_pt-2.mp3?dest-id=430545",
+   "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-11-25_DailyHope_building-a-better-future_podcast_how-to-earn-the-respect-of-others_pt-2.mp3",
+   "title": "How to Earn the Respect of Others - Part 2"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1393,
    "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-11-24_DailyHope_building-a-better-future_podcast_how-to-earn-the-respect-of-others_pt-1.mp3?dest-id=430545",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-10-15_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-1.mp3?dest-id=430545",
    "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-10-15_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-1.mp3",
    "title": "Jesus' Secrets of Resilience - Part 1"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 1340,
-   "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-10-14_DailyHope_strategies-for-stressful-times_podcast_how-to-keep-your-tank-filled-instead-of-running-on-empty_pt-3.mp3?dest-id=430545",
-   "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-10-14_DailyHope_strategies-for-stressful-times_podcast_how-to-keep-your-tank-filled-instead-of-running-on-empty_pt-3.mp3",
-   "title": "How To Keep Your Tank Filled Instead of Running on Empty - Part 3"
   }
  ]
 }

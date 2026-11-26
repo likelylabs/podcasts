@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 9174,
+   "enclosure": "https://traffic.megaphone.fm/GLT3001876879.mp3",
+   "guid": "d65cc440-e7f6-11f1-92c7-07f9881e21ab",
+   "title": "#2586 - Jocko Willink"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 10241,
    "enclosure": "https://traffic.megaphone.fm/GLT3903659981.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT1692440444.mp3",
    "guid": "2089f348-bd41-11f1-a7c5-d7bc7ba22f90",
    "title": "JRE MMA Show #186 with Sean Sharaf"
-  },
-  {
-   "date": "2026-10-01",
-   "durationSec": 9385,
-   "enclosure": "https://traffic.megaphone.fm/GLT2730878908.mp3",
-   "guid": "f3a56dec-bc61-11f1-b794-3f2a4515ae58",
-   "title": "#2560 - David Grusch"
   }
  ]
 }

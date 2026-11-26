@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 884,
+   "enclosure": "https://jt.ximalaya.com//GKwRIaIO3KrGAG06KgUBLThC.m4a?channel=rss&album_id=67610333&track_id=1035588663&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/5ab9-audiofreehighqps/7B/AC/GKwRIaIO3KrGAG06KgUBLThC.m4a",
+   "guid": "xmly_track_1035588663",
+   "title": "玉扳指"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1312,
    "enclosure": "https://jt.ximalaya.com//GKwRIDoO2t7ZAKIuxAUAZ29_.m4a?channel=rss&album_id=67610333&track_id=1035195107&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/4343-audiofreehighqps/5C/16/GKwRIDoO2t7ZAKIuxAUAZ29_.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIaIOtfRcAHh-LgTwOpDj.m4a?channel=rss&album_id=67610333&track_id=1027980798&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/023d-audiofreehighqps/6C/5F/GKwRIaIOtfRcAHh-LgTwOpDj.m4a",
    "guid": "xmly_track_1027980798",
    "title": "灵芝王"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 1010,
-   "enclosure": "https://jt.ximalaya.com//GKwRIDoOtN7hAHzbqQTvts_P.m4a?channel=rss&album_id=67610333&track_id=1027746516&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/336b-audiofreehighqps/6D/0A/GKwRIDoOtN7hAHzbqQTvts_P.m4a",
-   "guid": "xmly_track_1027746516",
-   "title": "吝啬鬼老魏"
   }
  ]
 }

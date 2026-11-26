@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 822,
+   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121665343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F95f2936a-49f9-d357-97cf-9edb92dbe5f4.mp3",
+   "guid": "62c2937a-2f88-4676-95e9-fc9437523868",
+   "title": "EP330 Thanksgiving Dinner | Global View"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 748,
+   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121665292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F712dbe3c-6a29-05d7-1351-32af0fdbf2e8.mp3",
+   "guid": "3b6960cf-668d-4901-95db-dd7fe220b442",
+   "title": "EP329 Seafood Dinner | Daily Life"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1032,
    "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121665245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Ff60a42e3-883d-2d34-bf0d-bafbbd3052a9.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121662172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F3ec8f72e-e70c-f2af-e244-45ee34480831.mp3",
    "guid": "bcb7bd6c-1799-4426-ac52-eeb1a4730b18",
    "title": "EP301 Sending A Quote Via Email | The Office"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 710,
-   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121662126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F1e72550c-e259-77ab-7dd9-cd83191e0c33.mp3",
-   "guid": "48a3107e-5d28-46fb-af48-942f6ed8780f",
-   "title": "EP300 Making A Collect Call | Daily Life"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 532,
-   "enclosure": "https://anchor.fm/s/11380dcac/podcast/play/121662082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Ffad28542-3edf-4da3-6701-ea92995193ce.mp3",
-   "guid": "c4e60fb4-55c7-49b1-85c0-7d39a85bb64b",
-   "title": "EP299 Small talk 3 | The Office"
   }
  ]
 }

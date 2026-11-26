@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 666,
+   "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-11-26.mp3?v=202611260527",
+   "guid": "kids-daily-podcast-2026-11-26",
+   "title": "第 83 號｜打仗的時候醫院怎麼辦？還有24條腿的蟲化石"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 644,
    "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-11-25.mp3?v=202611250529",
@@ -202,13 +209,6 @@
    "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-10-28.mp3?v=202610282200",
    "guid": "kids-daily-podcast-2026-10-28",
    "title": "第 54 號｜墳墓裡的鐮刀是用來擋什麼？還有休士頓女孩號召同學做公益"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 665,
-   "enclosure": "https://kids-news-production.up.railway.app/kids/pc/2026-10-27.mp3?v=202610270528",
-   "guid": "kids-daily-podcast-2026-10-27",
-   "title": "第 53 號｜蛇不用爬也能用滾的逃跑？還有國寶魚回家了"
   }
  ]
 }

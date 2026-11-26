@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3031,
+   "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3da75e11-4344-41d7-be41-55d516ec4991/rssFileVip.mp3?timestamp=1795593673199",
+   "guid": "3da75e11-4344-41d7-be41-55d516ec4991",
+   "title": "EP717 | 🦪"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 3157,
    "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9518e365-fb3b-498b-a7f7-fc1c56b33371/rssFileVip.mp3?timestamp=1795245484561",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/986db49f-de3d-49e4-9ef7-dd721bdc240c/rssFileVip.mp3?timestamp=1786820250575",
    "guid": "986db49f-de3d-49e4-9ef7-dd721bdc240c",
    "title": "EP688 | 🥽"
-  },
-  {
-   "date": "2026-08-12",
-   "durationSec": 3145,
-   "enclosure": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/63275cd6-e7a5-4ece-8432-e39884d94ae2/rssFileVip.mp3?timestamp=1786560899767",
-   "guid": "63275cd6-e7a5-4ece-8432-e39884d94ae2",
-   "title": "EP687 | 🐧"
   }
  ]
 }

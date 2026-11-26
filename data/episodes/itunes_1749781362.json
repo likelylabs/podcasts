@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2787,
+   "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/126141345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F576465be-7f22-35c9-77a8-6551991bf03e.mp3",
+   "guid": "42b3443c-967b-4c8e-baa7-f3375937bd86",
+   "title": "EP135 - [謎屍] 挪威冰谷女子謎屍案"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1783,
    "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/125238033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F7af882bb-6bb7-7167-37c7-7080c7d649d3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/115519357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F22c179b2-3aa1-edc1-6271-f67e4db17542.mp3",
    "guid": "9a8a9347-59dc-4c87-b2f2-a23b0ef965fc",
    "title": "EP106 - [失蹤] 沙田吳凱琳失蹤案"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 1525,
-   "enclosure": "https://anchor.fm/s/f71294d4/podcast/play/119035864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2Ff2f0c678-eb6e-298f-bd46-802b790a9fdd.mp3",
-   "guid": "4fc3889e-f6e1-4350-baa3-b0e08fe49831",
-   "title": "EP105 - [爆炸] 武漢公車爆炸案"
   }
  ]
 }

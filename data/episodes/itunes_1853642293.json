@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 4657,
+   "enclosure": "https://rss.soundon.fm/rssf/7878b3af-938a-4bad-89e0-ef3debf01122/feedurl/47457983-eef4-4ff1-8be5-0749022e8fb8/rssFileVip.mp3?timestamp=1795650658035",
+   "guid": "47457983-eef4-4ff1-8be5-0749022e8fb8",
+   "title": "【紐約鳥】給正在猶豫不決的你｜SE010"
+  },
+  {
    "date": "2026-11-17",
    "durationSec": 5414,
    "enclosure": "https://rss.soundon.fm/rssf/7878b3af-938a-4bad-89e0-ef3debf01122/feedurl/d20f903d-a3ae-4fda-8607-7768ed434fbe/rssFileVip.mp3?timestamp=1794897033523",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/7878b3af-938a-4bad-89e0-ef3debf01122/feedurl/56b2e96d-7f4b-41bb-9ea4-96d4b44342a9/rssFileVip.mp3?timestamp=1787579349142",
    "guid": "56b2e96d-7f4b-41bb-9ea4-96d4b44342a9",
    "title": "【紐約鳥】他們兩個，憑什麼說紐約鳥？｜十集 Q&A"
-  },
-  {
-   "date": "2026-03-24",
-   "durationSec": 3732,
-   "enclosure": "https://rss.soundon.fm/rssf/7878b3af-938a-4bad-89e0-ef3debf01122/feedurl/ddc4c8ef-daa0-4035-936b-a70b0eacb9e2/rssFileVip.mp3?timestamp=1774389302474",
-   "guid": "ddc4c8ef-daa0-4035-936b-a70b0eacb9e2",
-   "title": "EP010｜他台大唸了 6 年"
   }
  ]
 }

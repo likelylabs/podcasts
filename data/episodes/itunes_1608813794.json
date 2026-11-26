@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 2524,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/506938cc-ae1a-441c-b08d-44f2b838ff18/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=506938cc-ae1a-441c-b08d-44f2b838ff18&feed=dloY8UYJ",
+   "guid": "5a30e07e-ba58-48d0-afc3-a180487ea98d",
+   "title": "Off the Beaten Path (PODCAST EXCLUSIVE EPISODE)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 1463,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/75274e2e-1ab4-4aca-9d6d-03e5765228b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=75274e2e-1ab4-4aca-9d6d-03e5765228b4&feed=dloY8UYJ",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&feed=dloY8UYJ",
    "guid": "de321f84-1b99-460b-bc17-094a336de6f9",
    "title": "On Patrol (PODCAST EXCLUSIVE EPISODE)"
-  },
-  {
-   "date": "2026-09-25",
-   "durationSec": 2246,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/fc4cc862-045a-4f18-9284-9e6e3e0a4ebe/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=fc4cc862-045a-4f18-9284-9e6e3e0a4ebe&feed=dloY8UYJ",
-   "guid": "e33b5c20-bf6a-4410-ad8f-3c66c73e7ffc",
-   "title": "Fan Favorite - \"The Receipt\""
   }
  ]
 }

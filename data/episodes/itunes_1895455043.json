@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 612,
+   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0304.mp3",
+   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0304",
+   "title": "The Sultans Who Built Modern Malaysia"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 354,
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0303.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0275.mp3",
    "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0275",
    "title": "Malaysia's Bunkers: The Cold War Concrete Legacy"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 528,
-   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0274.mp3",
-   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0274",
-   "title": "The 1969 Race Riots and Malaysia's Social Compact"
   }
  ]
 }

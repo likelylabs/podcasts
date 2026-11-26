@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2104,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT7875188634.mp3",
+   "guid": "9679fb96-e8e5-11f1-91ce-53a9b93a48d8",
+   "title": "Dark Reality: The Real-Life Truman Show"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2716,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT4966547453.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1167616550.mp3",
    "guid": "c37e5376-b5d7-11f1-9da7-0ff4e07486a7",
    "title": "Richard’s Top 3 Music Videos Of All Time"
-  },
-  {
-   "date": "2026-09-23",
-   "durationSec": 2361,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1822359016.mp3",
-   "guid": "33354586-b695-11f1-a08e-8772955d8843",
-   "title": "Inside Big Brother: Nasty Nick (Ep 1)"
   }
  ]
 }

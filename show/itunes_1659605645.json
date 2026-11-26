@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1659605645",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP .123 ： Grand Theft Auto 歷史",
+   "date": "2026-11-25",
+   "enclosure": "https://anchor.fm/s/10568fa50/podcast/play/130093493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fa775ec12-ab20-506e-f700-f1c7b7480ef8.mp3",
+   "durationSec": 3474,
+   "guid": "5ccb8279-27f8-42e2-a141-5d2eb426147e"
+  },
   {
    "title": "【港識奇案】EP.104｜謝霆鋒頂包案",
    "date": "2026-11-17",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/10568fa50/podcast/play/121740166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-20%2F29bc4bb2-542b-9331-6c6c-8eedb42da701.mp3",
    "durationSec": 4042,
    "guid": "570968b2-1a1e-415c-a12b-4300ad94e57b"
-  },
-  {
-   "title": "【港識奇案】EP.92｜寵物小精靈博士通輯犯、內部認購、魔改刀片爆旋陀螺",
-   "date": "2026-06-15",
-   "enclosure": "https://anchor.fm/s/10568fa50/podcast/play/121456694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-14%2Fb7eaa273-f847-b878-c458-80660dd12c3f.mp3",
-   "durationSec": 1821,
-   "guid": "7f5f97eb-3356-413a-ac14-c08abca8bf1a"
   }
  ]
 }

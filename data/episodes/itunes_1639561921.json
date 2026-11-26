@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2708,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT1496542426.mp3",
+   "guid": "a6498f4a-e8cd-11f1-854f-63dfbe9fd9b7",
+   "title": "417. Boer War: Churchill, Gandhi & The Siege of Mafeking (Part 2)"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2548,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT7800500182.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2994907897.mp3",
    "guid": "2f042ee2-9ca9-11f1-a0a3-379452466b0c",
    "title": "389. Road To 9/11: Origin of Al-Qaeda (Part 1)"
-  },
-  {
-   "date": "2026-08-20",
-   "durationSec": 2840,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT6836317177.mp3",
-   "guid": "f4da72c4-9bd3-11f1-961c-2b3e02c59a02",
-   "title": "388. Viking Mythology: Thor, Ragnarok, & Jesus Christ (Ep 6)"
   }
  ]
 }

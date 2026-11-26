@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3030,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa7582d3-bf6b-4e30-8ea2-ce0403927f04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa7582d3-bf6b-4e30-8ea2-ce0403927f04&feed=JGE3yC0V",
+   "guid": "e652a702-e7e4-4e5b-a3a0-9c9c52f390d6",
+   "title": "Replay: Principles and Algorithms for Work and Life | Ray Dalio (2019)"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1881,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/02cb7d51-09f9-4aae-907e-64eee1212c6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=02cb7d51-09f9-4aae-907e-64eee1212c6d&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2967fdc6-98e7-4e58-83f8-6ebcb4e41546/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2967fdc6-98e7-4e58-83f8-6ebcb4e41546&feed=JGE3yC0V",
    "guid": "3875e1e0-6e03-433c-bde4-2397d981189c",
    "title": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 2719,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c129b5d-535b-4c40-a104-2d0a66853196/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2c129b5d-535b-4c40-a104-2d0a66853196&feed=JGE3yC0V",
-   "guid": "62b74e3f-b5e0-4b51-8d87-9d4b12ef86d1",
-   "title": "OpenAI: When AI Agents Use Computers Faster Than You"
   }
  ]
 }

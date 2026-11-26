@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 833,
+   "enclosure": "https://traffic.megaphone.fm/STM2396335225.mp3",
+   "guid": "df860540-dd38-11f1-8cfa-63cbcd5f4330",
+   "title": "Why Is It Hard to Walk Underwater?"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1669,
    "enclosure": "https://traffic.megaphone.fm/STM9732067484.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM2909271728.mp3",
    "guid": "d2f38c6a-ca57-11f1-95b2-bbeb1d9c8797",
    "title": "What Causes an Earthquake? (Curious Kids Club)"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 968,
-   "enclosure": "https://traffic.megaphone.fm/STM5403982476.mp3",
-   "guid": "0631cbfa-ca58-11f1-9df6-d791083f0d97",
-   "title": "Why Can't You Put Metal in the Microwave?"
   }
  ]
 }

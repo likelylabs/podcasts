@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1568010605",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-26T10:49:19+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "《恩雨同路人》EP13 - 訪問張蔡惠嫻",
+   "date": "2026-11-25",
+   "enclosure": "https://mcdn.podbean.com/mf/web/83vtmhhqyijih3gy/EP_13_202611248ubab.mp3",
+   "durationSec": 3207,
+   "guid": "chineseradio2cr.podbean.com/c4d50ec1-d509-34e8-b105-a1a22f41b698"
+  },
   {
    "title": "《同是Sydney鄰樂人》—— EP25",
    "date": "2026-11-23",
@@ -205,13 +212,6 @@
    "enclosure": "https://mcdn.podbean.com/mf/web/9uemrt4p5pcrgdjs/EP_11_20261110asepd.mp3",
    "durationSec": 3187,
    "guid": "chineseradio2cr.podbean.com/59d9fcb2-a3da-33d6-8846-0e3e17025669"
-  },
-  {
-   "title": "《Doctor’s Lounge》EP2",
-   "date": "2026-11-11",
-   "enclosure": "https://mcdn.podbean.com/mf/web/2sqb9txbkzcitumn/Doctor_s_lounge_EP26mz7j.mp3",
-   "durationSec": 1815,
-   "guid": "chineseradio2cr.podbean.com/1f2b48af-fe0d-3deb-9edd-72ac563074ad"
   }
  ]
 }

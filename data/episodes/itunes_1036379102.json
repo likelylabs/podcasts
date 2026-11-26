@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 61,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pplq5h.mp3",
+   "guid": "urn:bbc:podcast:p0pplqrr",
+   "title": "English in a Minute: Four meanings of 'note'"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 380,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppf4l3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nhkb33.mp3",
    "guid": "urn:bbc:podcast:p0nhkddx",
    "title": "English in a Minute: Phrases with 'life'"
-  },
-  {
-   "date": "2026-05-18",
-   "durationSec": 379,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlv9y6.mp3",
-   "guid": "urn:bbc:podcast:p0nlvc52",
-   "title": "Easily confused words"
   }
  ]
 }

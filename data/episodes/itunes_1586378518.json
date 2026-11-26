@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 1209,
+   "enclosure": "https://rss.art19.com/episodes/5f7236f7-b077-4a62-a420-7a8141bb7b6f.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/-twSSaPiXsPrp_5Zf7iPxftdQHIlGPqpkRotDdGwPjc",
+   "title": "Where Do Baby Carrots Come From? (And Why Are They Always So Wet?!)"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 230,
    "enclosure": "https://rss.art19.com/episodes/29036fce-c6c7-43e4-8c10-97eecc0de443.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.art19.com/episodes/17b4d1e6-8cd1-4d45-b3b8-c9c4e98fca70.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/HUWQQHYNKMirSYRiuJ6x1whkMauKvCY3LwZo1U_7PPI",
    "title": "The Haunted Hotel"
-  },
-  {
-   "date": "2026-05-06",
-   "durationSec": 163,
-   "enclosure": "https://rss.art19.com/episodes/9ac35a14-d255-4082-ae51-0b4b6c9a6924.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/atG2GWUBLq5buO1VOazVtQufmjnkbgfDrKQDYVZxkOA",
-   "title": "Carly Q's Super Secret Time Travel Guide: The Jurassic Period"
   }
  ]
 }

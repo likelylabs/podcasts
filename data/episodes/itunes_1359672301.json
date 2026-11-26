@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "durationSec": 3594,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b06a287ca8c85568388c3a4/media.mp3",
+   "guid": "6b06a287ca8c85568388c3a4",
+   "title": "Fadzri Rashid: Is S'pore Too Sterile for Comedy? | Hour #10, 24-Hour Podcast Marathon"
+  },
+  {
+   "date": "2026-11-25",
+   "durationSec": 3053,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b067a3b38c0d45099e8082c/media.mp3",
+   "guid": "6b067a3b38c0d45099e8082c",
+   "title": "HANTU Guys: Could AI Ever Write Horror as Scary as Humans? | Hour #9, 24-Hour Podcast Marathon"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2764,
    "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6b0509ade994d57d711a8fcf/media.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6abcc005ca2c02e374c45541/media.mp3",
    "guid": "6abcc005ca2c02e374c45541",
    "title": "#871: S’pore’s Deepest MRT Tunnel & What About Our Nature Reserves? ft. Alvin Sim"
-  },
-  {
-   "date": "2026-09-28",
-   "durationSec": 3441,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6aba1161399e96fa7e325e21/media.mp3",
-   "guid": "6aba1161399e96fa7e325e21",
-   "title": "#870: Vivian Balakrishnan Tells UN It’s Too Late On AI & Why Does Primary 1 Involve Property Agents?"
-  },
-  {
-   "date": "2026-09-26",
-   "durationSec": 4031,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6a31164c2603763bbffb56e3/e/6aa4f51fda3b22173212f863/media.mp3",
-   "guid": "6aa4f51fda3b22173212f863",
-   "title": "#869 ft. Gavin Lee - Is This A New Era For S’pore Football?"
   }
  ]
 }

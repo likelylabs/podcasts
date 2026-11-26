@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1962,
+   "enclosure": "https://traffic.megaphone.fm/NSR8201180552.mp3",
+   "guid": "3c679ba2-d6c2-11f1-b60f-af4832f84725",
+   "title": "The Sign of Four: Part Six"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2443,
    "enclosure": "https://traffic.megaphone.fm/NSR7279859019.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/NSR3288325578.mp3?updated=1771503460",
    "guid": "bb84cd2a-fd32-11f0-937e-0b70d96ec568",
    "title": "The Adventure of the Empty House: Part One"
-  },
-  {
-   "date": "2026-05-25",
-   "durationSec": 2939,
-   "enclosure": "https://traffic.megaphone.fm/NSR2102863252.mp3?updated=1778073076",
-   "guid": "d9f2379e-4949-11f1-9bdc-af6bb202302b",
-   "title": "The Hound of the Baskervilles: Part Nine"
   }
  ]
 }
