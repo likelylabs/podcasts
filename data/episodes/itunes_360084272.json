@@ -1,15 +1,22 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 8193,
+   "enclosure": "https://traffic.megaphone.fm/GLT9030692803.mp3",
+   "guid": "cd9cc458-e92d-11f1-85de-7723364e53f0",
+   "title": "#2587 - Anthony Kim"
+  },
+  {
    "date": "2026-11-26",
-   "durationSec": 9174,
+   "durationSec": 9414,
    "enclosure": "https://traffic.megaphone.fm/GLT3001876879.mp3",
    "guid": "d65cc440-e7f6-11f1-92c7-07f9881e21ab",
    "title": "#2586 - Jocko Willink"
   },
   {
    "date": "2026-11-25",
-   "durationSec": 10241,
+   "durationSec": 10481,
    "enclosure": "https://traffic.megaphone.fm/GLT3903659981.mp3",
    "guid": "f0ddd1ca-e7b9-11f1-a591-d7385ac06142",
    "title": "#2585 - Sam Tripoli & Eddie Bravo"
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT5582771746.mp3",
    "guid": "2013800e-c120-11f1-a768-6f890ba0aaa8",
    "title": "#2561 - LL Cool J"
-  },
-  {
-   "date": "2026-10-02",
-   "durationSec": 8486,
-   "enclosure": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-   "guid": "2089f348-bd41-11f1-a7c5-d7bc7ba22f90",
-   "title": "JRE MMA Show #186 with Sean Sharaf"
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2333,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/0cf9ff19-9eca-4079-9d9d-b50d014a90dc/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "b6db04cc-77e3-4ad7-ae5a-b50d014d1e2f",
+   "title": "Daybreak Holiday: Nvidia, Jobs, Thanksgiving Dinner"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 1135,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/355c1c8c-a310-4384-985f-b50e0036ccd3/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "355c1c8c-a310-4384-985f-b50e0036ccd3",
+   "title": "Dip Buyers Stabilize AI Trade, US Targets China, EU With New Tariffs"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1053,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/313c3625-384c-4a7a-833a-b50d004c5614/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
@@ -195,20 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/85d79faa-b981-4bc3-a38a-b4ef002b42a1/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
    "guid": "85d79faa-b981-4bc3-a38a-b4ef002b42a1",
    "title": "Markets Brace for Earnings, Central Bank Decisions"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 2321,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/02189672-5561-4140-b771-b4ec013ce235/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "fb1f571f-a240-4b79-9b87-b4ec013e5976",
-   "title": "Daybreak Weekend: US Tech, UK Budget, BOJ Decision"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1080,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/e816c149-c190-4fa2-979a-b4ec001e3ddd/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "e816c149-c190-4fa2-979a-b4ec001e3ddd",
-   "title": "Tech Stock Selloff Deepens, AI Safety Discussion"
   }
  ]
 }

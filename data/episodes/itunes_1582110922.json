@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 485,
+   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/130145407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2Fd2a940ea-f5ba-02b3-cf01-0a9eb1d6a10d.mp3",
+   "guid": "3ec04fa3-3b0c-47f0-9621-c1625bb0a513",
+   "title": "Penguin Parade & Slang Words"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 506,
+   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/130074099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F4855f556-1c53-e846-d606-cdbb8e201efe.mp3",
+   "guid": "cd3cea0e-c352-403f-a0ac-164bfde34c7f",
+   "title": "Red Sprites & China Space"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 523,
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/130005335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F172645b1-6caa-74b8-3879-3c68a94f89b2.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127563720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F61356b6b-a5c5-b5f6-98bb-01caecb9a318.mp3",
    "guid": "e05304f8-c196-466c-b8aa-04318c1eda55",
    "title": "Convenience Stores & Cancer Marathons"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 520,
-   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127505590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F9f5e868b-4c48-e6b1-fc1b-a4c6c643b5dd.mp3",
-   "guid": "848e0790-3005-407b-b355-08e01515323e",
-   "title": "Pet Care & Digestible Batteries"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 488,
-   "enclosure": "https://anchor.fm/s/fb3f6028/podcast/play/127452585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F1de7acf2-cf9b-0903-1c18-0b69d8d32661.mp3",
-   "guid": "cbe03981-bf65-4652-bb99-28c46e10b590",
-   "title": "Hualien Bear & Rubik's Cube"
   }
  ]
 }

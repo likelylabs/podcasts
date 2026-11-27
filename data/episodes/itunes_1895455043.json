@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 340,
+   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0305.mp3",
+   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0305",
+   "title": "The Borneo Jungle War: Malaysia's Forgotten Front"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 612,
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0304.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0276.mp3",
    "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0276",
    "title": "Malaysia's Forgotten Monsoon Traders"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 579,
-   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0275.mp3",
-   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0275",
-   "title": "Malaysia's Bunkers: The Cold War Concrete Legacy"
   }
  ]
 }

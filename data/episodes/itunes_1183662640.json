@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 4613,
+   "enclosure": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/486d1fea-dd57-4ff1-8de9-cfea1f9de16a.mp3",
+   "guid": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
+   "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 5062,
    "enclosure": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/98b809db-0025-4671-9ca4-195f6e0c722f.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/dbfb9921-99a0-4ee7-9160-e97c1a93a14a.mp3",
    "guid": "dbfb9921-99a0-4ee7-9160-e97c1a93a14a",
    "title": "#383  导弹、黑雨与撕裂的城市：一个中国人的战时德黑兰记录"
-  },
-  {
-   "date": "2026-03-19",
-   "durationSec": 3433,
-   "enclosure": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/e80731c3-e467-4073-8718-89244847b1b7.mp3",
-   "guid": "e80731c3-e467-4073-8718-89244847b1b7",
-   "title": "#382  推翻、改造、失控：从历史视角看美国的中东介入和事与愿违"
   }
  ]
 }

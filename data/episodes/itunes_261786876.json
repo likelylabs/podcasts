@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1229,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq38zb.mp3",
+   "guid": "urn:bbc:podcast:w3ct8gb9",
+   "title": "Taking Stock: Trump brings back tariffs and tech bosses"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1503,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppyl03.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjbgr8.mp3",
    "guid": "urn:bbc:podcast:w3ct8ggp",
    "title": "If China's exports are booming, why are consumers struggling?"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1484,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj34xb.mp3",
-   "guid": "urn:bbc:podcast:w3ct8g9z",
-   "title": "Taking Stock: What French protests, Netflix data and the Alberta referendum reveal"
   }
  ]
 }

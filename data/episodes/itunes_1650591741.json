@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1017,
+   "enclosure": "https://traffic.megaphone.fm/ALLE4228041345.mp3",
+   "guid": "471a1fbe-d7f5-11f1-8c9d-cf0a1f7ecdf3",
+   "title": "BE 652: Are You a 9-5 Type?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1016,
    "enclosure": "https://traffic.megaphone.fm/ALLE7171373006.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/ALLE2479745670.mp3",
    "guid": "8c0b034a-a9a1-11f1-a63b-6b4827f57af4",
    "title": "BE 625: You Have No Idea How Useful These Phrases Are!"
-  },
-  {
-   "date": "2026-09-22",
-   "durationSec": 1049,
-   "enclosure": "https://traffic.megaphone.fm/ALLE8640310516.mp3",
-   "guid": "32683844-a9a1-11f1-a919-8fbf79e5b261",
-   "title": "BE 624: Hear Me Out! Phrases for Grabbing Attention and Asking for Respect"
   }
  ]
 }

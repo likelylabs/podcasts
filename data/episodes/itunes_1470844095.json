@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 870,
+   "enclosure": "https://anchor.fm/s/c56bd1c/podcast/play/130105063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F93a113a8-4620-d354-e90f-ec7023757081.mp3",
+   "guid": "8dad0f72-ae50-4b6d-9fc2-55b52405ddac",
+   "title": "episode422「お金シリーズ　Vol.2『日本人と現金文化』(N4)」"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 1002,
    "enclosure": "https://anchor.fm/s/c56bd1c/podcast/play/129693736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F69a1cb51-9523-d22a-82c0-a37b7c975a5c.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/c56bd1c/podcast/play/122644277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F66798ba0-f8f0-7f97-3781-35785f7b1329.mp3",
    "guid": "ddd64d59-da87-4d0d-ab3f-7f2ce9571388",
    "title": "episode393「タメ口(N3タメ口)」"
-  },
-  {
-   "date": "2026-07-10",
-   "durationSec": 868,
-   "enclosure": "https://anchor.fm/s/c56bd1c/podcast/play/122636309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2Fafe8b14d-58ac-032f-944c-a027c1a9d816.mp3",
-   "guid": "04cdf309-cecc-492c-b462-32552d91ae7c",
-   "title": "episode392「ブロッコリー(N3)」"
   }
  ]
 }

@@ -1,11 +1,25 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2850,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq4y9c.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39z0lkz",
+   "title": "Are data centres in space a good idea?"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 2849,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq2gby.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39yzrc2",
+   "title": "US regulators approve a million data satellites in space"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 2831,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppy9sq.mp3",
    "guid": "urn:bbc:podcast:w1730bnd39yxpnw",
-   "title": "25/11/2026 21:06 GMT"
+   "title": "US: New tariffs on countries including China"
   },
   {
    "date": "2026-11-26",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmj6ql.mp3",
    "guid": "urn:bbc:podcast:w1730bnccsbcdg6",
    "title": "El Salvador troops target gangs in Haiti"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 2847,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmghkj.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsbbk79",
-   "title": "General strike in Spain over cost of housing"
-  },
-  {
-   "date": "2026-11-11",
-   "durationSec": 2843,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmc88p.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsb8hk3",
-   "title": "Zelensky hails talks in Abu Dhabi as 'constructive and quite substantive'"
   }
  ]
 }

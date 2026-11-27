@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 684,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT5697205698.mp3",
+   "guid": "007fa478-e9b3-11f1-b2f6-ffe3428430b9",
+   "title": "Inside JD Vance Country With Rory Stewart"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 3577,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT3503387897.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2871798723.mp3",
    "guid": "c8789502-b11e-11f1-b837-27aacf911175",
    "title": "571. Rory and Alastair Challenge Ed Miliband on Israel-Palestine"
-  },
-  {
-   "date": "2026-09-11",
-   "durationSec": 3918,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/GLT2513584234.mp3",
-   "guid": "7fe07686-ad02-11f1-af93-67145371b99d",
-   "title": "\"Our Generation Was Lied To\": Two Gen Z MPs on Fixing Politics"
   }
  ]
 }

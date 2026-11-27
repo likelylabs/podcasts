@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1050,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0810df19eabcafe8be2474/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mHb4dHPX-wOOavfgdUc8ZQq4Ay5bnboUWs_NCJNlJbo",
+   "guid": "6b0810df19eabcafe8be2474",
+   "title": "Left in the lurch: Spain’s general election"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1122,
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e-85GFju3Hl3YIzBPXzeoFb3ZlRY8sv3zkq-NcTZ_ns",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad1fd1765f99a36ebb7243f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WyVJjAhuCsDXxJ7hffRS7iXD9hXx61nBA2GrUmSLQBE",
    "guid": "6ad1fd1765f99a36ebb7243f",
    "title": "Schrödinger’s chat: can AI and scientists co-exist?"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 3660,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad0f9cc3b418431370456ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4FFEtplTl3zamGgSsmOKL8xCbJEQeVg6u4IfQwLhd74",
-   "guid": "6ad0f9cc3b418431370456ec",
-   "title": "An interview with Alice Weidel"
   }
  ]
 }

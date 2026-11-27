@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 549,
+   "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM1270072413.mp3",
+   "guid": "8e6da7aa-ca94-11f1-9112-ffca4fd809ac",
+   "title": "Ernie Pyle: World War II Journalist"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 602,
    "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM6361251286.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM8074378246.mp3",
    "guid": "dde527e0-46b4-11f1-8d33-af1e69eb7ad8",
    "title": "The Secret World of WW2 Codebreakers"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 691,
-   "enclosure": "https://mgln.ai/e/211/traffic.megaphone.fm/TNM6321516135.mp3",
-   "guid": "fadc2582-676c-11f1-a33e-fff6eb3fbc07",
-   "title": "John Paul Jones: Hero of the American Navy"
   }
  ]
 }

@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-26",
+   "durationSec": 161,
+   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288668.mp3?v=0D67BCDDF1AD7A5D7B470B62DF7044A4",
+   "guid": "8708D79A7DD5C24B7A85726494774210",
+   "title": "A Stone Monster Crashed the Strawberry Farm P4 | Safety Sheriff Labrador👮"
+  },
+  {
+   "date": "2026-11-26",
    "durationSec": 171,
    "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288667.mp3?v=0100B03F622E71E4603B8EDA37DE5FA8",
    "guid": "C0F20211378B132EEFCDE66BCE3BDA1D",
@@ -202,13 +209,6 @@
    "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288248.mp3?v=5284F0CB8C19C303CDA7D614860591C3",
    "guid": "68593F1B825D5DC18DE8FE7CB8CDF7E4",
    "title": "A Summer Crisis! Who's the Mysterious Ice Cream Bar Vendor? P1丨Safety Sheriff Labrador👮"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 87,
-   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288143.mp3?v=A793EC1C5471642A214EA776B7F97559",
-   "guid": "4881DD74EB7735FF48B185CBBF520CAD",
-   "title": "【Safety Tips】Take Medicine the Right Way!"
   }
  ]
 }

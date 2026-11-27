@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 5014,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6b057889a6f4de552cf10e94/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5R95QcV8Elhs82yRGvipyDbp8n7Bpn_80s-vZD0AA2g",
+   "guid": "6b057889a6f4de552cf10e94",
+   "title": "Bryan Habana: The Springbok Icon Betrayed By His Own Father & the Secret He Had to Keep (E451)"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1957,
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6b056233255eba6cc94a9cdf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QMp-wvTTRQeiiFWkygPEdJRHBMAlEKg26CO-F_tAtfQ",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6abb9569cc2ff48ed7bab306/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZRfno5MokF0qhYLBqRtaAodJYtMMtXgh0d5S-nQ1gww",
    "guid": "6abb9569cc2ff48ed7bab306",
    "title": "The Permission You're Waiting For Doesn't Exist"
-  },
-  {
-   "date": "2026-09-28",
-   "durationSec": 4227,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ab536fb80b1e516b17673e5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9hkem_Nad_tHzPzwxwbC_KtKD7nfSiLpjzWD_DJXn60",
-   "guid": "6ab536fb80b1e516b17673e5",
-   "title": "Kevin Sinfield: The Day He Said Goodbye to Rob Burrow (E440)"
   }
  ]
 }

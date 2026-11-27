@@ -1,11 +1,32 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2622,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4ce84d8e-d383-469e-a24e-abdb0017cb83/549a3966-f508-4371-bb61-b50c008995a4/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
+   "guid": "549a3966-f508-4371-bb61-b50c008995a4",
+   "title": "S2E98: Another good man out of Anwar’s Cabinet?"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 2111,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/2b672915-720f-4e47-8810-b4f20096cadb/cf5e7693-eaae-433a-9b0e-b50e00617f36/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
+   "guid": "cf5e7693-eaae-433a-9b0e-b50e00617f36",
+   "title": "S1E5: Growing up online - From consumer to creator"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 2511,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/7c2fcfa2-e852-4b8f-88d7-b13b00a5aa43/d57bcd5e-489b-4c31-9665-b50e006b8ee8/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
+   "guid": "d57bcd5e-489b-4c31-9665-b50e006b8ee8",
+   "title": "S1E120: Singapore’s ex-deputy cyber chief says cyber incidents will intensify in the next 12 to 18 months"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3406,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4d142708-9074-41ec-9c48-ae7401168a2e/94ef14a5-01b6-46df-be62-b50c00c87dd5/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "94ef14a5-01b6-46df-be62-b50c00c87dd5",
-   "title": "S1E100: Zaqy Mohamad talks on Middle East turmoil, job fears and PAP renewal"
+   "title": "S1E100: Zaqy Mohamad opens up on careers, turmoil in the Middle East and his new portfolio"
   },
   {
    "date": "2026-11-24",
@@ -188,27 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d40ea514-086b-444c-aded-ae83006c2475/36436e4e-49cf-4800-a794-b4ec009d41f1/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
    "guid": "36436e4e-49cf-4800-a794-b4ec009d41f1",
    "title": "S2E56: The world is on fire but hey I have matcha: How little treats are helping us deal with uncertainty"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 2849,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4ce84d8e-d383-469e-a24e-abdb0017cb83/63ef46e9-7a2a-4783-be53-b4ec00adf450/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
-   "guid": "63ef46e9-7a2a-4783-be53-b4ec00adf450",
-   "title": "S2E93: Can Sabah and Sarawak decide Malaysia's next election?"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 3244,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/4ce84d8e-d383-469e-a24e-abdb0017cb83/54119e0d-9c89-44c9-9cb3-b4ea00b0ec10/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
-   "guid": "54119e0d-9c89-44c9-9cb3-b4ea00b0ec10",
-   "title": "S2E92: Iran v US: Is the war about to get much worse?"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 2345,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/7c2fcfa2-e852-4b8f-88d7-b13b00a5aa43/31c0f989-d522-425a-bc7a-b4eb007b1c0d/audio.mp3?utm_source=Podcast&in_playlist=58c27497-cc2d-4f57-8d8c-a8e4008b7584",
-   "guid": "31c0f989-d522-425a-bc7a-b4eb007b1c0d",
-   "title": "S1E115: Can Singapore take Indonesia to the International Court of Justice over the haze?"
   }
  ]
 }

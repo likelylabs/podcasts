@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1004,
+   "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/129851863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F8eb11331-a777-1711-d3ff-a32bb82a4789.mp3",
+   "guid": "84ff2be4-cb13-4f2f-a8f5-655fd6d20664",
+   "title": "Day 75 - The Story of God Devotionals"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 600,
+   "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/130128154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fd161a3ff-0b10-20b2-91f0-cff718c2dd8e.mp3",
+   "guid": "8665f793-dfb8-4339-a465-faa8b25b1ef4",
+   "title": "Day 74 - The Story of God Devotionals"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 912,
    "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/129851833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F2efcdd2a-ac44-4086-9956-5c5dfb6c9c0b.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/128031770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434921873-44100-2-90741a9da4129.m4a",
    "guid": "a98b3db2-8743-48c7-b421-3909c8ea0428",
    "title": "Day 46 - The Story of God Devotionals"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 983,
-   "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/128150451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fbc47a207-9a34-197a-9a6f-d966a8f6e30b.mp3",
-   "guid": "a273190a-0dd1-4809-904c-a259b2a5b6ff",
-   "title": "Day 45 - The Story of God Devotionals"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 817,
-   "enclosure": "https://anchor.fm/s/fdbea9f8/podcast/play/128031693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434921698-44100-2-da8b8b790cc1e.m4a",
-   "guid": "dfdebf8e-a079-4b0e-8900-aa32debeafb1",
-   "title": "Day 44 - The Story of God Devotionals"
   }
  ]
 }

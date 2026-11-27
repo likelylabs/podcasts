@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3943,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6b0440dbe42fe26dd9fa9da7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8pMNH6BPc1vP_ZBSGm9gY-Rv9-1ZzSd-U7k4dU3UIFk",
+   "guid": "6b0440dbe42fe26dd9fa9da7",
+   "title": "Augustus: Rome's First Emperor"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 3718,
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6b0006b18cc2ad58c75afbd0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uoF_7KHy9-4AAI8nSw_G-pBpMep_lcDmJDk3qDe4Ohg",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6a7ef10204592ab24908b6dc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1ftQlPCnsZh-ixM8NKo0YfuWIadY7lN5c2uJ7aGSEBU",
    "guid": "6a7ef10204592ab24908b6dc",
    "title": "How Slavery Built the Roman Empire"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 3595,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/the-ancients/e/6a75f8b1c32900003e5acbc7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LqBn6CYayGTPq7fZWQGou52ummA46458ovESAgeO4Ng",
-   "guid": "6a75f8b1c32900003e5acbc7",
-   "title": "Romulus & Remus"
   }
  ]
 }

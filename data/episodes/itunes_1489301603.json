@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1417,
+   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/95dc6bb1/671861e1.mp3",
+   "guid": "344331d5-0172-41dd-b64a-f18c0747c0c7",
+   "title": "[Black Friday Freebie #5] Gregor MacGregor: The Man Who Invented a Country"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1088,
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/af8749e6/70acc1c6.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/10705436/b351e6e2.mp3",
    "guid": "d0441d29-062d-49ab-bc79-a3474ea534b9",
    "title": "#585 | Is AI Really Destroying the Planet?"
-  },
-  {
-   "date": "2025-12-05",
-   "durationSec": 1530,
-   "enclosure": "https://p.podderapp.com/7325297561/dts.podtrac.com/redirect.mp3/media.transistor.fm/a1da504e/bd04d856.mp3",
-   "guid": "93e6817f-4348-42af-b573-06a7f99123ce",
-   "title": "#582 | Piazza Fontana & The Accidental Death of An Anarchist"
   }
  ]
 }

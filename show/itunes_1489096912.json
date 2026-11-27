@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1489096912",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP1756 我們有最寶貴的回應",
+   "date": "2026-11-27",
+   "enclosure": "https://anchor.fm/s/107a0994/podcast/play/128079764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Ff61a9b67-bff7-fe36-b089-28688745ff74.mp3",
+   "durationSec": 569,
+   "guid": "be7a039e-746a-444b-90a6-e129bd3f6932"
+  },
   {
    "title": "EP1755 我們有最寶貴的源頭",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/107a0994/podcast/play/126061035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2Fcf854037-8758-c079-d6aa-7618e19857d6.mp3",
    "durationSec": 588,
    "guid": "a4add964-4156-452e-b61e-57548d343257"
-  },
-  {
-   "title": "EP1726 無限者的愛夢：我是主的終極絕配",
-   "date": "2026-10-15",
-   "enclosure": "https://anchor.fm/s/107a0994/podcast/play/125752081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F7213533d-7442-db98-4ba7-dec9301a6ae6.mp3",
-   "durationSec": 573,
-   "guid": "a40bad1f-b144-4471-ac22-a0cb9424ed81"
   }
  ]
 }

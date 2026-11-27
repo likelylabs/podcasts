@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1657,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppzgz2.mp3",
+   "guid": "urn:bbc:podcast:w3ct8mg9",
+   "title": "Are American parents too afraid to let their kids go outside?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1605,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pprp7p.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phfrzz.mp3",
    "guid": "urn:bbc:podcast:w3ct8mcq",
    "title": "Is Trump sacrificing Ukraine for cheaper diesel?"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 1611,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph0r83.mp3",
-   "guid": "urn:bbc:podcast:w3ct8m9f",
-   "title": "America’s rogue ambassadors"
   }
  ]
 }

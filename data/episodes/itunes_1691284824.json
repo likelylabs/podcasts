@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1278,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6b08925e28826f4c5b6186ae/media.mp3",
+   "guid": "6b08925e28826f4c5b6186ae",
+   "title": "What's a fund manager to do?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1340,
    "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6b05eb5dced26bb723221a46/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a84b771a835875d375e46f7/media.mp3",
    "guid": "6a84b771a835875d375e46f7",
    "title": "Does the market know anything about oil?"
-  },
-  {
-   "date": "2026-08-14",
-   "durationSec": 1186,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a7e0a46ff328abd84337abc/media.mp3",
-   "guid": "6a7e0a46ff328abd84337abc",
-   "title": "Hot Stoxx summer"
   }
  ]
 }

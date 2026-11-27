@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 402,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppzxv4.mp3",
+   "guid": "urn:bbc:podcast:p0ppzy2r",
+   "title": "Is Gen Z getting less intelligent?"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 403,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnsz8p.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0njskv5.mp3",
    "guid": "urn:bbc:podcast:p0njsn2d",
    "title": "Searching for life on another planet"
-  },
-  {
-   "date": "2026-04-30",
-   "durationSec": 402,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nhfvh9.mp3",
-   "guid": "urn:bbc:podcast:p0nhfvyw",
-   "title": "Should we eat ultra-processed food?"
   }
  ]
 }

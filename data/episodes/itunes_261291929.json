@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2600,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq3k45.mp3",
+   "guid": "urn:bbc:podcast:m00352c4",
+   "title": "Are Arsenal getting better, but more unlucky?"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1651,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppyk0z.mp3",
    "guid": "urn:bbc:podcast:p0ppyk6l",
-   "title": "Dramatic draw for Man United, and Liverpool beat Brugge"
+   "title": "Dramatic draw for Man Utd & Liverpool beat Brugge"
   },
   {
    "date": "2026-11-25",
@@ -181,13 +188,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkbg0j.mp3",
    "guid": "urn:bbc:podcast:m003434t",
    "title": "Lloyd's off to the Superclásico & are Spurs finally good again?"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 1845,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pjy3ml.mp3",
-   "guid": "urn:bbc:podcast:p0pjy46g",
-   "title": "Carrick Stays at United & Kane Wins Ballon d’Or"
   },
   {
    "date": "2026-10-26",

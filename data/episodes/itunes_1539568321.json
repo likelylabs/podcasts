@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1259,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/f90ee1af-77bb-4ca2-bf8e-398ae9c8f5b5.mp3",
+   "guid": "f90ee1af-77bb-4ca2-bf8e-398ae9c8f5b5",
+   "title": "Day 330: Saul's Conversion (2026)"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1267,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/414a9e20-6da9-4c23-a9e8-2cb58da94cdc.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/795ea147-2ab0-4559-b606-2819d09cdd5d.mp3",
    "guid": "795ea147-2ab0-4559-b606-2819d09cdd5d",
    "title": "Day 303: Eleazar's Martyrdom (2026)"
-  },
-  {
-   "date": "2026-10-29",
-   "durationSec": 1166,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/c6195108-f3c5-4f31-a76a-b43d15c04973.mp3",
-   "guid": "c6195108-f3c5-4f31-a76a-b43d15c04973",
-   "title": "Day 302: The Pursuit of Wisdom (2026)"
   }
  ]
 }

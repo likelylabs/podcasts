@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 66,
+   "enclosure": "https://traffic.megaphone.fm/STM8354955054.mp3",
+   "guid": "d2a35154-e533-11f1-8091-2b37bf9cdd45",
+   "title": "🎄🎁 A Little Mail from Sheryl 🎄🎁"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1372,
    "enclosure": "https://traffic.megaphone.fm/STM4451893608.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM8334532809.mp3",
    "guid": "03b8a704-5ed8-11f1-afba-2bee506f2e78",
    "title": "Understanding Animals: Do You Know About the Eagle? 🦅"
-  },
-  {
-   "date": "2026-05-27",
-   "durationSec": 1403,
-   "enclosure": "https://traffic.megaphone.fm/STM1777570276.mp3",
-   "guid": "de9af8b6-5953-11f1-a112-7fb06b83eeaf",
-   "title": "Fun Facts: Bodies, Beasts, and the Big Beyond 🧠🐾🚀"
   }
  ]
 }

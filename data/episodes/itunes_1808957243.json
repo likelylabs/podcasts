@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1004,
+   "enclosure": "https://traffic.megaphone.fm/STM3562520443.mp3",
+   "guid": "3840097e-dd34-11f1-942a-13b3be0ba1c1",
+   "title": "How Does a Radio Work?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 833,
    "enclosure": "https://traffic.megaphone.fm/STM2396335225.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM1989563211.mp3",
    "guid": "2130d61c-ca58-11f1-8ada-3f375fc26028",
    "title": "Why Don't Tattoos Go Away?"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 1858,
-   "enclosure": "https://traffic.megaphone.fm/STM2909271728.mp3",
-   "guid": "d2f38c6a-ca57-11f1-95b2-bbeb1d9c8797",
-   "title": "What Causes an Earthquake? (Curious Kids Club)"
   }
  ]
 }

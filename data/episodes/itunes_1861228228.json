@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 490,
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/66cc13c0-84fe-49bd-94bb-9f96ea87043a/rssFileVip.mp3?timestamp=1795727646053",
+   "guid": "66cc13c0-84fe-49bd-94bb-9f96ea87043a",
+   "title": "AI台灣日報 EP327 [沙國最大煉油廠疑遭葉門青年運動攻擊　荷莫茲海峽再有船觸雷]"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 744,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/b18d5fc1-71bf-4ca6-9132-5a567ec2d057/rssFileVip.mp3?timestamp=1795641207960",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/b18d5fc1-71bf-4ca6-9132-5a567ec2d057/rssFileVip.mp3?timestamp=1795675011860",
    "guid": "b18d5fc1-71bf-4ca6-9132-5a567ec2d057",
    "title": "AI台灣日報 EP326 [美情報機構疑遭駭　4名知情人士指源頭初步指向中國]"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/083264d9-672a-495f-92fc-08b3ce3f5e35/rssFileVip.mp3?timestamp=1793264326649",
    "guid": "083264d9-672a-495f-92fc-08b3ce3f5e35",
    "title": "AI台灣日報 EP298 [美國太平洋陸軍司令：中國武力奪台能力與威脅窗口仍成立]"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 642,
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/4e93b5fa-58f0-4779-b46c-d971804912ff/rssFileVip.mp3?timestamp=1793181875742",
-   "guid": "4e93b5fa-58f0-4779-b46c-d971804912ff",
-   "title": "AI台灣日報 EP279 [AR 實景探索周邊好去處 原價 US $]"
   }
  ]
 }

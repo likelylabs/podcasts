@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1887,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b08b1b3d3566dde7d938245/media.mp3",
+   "guid": "6b08b1b3d3566dde7d938245",
+   "title": "In-Car Insights: An interactive driver-steward meeting, the latest on Ferrari, and more from Qatar"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 2552,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b07047537fa8fa0c47e327c/media.mp3",
+   "guid": "6b07047537fa8fa0c47e327c",
+   "title": "Tech Show: Does F1 have the right V8 plan?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3294,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6b05c6a2ced26bb7230d9d15/media.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6ad252357c5c47f85e2008c2/media.mp3",
    "guid": "6ad252357c5c47f85e2008c2",
    "title": "Tech Show: What Red Bull's improvement & Mercedes' upgrade troubles mean for 2027"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2481,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6ad080b7937a3c900ff14441/media.mp3",
-   "guid": "6ad080b7937a3c900ff14441",
-   "title": "The inside story of Rwanda's new F1 circuit design"
-  },
-  {
-   "date": "2026-10-13",
-   "durationSec": 2424,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819ae2bf30c20bff775e8a1/e/6acdeaae65f99a36eb537be6/media.mp3",
-   "guid": "6acdeaae65f99a36eb537be6",
-   "title": "Mailbag: Is Russell F1’s most underwhelming pre-season favourite?"
   }
  ]
 }

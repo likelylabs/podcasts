@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 7301,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/db3d2831-8a34-43cf-bb21-e30f543e31c7/episodes/0fe65851-850a-40ab-ae69-cc45de4ccfe8/audio/128/default.mp3?aid=rss_feed&awCollectionId=db3d2831-8a34-43cf-bb21-e30f543e31c7&awEpisodeId=0fe65851-850a-40ab-ae69-cc45de4ccfe8&feed=LNIsL2kT",
+   "guid": "4808ea0d-bf48-4435-bac1-28b71bb4dbc3",
+   "title": "From the Vault: John Oliver on Why Everything is a Scam, FIFA, Mergers, and Information Literacy"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2144,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/db3d2831-8a34-43cf-bb21-e30f543e31c7/episodes/f4f59734-2ca7-4035-9ef8-3a56bb430272/audio/128/default.mp3?aid=rss_feed&awCollectionId=db3d2831-8a34-43cf-bb21-e30f543e31c7&awEpisodeId=f4f59734-2ca7-4035-9ef8-3a56bb430272&feed=LNIsL2kT",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/db3d2831-8a34-43cf-bb21-e30f543e31c7/episodes/0df1a969-6bdb-436e-a0f2-dfa1304703e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=db3d2831-8a34-43cf-bb21-e30f543e31c7&awEpisodeId=0df1a969-6bdb-436e-a0f2-dfa1304703e6&feed=LNIsL2kT",
    "guid": "f47cd9f8-7d7e-452b-8a74-d705b3d7e6f2",
    "title": "WORLD CUP Bonus Episode: Entering the Knockouts"
-  },
-  {
-   "date": "2026-06-25",
-   "durationSec": 6331,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/db3d2831-8a34-43cf-bb21-e30f543e31c7/episodes/d066add4-a335-4955-8443-fd7ef10fec51/audio/128/default.mp3?aid=rss_feed&awCollectionId=db3d2831-8a34-43cf-bb21-e30f543e31c7&awEpisodeId=d066add4-a335-4955-8443-fd7ef10fec51&feed=LNIsL2kT",
-   "guid": "376596b0-dc9c-4f46-b4a8-b9bdc9fa2435",
-   "title": "Don Lemon: The Cost of Candor"
   }
  ]
 }

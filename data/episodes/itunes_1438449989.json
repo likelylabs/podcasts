@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1715,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b060ed238d4dce5270099a8/media.mp3",
+   "guid": "6b060ed238d4dce5270099a8",
+   "title": "Slate: What Next. Why Is Everything Breaking?"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 873,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b07695237fa8fa0c4b26e92/media.mp3",
+   "guid": "6b07695237fa8fa0c4b26e92",
+   "title": "'Jensanity' sweeps China and Taiwan"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 744,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b0620af38d4dce52709bcbe/media.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ade7ea2d10dc4428d2e90f0/media.mp3",
    "guid": "6ade7ea2d10dc4428d2e90f0",
    "title": "Serbia’s strongman leader voted out"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 1363,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adbb9c44395ebfbf1681f83/media.mp3",
-   "guid": "6adbb9c44395ebfbf1681f83",
-   "title": "The Bethlehem Project: Voters feel anxious and uncertain as US midterms near"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 1908,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adb202823f48c4f24a22a30/media.mp3",
-   "guid": "6adb202823f48c4f24a22a30",
-   "title": "Martin Wolf on the US midterms: What’s at stake for the world?"
   }
  ]
 }

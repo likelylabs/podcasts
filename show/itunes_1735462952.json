@@ -1,8 +1,14 @@
 {
  "showId": "itunes_1735462952",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "聚散有時",
+   "date": "2026-11-27",
+   "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261127_0810_1729_tw.mp3",
+   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=116917"
+  },
   {
    "title": "兩年了，我們在一起......",
    "date": "2026-11-20",
@@ -176,12 +182,6 @@
    "date": "2026-05-01",
    "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260501_0810_1729_tw.mp3",
    "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=103247"
-  },
-  {
-   "title": "張啓樂的三天兩夜高雄之旅",
-   "date": "2026-04-24",
-   "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260424_0810_1729_tw.mp3",
-   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=102746"
   }
  ]
 }

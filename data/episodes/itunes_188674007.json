@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2770,
+   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/26-42222-gnl.fw.jg.26112026.man_utd_lucky_in_lisbon.mp3",
+   "guid": "6b07e0c98f082c4b24a36aa1",
+   "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2738,
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/11/25-45828-gnl.fw.jg.25112026.poor_showing_in_europe_for_prem.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/21-43422-gnl.fw.jg.21092026.arsenal_battered_at_brighton.mp3",
    "guid": "6ab0d9368f08c4af80ed870c",
    "title": "Arsenal battered in Brighton as Manchester City go clear: Football Weekly"
-  },
-  {
-   "date": "2026-09-17",
-   "durationSec": 2761,
-   "enclosure": "https://flex.acast.com/audio.guim.co.uk/2026/09/17-44860-gdn.fw.20261709.tp.Manchester_united_crash_out_of_cup_again_at_first_hurdle.mp3",
-   "guid": "6aaba4ea8f08c4af80ed61b9",
-   "title": "Manchester United crisis klaxon alert and Sunderland soar: Football Weekly Extra"
   }
  ]
 }

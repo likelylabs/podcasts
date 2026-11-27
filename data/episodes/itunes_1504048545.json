@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1854,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/therachmanreview/e/6b07262ada97641065fdb1a8/media.mp3",
+   "guid": "6b07262ada97641065fdb1a8",
+   "title": "What the rise of the far right means for Germany and Europe"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1517,
    "enclosure": "https://sphinx.acast.com/p/acast/s/therachmanreview/e/6aff4bd1d6567033edf83fa6/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/therachmanreview/e/6a049b0b3eb645235610dc0c/media.mp3",
    "guid": "6a049b0b3eb645235610dc0c",
    "title": "Trump returns to Beijing: what’s at stake"
-  },
-  {
-   "date": "2026-05-07",
-   "durationSec": 1734,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/therachmanreview/e/69fb512e13990e6fae053ee5/media.mp3",
-   "guid": "69fb512e13990e6fae053ee5",
-   "title": "Lloyd Austin on Ukraine, Iran and the lessons of war"
   }
  ]
 }

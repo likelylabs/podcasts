@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3122,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6b07657ce57824aecb7f1f62/media.mp3",
+   "guid": "6b07657ce57824aecb7f1f62",
+   "title": "More Man United madness in Lisbon as Man City head to Arsenal"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2585,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6b05d41c7665cd50554436dd/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6ac16284facc563d1fdcec68/media.mp3",
    "guid": "6ac16284facc563d1fdcec68",
    "title": "England cruise past Croatia 7-0!"
-  },
-  {
-   "date": "2026-10-01",
-   "durationSec": 3368,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818cd43eb146d8e35d312c7/e/6abd0ff3815c1e055052b938/media.mp3",
-   "guid": "6abd0ff3815c1e055052b938",
-   "title": "What next for Man City? What next for Ronaldo?"
   }
  ]
 }

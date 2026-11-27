@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 396,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3124009.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3124009?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Ukraine : la guerre change d'échelle - Vos questions sms -"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 3710,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3124008.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3124008?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Ukraine : la guerre change d'échelle - L'intégrale -"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 406,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3113468.mp3?origin=rss",
@@ -195,20 +209,6 @@
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3001785.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3001785?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Teddy Riner, un début de campagne entre promesses et inquiétudes - Vos questions sms -"
-  },
-  {
-   "date": "2026-11-15",
-   "durationSec": 3700,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3001784.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3001784?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Teddy Riner, un début de campagne entre promesses et inquiétudes - L'intégrale -"
-  },
-  {
-   "date": "2026-11-14",
-   "durationSec": 599,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/2993162.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/2993162?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Olivier Mas - Comment une espionne chinoise a piégé un grand patron américain?"
   }
  ]
 }

@@ -1,11 +1,67 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 709,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127123553_181504-cantonese-3e7c30fd-c23a-4a91-b2d8-86a429b007bf.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1663-da60-a3ae-fff7e6720000&dur_cat=3",
+   "guid": "000001a2-1663-da60-a3ae-fff7e6720000",
+   "title": "【水泥廠變搶手貨】AI 賣鏟人受追捧 有無隱藏風險？"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 812,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127105415_841107-cantonese-2dbfd08e-4ac3-4acd-99ff-93a9de167b49.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1a3a-d80b-a7b2-1fbf4f060000&dur_cat=3",
+   "guid": "000001a2-1a3a-d80b-a7b2-1fbf4f060000",
+   "title": "SBS廣東話新聞 (2026 年 11 月 27 日)"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 420,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127100621_580245-cantonese-f5762d6e-c212-41da-b0f2-29d1c050d8e4.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1a0f-d1fc-adb6-1b2ff39f0000&dur_cat=2",
+   "guid": "000001a2-1a0f-d1fc-adb6-1b2ff39f0000",
+   "title": "國會通過天然氣出口兩成留供國內 民眾能否真正受惠？"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 849,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127100123_770296-cantonese-85318097-879a-4df6-b4e9-986dd4baa483.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1573-d383-a1eb-f5f777c50000&dur_cat=3",
+   "guid": "000001a2-1573-d383-a1eb-f5f777c50000",
+   "title": "《Every Woman》關於更年期前期及更年期的坦誠對話"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 267,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127100014_644134-cantonese-c0dd0e82-b5f5-462a-865a-b237d47c832e.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-14ec-dba6-a7ea-f6fd90e10000&dur_cat=2",
+   "guid": "000001a2-14ec-dba6-a7ea-f6fd90e10000",
+   "title": "【美人計玩心術重於姿色】俄羅斯前特務揭秘技俘虜目標"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 796,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127095646_506744-cantonese-5017c9c6-153e-451d-b3ad-0c9828726d75.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-170a-d76c-abe2-773bd1c80000&dur_cat=3",
+   "guid": "000001a2-170a-d76c-abe2-773bd1c80000",
+   "title": "SBS九點半新聞 (2026 年 11 月 27 日)"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 408,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261126183113_426036-cantonese-2611-newsupdate.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1675-da72-adbf-577d48900000&dur_cat=2",
+   "guid": "000001a2-1675-da72-adbf-577d48900000",
+   "title": "SBS 晚間新聞 (2026 年 11 月 26 日)"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 628,
+   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261126153731_141573-cantonese-86c63f50-5990-4469-927d-829eb774a1b4.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-15eb-d2be-abef-95ff77a00000&dur_cat=3",
+   "guid": "000001a2-15eb-d2be-abef-95ff77a00000",
+   "title": "【光影會客室】不只打鬥套路 雪梨教練：功夫是文化傳承"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1298,
    "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261126121409_604990-cantonese-c481db02-7f69-42ab-921d-f8669c739123.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-155d-d975-a7bf-ddddde630000&dur_cat=4",
    "guid": "000001a2-155d-d975-a7bf-ddddde630000",
-   "title": "維州選舉工黨會否大敗？"
+   "title": "維州選舉工黨面臨重大考驗 結果會否牽動新州政局？"
   },
   {
    "date": "2026-11-26",
@@ -19,7 +75,7 @@
    "durationSec": 432,
    "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261126105145_337417-cantonese-1fb892df-cb65-440a-813d-0bef15a1b5d6.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-14f4-dcdc-a3eb-74fd41ab0000&dur_cat=2",
    "guid": "000001a2-14f4-dcdc-a3eb-74fd41ab0000",
-   "title": "美國擬再向14個貿易夥伴國加徵新關稅"
+   "title": "美國擬再向14個主要貿易夥伴加徵新關稅"
   },
   {
    "date": "2026-11-26",
@@ -153,62 +209,6 @@
    "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261124114305_398003-cantonese-884874d3-56d1-48b9-8af3-bf18ece94291.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0af5-d383-a1eb-fbf7fdc30000&dur_cat=2",
    "guid": "000001a2-0af5-d383-a1eb-fbf7fdc30000",
    "title": "【財長預警經濟更艱難】增長放緩 經濟學家憂衰退風險升溫"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 777,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261124112931_081296-cantonese-804ed77a-1b58-40b1-9a0e-e1ba398c8790.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0ab0-df7e-a3e7-5fb7cbe30000&dur_cat=3",
-   "guid": "000001a2-0ab0-df7e-a3e7-5fb7cbe30000",
-   "title": "SBS廣東話新聞（2026年11月24日）"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 795,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261124093511_656595-cantonese-7444ee41-99d4-4683-8f20-9396d05c45f4.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0a3c-d7f0-a1bf-2fbc4c650000&dur_cat=3",
-   "guid": "000001a2-0a3c-d7f0-a1bf-2fbc4c650000",
-   "title": "SBS九點半新聞 (2026 年 11 月 24 日)"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 274,
-   "enclosure": "https://sbs-podcast.streamguys1.com/what-about-numbers/20261124091610_968862-cantonese-9a6958da-f3f9-4ce4-bf7f-6bcda99865fb.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-082e-d7f0-a1bf-2dae97b90000&dur_cat=2",
-   "guid": "000001a2-082e-d7f0-a1bf-2dae97b90000",
-   "title": "【2,337隻樹熊藏身城市附近】科學家揭開神秘族群面紗"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 542,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123194724_210091-cantonese-ab844523-d820-47ba-a53d-631867ab6a2c.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-073e-dba6-a7ea-f73fe0b30000&dur_cat=3",
-   "guid": "000001a2-073e-dba6-a7ea-f73fe0b30000",
-   "title": "氣候峰會無果而終 專家指化石燃料背後涉及龐大利益"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 432,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123183011_793150-cantonese-15417a9d-3e26-413f-a6d3-c4ef9724b4b0.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0722-d7f0-a1bf-27ae2dd50000&dur_cat=2",
-   "guid": "000001a2-0722-d7f0-a1bf-27ae2dd50000",
-   "title": "SBS 晚間新聞 (2026 年 11 月 23 日)"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 2253,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123153045_067277-cantonese-3f836f53-941c-49e0-bdff-98efd0efdd9c.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-05ee-dba6-a7ea-f7ffb32c0000&dur_cat=4",
-   "guid": "000001a2-05ee-dba6-a7ea-f7ffb32c0000",
-   "title": "澳華歷史博物館擴建惹爭議 洪門民治黨擔心影響毗鄰廣場"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 1297,
-   "enclosure": "https://sbs-podcast.streamguys1.com/my-australian-story/20261123122353_128604-cantonese-03e570a2-6b91-4eb3-a510-1823ef2b6d93.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-51ea-db26-a7b9-79ff3ab90000&dur_cat=4",
-   "guid": "000001a1-51ea-db26-a7b9-79ff3ab90000",
-   "title": "【職‧夢‧人】不只計算卡路里 營養師Macy陪患者重拾飲食快樂"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 208,
-   "enclosure": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123121705_458859-cantonese-332fc22e-cf8a-41b4-943d-03dcda67ed35.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-05cc-d54e-a9f3-8defe9610000&dur_cat=2",
-   "guid": "000001a2-05cc-d54e-a9f3-8defe9610000",
-   "title": "【醫療費用高昂】半數澳洲人寧忍痛亦不求醫"
   }
  ]
 }

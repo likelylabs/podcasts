@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1740,
+   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05afcc7eeadadee4f9e424/media.mp3",
+   "guid": "6b05afcc7eeadadee4f9e424",
+   "title": "Why you should share a recipe with a stranger | Anuj Gupta"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 982,
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3",
    "guid": "6ad669e798b58b8b524628ed",
    "title": "The fascinating physics of insect pee | Saad Bhamla (re-release)"
-  },
-  {
-   "date": "2026-10-31",
-   "durationSec": 947,
-   "enclosure": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3",
-   "guid": "6ad667bb98b58b8b524628ec",
-   "title": "Zombie roaches and other parasite tales | Ed Yong (re-release)"
   }
  ]
 }

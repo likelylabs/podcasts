@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2595,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6afc74e1e234c45df1dd4d65/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=puSAHjZ-bNfjudOT22yuNltB_kIB_0VcGvznrjkvCk0",
+   "guid": "6afc74e1e234c45df1dd4d65",
+   "title": "Body Snatchers: From the Grave to the Anatomy Table"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2085,
    "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6af3133a43e2f445c253dbdc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RTlXpIffdsNSeEkstgVltEvhGrX0JP25xpEoREYqG98",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6a7de6eadeec4f7e2798b536/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jKjHUtDpPP35EbEfiF3NbKyyzlsG2NvFBTHuPwY3YpU",
    "guid": "6a7de6eadeec4f7e2798b536",
    "title": "The Making of Osama bin Laden"
-  },
-  {
-   "date": "2026-08-13",
-   "durationSec": 2208,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6a798d479ec7e53c6936778e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1qy8De0Qt9R9D7GupuSbXFL1A_UfB3MLmXVlVILBNQM",
-   "guid": "6a798d479ec7e53c6936778e",
-   "title": "Marco Polo and The Court of the Great Kublai Khan"
   }
  ]
 }

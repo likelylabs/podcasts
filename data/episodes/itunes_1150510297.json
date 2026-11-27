@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2520,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3",
+   "guid": "49bd414a-d220-11f1-b770-276687a55362",
+   "title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 5008,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9817118593.mp3",
    "guid": "gid://art19-episode-locator/V0/6g2LnWpyXEhh_4o0JvPqP7hL9GGuv-IGMtgN4Bll9Wg",
    "title": "Advice Line with Carlton Calvin of Razor"
-  },
-  {
-   "date": "2026-08-10",
-   "durationSec": 5013,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2474482761.mp3",
-   "guid": "gid://art19-episode-locator/V0/B9ig_Uuj6gsMAfvhjDjHbdAotG_t_aV8JHo4acYM9bI",
-   "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants"
   }
  ]
 }

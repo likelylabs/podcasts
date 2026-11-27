@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 611,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/b1592263-1b5b-46b6-9133-b50f000c06e4/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
+   "guid": "b1592263-1b5b-46b6-9133-b50f000c06e4",
+   "title": "Compulsory Year One at Age 6: Are We Ready?"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 795,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/0a467323-1029-4adc-9c61-b50f0013b67c/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
+   "guid": "0a467323-1029-4adc-9c61-b50f0013b67c",
+   "title": "Megaspeed Updates & the On-Going Chip Diversion Saga"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 592,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/3b5d5e8a-0640-4ef1-b3ec-b50f0008d8fc/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
+   "guid": "3b5d5e8a-0640-4ef1-b3ec-b50f0008d8fc",
+   "title": "Can Malaysia Keep Its Data Centre Edge"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 417,
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/bdcc2926-999c-4402-a580-b50e001a88c4/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
@@ -188,27 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/ea64e9d4-7073-49bc-b709-b507000c2dd1/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
    "guid": "ea64e9d4-7073-49bc-b709-b507000c2dd1",
    "title": "Shenzhen Summit: Trade Truce Or New Power Bargain"
-  },
-  {
-   "date": "2026-11-19",
-   "durationSec": 641,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/fd5ed67a-817b-4a45-a20b-b507000b23fb/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
-   "guid": "fd5ed67a-817b-4a45-a20b-b507000b23fb",
-   "title": "⁠Malaysia's Q3 GDP Beats Forecasts at 5.5%"
-  },
-  {
-   "date": "2026-11-18",
-   "durationSec": 378,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/ff322e85-8915-4730-9437-b506001d0706/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
-   "guid": "ff322e85-8915-4730-9437-b506001d0706",
-   "title": "India's Stock Rally: Rotation Or Real Recovery"
-  },
-  {
-   "date": "2026-11-18",
-   "durationSec": 551,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/348bcb36-1085-4351-a720-ab0900403779/89c0c526-873a-4b2c-8151-b506001461dc/audio.mp3?utm_source=Podcast&in_playlist=962d774e-ec4d-4ac7-89ad-ab090040377e",
-   "guid": "89c0c526-873a-4b2c-8151-b506001461dc",
-   "title": "Malaysia's Data Centres Under New US Scrutiny"
   }
  ]
 }

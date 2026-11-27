@@ -1,6 +1,76 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 99,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/dfafe98c-f988-4ec5-93e8-69ff1a9df658.mp3?_=1795709283",
+   "guid": "dfafe98c-f988-4ec5-93e8-69ff1a9df658",
+   "title": "LE MEILLEUR DE BOUVARD - Les blagues célestes de Jean-Jacques Peroni et Jacques Balutin"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 5860,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d503eebe-7865-4eb5-9aed-2c436900940e.mp3?_=1795706884",
+   "guid": "d503eebe-7865-4eb5-9aed-2c436900940e",
+   "title": "L'INTÉGRALE - Émission du jeudi 26 novembre 2026"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 500,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/fa30d73c-6752-494d-aa90-d765160089ae.mp3?_=1795708681",
+   "guid": "fa30d73c-6752-494d-aa90-d765160089ae",
+   "title": "DÉBRIEF - \"C'est ChatGPT, mais en vivant\" : Lisa Azuelos impressionnée par C. Barbier dans l'émission du jour"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 1043,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/f5806f33-a788-40c3-a2fc-c525ee52ad38.mp3?_=1795712281",
+   "guid": "f5806f33-a788-40c3-a2fc-c525ee52ad38",
+   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 26 novembre 2026"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 106,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/2dd21179-48df-4864-aa66-46bcdcb0a680.mp3?_=1795711981",
+   "guid": "2dd21179-48df-4864-aa66-46bcdcb0a680",
+   "title": "PÉPITE - Les soirées à Saint-Tropez d'Adil Rami"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 363,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/0abd3d10-876a-4f3e-b50c-3653c71d3b48.mp3?_=1795706281",
+   "guid": "0abd3d10-876a-4f3e-b50c-3653c71d3b48",
+   "title": "EN RÉSUMÉ - Richard Orlinski donne des notes à ses camarades"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 368,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/e008fd37-2565-4b0f-912b-c305f3ff8c8d.mp3?_=1795707181",
+   "guid": "e008fd37-2565-4b0f-912b-c305f3ff8c8d",
+   "title": "FACE AUX AUDITEURS - \"J'ai mes élèves avec moi\" : une enseignante appelle depuis l'école !"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 448,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/7acfc7aa-a8cf-4990-9731-c0c6d1dca72a.mp3?_=1795707181",
+   "guid": "7acfc7aa-a8cf-4990-9731-c0c6d1dca72a",
+   "title": "FAKE NEWS - Teddy Riner, Thanksgiving, Miss Univers 2026... Quelle Grosse Tête dit vrai ?"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 622,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/35967908-5fb2-4752-8ee9-431e662c27eb.mp3?_=1795709587",
+   "guid": "35967908-5fb2-4752-8ee9-431e662c27eb",
+   "title": "QUI QUI EXPRESS - Quelle chanteuse originaire du Havre est décédée aujourd'hui ?"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 122,
+   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/49cb14c7-5a71-41f3-b603-ebb5eba41207.mp3?_=1795612804",
+   "guid": "49cb14c7-5a71-41f3-b603-ebb5eba41207",
+   "title": "LE MEILLEUR DE RUQUIER - Deux Belges à la pompe à essence... L'histoire drôle d'Isabelle Mergault"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 66,
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/00ead3d9-6412-43c5-af78-0a608d1fd41b.mp3?_=1795433982",
@@ -139,76 +209,6 @@
    "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/12b299e9-f771-45f9-be64-d749f8e3e99a.mp3?_=1795450085",
    "guid": "12b299e9-f771-45f9-be64-d749f8e3e99a",
    "title": "L'INTÉGRALE - Émission du lundi 23 novembre 2026"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 824,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/e9e6d248-3c25-4cd9-b483-91cd5fa8249c.mp3?_=1795447681",
-   "guid": "e9e6d248-3c25-4cd9-b483-91cd5fa8249c",
-   "title": "DÉBRIEF - \"J'aurais pu briller, mais c'est Michel qui a donné la réponse\" : Ana Godefroy revient sur l'émission du jour"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 1262,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/97f8e4e8-16aa-468d-b3e9-318fa3e4f229.mp3?_=1795451281",
-   "guid": "97f8e4e8-16aa-468d-b3e9-318fa3e4f229",
-   "title": "LES IMMANQUABLES - Le meilleur de l'émission du 23 novembre 2026"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 156,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/254e36e1-217c-4e05-90d8-6ee828232972.mp3?_=1795450980",
-   "guid": "254e36e1-217c-4e05-90d8-6ee828232972",
-   "title": "PÉPITE - Jeanfi Janssen, sosie de Daniel Craig ?"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 491,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/ad36173e-12c7-47de-8771-b2499c0e8f3c.mp3?_=1795450081",
-   "guid": "ad36173e-12c7-47de-8771-b2499c0e8f3c",
-   "title": "EN RÉSUMÉ - Alexis Le Rossignol fait le bilan de l'émission"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 366,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/aa69b56f-fc36-44ca-9ca3-b9fbef73ac3f.mp3?_=1795445281",
-   "guid": "aa69b56f-fc36-44ca-9ca3-b9fbef73ac3f",
-   "title": "FACE AUX AUDITEURS - \"C'est marqué complet !\" : elle n'arrive jamais à avoir des places pour l'émission"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 397,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/92cf9f49-68f5-43de-b623-9b48e7447066.mp3?_=1795445582",
-   "guid": "92cf9f49-68f5-43de-b623-9b48e7447066",
-   "title": "FAKE NEWS - Pluie, de Villepin, Shein... Quelle Grosse Tête dit vrai ?"
-  },
-  {
-   "date": "2026-11-24",
-   "durationSec": 545,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/167fee5b-0937-4f59-ab3c-dffdd22d7cc9.mp3?_=1795448583",
-   "guid": "167fee5b-0937-4f59-ab3c-dffdd22d7cc9",
-   "title": "QUI QUI EXPRESS - Qui est la personnalité en couverture de Paris-Match cette semaine ?"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 90,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/26d809d4-d8f0-4fff-8e7e-37dd8fb9413f.mp3?_=1795189324",
-   "guid": "26d809d4-d8f0-4fff-8e7e-37dd8fb9413f",
-   "title": "LE MEILLEUR DE RUQUIER - \"Y'a pas que moi qui pisse dans la piscine !\" : L'histoire drôle d'Éric Laugérias"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 99,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/137fefce-aef1-4823-9bfc-ba9ecea9e17d.mp3?_=1795189783",
-   "guid": "137fefce-aef1-4823-9bfc-ba9ecea9e17d",
-   "title": "LE MEILLEUR DE BOUVARD - Les blagues grivoises de Michel Leeb"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 4757,
-   "enclosure": "https://audio.audiomeans.fr/file/uGFaXRIuyj/d6db6e48-bb0e-4292-9bee-23471f7a8acf.mp3?_=1795024383",
-   "guid": "d6db6e48-bb0e-4292-9bee-23471f7a8acf",
-   "title": "L'INTÉGRALE - Le Best of du dimanche 22 novembre 2026"
   }
  ]
 }

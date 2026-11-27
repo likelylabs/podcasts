@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2476,
+   "enclosure": "https://sphinx.acast.com/p/open/s/636a53166a6525001244077a/e/6b08053e284795a2a3f8f2af/media.mp3",
+   "guid": "6b08053e284795a2a3f8f2af",
+   "title": "My Partner Wants to Know Where All My Money Goes... (COUPLE'S FINANCE) | #DailyKetchup EP 578"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2210,
    "enclosure": "https://sphinx.acast.com/p/open/s/636a53166a6525001244077a/e/6b02ab60d690a852a189129d/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/636a53166a6525001244077a/e/6a61e7528845f7524ae685dc/media.mp3",
    "guid": "6a61e7528845f7524ae685dc",
    "title": "What You Get WRONG About Expats in Singapore."
-  },
-  {
-   "date": "2026-07-20",
-   "durationSec": 2161,
-   "enclosure": "https://sphinx.acast.com/p/open/s/636a53166a6525001244077a/e/6a5dec434f67b7241722a2ed/media.mp3",
-   "guid": "6a5dec434f67b7241722a2ed",
-   "title": "Why Singapore Used To Have An 8pm CURFEW..."
   }
  ]
 }

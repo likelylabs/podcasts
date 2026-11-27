@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-26",
+   "durationSec": 1179,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130104672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437622914-44100-2-85d3ae3be3d62.mp3",
+   "guid": "dfb28d5f-6607-44ac-b6ce-ab4f2582886d",
+   "title": "How Anthropic Went From Anti-Product to $81B a Year"
+  },
+  {
+   "date": "2026-11-26",
    "durationSec": 1678,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130122747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437646451-44100-2-5bfe36b839b42.mp3",
    "guid": "eda4b892-9917-49c9-b82e-6a2f5e6ac0c0",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3",
    "guid": "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
    "title": "How I'm Actually Using AI Right Now (Including Claude Duet)"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 1728,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/127968273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434838595-44100-2-2b56a37789614.mp3",
-   "guid": "62d1d33d-62be-436b-8d5b-de9330b4b55e",
-   "title": "The Most Concerning AI Bubble Signals"
   }
  ]
 }

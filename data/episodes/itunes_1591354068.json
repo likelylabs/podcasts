@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3580,
+   "enclosure": "https://m.cdn.firstory.me/track/ckuz23k7v8j920991immc81z8/cmww8ljik000k01un7jk49mc9/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuz23k7v8j920991immc81z8%2Fcmww8ljil000l01un46ql4z0w.mp3?v=1795618080256",
+   "guid": "cmww8ljik000k01un7jk49mc9",
+   "title": "EP250.吃火鍋"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3243,
    "enclosure": "https://m.cdn.firstory.me/track/ckuz23k7v8j920991immc81z8/cmwnod7rb004w01xk8h8m1byz/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuz23k7v8j920991immc81z8%2Fcmwnod7rb004x01xkaypph4ug.mp3?v=1795100371411",
@@ -202,13 +209,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/ckuz23k7v8j920991immc81z8/cmov1r9l10gby01w220105yq0/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuz23k7v8j920991immc81z8%2Fcmov1r9l10gbz01w25tly67qi.mp3?v=1778131858322",
    "guid": "cmov1r9l10gby01w220105yq0",
    "title": "EP221.鼠料未及"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 2976,
-   "enclosure": "https://m.cdn.firstory.me/track/ckuz23k7v8j920991immc81z8/cmoieyosc015o01vqcnrh9tr1/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckuz23k7v8j920991immc81z8%2Fcmoieyosc015p01vq185l8iqe.mp3?v=1777368103022",
-   "guid": "cmoieyosc015o01vqcnrh9tr1",
-   "title": "EP220.居家生活小妙方"
   }
  ]
 }

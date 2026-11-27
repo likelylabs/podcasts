@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1245,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/89a51086-aee8-44b9-a4a3-8b17887618fb/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=89a51086-aee8-44b9-a4a3-8b17887618fb&feed=QGMNw0q1&t=podcast&e=nx-s1-6053125&p=510282&d=1245&size=19928777",
+   "guid": "5ca2d8c3-47a7-4a3b-a7e4-3677455fde7d",
+   "title": "The Hunting Wives"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1019,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/c8bf226e-c496-4659-a11a-2bdf977e3f48/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=c8bf226e-c496-4659-a11a-2bdf977e3f48&feed=QGMNw0q1&t=podcast&e=nx-s1-6053037&p=510282&d=1019&size=16319282",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/b8c71f41-9a2b-4c16-b017-fa92b4aab76b/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=b8c71f41-9a2b-4c16-b017-fa92b4aab76b&feed=QGMNw0q1&t=podcast&e=nx-s1-5991600&p=510282&d=1529&size=24472809",
    "guid": "e1e0bc33-3210-4898-9985-38a89ff9dec9",
    "title": "Your Mother Your Mother Your Mother"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 1411,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/d0c1cd59-a311-42cd-b91b-8c5a0daa2e67/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=d0c1cd59-a311-42cd-b91b-8c5a0daa2e67&feed=QGMNw0q1&t=podcast&e=nx-s1-5987804&p=510282&d=1411&size=22592827",
-   "guid": "c2b0cbfb-096e-42e2-91cc-a2d0703e8975",
-   "title": "Verity"
   }
  ]
 }

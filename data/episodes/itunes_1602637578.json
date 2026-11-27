@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 823,
+   "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/de8eb50b-105d-42b9-aa81-d29a8ff6bca3/rssFileVip.mp3?timestamp=1795693455098",
+   "guid": "de8eb50b-105d-42b9-aa81-d29a8ff6bca3",
+   "title": "EP468｜2027年AI股的危險訊號"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1327,
    "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/95642811-b995-4e31-8ff0-b84b930dc9dc/rssFileVip.mp3?timestamp=1795600519366",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/59512751-5f43-49f9-be64-434017729a63/rssFileVip.mp3?timestamp=1786476432155",
    "guid": "59512751-5f43-49f9-be64-434017729a63",
    "title": "EP439｜重複錯誤"
-  },
-  {
-   "date": "2026-08-07",
-   "durationSec": 1466,
-   "enclosure": "https://rss.soundon.fm/rssf/eb9e90a8-a889-425b-8855-4cf8cdf92c73/feedurl/27aa9a8d-17a0-4035-b4ad-ae5f7aae11e2/rssFileVip.mp3?timestamp=1786130638764",
-   "guid": "27aa9a8d-17a0-4035-b4ad-ae5f7aae11e2",
-   "title": "EP438｜投資美學"
   }
  ]
 }

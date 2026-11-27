@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 740,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/279fc4ff-e0a4-439a-94e6-b438da225b54/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=279fc4ff-e0a4-439a-94e6-b438da225b54&feed=HMwRVgVt&t=podcast&e=nx-s1-6054761&p=510318&d=740&size=11846261",
+   "guid": "55da3020-b3e8-4c94-b077-85b06dd3bd39",
+   "title": "Storm Postpones Thanksgiving Day Parade, Trump's New Tariffs, Iowa Post-Detonation"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 741,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/801857a0-f121-4480-9603-6098df5bb7b2/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=801857a0-f121-4480-9603-6098df5bb7b2&feed=HMwRVgVt&t=podcast&e=nx-s1-6053785&p=510318&d=741&size=11862143",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e95cdcd-0fd3-48da-8276-fb6a4799f399/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e95cdcd-0fd3-48da-8276-fb6a4799f399&feed=HMwRVgVt&t=podcast&e=nx-s1-6023035&p=510318&d=770&size=12326496",
    "guid": "84288417-7745-41c5-817f-878ab22fd4a9",
    "title": "Final Days Of Midterm Campaigning, Alaska Senate Race Controversy, Iran War Plans"
-  },
-  {
-   "date": "2026-10-29",
-   "durationSec": 772,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/403f08a6-9425-44b7-922a-519df253da08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=403f08a6-9425-44b7-922a-519df253da08&feed=HMwRVgVt&t=podcast&e=nx-s1-6021969&p=510318&d=772&size=12365366",
-   "guid": "9ca55116-0206-40f2-9e57-d9d891f290b7",
-   "title": "Midterm Spending Blitz, GDP & Inflations Reports, Israel Election Deadlock & Iran War"
   }
  ]
 }

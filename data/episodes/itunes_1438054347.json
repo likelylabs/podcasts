@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1385,
+   "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a02edbf-85b1-4135-98d1-8318d500305a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a02edbf-85b1-4135-98d1-8318d500305a&feed=dHoohVNH",
+   "guid": "06f98a6e-daa8-41d2-b2d2-e6c739677655",
+   "title": "Conan and the Quazys"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 4051,
    "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH",
    "guid": "3711e7d4-63e2-4520-a81f-ee8ae0fa23d2",
    "title": "Summer S’pouses Episode 4: Liza Powel O'Brien"
-  },
-  {
-   "date": "2026-08-17",
-   "durationSec": 3846,
-   "enclosure": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH",
-   "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
-   "title": "Gillian Anderson"
   }
  ]
 }

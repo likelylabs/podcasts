@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1596,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq2hwr.mp3",
+   "guid": "urn:bbc:podcast:p0pq2lyn",
+   "title": "The descendants of the Bulgarian Miracle"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 2974,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppq15s.mp3",
@@ -75,7 +82,7 @@
    "durationSec": 1937,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn9b26.mp3",
    "guid": "urn:bbc:podcast:p0pn9dh3",
-   "title": "Libya: From bombs to boom?"
+   "title": "Libya: From Bombs to Boom?"
   },
   {
    "date": "2026-11-16",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkjs8v.mp3",
    "guid": "urn:bbc:podcast:p0pkjtgc",
    "title": "Rebranding sleep apnoea"
-  },
-  {
-   "date": "2026-10-30",
-   "durationSec": 1595,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjwhcx.mp3",
-   "guid": "urn:bbc:podcast:p0pjwj3t",
-   "title": "The right thing: Uganda’s fearless nun"
   }
  ]
 }

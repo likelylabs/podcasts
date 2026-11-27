@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 806,
+   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/da2b8f0a-f309-4d25-af6a-b50f0001e91a/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
+   "guid": "da2b8f0a-f309-4d25-af6a-b50f0001e91a",
+   "title": "Is AI Spending Masking a Market Slowdown"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 598,
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/44d94865-ac8c-4407-8df7-b50d01853e3b/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/9791d7cb-d1c1-4189-ab47-b4e5000d4ab1/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
    "guid": "9791d7cb-d1c1-4189-ab47-b4e5000d4ab1",
    "title": "AI Stocks Slide as Inflation Bites"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 718,
-   "enclosure": "https://traffic.omny.fm/d/clips/de62ff84-6498-49d0-a266-a9d50120c712/6b814c2f-604a-4ef9-90ed-ab0900403795/39e9f648-43d9-4c79-a0c8-b4e4000f3bba/audio.mp3?utm_source=Podcast&in_playlist=e6b2e450-18e4-4826-b7f2-ab0900403795",
-   "guid": "39e9f648-43d9-4c79-a0c8-b4e4000f3bba",
-   "title": "How Bond Traders, Not Central Banks, Are Driving Rates"
   }
  ]
 }

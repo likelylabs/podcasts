@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 580,
+   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/67f9c2e0-79bf-4422-bb1a-6d1ce2d1dbc2/rssFileVip.mp3?timestamp=1795667743098",
+   "guid": "67f9c2e0-79bf-4422-bb1a-6d1ce2d1dbc2",
+   "title": "2026.11.26 川普再祭301條款加徵關稅／華為竊取機密案在美10項罪名成立／金正恩視察核材料設施"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 949,
-   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/889e096f-b559-4ffd-9d35-15ac8ac67e2d/rssFileVip.mp3?timestamp=1795590502651",
+   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/889e096f-b559-4ffd-9d35-15ac8ac67e2d/rssFileVip.mp3?timestamp=1795667743501",
    "guid": "889e096f-b559-4ffd-9d35-15ac8ac67e2d",
    "title": "2026.11.25 《BBC》統計：俄羅斯士兵已有49萬人死於烏俄戰爭／上海市委書記陳吉寧遭調查落馬"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/fe5a157d-ccc5-4106-a1c3-2dfcb210760b/rssFileVip.mp3?timestamp=1792823165410",
    "guid": "fe5a157d-ccc5-4106-a1c3-2dfcb210760b",
    "title": "2026.10.23 西藏7級大地震，已至少16死／美烏俄三方會談未定、俄持續轟炸基輔／PHP之亂未解、中國駭客集團大規模攻擊／日本自殺人數統計：20年來整體人數下降、但學生自殺人數攀升"
-  },
-  {
-   "date": "2026-10-22",
-   "durationSec": 599,
-   "enclosure": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/ef274eef-b5a7-478f-abdf-b48265c2a004/rssFileVip.mp3?timestamp=1792823166059",
-   "guid": "ef274eef-b5a7-478f-abdf-b48265c2a004",
-   "title": "2026.10.22 全球PHP資安漏洞災情／普丁聲稱願意重啟三方和平談判／《紐時》：美國與以色列策劃期中選舉後發動攻擊伊朗"
   }
  ]
 }

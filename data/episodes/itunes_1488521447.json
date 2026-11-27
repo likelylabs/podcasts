@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2877,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b08625b6f4fe95e2d03af50/media.mp3",
+   "guid": "6b08625b6f4fe95e2d03af50",
+   "title": "Newcastle and Saudi Arabia: The beginning of the end?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2787,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b06e92b8017d52a71a094f6/media.mp3",
    "guid": "6b06e92b8017d52a71a094f6",
-   "title": "Why are Man City a shadow of themselves?"
+   "title": "Man City's slump + are Leeds destined for Europe?"
   },
   {
    "date": "2026-11-25",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ada379723f48c4f2479c98a/media.mp3",
    "guid": "6ada379723f48c4f2479c98a",
    "title": "Man United, INEOS and a failing sports empire"
-  },
-  {
-   "date": "2026-10-21",
-   "durationSec": 2419,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ad8d2e9f92693313cc1382f/media.mp3",
-   "guid": "6ad8d2e9f92693313cc1382f",
-   "title": "PSG’s three-peat war path + Ten Hag fallout"
   }
  ]
 }

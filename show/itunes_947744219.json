@@ -1,8 +1,15 @@
 {
  "showId": "itunes_947744219",
- "generatedAt": "2026-11-25T11:31:37+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "日军生化武器罪证录 魔窟",
+   "date": "2026-11-26",
+   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/11/26/39d54037550e4a50805599b9ffb777f5.mp3",
+   "durationSec": 1716,
+   "guid": "6b07a0b76971971a27b8dc3e"
+  },
   {
    "title": "还我净土",
    "date": "2026-11-25",
@@ -205,13 +212,6 @@
    "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/15/9e9dc3aff7d64e50afbb146bc136f78c.mp3",
    "durationSec": 1717,
    "guid": "6ad04765b733bf356cc79a19"
-  },
-  {
-   "title": "和合之声 筑基",
-   "date": "2026-10-14",
-   "enclosure": "https://f3.kroraina.com.cn/loulan/podcast/6388078c02a89e37a0bedafd/2026/10/14/69d4224995a444d3ad2282737eb9e18e.mp3",
-   "durationSec": 1705,
-   "guid": "6acef972b733bf356cc794ad"
   }
  ]
 }

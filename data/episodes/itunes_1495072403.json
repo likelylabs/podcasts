@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3018,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6b082bad19eabcafe8cfdd5b/media.mp3",
+   "guid": "6b082bad19eabcafe8cfdd5b",
+   "title": "Man United's mad night in Lisbon"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2940,
    "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6b04174c07effbff76aa73ad/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6a995b0bd54ec94380bcbdd4/media.mp3",
    "guid": "6a995b0bd54ec94380bcbdd4",
    "title": "Were Man United right not to buy on deadline day?"
-  },
-  {
-   "date": "2026-08-31",
-   "durationSec": 3298,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6819aed5eb146d8e3506a450/e/6a958775d292c337c0cdc9fe/media.mp3",
-   "guid": "6a958775d292c337c0cdc9fe",
-   "title": "Who shone in Man United's Ipswich win?"
   }
  ]
 }

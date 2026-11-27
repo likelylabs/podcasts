@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3613,
+   "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8982005.mp3?modified=1795713193&sid=2399216&source=rss",
+   "guid": "audioboom-01a218d7-4645-70cb-a4c5-5a3c426cf5e2",
+   "title": "No Such Thing As Mummery Mia"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2033,
    "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8979709.mp3?modified=1795222166&sid=2399216&source=rss",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943368.mp3?modified=1791560914&sid=2399216&source=rss",
    "guid": "audioboom-01a01efa-c89a-7510-bfa2-73e1eef4ec3c",
    "title": "No Such Thing As The Have An Ice Cream Bird"
-  },
-  {
-   "date": "2026-08-17",
-   "durationSec": 2049,
-   "enclosure": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939287.mp3?modified=1786626430&sid=2399216&source=rss",
-   "guid": "audioboom-019ffb3b-13f1-7543-a9ab-713832c03f81",
-   "title": "Little Fish: I'm Not Even On The Internet Right Now"
   }
  ]
 }

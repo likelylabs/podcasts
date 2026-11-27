@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1477164549",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "【呱吉】新資料夾(311)：我始終有你",
+   "date": "2026-11-27",
+   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/160c501b-32af-41fa-8431-b9216d29afbc/rssFileVip.mp3?timestamp=1795744880849",
+   "durationSec": 4088,
+   "guid": "160c501b-32af-41fa-8431-b9216d29afbc"
+  },
+  {
    "title": "【呱吉直播】呱吉電台EP261：去動物園看企鵝",
    "date": "2026-11-25",
-   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/58752851-8f0c-4d2b-affc-a3eadf8b613e/rssFileVip.mp3?timestamp=1795609039664",
+   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/58752851-8f0c-4d2b-affc-a3eadf8b613e/rssFileVip.mp3?timestamp=1795689810738",
    "durationSec": 6999,
    "guid": "58752851-8f0c-4d2b-affc-a3eadf8b613e"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c1ac6dac-6118-42e5-bcec-686f13efd129/rssFileVip.mp3?timestamp=1788204443628",
    "durationSec": 4209,
    "guid": "c1ac6dac-6118-42e5-bcec-686f13efd129"
-  },
-  {
-   "title": "【呱吉】新資料夾(298)：超難聽像雞在叫",
-   "date": "2026-08-28",
-   "enclosure": "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9a1d9a0f-e0ff-4a41-a273-111a4125c5c7/rssFileVip.mp3?timestamp=1787945557733",
-   "durationSec": 5124,
-   "guid": "9a1d9a0f-e0ff-4a41-a273-111a4125c5c7"
   }
  ]
 }

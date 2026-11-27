@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3852,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcefe2c3-8806-40a1-a029-b50401665ac2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "guid": "dcefe2c3-8806-40a1-a029-b50401665ac2",
+   "title": "SYSK Live in Akron, Ohio"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 725,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13a0057e-0d8c-4b6a-af0e-b4fd012ffa22/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
    "guid": "551d1c25-8c6b-40c8-8a0a-b4db011ecd2e",
    "title": "Short Stuff: The Style Cycle"
-  },
-  {
-   "date": "2026-10-06",
-   "durationSec": 2718,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-   "guid": "6badb8c6-5351-4a96-924b-b4d60123f7fe",
-   "title": "Stand-Up Comedy Pt I"
   }
  ]
 }

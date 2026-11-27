@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3589,
+   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/7fd7d445-a446-4d45-a865-095bb393eb6f/rssFileVip.mp3?timestamp=1795703323205",
+   "guid": "7fd7d445-a446-4d45-a865-095bb393eb6f",
+   "title": "EP165 這集超爆3分鐘後告訴你為什麼"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 3686,
    "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/5793d605-5cbf-4c86-98bb-aa8cfc480a94/rssFileVip.mp3?timestamp=1795336384883",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/e61ba563-a182-4246-a709-e60d2a9b2a99/rssFileVip.mp3?timestamp=1776124705444",
    "guid": "e61ba563-a182-4246-a709-e60d2a9b2a99",
    "title": "EP136 沒有喜歡的人可真無聊"
-  },
-  {
-   "date": "2026-04-08",
-   "durationSec": 3507,
-   "enclosure": "https://rss.soundon.fm/rssf/c1d38010-eedb-4e1d-ac31-8f7005c0defc/feedurl/00199e0d-2f04-447b-b58c-821d946efe73/rssFileVip.mp3?timestamp=1775693116732",
-   "guid": "00199e0d-2f04-447b-b58c-821d946efe73",
-   "title": "EP135 追高之人"
   }
  ]
 }

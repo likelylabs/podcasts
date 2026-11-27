@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3537,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq53jk.mp3",
+   "guid": "urn:bbc:podcast:w3ct8fr7",
+   "title": "Elon Musk's plan for data centres in space"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1588,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppyjj7.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pljtjl.mp3",
    "guid": "urn:bbc:podcast:w3ct8fr4",
    "title": "Tesla shares plunge after US midterms"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 537,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plh026.mp3",
-   "guid": "urn:bbc:podcast:p0plh0f1",
-   "title": "Bomb threats disrupt European flights"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3989,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq0z01.mp3",
+   "guid": "urn:bbc:podcast:p0pq0zbp",
+   "title": "The location for Radio 1 Big Weekend 2027 is revealed!"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2453,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pptn9q.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgt6k5.mp3",
    "guid": "urn:bbc:podcast:p0pgt776",
    "title": "Unpopular Opinion with Olivia Colman & Alexander Skarsgård"
-  },
-  {
-   "date": "2026-10-14",
-   "durationSec": 2978,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgm3sy.mp3",
-   "guid": "urn:bbc:podcast:p0pgm5dc",
-   "title": "Autumn Sexy Not Sexy"
   }
  ]
 }

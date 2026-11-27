@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1513810531",
- "generatedAt": "2026-11-23T08:49:42+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "582.【財經時事放大鏡】太空Data Center要不要課關稅？",
+   "date": "2026-11-27",
+   "enclosure": "https://sw.soundon.fm/p/HHZK1T/m.cdn.firstory.me/track/clcftm46z000201z45w1c47fi/cmwxnfkd600ny01uthvi80akr/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclcftm46z000201z45w1c47fi%2Fcmwxnfkd700nz01ut9d91epcz.mp3?v=1795703423866",
+   "durationSec": 2636,
+   "guid": "cmwxnfkd600ny01uthvi80akr"
+  },
   {
    "title": "581.【台股美股提款機】美對中新一輪管制壓抑半導體需求，對 GPU 與 AI ASIC 影響分歧",
    "date": "2026-11-23",
@@ -205,13 +212,6 @@
    "enclosure": "https://sw.soundon.fm/p/HHZK1T/m.cdn.firstory.me/track/clcftm46z000201z45w1c47fi/cmshn80ls0ghn01vic6gv0cy0/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclcftm46z000201z45w1c47fi%2Fcmshn80ls0gho01vi0107165w.mp3?v=1794652077323",
    "durationSec": 2401,
    "guid": "cmshn80ls0ghn01vic6gv0cy0"
-  },
-  {
-   "title": "542.【達人聊產業】先進封裝良率守護者！AOM 遍尋晶圓 defect ft. 倍利科黃建中總經理",
-   "date": "2026-07-31",
-   "enclosure": "https://sw.soundon.fm/p/HHZK1T/m.cdn.firstory.me/track/clcftm46z000201z45w1c47fi/cms7madtv06kz01yzchn7c7zd/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fclcftm46z000201z45w1c47fi%2Fcms7madtv06l001yzd4ym8fuj.mp3?v=1794652316115",
-   "durationSec": 4028,
-   "guid": "cms7madtv06kz01yzchn7c7zd"
   }
  ]
 }

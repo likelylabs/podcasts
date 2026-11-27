@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2760,
+   "enclosure": "https://rss.soundon.fm/rssf/804d7059-0750-4e86-8ff1-90c942556ef9/feedurl/f0beb999-2293-4358-8816-2b600bded126/rssFileVip.mp3?timestamp=1795705705450",
+   "guid": "f0beb999-2293-4358-8816-2b600bded126",
+   "title": "EP148｜从西班牙到台湾：一艘帆船，如何改变小飞的人生？"
+  },
+  {
    "date": "2026-11-18",
    "durationSec": 6258,
    "enclosure": "https://rss.soundon.fm/rssf/804d7059-0750-4e86-8ff1-90c942556ef9/feedurl/c997225e-5913-4d9f-ba78-4767aa420373/rssFileVip.mp3?timestamp=1795080546652",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/804d7059-0750-4e86-8ff1-90c942556ef9/feedurl/860d8322-23e1-47f1-b0f6-1b463dd0e899/rssFileVip.mp3?timestamp=1778104876302",
    "guid": "860d8322-23e1-47f1-b0f6-1b463dd0e899",
    "title": "EP119｜在国外找机会，却在马来西亚找到自己？【嘉宾：Joseph Foo】"
-  },
-  {
-   "date": "2026-04-29",
-   "durationSec": 3839,
-   "enclosure": "https://rss.soundon.fm/rssf/804d7059-0750-4e86-8ff1-90c942556ef9/feedurl/4232e81a-63fa-40ec-8a79-3f92c6c2ac4f/rssFileVip.mp3?timestamp=1777500399265",
-   "guid": "4232e81a-63fa-40ec-8a79-3f92c6c2ac4f",
-   "title": "EP118｜如何用 IP「榴」住人心「蓮」接人群"
   }
  ]
 }

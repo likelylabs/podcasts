@@ -2,8 +2,22 @@
  "episodes": [
   {
    "date": "2026-11-26",
+   "durationSec": 3591,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/0a87b7f5-f923-4361-8570-625c0f57ee36/rssFileVip.mp3?timestamp=1795746478463",
+   "guid": "0a87b7f5-f923-4361-8570-625c0f57ee36",
+   "title": "台灣羚聲播客第4466-專訪台北市議員李建昌"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 3589,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/79944b76-bef7-4f8d-8c0c-0c0eca7224fb/rssFileVip.mp3?timestamp=1795671003556",
+   "guid": "79944b76-bef7-4f8d-8c0c-0c0eca7224fb",
+   "title": "台灣羚聲播客-2026年11月26日新聞評論"
+  },
+  {
+   "date": "2026-11-26",
    "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/7aedbf4e-6fc1-4631-b921-43f3a7b9e5de/rssFileVip.mp3?timestamp=1795660735124",
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/7aedbf4e-6fc1-4631-b921-43f3a7b9e5de/rssFileVip.mp3?timestamp=1795671004689",
    "guid": "7aedbf4e-6fc1-4631-b921-43f3a7b9e5de",
    "title": "台灣羚聲播客第4465-專訪鍾佳濱辦公室助理韋辰"
   },
@@ -195,20 +209,6 @@
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/0d1d553f-105c-4eec-b6c6-adca28e00b46/rssFileVip.mp3?timestamp=1794808053117",
    "guid": "0d1d553f-105c-4eec-b6c6-adca28e00b46",
    "title": "台灣羚聲播客第4445-專訪台中市大里霧峰議員林德宇"
-  },
-  {
-   "date": "2026-11-16",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/537530d5-691e-40d7-a2af-219e90804285/rssFileVip.mp3?timestamp=1794808056339",
-   "guid": "537530d5-691e-40d7-a2af-219e90804285",
-   "title": "台灣羚聲播客第4444-專訪新北市三重蘆洲議員顏蔚慈"
-  },
-  {
-   "date": "2026-11-15",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/8e0c8843-42a1-4072-ba83-3d88fbcf6230/rssFileVip.mp3?timestamp=1794721776166",
-   "guid": "8e0c8843-42a1-4072-ba83-3d88fbcf6230",
-   "title": "台灣羚聲播客第4443-專訪台北市中正萬華議員候選人馬郁雯"
   }
  ]
 }

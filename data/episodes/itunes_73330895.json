@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 3291,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pk09bm.mp3",
+   "guid": "urn:bbc:podcast:m0033g1x",
+   "title": "Immune cells"
+  },
+  {
    "date": "2026-11-23",
    "durationSec": 2881,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj9dsn.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npng58.mp3",
    "guid": "urn:bbc:podcast:m002x5jl",
    "title": "The Evolution of Trees"
-  },
-  {
-   "date": "2026-06-25",
-   "durationSec": 3128,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfns9.mp3",
-   "guid": "urn:bbc:podcast:m002wt1v",
-   "title": "The Welsh Marches"
   }
  ]
 }

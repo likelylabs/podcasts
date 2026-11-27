@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1050,
+   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b0810df19eabcafe8be2474/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xWmFxrjOzZ6DAyEftpUvmosWuJf09kLEt_6nUwEvce8",
+   "guid": "6b0810df19eabcafe8be2474",
+   "title": "Left in the lurch: Spain’s general election"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1122,
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LeaMbGoC3S6b3Tbwj7L9N0ToaKpbnIjIIEHzI-AFNNQ",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ad1fd1765f99a36ebb7243f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uKoQr1zjoTFUIosoEQd0W_txp8hrlUA2k60usFjTy18",
    "guid": "6ad1fd1765f99a36ebb7243f",
    "title": "Schrödinger’s chat: can AI and scientists co-exist?"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 3660,
-   "enclosure": "https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ad0f9cc3b418431370456ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xAGlTnlzQDVefJRYzKFVER0LXjW3twOCF7tI-j-Ctdo",
-   "guid": "6ad0f9cc3b418431370456ec",
-   "title": "An interview with Alice Weidel"
   }
  ]
 }

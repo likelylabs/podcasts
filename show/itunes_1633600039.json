@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1633600039",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "A Stone Monster Crashed the Strawberry Farm P4 | Safety Sheriff Labrador👮",
+   "date": "2026-11-26",
+   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288668.mp3?v=0D67BCDDF1AD7A5D7B470B62DF7044A4",
+   "durationSec": 161,
+   "guid": "8708D79A7DD5C24B7A85726494774210"
+  },
   {
    "title": "A Stone Monster Crashed the Strawberry Farm P3 | Safety Sheriff Labrador👮",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288248.mp3?v=5284F0CB8C19C303CDA7D614860591C3",
    "durationSec": 152,
    "guid": "68593F1B825D5DC18DE8FE7CB8CDF7E4"
-  },
-  {
-   "title": "【Safety Tips】Take Medicine the Right Way!",
-   "date": "2026-10-21",
-   "enclosure": "https://api-audiodata.babybus.com/audio/url/0/en/74547/2288143.mp3?v=A793EC1C5471642A214EA776B7F97559",
-   "durationSec": 87,
-   "guid": "4881DD74EB7735FF48B185CBBF520CAD"
   }
  ]
 }

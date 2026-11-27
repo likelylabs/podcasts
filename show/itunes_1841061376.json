@@ -1,6 +1,6 @@
 {
  "showId": "itunes_1841061376",
- "generatedAt": "2026-11-24T12:51:22+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
@@ -72,13 +72,6 @@
    "enclosure": "https://anchor.fm/s/108981a94/podcast/play/125373938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431418322-44100-2-28deae790a028.mp3",
    "durationSec": 2084,
    "guid": "7e8a5cfd-5885-4730-8d0c-0166fc30ccb6"
-  },
-  {
-   "title": "EP44. 人生最低谷的时候，我只剩下唱歌｜Geraldine 颜慧萍",
-   "date": "2026-09-08",
-   "enclosure": "https://anchor.fm/s/108981a94/podcast/play/125343240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431372672-44100-2-c79d8441c8e82.mp3",
-   "durationSec": 2098,
-   "guid": "17ea474d-fd52-4f90-bf5e-d9fbf24bc085"
   },
   {
    "title": "EP43. 身为马来西亚人，我们还能为这个国家做什么？DJ Yinyin到底在坚持什么？",
@@ -212,6 +205,13 @@
    "enclosure": "https://anchor.fm/s/108981a94/podcast/play/117985874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-5%2F421445874-44100-2-fcbd39a705315.mp3",
    "durationSec": 1600,
    "guid": "5168f61c-d5a1-48b4-9da1-aaea7193c3ef"
+  },
+  {
+   "title": "EP24. 藥劑師一個月到底賺多少?藥過期了，到底還能不能吃？被無理客人刁難的真實故事|藥劑師的使命，其實不是賣藥",
+   "date": "2026-03-30",
+   "enclosure": "https://anchor.fm/s/108981a94/podcast/play/117632842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-29%2F420976835-44100-2-17336fe9a9eef.mp3",
+   "durationSec": 2146,
+   "guid": "5a9936f1-b3d6-4e39-a385-c3913f914afd"
   }
  ]
 }

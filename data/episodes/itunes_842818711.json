@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1181,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e09deb33-45a7-4621-bc9d-523fe8562c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e09deb33-45a7-4621-bc9d-523fe8562c3e&feed=JGE3yC0V",
+   "guid": "18cfd754-d940-4d83-8b54-7e7ed094467d",
+   "title": "Replay: On Food as Medicine (2020)"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3030,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa7582d3-bf6b-4e30-8ea2-ce0403927f04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa7582d3-bf6b-4e30-8ea2-ce0403927f04&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/1046e742-22c8-45f7-a3c2-e8b93f091783/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=1046e742-22c8-45f7-a3c2-e8b93f091783&feed=JGE3yC0V",
    "guid": "80c78d80-ce49-425d-bfa3-3545332b37e3",
    "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 3412,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2967fdc6-98e7-4e58-83f8-6ebcb4e41546/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2967fdc6-98e7-4e58-83f8-6ebcb4e41546&feed=JGE3yC0V",
-   "guid": "3875e1e0-6e03-433c-bde4-2397d981189c",
-   "title": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1193,
+   "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-11-26_DailyHope_thanksgiving-message_podcast_how-god-blesses-grateful-hearts_pt-1.mp3?dest-id=430545",
+   "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-11-26_DailyHope_thanksgiving-message_podcast_how-god-blesses-grateful-hearts_pt-1.mp3",
+   "title": "How God Blesses Grateful Hearts - Pt 1"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1428,
    "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-11-25_DailyHope_building-a-better-future_podcast_how-to-earn-the-respect-of-others_pt-2.mp3?dest-id=430545",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-10-16_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-2.mp3?dest-id=430545",
    "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-10-16_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-2.mp3",
    "title": "Jesus' Secrets of Resilience - Part 2"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 1152,
-   "enclosure": "https://traffic.libsyn.com/secure/dailyhope/2026-10-15_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-1.mp3?dest-id=430545",
-   "guid": "https://dailyhope.s3.us-east-1.amazonaws.com/broadcast-mp3-podcast/2026-10-15_DailyHope_strategies-for-stressful-times_podcast_jesus-secrets-of-resilience_pt-1.mp3",
-   "title": "Jesus' Secrets of Resilience - Part 1"
   }
  ]
 }

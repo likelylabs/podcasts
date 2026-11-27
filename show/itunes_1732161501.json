@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1732161501",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "奇妙的造物主",
+   "date": "2026-11-27",
+   "enclosure": "https://media.transistor.fm/5e3ab587/07b79c63.mp3",
+   "durationSec": 381,
+   "guid": "3c881a21-921c-470d-8f98-57a1071f3e74"
+  },
   {
    "title": "恩典的管道",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://media.transistor.fm/4a2e95b2/eb09b422.mp3",
    "durationSec": 380,
    "guid": "72b9968b-3265-4f38-9f36-fd98aa6e3222"
-  },
-  {
-   "title": "因为上帝⋯⋯",
-   "date": "2026-10-28",
-   "enclosure": "https://media.transistor.fm/7bd62db0/6dbb037f.mp3",
-   "durationSec": 393,
-   "guid": "a55baf31-d775-4168-b5f3-921d928ad4ad"
   }
  ]
 }

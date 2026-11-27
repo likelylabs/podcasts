@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1536242998",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "EP2586【吳淡如】什麼地方會跌？什麼地方會漲",
+   "date": "2026-11-27",
+   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/44f1e626-41c7-4902-8984-686f7fd38caa/rssFileVip.mp3?timestamp=1795741804141",
+   "durationSec": 1133,
+   "guid": "44f1e626-41c7-4902-8984-686f7fd38caa"
+  },
+  {
    "title": "EP2585【吳淡如】查理芒格說：有這七個習慣一定會失敗",
    "date": "2026-11-26",
-   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/ee96ed2d-ea19-4911-90bb-19cfb53bceb7/rssFileVip.mp3?timestamp=1795655571186",
+   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/ee96ed2d-ea19-4911-90bb-19cfb53bceb7/rssFileVip.mp3?timestamp=1795672559564",
    "durationSec": 1155,
    "guid": "ee96ed2d-ea19-4911-90bb-19cfb53bceb7"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/677c7a34-aed3-43e0-82cd-40e9e752cd79/rssFileVip.mp3?timestamp=1793433037245",
    "durationSec": 980,
    "guid": "677c7a34-aed3-43e0-82cd-40e9e752cd79"
-  },
-  {
-   "title": "EP2557【吳淡如】當個會指揮AI的作文高手",
-   "date": "2026-10-30",
-   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/712fcd7a-6839-4822-b7be-509e38ec0e1f/rssFileVip.mp3?timestamp=1793433037650",
-   "durationSec": 1209,
-   "guid": "712fcd7a-6839-4822-b7be-509e38ec0e1f"
   }
  ]
 }

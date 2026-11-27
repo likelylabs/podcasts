@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2629,
+   "enclosure": "https://traffic.libsyn.com/secure/stickynotespodcast/SN.BeethovenFirstSymphony.mix1.mp3?dest-id=477278",
+   "guid": "5305fd60-bbe5-4efe-ad97-71fc835e5475",
+   "title": "Beethoven Symphony No. 1 (Remastered)"
+  },
+  {
    "date": "2026-10-27",
    "durationSec": 3910,
    "enclosure": "https://traffic.libsyn.com/secure/stickynotespodcast/Rachmaninoff_2_live_-_26102026_18.40.mp3?dest-id=477278",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.libsyn.com/secure/stickynotespodcast/Shost_10_live_-_26102025_05.31.mp3?dest-id=477278",
    "guid": "210c76d6-5ea7-42a1-af91-594ed9d89e38",
    "title": "Shostakovich Symphony No. 10 LIVE w/ The Aalborg Symphony"
-  },
-  {
-   "date": "2025-10-09",
-   "durationSec": 2846,
-   "enclosure": "https://traffic.libsyn.com/secure/stickynotespodcast/Barber_Vioiln_Concerto_-_09102025_07.33.mp3?dest-id=477278",
-   "guid": "fbd4c0ee-0e6c-4afa-a84b-33c52bc890f7",
-   "title": "Barber Violin Concerto"
   }
  ]
 }

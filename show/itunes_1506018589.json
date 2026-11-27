@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1506018589",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "419 國宴食啥物？",
+   "date": "2026-11-27",
+   "enclosure": "https://anchor.fm/s/1a348ea0/podcast/play/130181772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437728623-44100-2-3ce6f45c1663e.m4a",
+   "durationSec": 1047,
+   "guid": "1ad59849-b200-41d8-92d9-01e95cbb5bca"
+  },
   {
    "title": "418 古早的維他命",
    "date": "2026-11-20",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/1a348ea0/podcast/play/119637022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F423680369-44100-2-fa586248cbb93.m4a",
    "durationSec": 813,
    "guid": "e92b2223-8ef0-4547-a4f8-b3cc72a972b9"
-  },
-  {
-   "title": "389 榖雨補老母",
-   "date": "2026-05-01",
-   "enclosure": "https://anchor.fm/s/1a348ea0/podcast/play/119316236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-1%2F423239602-44100-2-e79ab105a84e2.m4a",
-   "durationSec": 786,
-   "guid": "3047e215-649c-4af4-99a2-9a2ffe0acf3c"
   }
  ]
 }

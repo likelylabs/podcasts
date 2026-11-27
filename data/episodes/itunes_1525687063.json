@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 561,
+   "enclosure": "https://anchor.fm/s/2e916170/podcast/play/129735151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fb65c7dd1-dbda-4af6-123c-672af510c6f4.mp3",
+   "guid": "c7c7ff9b-a11a-46e4-a190-63ebbaccf379",
+   "title": "EP375 明天換我決定（學習跟同伴溝通）"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 596,
    "enclosure": "https://anchor.fm/s/2e916170/podcast/play/129726771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F8bfab583-ae53-a98b-549d-d81e9f034b83.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/2e916170/podcast/play/118490166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-15%2F1ed7525b-4a85-0142-7406-3e3ac6b2349c.mp3",
    "guid": "b8bf5b67-d0d9-4b3e-ad83-93cf31addbe7",
    "title": "EP346 黑鮪魚的旅行（下）（在黑潮大冒險）"
-  },
-  {
-   "date": "2026-04-30",
-   "durationSec": 617,
-   "enclosure": "https://anchor.fm/s/2e916170/podcast/play/118914673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-23%2F00353900-c1f4-dbf8-014c-4c93de715f80.mp3",
-   "guid": "08c8615f-0fa0-4844-b6dd-d8d7949cabc1",
-   "title": "EP345 黑鮪魚的旅行（上）（小魚的壯遊）"
   }
  ]
 }

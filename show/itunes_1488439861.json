@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1488439861",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "闲话三国：我今天就是皇帝了！玉玺在手，天下我有！哈哈！",
+   "date": "2026-11-26",
+   "enclosure": "https://jt.ximalaya.com//GKwRIRwO3YYwAa8bYwUBiynu.m4a?channel=rss&album_id=19206387&track_id=1035728661&uid=96384113&jt=https://aod.cos.tx.xmcdn.com/storages/04f9-audiofreehighqps/38/8B/GKwRIRwO3YYwAa8bYwUBiynu.m4a",
+   "durationSec": 3490,
+   "guid": "xmly_track_1035728661"
+  },
   {
    "title": "心理小测试：有人给你寄了张火车票，它会通向哪里？",
    "date": "2026-11-19",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIUENv3KnAYjRkwSOzXde.m4a?channel=rss&album_id=19206387&track_id=972150863&uid=96384113&jt=https://aod.cos.tx.xmcdn.com/storages/2bff-audiofreehighqps/3A/F1/GKwRIUENv3KnAYjRkwSOzXde.m4a",
    "durationSec": 3180,
    "guid": "xmly_track_972150863"
-  },
-  {
-   "title": "闲话三国：白马王子赵云登场！貂蝉狠狠戏耍吕布！",
-   "date": "2026-04-16",
-   "enclosure": "https://jt.ximalaya.com//GKwRIMANrnyaAfCSoASIFWox.m4a?channel=rss&album_id=19206387&track_id=969211480&uid=96384113&jt=https://aod.cos.tx.xmcdn.com/storages/8f0f-audiofreehighqps/B8/6B/GKwRIMANrnyaAfCSoASIFWox.m4a",
-   "durationSec": 4020,
-   "guid": "xmly_track_969211480"
   }
  ]
 }

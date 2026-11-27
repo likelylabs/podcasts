@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2334,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS1971516336.mp3",
+   "guid": "e37daaf2-ea0a-11f1-92fd-8732421ec7e1",
+   "title": "A sassy F1 driver and a silly Hugh Jackman"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2834,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS2337403812.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS4108063139.mp3",
    "guid": "3920e5a8-b312-11f1-b2ca-7b2f30709e9d",
    "title": "The celebrity obsession with surrogacy"
-  },
-  {
-   "date": "2026-09-18",
-   "durationSec": 2222,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS4290610319.mp3",
-   "guid": "f04ca5e2-b307-11f1-b5d2-533ca56da99f",
-   "title": "Mr Word Salad"
   }
  ]
 }

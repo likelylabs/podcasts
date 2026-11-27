@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 331,
+   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/130145500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2Fc6f2961f-2762-6d4b-fc14-875bd16469a6.mp3",
+   "guid": "bce467b2-dbb5-4fb4-b796-b7acf33266fd",
+   "title": "Scientist Helps Others with Trash"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 320,
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/130074161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F306c6290-5921-75c0-b966-3ea8c2d380d0.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127563783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F87e018f7-aad8-1237-6247-6d8251f62026.mp3",
    "guid": "e2013436-3096-47f3-8cf8-bfbd6e468fe6",
    "title": "Good Things from Bad Tomatoes"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 332,
-   "enclosure": "https://anchor.fm/s/fbf5f338/podcast/play/127505636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fcdc6c506-132c-8053-d2f9-81c929732f2f.mp3",
-   "guid": "10c4a7d6-3f01-44f9-bad1-178d9d916387",
-   "title": "A Soccer School Saves a Team"
   }
  ]
 }

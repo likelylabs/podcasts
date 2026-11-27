@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1552904790",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "特番｜蛋白质的世界，比宇宙更大",
+   "date": "2026-11-27",
+   "enclosure": "https://jt.ximalaya.com//GKwRIW4O3f7CAamFHwUB3SHp.m4a?channel=rss&album_id=46587439&track_id=1035834278&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/1ac9-audiofreehighqps/B5/EE/GKwRIW4O3f7CAamFHwUB3SHp.m4a",
+   "durationSec": 3444,
+   "guid": "xmly_track_1035834278"
+  },
   {
    "title": "Vol.283 游戏行业的A24应该长什么样？",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIRwOTle8AESlAATEV940.m4a?channel=rss&album_id=46587439&track_id=1005487014&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/6f52-audiofreehighqps/6E/59/GKwRIRwOTle8AESlAATEV940.m4a",
    "durationSec": 555,
    "guid": "xmly_track_1005487014"
-  },
-  {
-   "title": "Vol.269 小历史 | “不要怕，是技术性调整”",
-   "date": "2026-08-06",
-   "enclosure": "https://jt.ximalaya.com//GKwRIMAOSPK6AXCuagTCdO2E.m4a?channel=rss&album_id=46587439&track_id=1004793119&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/19dc-audiofreehighqps/9A/D9/GKwRIMAOSPK6AXCuagTCdO2E.m4a",
-   "durationSec": 2984,
-   "guid": "xmly_track_1004793119"
   }
  ]
 }

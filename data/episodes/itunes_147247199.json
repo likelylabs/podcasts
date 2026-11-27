@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2661,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/07e4c921-9820-41c4-b3b1-66ad28bbd7ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=07e4c921-9820-41c4-b3b1-66ad28bbd7ac&feed=TkQfZXMD",
+   "guid": "57250d79-561a-4003-b078-bf7fa99ab51f",
+   "title": "Cramer’s Mad-Nomics 101 for Smarter Investing"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2659,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/31d4be89-e4d6-4926-82ce-a64f465e04dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=31d4be89-e4d6-4926-82ce-a64f465e04dd&feed=TkQfZXMD",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/214baac6-d635-4fab-b5ab-0f566f043ea3/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=214baac6-d635-4fab-b5ab-0f566f043ea3&feed=TkQfZXMD",
    "guid": "6a570040-6199-4ec0-b76c-b173e61b2b61",
    "title": "Mad Money w/ Jim Cramer 10/15/26"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2646,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/16e897c6-3482-448d-9cb1-ced78419228e/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=16e897c6-3482-448d-9cb1-ced78419228e&feed=TkQfZXMD",
-   "guid": "5a8373cc-6e79-4c70-9c64-fbec3c09ae2d",
-   "title": "Mad Money w/ Jim Cramer 10/14/26"
   }
  ]
 }

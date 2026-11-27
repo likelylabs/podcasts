@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 4318,
+   "enclosure": "https://rss.soundon.fm/rssf/a0c1f649-2524-4ff2-bdbe-4bba24a02942/feedurl/b338b152-79dc-4507-81db-14362c6ca270/rssFileVip.mp3?timestamp=1795739432950",
+   "guid": "b338b152-79dc-4507-81db-14362c6ca270",
+   "title": "EP263-正向管教 Ft.特教老師小張"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 4494,
    "enclosure": "https://rss.soundon.fm/rssf/a0c1f649-2524-4ff2-bdbe-4bba24a02942/feedurl/626eed99-a4d3-4a02-9bb3-b1dab7f0f7d8/rssFileVip.mp3?timestamp=1795159457698",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/a0c1f649-2524-4ff2-bdbe-4bba24a02942/feedurl/0aeae601-7105-44bb-8c55-01072262d51c/rssFileVip.mp3?timestamp=1775861980589",
    "guid": "0aeae601-7105-44bb-8c55-01072262d51c",
    "title": "EP234-Never Say Goodbye Ft.Shawn、Mike"
-  },
-  {
-   "date": "2026-03-27",
-   "durationSec": 4303,
-   "enclosure": "https://rss.soundon.fm/rssf/a0c1f649-2524-4ff2-bdbe-4bba24a02942/feedurl/9ca33012-24d3-4c41-b4b7-e8e1daaa8aa8/rssFileVip.mp3?timestamp=1774652086888",
-   "guid": "9ca33012-24d3-4c41-b4b7-e8e1daaa8aa8",
-   "title": "EP233-松山工農傑出校友 Ft.Willy"
   }
  ]
 }

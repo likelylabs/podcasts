@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1181,
+   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/9be5d83a-96a2-4ac3-8550-a5c52bc9d968/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=9be5d83a-96a2-4ac3-8550-a5c52bc9d968&feed=rpKQEwel",
+   "guid": "9c11e983-c58b-44c1-b8df-88c2baec35e5",
+   "title": "Feel Less Lonely and Build Deeper Connections"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1173,
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/ebae6374-682c-434f-96aa-e2f1b9bc9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=ebae6374-682c-434f-96aa-e2f1b9bc9c7d&feed=rpKQEwel",
@@ -202,13 +209,6 @@
    "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/5eb0ddc7-c3c2-4fbf-92ee-25f73f3f0455/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=5eb0ddc7-c3c2-4fbf-92ee-25f73f3f0455&feed=rpKQEwel",
    "guid": "a761cf07-33ec-45a5-b722-a86678457d06",
    "title": "Every Parent Needs to Hear This"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 1051,
-   "enclosure": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/5146bb5d-4c1b-4b3a-9e5b-97fd515bf368/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=5146bb5d-4c1b-4b3a-9e5b-97fd515bf368&feed=rpKQEwel",
-   "guid": "66d9da03-f9f0-45d1-86ed-78f9e910a351",
-   "title": "Are You Ambitious but Lazy?"
   }
  ]
 }

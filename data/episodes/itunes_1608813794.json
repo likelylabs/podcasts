@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 1955,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/2b76340a-c6ff-4ab1-a018-09ec45f095e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=2b76340a-c6ff-4ab1-a018-09ec45f095e2&feed=dloY8UYJ",
+   "guid": "a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c",
+   "title": "Peel It Back"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 2524,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/506938cc-ae1a-441c-b08d-44f2b838ff18/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=506938cc-ae1a-441c-b08d-44f2b838ff18&feed=dloY8UYJ",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/0bff8699-f940-47eb-bb98-938f1acdf62a/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=0bff8699-f940-47eb-bb98-938f1acdf62a&feed=dloY8UYJ",
    "guid": "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
    "title": "Brutal Mercy (PODCAST EXCLUSIVE EPISODE)"
-  },
-  {
-   "date": "2026-09-28",
-   "durationSec": 1766,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&feed=dloY8UYJ",
-   "guid": "de321f84-1b99-460b-bc17-094a336de6f9",
-   "title": "On Patrol (PODCAST EXCLUSIVE EPISODE)"
   }
  ]
 }

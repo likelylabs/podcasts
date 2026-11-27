@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 201,
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/9561df3d-bd11-4665-b936-b5010080e6d6/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
+   "guid": "9561df3d-bd11-4665-b936-b5010080e6d6",
+   "title": "2６11 大脑记录你的重复"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 202,
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/728815ce-a243-4f23-b4ab-b501008092e3/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/c232e032-a9fc-4300-93a8-b4da0086cb3e/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
    "guid": "c232e032-a9fc-4300-93a8-b4da0086cb3e",
    "title": "0710 狗屎主义"
-  },
-  {
-   "date": "2026-10-06",
-   "durationSec": 182,
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/b7c46f2b-1961-4e96-8a19-b4da0086219b/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
-   "guid": "b7c46f2b-1961-4e96-8a19-b4da0086219b",
-   "title": "0610 不要去责怪任何人"
   }
  ]
 }

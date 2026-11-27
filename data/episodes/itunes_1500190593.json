@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2839,
+   "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/c6c90f18-a563-44ee-9b5f-2b70f392ebd9/rssFileVip.mp3?timestamp=1795695974083",
+   "guid": "c6c90f18-a563-44ee-9b5f-2b70f392ebd9",
+   "title": "EP. 604 B面 | 投票日放送與聽友聊聊天"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 2662,
+   "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/a67131e1-27e6-4af4-9454-6e8818d0cd92/rssFileVip.mp3?timestamp=1795691457397",
+   "guid": "a67131e1-27e6-4af4-9454-6e8818d0cd92",
+   "title": "EP. 604 A面 | 本周投票閒話家常、宜蘭去宜蘭高中演講"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3181,
    "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/777cf273-6ecf-43aa-8a96-b43d6017fbb0/rssFileVip.mp3?timestamp=1795148760304",
@@ -195,20 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/23d236a5-c02c-43bc-a395-f64cebd91b68/rssFileVip.mp3?timestamp=1787446863278",
    "guid": "23d236a5-c02c-43bc-a395-f64cebd91b68",
    "title": "EP. 590 B面 | 宜蘭即將上直播、百般無聊的暑假、奧德賽"
-  },
-  {
-   "date": "2026-08-21",
-   "durationSec": 2927,
-   "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/7b59d94d-2866-4923-ab5c-d9b9680bbab0/rssFileVip.mp3?timestamp=1787336783024",
-   "guid": "7b59d94d-2866-4923-ab5c-d9b9680bbab0",
-   "title": "EP. 590 A面 | 馬雅人開團去墨西哥，你要跟嗎？ft. 馬雅人"
-  },
-  {
-   "date": "2026-08-14",
-   "durationSec": 2505,
-   "enclosure": "https://rss.soundon.fm/rssf/45edd1fd-3ad0-4e95-aaa8-b229856181c4/feedurl/14ba2612-e3fa-4106-9c75-59502d1cadcf/rssFileVip.mp3?timestamp=1786731929458",
-   "guid": "14ba2612-e3fa-4106-9c75-59502d1cadcf",
-   "title": "EP. 589 B面 | 宜蘭七號的購物癖裸奔"
   }
  ]
 }

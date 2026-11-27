@@ -2,6 +2,27 @@
  "episodes": [
   {
    "date": "2026-11-26",
+   "durationSec": 263,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/2c05cc30-38d7-4ab7-b4f6-b50e00a554f8/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "2c05cc30-38d7-4ab7-b4f6-b50e00a554f8",
+   "title": "STMicro Rises, UniCredit's Megadeal, Babcock Up"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 261,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/6276bcf0-2f1c-4a92-983e-b50e00989bc3/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "6276bcf0-2f1c-4a92-983e-b50e00989bc3",
+   "title": "UniCredit's Megadeal, Babcock Up, Halfords Soars"
+  },
+  {
+   "date": "2026-11-26",
+   "durationSec": 272,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/f9748c50-1053-48c9-a8f0-b50e008da550/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
+   "guid": "f9748c50-1053-48c9-a8f0-b50e008da550",
+   "title": "A Look At Spain"
+  },
+  {
+   "date": "2026-11-26",
    "durationSec": 213,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/06abe824-e813-4a16-897e-b50d016e7754/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
    "guid": "06abe824-e813-4a16-897e-b50d016e7754",
@@ -188,27 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/deb77efd-24f5-4131-9527-b50b00a27612/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
    "guid": "deb77efd-24f5-4131-9527-b50b00a27612",
    "title": "Bayer Climbs, Drax Jumps, Capita Nosedives"
-  },
-  {
-   "date": "2026-11-23",
-   "durationSec": 317,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/bb96352e-c873-4c84-9146-b50b0076f1be/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "bb96352e-c873-4c84-9146-b50b0076f1be",
-   "title": "SK Hynix Falls, TSMC Up, Zhejiang Leapmotor Slides"
-  },
-  {
-   "date": "2026-11-22",
-   "durationSec": 343,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/7f188a60-f58e-4d05-a40c-b50800f64297/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "7f188a60-f58e-4d05-a40c-b50800f64297",
-   "title": "Week Ahead: Dell, Deere, and Abercrombie & Fitch"
-  },
-  {
-   "date": "2026-11-21",
-   "durationSec": 219,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/deb345cd-6d73-4a24-a6e3-b2a50138dd86/2055c0ab-ffc7-4d0d-ab33-b50801830c5b/audio.mp3?utm_source=Podcast&in_playlist=a55c6f22-aa32-4a58-aebd-b2a50138e2b2",
-   "guid": "2055c0ab-ffc7-4d0d-ab33-b50801830c5b",
-   "title": "Weekly Roundup: Anthropic Debuts, Nvidia Faces Worst Week Since 2008, UnitedHealth Group Slips"
   }
  ]
 }

@@ -1,6 +1,12 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261127_0810_1729_tw.mp3",
+   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=116917",
+   "title": "聚散有時"
+  },
+  {
    "date": "2026-11-20",
    "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261120_0810_1729_tw.mp3",
    "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=116916",
@@ -173,12 +179,6 @@
    "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260501_0810_1729_tw.mp3",
    "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=103247",
    "title": "AI搶飯碗？在科技時代下該如何不被淘汰呢？"
-  },
-  {
-   "date": "2026-04-24",
-   "enclosure": "https://sw.soundon.fm/p/MVP962/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260424_0810_1729_tw.mp3",
-   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=102746",
-   "title": "張啓樂的三天兩夜高雄之旅"
   }
  ]
 }

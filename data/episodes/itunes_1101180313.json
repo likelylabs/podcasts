@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2336,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b06afd5220169af04d53921/media.mp3",
+   "guid": "6b06afd5220169af04d53921",
+   "title": "EP 821: \"Tinik sa Lalamunan\" with Papa Dudut"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 2350,
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/6b06add87db94972bd1184a0/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/d5664312-e968-4e5e-a340-d1b8eefdffbe/media.mp3",
    "guid": "d5664312-e968-4e5e-a340-d1b8eefdffbe",
    "title": "EP 792: \"Palaging Ikaw\" with Papa Dudut"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 2867,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6ae2af6c660738d6f934d1fa/e/06bcc7c2-115d-4299-9a38-e62048dafe60/media.mp3",
-   "guid": "06bcc7c2-115d-4299-9a38-e62048dafe60",
-   "title": "EP 791: \"Clan Mate\" with Papa Dudut"
   }
  ]
 }

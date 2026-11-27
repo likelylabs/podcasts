@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2042,
+   "enclosure": "https://dax.captivate.fm/101d8a40-2b48-4e62-b064-db679d9cc4a0/POD-2026-11-26-SPORTS-AGENTS-AUDIO-FiNAL-encoded.mp3?aw_0_1st.showid=7772fc46-ea54-4d40-88c5-4fb111af73a8&aw_0_1st.episodeid=ce330e32-d3ed-4fef-8745-2e6fe086147c&played_on=c49390b9-6909-4cd3-a974-e270cf686f27",
+   "guid": "ce330e32-d3ed-4fef-8745-2e6fe086147c",
+   "title": "How Jamal Musiala's illness tested Bayern's 'Family Values' - The Sports Agents"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 2200,
+   "enclosure": "https://episodes.captivate.fm/episode/daf1f3ff-849d-434c-a33f-b57b912a978a.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=daf1f3ff-849d-434c-a33f-b57b912a978a",
+   "guid": "daf1f3ff-849d-434c-a33f-b57b912a978a",
+   "title": "Why can’t Trump's team stop praising Putin?"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1977,
    "enclosure": "https://episodes.captivate.fm/episode/443ccc72-d4fa-4100-a187-e0a843f5e565.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=443ccc72-d4fa-4100-a187-e0a843f5e565",
@@ -195,20 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/8d39c978-c779-4329-b39a-4506c404cb49.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=8d39c978-c779-4329-b39a-4506c404cb49",
    "guid": "8d39c978-c779-4329-b39a-4506c404cb49",
    "title": "Is Andy Burnham all over the place on Brexit?"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 2393,
-   "enclosure": "https://episodes.captivate.fm/episode/4b892382-093e-44ff-81c3-648c703c7f90.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=4b892382-093e-44ff-81c3-648c703c7f90",
-   "guid": "4b892382-093e-44ff-81c3-648c703c7f90",
-   "title": "How Trump cost his mates their elections"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 1988,
-   "enclosure": "https://episodes.captivate.fm/episode/6b19c871-6379-4060-ae90-135a6aaf4de4.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=6b19c871-6379-4060-ae90-135a6aaf4de4",
-   "guid": "6b19c871-6379-4060-ae90-135a6aaf4de4",
-   "title": "Blockers: Inside Musk’s War on the US Government"
   }
  ]
 }

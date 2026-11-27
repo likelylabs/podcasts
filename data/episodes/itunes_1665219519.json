@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-26",
+   "durationSec": 775,
+   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH6279344769.mp3",
+   "guid": "08a8b3ee-e975-11f1-92a6-47ff595d3930",
+   "title": "Trump's tariff blitz, Musk's SpaceX pledge and Nazi guest house reno"
+  },
+  {
+   "date": "2026-11-26",
    "durationSec": 821,
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH7058346499.mp3",
    "guid": "075abbb0-e8b5-11f1-883d-d7b76362f294",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH7395862530.mp3",
    "guid": "f62e23ba-d430-11f1-9921-83b510c796ae",
    "title": "Crypto hack, tech stocks dip, remembering Patrick Stewart (Updated)"
-  },
-  {
-   "date": "2026-10-29",
-   "durationSec": 829,
-   "enclosure": "https://pdst.fm/e/traffic.megaphone.fm/THRH7897280670.mp3",
-   "guid": "9403fad4-d372-11f1-ac45-2713d32ae905",
-   "title": "Alaska Senate dispute, Spain mourns, Bolsonaro's declaration (Updated)"
   }
  ]
 }

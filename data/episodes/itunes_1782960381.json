@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2106,
+   "enclosure": "https://rss.art19.com/episodes/36cb5dc3-f4ca-448c-b009-96df2e135a12.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/25NqWPM5sbu2h9XOKuZUPvwmfS6oc0lTiGSgvtBFrYo",
+   "title": "What No One Tells Us About the Process of Dying"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 3000,
    "enclosure": "https://rss.art19.com/episodes/9172fbec-da2b-41bb-903e-bc4c2dd82a70.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.art19.com/episodes/b954d144-a552-4b39-955f-d5005c578a8e.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/HgZTJY_spLW4EuQjHdLscAaiCTG34akZ1MBk4pS8nBs",
    "title": "The Correspondent: The Story Behind the Unexpected Bestseller Everyone is Reading"
-  },
-  {
-   "date": "2026-08-18",
-   "durationSec": 3393,
-   "enclosure": "https://rss.art19.com/episodes/ab3a2c93-b1fb-45fc-af3d-7246af872938.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/75oiReLLQ_E-YkO6QjixjQWz_60qcVZ10xc8Y2qfP_w",
-   "title": "How to Get Along When Every Generation Thinks Differently"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 2531,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppt641.mp3",
+   "guid": "urn:bbc:podcast:m0034mgk",
+   "title": "Could Humans Hibernate? - Pierre Novellie, Shona Wood and Matteo Cerri"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2543,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnwbrf.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k41ryg.mp3",
    "guid": "urn:bbc:podcast:m0025dvn",
    "title": "Is Extinction the End?"
-  },
-  {
-   "date": "2024-12-11",
-   "durationSec": 2564,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k41q0j.mp3",
-   "guid": "urn:bbc:podcast:m0025dvq",
-   "title": "Fantastic Elastic"
   }
  ]
 }

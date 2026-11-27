@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 305,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261126-consuming-all-the-way.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261126-consuming-all-the-way.mp3",
+   "title": "UBS On-Air: Paul Donovan Daily Audio 'Consuming, all the way'"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 405,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261125-muted-tariffs-meet-consumer-resilience.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261109-uncertainty-continues.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261109-uncertainty-continues.mp3",
    "title": "UBS On-Air: Paul Donovan Daily Audio 'Uncertainty continues'"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 374,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261109-signal-over-noise.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261109-signal-over-noise.mp3",
-   "title": "Signal Over Noise: The three math problems AI still needs to solve"
   }
  ]
 }

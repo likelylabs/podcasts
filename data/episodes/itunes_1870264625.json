@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "durationSec": 4199,
+   "enclosure": "https://anchor.fm/s/10e096adc/podcast/play/130146507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437679977-44100-2-248ef6bc91404.m4a",
+   "guid": "3b47bfd2-2d7a-48e2-895d-afbc6bde861c",
+   "title": "[EP041] 腦反應-特質關聯性的跨情境穩定性（結論是不穩定）"
+  },
+  {
    "date": "2026-11-19",
    "durationSec": 2459,
    "enclosure": "https://anchor.fm/s/10e096adc/podcast/play/129734981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437122246-44100-2-b265e57b7a688.m4a",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/10e096adc/podcast/play/117841821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-2%2F421257469-44100-2-091f5b433a4f9.m4a",
    "guid": "2fa67251-8311-48d2-a8b0-16d215194233",
    "title": "[EP012] 放空時的體感受以及小朋友的社會推論能力"
-  },
-  {
-   "date": "2026-03-25",
-   "durationSec": 2920,
-   "enclosure": "https://anchor.fm/s/10e096adc/podcast/play/117441954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-25%2F420719255-44100-2-f4a93c5308966.m4a",
-   "guid": "417066dc-4ae6-412e-ac5a-168242f36273",
-   "title": "[EP011] 什麼是自然情境派典實驗法？"
   }
  ]
 }

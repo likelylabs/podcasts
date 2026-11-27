@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1878553596",
- "generatedAt": "2026-11-26T10:49:19+08:00",
+ "generatedAt": "2026-11-27T10:47:40+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "粤语学习丨“疼”用粤语怎么说？",
+   "date": "2026-11-26",
+   "enclosure": "https://jt.ximalaya.com//GKwRIJIO2PEjABsO2QT_qYm4.m4a?channel=rss&album_id=79979880&track_id=1034757783&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/281f-audiofreehighqps/3C/89/GKwRIJIO2PEjABsO2QT_qYm4.m4a",
+   "durationSec": 218,
+   "guid": "xmly_track_1034757783"
+  },
   {
    "title": "粤语学习丨“班味”用粤语怎么说？",
    "date": "2026-11-25",
@@ -205,13 +212,6 @@
    "enclosure": "https://jt.ximalaya.com//GKwRIDoOIGS2ABr3WQSyCiGt.m4a?channel=rss&album_id=79979880&track_id=998864157&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/f4d6-audiofreehighqps/E6/2C/GKwRIDoOIGS2ABr3WQSyCiGt.m4a",
    "durationSec": 218,
    "guid": "xmly_track_998864157"
-  },
-  {
-   "title": "粤语学习丨“椰菜”和“椰菜花”有什么区别？",
-   "date": "2026-07-02",
-   "enclosure": "https://jt.ximalaya.com//GKwRIJEOF1RGACHg0QSusD4e.m4a?channel=rss&album_id=79979880&track_id=993380811&uid=53208904&jt=https://aod.cos.tx.xmcdn.com/storages/e002-audiofreehighqps/6E/30/GKwRIJEOF1RGACHg0QSusD4e.m4a",
-   "durationSec": 274,
-   "guid": "xmly_track_993380811"
   }
  ]
 }

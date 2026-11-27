@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2354,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq4pvv.mp3",
+   "guid": "urn:bbc:podcast:p0pq4qv9",
+   "title": "Qatar GP Preview: Verstappen v Russell, Hamilton v Leclerc"
+  },
+  {
    "date": "2026-11-22",
    "durationSec": 2197,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppbcb1.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p916br.mp3",
    "guid": "urn:bbc:podcast:p0p91c9t",
    "title": "Spanish GP Preview: Hola Madrid!"
-  },
-  {
-   "date": "2026-09-07",
-   "durationSec": 1902,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p89f2c.mp3",
-   "guid": "urn:bbc:podcast:p0p89grt",
-   "title": "Italian GP Review: History at Monza!"
   }
  ]
 }
