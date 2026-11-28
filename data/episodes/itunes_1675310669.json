@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1441,
+   "enclosure": "https://traffic.megaphone.fm/APO4115639356.mp3",
+   "guid": "422b404d-1f4b-403e-9609-e83d5630eef9",
+   "title": "Being Happy For Other People's Success"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1278,
    "enclosure": "https://traffic.megaphone.fm/APO8814049920.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO2691287398.mp3",
    "guid": "c2ed307e-c81d-40ed-861f-e5965991a5ff",
    "title": "Two Big Stories That Help Explain Today's World"
-  },
-  {
-   "date": "2025-09-13",
-   "durationSec": 1220,
-   "enclosure": "https://traffic.megaphone.fm/APO9559363462.mp3",
-   "guid": "69b28a88-f926-4ec0-920f-68fc1c866596",
-   "title": "Playing Your Own Game"
   }
  ]
 }

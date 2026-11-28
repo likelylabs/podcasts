@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 2125,
+   "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238801/8238801_2026-04-14-011701.192.mp3?rssID=6042",
+   "guid": "fc42d67a-8aa7-11f0-a931-876174de480e",
+   "title": "Search Engine x Revisionist History"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3202,
    "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/9071405/9071405_2026-11-23-235405.192.mp3?rssID=6042",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238850/8238850_2026-04-14-014550.192.mp3?rssID=6042",
    "guid": "f7dfd7fe-8aa7-11f0-a931-2b75d2bc2d27",
    "title": "The Cost of War"
-  },
-  {
-   "date": "2026-04-11",
-   "durationSec": 2762,
-   "enclosure": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8238854/8238854_2026-04-14-014754.192.mp3?rssID=6042",
-   "guid": "f796cd70-8aa7-11f0-a931-2b9a12fc1a07",
-   "title": "What we got wrong about GLP-1s"
   }
  ]
 }

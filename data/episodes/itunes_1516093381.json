@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 5762,
+   "enclosure": "https://api.substack.com/feed/podcast/226789196/89485c0543b57f829184d38024dba666.mp3",
+   "guid": "substack:post:226789196",
+   "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3923,
    "enclosure": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://api.substack.com/feed/podcast/190839917/e3c75a06762af10f374661e8af1d1af6.mp3",
    "guid": "substack:post:190839917",
    "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute"
-  },
-  {
-   "date": "2026-03-12",
-   "durationSec": 1478,
-   "enclosure": "https://api.substack.com/feed/podcast/190633588/94a1857634f9ebd3857e20d95893ec75.mp3",
-   "guid": "substack:post:190633588",
-   "title": "The most important question nobody's asking about AI"
   }
  ]
 }

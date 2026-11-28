@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1573869097",
- "generatedAt": "2026-11-27T10:47:40+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "11.28（六）我快要來",
+   "date": "2026-11-27",
+   "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmutx6xhp07wi01tm50zvgz2q/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmutx6xhp07wj01tmbib67u7e.mp3?v=1792757607132",
+   "durationSec": 381,
+   "guid": "cmutx6xhp07wi01tm50zvgz2q"
+  },
   {
    "title": "11.27（五）看看無花果樹",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmtke8d0a0lik01vv8zpxbcx0/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmtke8d0a0lil01vv9hq032fz.mp3?v=1790860831789",
    "durationSec": 318,
    "guid": "cmtke8d0a0lik01vv8zpxbcx0"
-  },
-  {
-   "title": "10.29（四）狐狸和母雞",
-   "date": "2026-10-28",
-   "enclosure": "https://m.cdn.firstory.me/track/ckq4wwd6ml2nd091150yw1slh/cmtke7ux00lih01vvegune60s/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckq4wwd6ml2nd091150yw1slh%2Fcmtke7ux00lii01vvf0rmaiyy.mp3?v=1790610152794",
-   "durationSec": 363,
-   "guid": "cmtke7ux00lih01vvegune60s"
   }
  ]
 }

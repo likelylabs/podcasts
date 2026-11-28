@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1570,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pqbfch.mp3",
+   "guid": "urn:bbc:podcast:w3ct8flq",
+   "title": "Spain's housing crisis shapes election"
+  },
+  {
+   "date": "2026-11-28",
+   "durationSec": 535,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq8xwd.mp3",
+   "guid": "urn:bbc:podcast:p0pq8y3p",
+   "title": "Another swing on Wall Street as tech stocks rise"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 3537,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq53jk.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plrdh1.mp3",
    "guid": "urn:bbc:podcast:w3ct8flm",
    "title": "What's behind the wave of bomb threats in Europe?"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 537,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plnt7m.mp3",
-   "guid": "urn:bbc:podcast:p0plntmm",
-   "title": "Is the AI bubble finally bursting?"
-  },
-  {
-   "date": "2026-11-06",
-   "durationSec": 1586,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pljtjl.mp3",
-   "guid": "urn:bbc:podcast:w3ct8fr4",
-   "title": "Tesla shares plunge after US midterms"
   }
  ]
 }

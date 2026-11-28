@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1624,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq6j01.mp3",
+   "guid": "urn:bbc:podcast:w3ct8m9s",
+   "title": "Why are adults buying so many toys?"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1657,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppzgz2.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phlml9.mp3",
    "guid": "urn:bbc:podcast:w3ct8mj7",
    "title": "They were loyal Democrats. Then came Gaza"
-  },
-  {
-   "date": "2026-10-19",
-   "durationSec": 1616,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phfrzz.mp3",
-   "guid": "urn:bbc:podcast:w3ct8mcq",
-   "title": "Is Trump sacrificing Ukraine for cheaper diesel?"
   }
  ]
 }

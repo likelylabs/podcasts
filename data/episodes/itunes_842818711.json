@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1622,
+   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f249c8d5-7395-4fe5-a36c-afbc59d5485f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f249c8d5-7395-4fe5-a36c-afbc59d5485f&feed=JGE3yC0V",
+   "guid": "b02d4b47-0cd5-46fc-a493-5b289ac53873",
+   "title": "Replay: From Swipe to Scale: How Tinder Became #1 (2024)"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1181,
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e09deb33-45a7-4621-bc9d-523fe8562c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e09deb33-45a7-4621-bc9d-523fe8562c3e&feed=JGE3yC0V",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7faacce1-573c-4324-a189-ce0ffa16a102/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7faacce1-573c-4324-a189-ce0ffa16a102&feed=JGE3yC0V",
    "guid": "cd4b040b-07b6-481d-ae20-0253f02c1347",
    "title": "The Startups Rebuilding American Industry | The AD50"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 3686,
-   "enclosure": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/1046e742-22c8-45f7-a3c2-e8b93f091783/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=1046e742-22c8-45f7-a3c2-e8b93f091783&feed=JGE3yC0V",
-   "guid": "80c78d80-ce49-425d-bfa3-3545332b37e3",
-   "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires"
   }
  ]
 }

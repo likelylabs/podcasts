@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 979,
+   "enclosure": "https://audio4.redcircle.com/episodes/00ebfe82-d7b3-485a-99c5-7f28bd9e087c/stream.mp3",
+   "guid": "bd22c722-1718-45a7-ad44-bd5a5b0ae079",
+   "title": "【N5-N4】Ep281 Time | Japanese Podcast for Beginners"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1657,
    "enclosure": "https://audio4.redcircle.com/episodes/036a45c6-5759-48d8-bf75-dadcc917e99a/stream.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio4.redcircle.com/episodes/bf0d71ab-4b94-466c-af93-00ab1b75af94/stream.mp3",
    "guid": "e77b454a-0006-41e0-978b-1f7e874d1998",
    "title": "【N5-N4】Ep259 Alcohol Snack / Japanese Podcast for beginners"
-  },
-  {
-   "date": "2026-02-13",
-   "durationSec": 720,
-   "enclosure": "https://audio4.redcircle.com/episodes/858196d1-cf91-4125-a3be-407717bac80f/stream.mp3",
-   "guid": "a3077f7c-faee-4659-9230-8d0c92a496d9",
-   "title": "【N5-N4】Ep258 Japanese Valentines Day /Japanese podcast for beginners"
   }
  ]
 }

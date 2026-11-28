@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-27",
+   "durationSec": 2465,
+   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b083961f82f6a279c8e79da/media.mp3",
+   "guid": "6b083961f82f6a279c8e79da",
+   "title": "Arsenal vs Manchester City + How do you stop Rio Ngumoha?"
+  },
+  {
+   "date": "2026-11-27",
    "durationSec": 2877,
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6b08625b6f4fe95e2d03af50/media.mp3",
    "guid": "6b08625b6f4fe95e2d03af50",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ada0b30f92693313c042b57/media.mp3",
    "guid": "6ada0b30f92693313c042b57",
    "title": "Chelsea vs Spurs + how are Brighton this good?"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 2609,
-   "enclosure": "https://sphinx.acast.com/p/open/s/6818be7d1d28d62313ac8ef3/e/6ada379723f48c4f2479c98a/media.mp3",
-   "guid": "6ada379723f48c4f2479c98a",
-   "title": "Man United, INEOS and a failing sports empire"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1518,
+   "enclosure": "https://traffic.megaphone.fm/APO2971464505.mp3",
+   "guid": "0ef8da50-6e31-4074-a331-12aba74829e6",
+   "title": "The Horrible Case of Jaylin Schwarz"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 1708,
    "enclosure": "https://traffic.megaphone.fm/APO4318338527.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/APO6923740336.mp3",
    "guid": "0890765c-b879-49c9-b4d7-43474acdc0b6",
    "title": "The Horrific Crimes of Jack Owen Spillman III"
-  },
-  {
-   "date": "2026-08-21",
-   "durationSec": 1042,
-   "enclosure": "https://traffic.megaphone.fm/APO1770348585.mp3",
-   "guid": "3034e496-8b3e-4d87-a684-5e00ef2a1a33",
-   "title": "The Tragic Case of Marley & Elijah Thomas"
   }
  ]
 }

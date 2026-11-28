@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3808,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/6488b2a5-9ae3-45b0-9715-70662a6e7429/episodes/d5ce3d1d-2e65-484c-a869-08fb91576b89/audio/128/default.mp3?aid=rss_feed&awCollectionId=6488b2a5-9ae3-45b0-9715-70662a6e7429&awEpisodeId=d5ce3d1d-2e65-484c-a869-08fb91576b89&feed=a6Nx8ZOX",
+   "guid": "3052b8d9-dd41-4e57-b45b-bffbaf644ba0",
+   "title": "Hunter Schafer spilled in my bed"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 3405,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/6488b2a5-9ae3-45b0-9715-70662a6e7429/episodes/bebbb02b-30e4-4e09-9725-2b49cd3f0b93/audio/128/default.mp3?aid=rss_feed&awCollectionId=6488b2a5-9ae3-45b0-9715-70662a6e7429&awEpisodeId=bebbb02b-30e4-4e09-9725-2b49cd3f0b93&feed=a6Nx8ZOX",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/6488b2a5-9ae3-45b0-9715-70662a6e7429/episodes/bdfc0a93-cc95-49c6-9b5d-284aa8596bef/audio/128/default.mp3?aid=rss_feed&awCollectionId=6488b2a5-9ae3-45b0-9715-70662a6e7429&awEpisodeId=bdfc0a93-cc95-49c6-9b5d-284aa8596bef&feed=a6Nx8ZOX",
    "guid": "44096ac6-4f23-4304-aee2-00310cb33dc0",
    "title": "I’m doing that again with Malcolm Todd"
-  },
-  {
-   "date": "2026-05-22",
-   "durationSec": 3744,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/6488b2a5-9ae3-45b0-9715-70662a6e7429/episodes/063ddf30-e172-4700-9cf2-035fb2a0f03c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6488b2a5-9ae3-45b0-9715-70662a6e7429&awEpisodeId=063ddf30-e172-4700-9cf2-035fb2a0f03c&feed=a6Nx8ZOX",
-   "guid": "7979707a-4331-47a1-bc55-8ab070534425",
-   "title": "I was supposed to be in Madison Beer’s music video"
   }
  ]
 }

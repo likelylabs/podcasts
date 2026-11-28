@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 363,
+   "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI4680430378.mp3",
+   "guid": "bfa39dbc-e4bf-11f1-ad92-8794e4dd4cf3",
+   "title": "Not Every Feeling Is Yours To Carry"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 401,
    "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI1897376682.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI8763865809.mp3",
    "guid": "672695e2-b34e-11f1-9bce-afd135c7e770",
    "title": "Silence Can Become A Habit"
-  },
-  {
-   "date": "2026-09-21",
-   "durationSec": 361,
-   "enclosure": "https://pdst.fm/e/swap.fm/track/JhoQDAATtO1l0y8tdKNa/pscrb.fm/rss/p/traffic.megaphone.fm/ACCCI1188520480.mp3",
-   "guid": "57fd9cbe-b34e-11f1-9055-33caa9f24745",
-   "title": "The Illusion Of Control"
   }
  ]
 }

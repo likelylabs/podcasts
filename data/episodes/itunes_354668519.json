@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3602,
+   "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9eaecef9-93dd-42c7-b931-4f06bb173eaf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9eaecef9-93dd-42c7-b931-4f06bb173eaf&feed=Y8lFbOT4",
+   "guid": "8e701669-dbba-4181-bbf7-241b08b26faf",
+   "title": "697. Whose Game Are You Playing?"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 3220,
    "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4",
    "guid": "e8da1f1f-a5ec-4942-b617-06f2201e32e2",
    "title": "682. Should A.I. Move to Space?"
-  },
-  {
-   "date": "2026-07-22",
-   "durationSec": 2567,
-   "enclosure": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4",
-   "guid": "87ea13c4-1f60-4692-baf8-428bb9faf128",
-   "title": "Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person"
   }
  ]
 }

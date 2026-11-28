@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1049,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq7fbp.mp3",
+   "guid": "urn:bbc:podcast:w3ct9bzh",
+   "title": "Filipinos’ divided opinions on Duterte’s trial"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1331,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppl1md.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6htmq.mp3",
    "guid": "urn:bbc:podcast:p0p6hv4d",
    "title": "Bonus: What caused Nepal’s deadly flash floods?"
-  },
-  {
-   "date": "2026-08-26",
-   "durationSec": 1287,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p62lrn.mp3",
-   "guid": "urn:bbc:podcast:p0p62mvj",
-   "title": "Why are lab monkeys so expensive?"
   }
  ]
 }

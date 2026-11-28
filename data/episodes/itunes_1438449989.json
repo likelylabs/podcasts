@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-11-27",
+   "durationSec": 669,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b088d5b184190a8181dab1b/media.mp3",
+   "guid": "6b088d5b184190a8181dab1b",
+   "title": "Spain’s election: A turn to the right?"
+  },
+  {
+   "date": "2026-11-27",
    "durationSec": 1715,
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b060ed238d4dce5270099a8/media.mp3",
    "guid": "6b060ed238d4dce5270099a8",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adf4072dd5d6293db7252e4/media.mp3",
    "guid": "6adf4072dd5d6293db7252e4",
    "title": "Update: Lula pulls off election win in Brazil"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 659,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ade7ea2d10dc4428d2e90f0/media.mp3",
-   "guid": "6ade7ea2d10dc4428d2e90f0",
-   "title": "Serbia’s strongman leader voted out"
   }
  ]
 }

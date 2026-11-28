@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 218,
+   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7e3702e4-ee03-4a43-8d08-6bf2ef808d31.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/3Y0b8P5iBMPcd4jDTqNTIh9mAbyQk8r14AdTK5vlNHg",
+   "title": "Giving Thanks After a Bumpy Year in Markets"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 216,
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/3b687409-929b-4a27-b7c5-3a5498fea37f.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/496e3b3c-f220-4c1c-ba01-afe26600d1e0.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/M8dWlqthA47OX2dULcYON0itkOwFi9F3LoBWCWwK6go",
    "title": "AI Boom Faces a Higher-Yield Roadblock"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 267,
-   "enclosure": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a278c1a3-7279-40dd-bfb0-a5e14ed69ce4.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/-xyWp_yUffcMM_Oe8D6x1V-gr_woalKlx5gfbQMIK88",
-   "title": "The Missing Piece in Latin America’s Bull Case"
   }
  ]
 }

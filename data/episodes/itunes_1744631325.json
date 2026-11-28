@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3954,
+   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1705917109.mp3",
+   "guid": "ea185736-c3c8-11f0-b1f3-b34ff8d7f1bf",
+   "title": "Why Anthropic’s IPO Is A Warning For OpenAI — ft. Patrick Boyle"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1650,
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6953345860.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1301102515.mp3",
    "guid": "bc8515b2-b8ef-11f1-a392-a7172c065859",
    "title": "The AI Bubble Isn't Where You Think It Is"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 3484,
-   "enclosure": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5704287299.mp3",
-   "guid": "e9362c30-c3c8-11f0-b1f3-e3450b0854da",
-   "title": "Meet The Millionaire Class That Really Runs America"
   }
  ]
 }

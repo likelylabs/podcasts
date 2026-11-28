@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 743,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/a275f0a7-48cf-4f04-96fe-c3202580075b/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=a275f0a7-48cf-4f04-96fe-c3202580075b&feed=HMwRVgVt&t=podcast&e=nx-s1-6055516&p=510318&d=743&size=11896835",
+   "guid": "e588b8ca-3657-4ad5-ac24-f8b957208140",
+   "title": "Thanksgiving Storm Aftermath, Black Friday Economy, Eisenkot's Coalition Talks"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 740,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/279fc4ff-e0a4-439a-94e6-b438da225b54/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=279fc4ff-e0a4-439a-94e6-b438da225b54&feed=HMwRVgVt&t=podcast&e=nx-s1-6054761&p=510318&d=740&size=11846261",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/a1f4f816-a10e-4363-80d9-ce4b76626fa1/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=a1f4f816-a10e-4363-80d9-ce4b76626fa1&feed=HMwRVgVt&t=podcast&e=nx-s1-6022401&p=510318&d=926&size=14821713",
    "guid": "034cf540-43ee-4e74-90a7-ef4d88728bd9",
    "title": "Oil Earnings, Binance Heist, A MAHA Update"
-  },
-  {
-   "date": "2026-10-30",
-   "durationSec": 770,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e95cdcd-0fd3-48da-8276-fb6a4799f399/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e95cdcd-0fd3-48da-8276-fb6a4799f399&feed=HMwRVgVt&t=podcast&e=nx-s1-6023035&p=510318&d=770&size=12326496",
-   "guid": "84288417-7745-41c5-817f-878ab22fd4a9",
-   "title": "Final Days Of Midterm Campaigning, Alaska Senate Race Controversy, Iran War Plans"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 488,
+   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0306.mp3",
+   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0306",
+   "title": "The Sultans Who Built Modern Malaysia"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 340,
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0305.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0277.mp3",
    "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0277",
    "title": "The 1963 Malaysia Agreement: The Borneo Compromise"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 382,
-   "enclosure": "https://audio.fexingo.com/history/the-story-of-malaysia/episode-0276.mp3",
-   "guid": "https://feeds.fexingo.com/history/the-story-of-malaysia/episode-0276",
-   "title": "Malaysia's Forgotten Monsoon Traders"
   }
  ]
 }

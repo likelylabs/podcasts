@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 2847,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pqb96l.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39z3hh2",
+   "title": "Spanish politicians hold final rallies ahead of Sunday's general election."
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 2846,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq8gm4.mp3",
+   "guid": "urn:bbc:podcast:w1730bnd39z2n85",
+   "title": "Fiery final debate ahead of Spain's general election"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 2850,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq4y9c.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmqvm3.mp3",
    "guid": "urn:bbc:podcast:w1730bnccsbg9c9",
    "title": "Nvidia's CEO Jensen Huang Quits"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 2781,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmms4f.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsbfg4d",
-   "title": "AI chip-maker chief resigns"
-  },
-  {
-   "date": "2026-11-12",
-   "durationSec": 2513,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmj6ql.mp3",
-   "guid": "urn:bbc:podcast:w1730bnccsbcdg6",
-   "title": "El Salvador troops target gangs in Haiti"
   }
  ]
 }

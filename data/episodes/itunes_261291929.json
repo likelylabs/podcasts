@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1421,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq9z6g.mp3",
+   "guid": "urn:bbc:podcast:p0pqb0nm",
+   "title": "Steven Gerrard on Wirtz - and just how good is Ngumoha?"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 3265,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq902l.mp3",
+   "guid": "urn:bbc:podcast:m00359dz",
+   "title": "TCV: Ali in Bruges and what is the best club anthem?"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 2600,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq3k45.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pjlmkm.mp3",
    "guid": "urn:bbc:podcast:p0phzkpn",
    "title": "Can anyone manage Manchester United?"
-  },
-  {
-   "date": "2026-10-24",
-   "durationSec": 969,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj7ww2.mp3",
-   "guid": "urn:bbc:podcast:p0pj7y5v",
-   "title": "Sean Dyche - The Football Interview"
-  },
-  {
-   "date": "2026-10-23",
-   "durationSec": 3270,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj8r9f.mp3",
-   "guid": "urn:bbc:podcast:m003322l",
-   "title": "TCV: Vikings, traitors, faithfuls & getting the Bilic"
   }
  ]
 }

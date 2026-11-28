@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2070,
+   "enclosure": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/9c5f291c-58c8-46e2-9838-b50f00d2e420/audio.mp3?utm_source=Podcast&in_playlist=0c388a0d-3e12-4c24-9de8-aa9200bf9219",
+   "guid": "9c5f291c-58c8-46e2-9838-b50f00d2e420",
+   "title": "The first Children’s Booker Prize and Parliament Week"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1498,
    "enclosure": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/080bf1ab-2425-48dd-b56b-b50800e28b56/audio.mp3?utm_source=Podcast&in_playlist=0c388a0d-3e12-4c24-9de8-aa9200bf9219",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/d028b864-ac11-4620-b6dd-b44400cdc4e0/audio.mp3?utm_source=Podcast&in_playlist=0c388a0d-3e12-4c24-9de8-aa9200bf9219",
    "guid": "d028b864-ac11-4620-b6dd-b44400cdc4e0",
    "title": "David Attenborough's 100th birthday"
-  },
-  {
-   "date": "2026-05-01",
-   "durationSec": 1968,
-   "enclosure": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/0c35f27e-786c-4365-8f97-b43d00bb219e/audio.mp3?utm_source=Podcast&in_playlist=0c388a0d-3e12-4c24-9de8-aa9200bf9219",
-   "guid": "0c35f27e-786c-4365-8f97-b43d00bb219e",
-   "title": "Giant tiramisu and an amazing axolotl rescue"
   }
  ]
 }

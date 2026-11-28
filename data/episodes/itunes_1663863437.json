@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 2338,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/b1258fc4-2a88-4c3d-97a1-b50f00f8d4d7/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "70ffc98b-5940-44ed-be9d-b50f00fa4107",
+   "title": "Daybreak Weekend: US Jobs, Eurozone Inflation, Vietnam Eco"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 891,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/738d1289-1bcd-48e6-8e60-b50f003904e9/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
+   "guid": "738d1289-1bcd-48e6-8e60-b50f003904e9",
+   "title": "Asia Equities Gain, US Partners Respond to Tariffs"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 2333,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/0cf9ff19-9eca-4079-9d9d-b50d014a90dc/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
@@ -195,20 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/b3b49745-ea52-40a3-9fde-b4f10033f84d/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
    "guid": "b3b49745-ea52-40a3-9fde-b4f10033f84d",
    "title": "SK Hynix Profit Beat, One Earth Summit"
-  },
-  {
-   "date": "2026-10-27",
-   "durationSec": 1239,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/249cb46e-dbd2-4edd-a90d-b4f00025c576/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "249cb46e-dbd2-4edd-a90d-b4f00025c576",
-   "title": "Anthropic's IPO Sets Up Defining Moment for Wall Street, AI Boom"
-  },
-  {
-   "date": "2026-10-26",
-   "durationSec": 1141,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/58e85be7-dbb5-4043-afed-af80014dc0b3/85d79faa-b981-4bc3-a38a-b4ef002b42a1/audio.mp3?utm_source=Podcast&in_playlist=27143354-63aa-4ac5-965d-af80014dc0d3",
-   "guid": "85d79faa-b981-4bc3-a38a-b4ef002b42a1",
-   "title": "Markets Brace for Earnings, Central Bank Decisions"
   }
  ]
 }

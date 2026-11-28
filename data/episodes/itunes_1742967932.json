@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 463,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq6lbm.mp3",
+   "guid": "urn:bbc:podcast:p0pq6mng",
+   "title": "Real Easy English: Talking about tea"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 504,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppl9wl.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nk2nsf.mp3",
    "guid": "urn:bbc:podcast:p0nk2r0x",
    "title": "Real Easy English: Talking about fruit"
-  },
-  {
-   "date": "2026-05-01",
-   "durationSec": 273,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhrk3n.mp3",
-   "guid": "urn:bbc:podcast:p0nhrlbd",
-   "title": "Real Easy English: Talking about the dentist"
   }
  ]
 }

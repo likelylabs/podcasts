@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1277,
+   "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/19ea422a-a5cb-465e-85ff-18f3650ce6bc/rssFileVip.mp3?timestamp=1795763388423",
+   "guid": "19ea422a-a5cb-465e-85ff-18f3650ce6bc",
+   "title": "EP135_《從破壞性創新到維持性創新：以台積電為例》 陳忠仁 教授"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1227,
    "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/a0fbe66b-bc87-4473-9bc3-580652bfe0ab/rssFileVip.mp3?timestamp=1795239018111",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/83821513-a8c1-43ec-9e72-dfe0db0ce1d9/rssFileVip.mp3?timestamp=1778276264874",
    "guid": "83821513-a8c1-43ec-9e72-dfe0db0ce1d9",
    "title": "EP106_《站在半導體浪潮上：從材料工程到半導體產業》 楊偉文 總經理"
-  },
-  {
-   "date": "2026-05-01",
-   "durationSec": 1088,
-   "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/63129851-afa0-41f5-8c16-84edfab4c5af/rssFileVip.mp3?timestamp=1777670674722",
-   "guid": "63129851-afa0-41f5-8c16-84edfab4c5af",
-   "title": "EP105_《拱手退讓，成就大局：策略領導觀點》 陳忠仁 教授"
   }
  ]
 }

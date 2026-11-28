@@ -1,19 +1,26 @@
 {
  "showId": "itunes_1588412361",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "EP8 讓我們環島去──臺灣人的旅行故事 ft.陳韋聿",
+   "date": "2026-11-27",
+   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/f350431b-afe2-4e78-8afc-aceec6dbd962/rssFileVip.mp3?timestamp=1795774453066",
+   "durationSec": 2891,
+   "guid": "f350431b-afe2-4e78-8afc-aceec6dbd962"
+  },
+  {
    "title": "集章之道：鹽月桃甫與名勝戳印的收藏學",
    "date": "2026-10-29",
-   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/6ca3bb75-b284-48ae-8751-1eb15781b8d4/rssFileVip.mp3?timestamp=1793432511898",
+   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/6ca3bb75-b284-48ae-8751-1eb15781b8d4/rssFileVip.mp3?timestamp=1795764369706",
    "durationSec": 2710,
    "guid": "6ca3bb75-b284-48ae-8751-1eb15781b8d4"
   },
   {
    "title": "制度化旅行所推動的國立公園",
    "date": "2026-10-15",
-   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/46382f3c-2d32-42a3-84e3-5e961881297d/rssFileVip.mp3?timestamp=1792126718216",
+   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/46382f3c-2d32-42a3-84e3-5e961881297d/rssFileVip.mp3?timestamp=1795764352472",
    "durationSec": 2177,
    "guid": "46382f3c-2d32-42a3-84e3-5e961881297d"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/a6560e88-3682-43f6-9d3d-140a86acf8e2/rssFileVip.mp3?timestamp=1734488214586",
    "durationSec": 2402,
    "guid": "a6560e88-3682-43f6-9d3d-140a86acf8e2"
-  },
-  {
-   "title": "EP14. 歷史藏在細節裡！──《商魂》裡的臺北城  ft.采松有限公司總監許雅玲",
-   "date": "2024-11-27",
-   "enclosure": "https://rss.soundon.fm/rssf/70385dcf-25c0-4ced-85bd-df839ecf20c8/feedurl/2848e10d-33b3-48e9-8844-2550e5714e57/rssFileVip.mp3?timestamp=1732688199759",
-   "durationSec": 2673,
-   "guid": "2848e10d-33b3-48e9-8844-2550e5714e57"
   }
  ]
 }

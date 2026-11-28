@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1227,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/b602ba62-ff13-40cb-a87c-b50f00f558f1/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "b602ba62-ff13-40cb-a87c-b50f00f558f1",
+   "title": "Bloomberg Surveillance TV: November 27th, 2026"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 1892,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/7e7e8f3f-592d-4fb2-87ea-b50f00f45ccd/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+   "guid": "7e7e8f3f-592d-4fb2-87ea-b50f00f45ccd",
+   "title": "Markets and Black Friday"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1237,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/99537d75-3436-48e2-bf17-b50d011ffc59/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
@@ -195,20 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/bab5b54f-54f2-4be9-aae1-b4fd011a10fb/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
    "guid": "bab5b54f-54f2-4be9-aae1-b4fd011a10fb",
    "title": "Bloomberg Surveillance TV: November 9th, 2026"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 1748,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/dd374516-a0a4-4885-a885-b4fd00dd19ca/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "dd374516-a0a4-4885-a885-b4fd00dd19ca",
-   "title": "Stocks Rise as Dip-Buyers Shrug Off Nvidia Woes"
-  },
-  {
-   "date": "2026-11-07",
-   "durationSec": 2589,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/4e1ddef0-0ffd-45f4-9980-b4fa016dfb77/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
-   "guid": "dbf624a7-ec5c-4942-b9b5-b4fa017cd9c5",
-   "title": "Election 'Blue Wave' & Your Wallet; Navigating AI-Driven Market Volatility"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3235,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/d54eb7ac-9355-47ae-8a5c-7b4796a76b8b/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=d54eb7ac-9355-47ae-8a5c-7b4796a76b8b&feed=QGMNw0q1&t=podcast&e=nx-s1-6053128&p=510282&d=3235&size=51766818",
+   "guid": "52fc7482-4ec5-4958-8c68-b1c0ca390044",
+   "title": "Why does everything in music feel fake?"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1245,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/89a51086-aee8-44b9-a4a3-8b17887618fb/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=89a51086-aee8-44b9-a4a3-8b17887618fb&feed=QGMNw0q1&t=podcast&e=nx-s1-6053125&p=510282&d=1245&size=19928777",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/b7a08b44-0d61-473b-9e5a-dac9b5fae035/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=b7a08b44-0d61-473b-9e5a-dac9b5fae035&feed=QGMNw0q1&t=podcast&e=nx-s1-5992662&p=510282&d=1370&size=21926600",
    "guid": "4f7d4bfa-c5b8-4398-8660-b286f586c0ad",
    "title": "East of Eden"
-  },
-  {
-   "date": "2026-10-06",
-   "durationSec": 1529,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/b8c71f41-9a2b-4c16-b017-fa92b4aab76b/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=b8c71f41-9a2b-4c16-b017-fa92b4aab76b&feed=QGMNw0q1&t=podcast&e=nx-s1-5991600&p=510282&d=1529&size=24472809",
-   "guid": "e1e0bc33-3210-4898-9985-38a89ff9dec9",
-   "title": "Your Mother Your Mother Your Mother"
   }
  ]
 }

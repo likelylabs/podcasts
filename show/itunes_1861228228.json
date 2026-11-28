@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1861228228",
- "generatedAt": "2026-11-27T10:47:40+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "AI台灣日報 EP328 [台灣10月景氣燈號續亮紅燈 連11個月創紀錄]",
+   "date": "2026-11-28",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/01a75af3-eff7-4d97-8356-50b61253d716/rssFileVip.mp3?timestamp=1795813938306",
+   "durationSec": 615,
+   "guid": "01a75af3-eff7-4d97-8356-50b61253d716"
+  },
+  {
    "title": "AI台灣日報 EP327 [沙國最大煉油廠疑遭葉門青年運動攻擊　荷莫茲海峽再有船觸雷]",
    "date": "2026-11-27",
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/66cc13c0-84fe-49bd-94bb-9f96ea87043a/rssFileVip.mp3?timestamp=1795727646053",
+   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/66cc13c0-84fe-49bd-94bb-9f96ea87043a/rssFileVip.mp3?timestamp=1795761514227",
    "durationSec": 490,
    "guid": "66cc13c0-84fe-49bd-94bb-9f96ea87043a"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/b5ab1d1a-2200-4d21-ac8c-7ec00efc726b/rssFileVip.mp3?timestamp=1793332862004",
    "durationSec": 525,
    "guid": "b5ab1d1a-2200-4d21-ac8c-7ec00efc726b"
-  },
-  {
-   "title": "AI台灣日報 EP298 [美國太平洋陸軍司令：中國武力奪台能力與威脅窗口仍成立]",
-   "date": "2026-10-29",
-   "enclosure": "https://rss.soundon.fm/rssf/83d0746b-a43b-4602-944a-2ffce9bdc70e/feedurl/083264d9-672a-495f-92fc-08b3ce3f5e35/rssFileVip.mp3?timestamp=1793264326649",
-   "durationSec": 469,
-   "guid": "083264d9-672a-495f-92fc-08b3ce3f5e35"
   }
  ]
 }

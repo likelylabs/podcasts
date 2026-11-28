@@ -1,6 +1,41 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 281,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3137505.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3137505?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Affaire Bardella, percée de Lisnard : premières alertes au RN ? - Vos questions sms -"
+  },
+  {
+   "date": "2026-11-28",
+   "durationSec": 947,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3137913.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3137913?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Charlotte Arnould et son son avocate, Me Carine Durrieu-Diebolt - Depardieu sera jugé pour viol"
+  },
+  {
+   "date": "2026-11-28",
+   "durationSec": 2,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3137322.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3137322?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Affaire Bardella, percée de Lisnard : premières alertes au RN ? - L'intégrale -"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 755,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3133810.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3133810?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Flavie Flament - Elle a choisi de parler"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 728,
+   "enclosure": "https://api.octopus.saooti.com/podcast/download/3124011.mp3?origin=rss",
+   "guid": "https://octopus.saooti.com/main/pub/podcast/3124011?productor=6889b58c-454d-4b39-be81-d14254401a23",
+   "title": "Jean-Noël Barrot - Ukraine: la guerre hors de contrôle?"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 396,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3124009.mp3?origin=rss",
@@ -16,7 +51,7 @@
   },
   {
    "date": "2026-11-26",
-   "durationSec": 406,
+   "durationSec": 407,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3113468.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3113468?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Lisnard : une percée qui bouscule la droite...et le RN ? Vos questions sms -"
@@ -79,56 +114,56 @@
   },
   {
    "date": "2026-11-22",
-   "durationSec": 268,
+   "durationSec": 258,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3069655.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3069655?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - Vos questions sms -"
   },
   {
    "date": "2026-11-22",
-   "durationSec": 3614,
+   "durationSec": 3603,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3069656.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3069656?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - L'intégrale -"
   },
   {
    "date": "2026-11-21",
-   "durationSec": 726,
+   "durationSec": 715,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3059701.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3059701?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Xavier Tytelman - \"Pont de Poutine\" attaqué: les coulisses de l'opération secrète"
   },
   {
    "date": "2026-11-21",
-   "durationSec": 224,
+   "durationSec": 214,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3060058.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3060058?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "RN : une taupe au ministère de l’Intérieur ? - Vos questions sms -"
   },
   {
    "date": "2026-11-21",
-   "durationSec": 3744,
+   "durationSec": 3734,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3060069.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3060069?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "RN : une taupe au ministère de l’Intérieur ? - L'intégrale -"
   },
   {
    "date": "2026-11-20",
-   "durationSec": 788,
+   "durationSec": 777,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3048989.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3048989?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Jean-Louis Borloo - Il veut \"réparer la république\"...mais comment?"
   },
   {
    "date": "2026-11-20",
-   "durationSec": 320,
+   "durationSec": 310,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3048995.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3048995?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Xi, Trump, Poutine :  un deal dans le dos de l'Ukraine ? - Vos questions sms -"
   },
   {
    "date": "2026-11-20",
-   "durationSec": 3695,
+   "durationSec": 3684,
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3049000.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3049000?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Xi, Trump, Poutine :  un deal dans le dos de l'Ukraine ?  - L'intégrale -"
@@ -174,41 +209,6 @@
    "enclosure": "https://api.octopus.saooti.com/podcast/download/3030127.mp3?origin=rss",
    "guid": "https://octopus.saooti.com/main/pub/podcast/3030127?productor=6889b58c-454d-4b39-be81-d14254401a23",
    "title": "Soldats français en Ukraine : l'avertissement de Moscou - L'intégrale -"
-  },
-  {
-   "date": "2026-11-17",
-   "durationSec": 655,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3019352.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3019352?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Thomas Gomart - Trump, Xi, Poutine: Vont-ils se partager le monde?"
-  },
-  {
-   "date": "2026-11-17",
-   "durationSec": 430,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3020185.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3020185?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Riner, Lisnard, Lagarde: qui peut créer la surprise en 2027? - Vos questions sms -"
-  },
-  {
-   "date": "2026-11-17",
-   "durationSec": 3776,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3020184.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3020184?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Riner, Lisnard, Lagarde...qui peut créer la surprise en 2027? - L'intégrale -"
-  },
-  {
-   "date": "2026-11-15",
-   "durationSec": 736,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3002502.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3002502?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Tina Kieffer - Son cri d'alarme contre la baisse des dons"
-  },
-  {
-   "date": "2026-11-15",
-   "durationSec": 303,
-   "enclosure": "https://api.octopus.saooti.com/podcast/download/3001785.mp3?origin=rss",
-   "guid": "https://octopus.saooti.com/main/pub/podcast/3001785?productor=6889b58c-454d-4b39-be81-d14254401a23",
-   "title": "Teddy Riner, un début de campagne entre promesses et inquiétudes - Vos questions sms -"
   }
  ]
 }

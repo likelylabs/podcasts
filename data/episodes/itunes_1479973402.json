@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1686,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pk9d5q.mp3",
+   "guid": "urn:bbc:podcast:p0pk9jyl",
+   "title": "History of Underwear (Radio Edit)"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 1687,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbblrj.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9kbfp.mp3",
    "guid": "urn:bbc:podcast:p0n9kcv3",
    "title": "Emperor Nero (Radio Edit)"
-  },
-  {
-   "date": "2026-04-24",
-   "durationSec": 1684,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9k8vb.mp3",
-   "guid": "urn:bbc:podcast:p0n8gkh8",
-   "title": "The Terracotta Army (Radio Edit)"
   }
  ]
 }

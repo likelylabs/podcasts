@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 10499,
+   "enclosure": "https://traffic.megaphone.fm/GLT5769762647.mp3",
+   "guid": "9e6fd7d6-e9f7-11f1-a7d8-8f63ca85b2be",
+   "title": "#2588 - Deric Poston & Ehsan Ahmad"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 8193,
    "enclosure": "https://traffic.megaphone.fm/GLT9030692803.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/GLT6084226127.mp3",
    "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
    "title": "#2562 - Dan McClellan"
-  },
-  {
-   "date": "2026-10-07",
-   "durationSec": 9498,
-   "enclosure": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-   "guid": "2013800e-c120-11f1-a768-6f890ba0aaa8",
-   "title": "#2561 - LL Cool J"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1678,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp4bz2.mp3",
+   "guid": "urn:bbc:podcast:p0pp1bhl",
+   "title": "The Naked Week 3. Milburn's Mines and a Shenzhen Shindig"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1680,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmxpj3.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhvt8x.mp3",
    "guid": "urn:bbc:podcast:p0nhvr9k",
    "title": "The News Quiz: Ep3. When the King came round for tea"
-  },
-  {
-   "date": "2026-04-25",
-   "durationSec": 1693,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngg347.mp3",
-   "guid": "urn:bbc:podcast:p0ngg0p5",
-   "title": "The News Quiz: Ep2. The art of vetting"
   }
  ]
 }

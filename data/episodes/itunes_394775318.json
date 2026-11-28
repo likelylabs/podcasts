@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2444,
+   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef723187-6eef-4e2c-ab72-351b92a6eb6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef723187-6eef-4e2c-ab72-351b92a6eb6c&feed=BqbsxVfO",
+   "guid": "f247cc50-826b-4e4e-ac99-8b318c8e1cee",
+   "title": "100 Objects #26: Purity Ring"
+  },
+  {
    "date": "2026-11-24",
    "durationSec": 2085,
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO",
@@ -202,13 +209,6 @@
    "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
    "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
    "title": "100 Objects #13: The Sand Letters"
-  },
-  {
-   "date": "2026-08-11",
-   "durationSec": 1922,
-   "enclosure": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO",
-   "guid": "5f5d0b7d-72b5-45cb-bb40-587a86bb6fbd",
-   "title": "Bamboo Is Innocent"
   }
  ]
 }

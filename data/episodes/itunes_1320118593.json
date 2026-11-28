@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 605,
+   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/56259755-0133-4d54-9752-66b9f8d2f49e/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=56259755-0133-4d54-9752-66b9f8d2f49e&feed=IFy3imsg&t=podcast&e=nx-s1-6048521&p=510325&d=605&size=9688777",
+   "guid": "9a50f34a-264e-4302-a489-abdf8a0b6d6f",
+   "title": "How a record El Niño is hitting your wallet"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 508,
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/708e74fd-2bbd-4840-8e8d-97da6ea423f9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=708e74fd-2bbd-4840-8e8d-97da6ea423f9&feed=IFy3imsg&t=podcast&e=nx-s1-6053235&p=510325&d=508&size=8129393",
@@ -202,13 +209,6 @@
    "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c20dabd9-d511-4a35-bb3f-f7932e6955f6/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c20dabd9-d511-4a35-bb3f-f7932e6955f6&feed=IFy3imsg&t=podcast&e=nx-s1-6006805&p=510325&d=148&size=2384126",
    "guid": "735747e3-c5f7-444c-bdb3-00a321c55149",
    "title": "Will AI take my job? Ask an economist!"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 553,
-   "enclosure": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/dffa7745-568d-4656-a698-e11117f57ce9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=dffa7745-568d-4656-a698-e11117f57ce9&feed=IFy3imsg&t=podcast&e=nx-s1-6004278&p=510325&d=553&size=8856225",
-   "guid": "c7ce6c91-840b-449a-800b-f918f58548a7",
-   "title": "Supercore inflation, Bumble valuation and Pooh's repatriation"
   }
  ]
 }

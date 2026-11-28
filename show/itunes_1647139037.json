@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1647139037",
- "generatedAt": "2026-11-21T09:16:30+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "🐻【專題研究】誘惑心理學：為什麼有些人不帥不美，卻讓人著迷？Robert Greene 親自解說",
+   "date": "2026-11-28",
+   "enclosure": "https://anchor.fm/s/edbfc438/podcast/play/129930824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2Fb8275b96-e010-626d-583a-282577e30693.mp3",
+   "durationSec": 1112,
+   "guid": "ee141d87-a741-4f81-903b-4cfea19dd002"
+  },
   {
    "title": "🐻《The Law of the Sublime》導讀：你的人生不是悶，是被你縮小了（《權力的 48 條法則》作者 Robert Greene 新書）",
    "date": "2026-11-18",
@@ -205,13 +212,6 @@
    "enclosure": "https://anchor.fm/s/edbfc438/podcast/play/123296454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-25%2F5751901a-5d2a-05aa-ed15-808028f69b9f.mp3",
    "durationSec": 372,
    "guid": "0b9d0274-9808-4bac-b79b-5ddb5d64fad7"
-  },
-  {
-   "title": "《小島經濟學》導讀：你唔係唔夠勤力，係你儲落嘅錢，一直喺度縮水（好書推薦：How an Economy Grows and Why It Crashes）",
-   "date": "2026-08-02",
-   "enclosure": "https://anchor.fm/s/edbfc438/podcast/play/122853340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2F3c0e3fbd-2789-7dd5-074b-f45dedca2658.mp3",
-   "durationSec": 542,
-   "guid": "f05b4aa9-e3c6-46ca-9992-84779d7f289f"
   }
  ]
 }

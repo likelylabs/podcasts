@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1296,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/aaceb1c9-68f0-4a30-a47a-819dfa274859/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=aaceb1c9-68f0-4a30-a47a-819dfa274859&feed=XkY2SBZJ&t=podcast&e=nx-s1-6051074&p=510338&d=1296&size=20743776",
+   "guid": "ee30560e-8d6f-46c2-b18f-a18777519c58",
+   "title": "How to avoid counterfeit and unsafe products online"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1357,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/74601896-86e6-4de0-b97d-5525806a87e2/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=74601896-86e6-4de0-b97d-5525806a87e2&feed=XkY2SBZJ&t=podcast&e=nx-s1-6048706&p=510338&d=1357&size=21718457",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/1c5e9a84-8d04-49e1-b834-055e056dc5e7/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=1c5e9a84-8d04-49e1-b834-055e056dc5e7&feed=XkY2SBZJ&t=podcast&e=nx-s1-5973311&p=510338&d=833&size=13338837",
    "guid": "e5198063-a32e-4fbd-94c9-2c73e3dcd81b",
    "title": "Dear Life Kit: How much advice is too much advice?"
-  },
-  {
-   "date": "2026-09-17",
-   "durationSec": 1019,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f2a1a587-680e-417b-85c0-dd8c79a696fb/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f2a1a587-680e-417b-85c0-dd8c79a696fb&feed=XkY2SBZJ&t=podcast&e=nx-s1-5971269&p=510338&d=1019&size=16315081",
-   "guid": "8d8f5051-3ca7-4270-99c9-a074a42e078c",
-   "title": "No, it's not too early to start saving for the holidays"
   }
  ]
 }

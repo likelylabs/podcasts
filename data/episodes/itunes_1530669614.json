@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3889,
+   "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/89f29c23-6f32-436f-b4c4-3b6300a2479e/rssFileVip.mp3?timestamp=1795795764162",
+   "guid": "89f29c23-6f32-436f-b4c4-3b6300a2479e",
+   "title": "講經EP227. 偷渡單嘢原來係真"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 4181,
    "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/b45be470-6176-4158-8975-07a25dbdf9b7/rssFileVip.mp3?timestamp=1795683674279",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/64616e45-3e32-4095-a32b-5229bd5d7874/rssFileVip.mp3?timestamp=1783538497189",
    "guid": "64616e45-3e32-4095-a32b-5229bd5d7874",
    "title": "講經萬應室EP162. Victoria"
-  },
-  {
-   "date": "2026-07-04",
-   "durationSec": 4217,
-   "enclosure": "https://rss.soundon.fm/rssf/cdead6b6-2dfa-46c2-a934-3d048488610f/feedurl/f76a01a4-3ac1-4c6c-951c-3f9eb866d6e5/rssFileVip.mp3?timestamp=1783207102362",
-   "guid": "f76a01a4-3ac1-4c6c-951c-3f9eb866d6e5",
-   "title": "講經EP216. 個人收藏美學"
   }
  ]
 }

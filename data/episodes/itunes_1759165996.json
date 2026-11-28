@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 71,
+   "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a1433d9cb11d38a8b4f2e63/media.mp3",
+   "guid": "6a1433d9cb11d38a8b4f2e63",
+   "title": "Who Is the Best Among Us? | Mufti Menk"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 1904,
    "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a143313b9ac1c860c3977f8/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a061d38d98ee73f63cd2e4e/media.mp3",
    "guid": "6a061d38d98ee73f63cd2e4e",
    "title": "When You Call Out to Allah… Do You Do This? | Mufti Menk"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 130,
-   "enclosure": "https://sphinx.acast.com/p/open/s/669f8f9582b4e4eb3d88ad2e/e/6a061930a8fad4c1bec727d0/media.mp3",
-   "guid": "6a061930a8fad4c1bec727d0",
-   "title": "Are Disasters Always a Punishment? | Mufti Menk"
   }
  ]
 }

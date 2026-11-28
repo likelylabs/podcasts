@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1743794752",
- "generatedAt": "2026-11-24T12:51:22+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "EP135_《從破壞性創新到維持性創新：以台積電為例》 陳忠仁 教授",
+   "date": "2026-11-27",
+   "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/19ea422a-a5cb-465e-85ff-18f3650ce6bc/rssFileVip.mp3?timestamp=1795763388423",
+   "durationSec": 1277,
+   "guid": "19ea422a-a5cb-465e-85ff-18f3650ce6bc"
+  },
   {
    "title": "EP134_《臺灣三菱電梯的經營策略、商業模式與接班傳承》 劉金汶 總經理",
    "date": "2026-11-20",
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/83821513-a8c1-43ec-9e72-dfe0db0ce1d9/rssFileVip.mp3?timestamp=1778276264874",
    "durationSec": 1037,
    "guid": "83821513-a8c1-43ec-9e72-dfe0db0ce1d9"
-  },
-  {
-   "title": "EP105_《拱手退讓，成就大局：策略領導觀點》 陳忠仁 教授",
-   "date": "2026-05-01",
-   "enclosure": "https://rss.soundon.fm/rssf/6640e440-ba6e-4be0-8f07-04a45e2524c7/feedurl/63129851-afa0-41f5-8c16-84edfab4c5af/rssFileVip.mp3?timestamp=1777670674722",
-   "durationSec": 1088,
-   "guid": "63129851-afa0-41f5-8c16-84edfab4c5af"
   }
  ]
 }

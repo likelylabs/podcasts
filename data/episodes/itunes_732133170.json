@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2525,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq7q2v.mp3",
+   "guid": "urn:bbc:podcast:p0pq7rcl",
+   "title": "Rent a Presenter wraps up for the week"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 3989,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq0z01.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph2pfd.mp3",
    "guid": "urn:bbc:podcast:p0ph2pwq",
    "title": "What's the best thing you've achieved in your pants?"
-  },
-  {
-   "date": "2026-10-15",
-   "durationSec": 2642,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgt6k5.mp3",
-   "guid": "urn:bbc:podcast:p0pgt776",
-   "title": "Unpopular Opinion with Olivia Colman & Alexander Skarsgård"
   }
  ]
 }

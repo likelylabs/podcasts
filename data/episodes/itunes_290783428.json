@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1451,
+   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0e664c82-59be-42a0-a5df-6a001ae5216e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0e664c82-59be-42a0-a5df-6a001ae5216e&feed=hvWWWzRv&t=podcast&e=nx-s1-6053171&p=510289&d=1451&size=23220602",
+   "guid": "c1a4114a-d661-4e44-8e4b-6f0c0833878c",
+   "title": "The economics of podcasting and NPR+"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 1590,
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273",
@@ -202,13 +209,6 @@
    "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592",
    "guid": "b23000fa-66fb-4df2-a3be-455bf17c5477",
    "title": "Who decides what big box sells? Our GAME got us answers"
-  },
-  {
-   "date": "2026-08-19",
-   "durationSec": 2408,
-   "enclosure": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
-   "guid": "d3594708-49b5-464f-a29c-1f92c115d119",
-   "title": "Getting entrepreneurial in Korea (Summer School)"
   }
  ]
 }

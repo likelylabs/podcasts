@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1343,
+   "enclosure": "https://traffic.megaphone.fm/STM4274333405.mp3",
+   "guid": "3ac7d3fc-dd34-11f1-8c9c-1f8992905ec9",
+   "title": "Why Is Uranus Sideways? (Captain Curious)"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1004,
    "enclosure": "https://traffic.megaphone.fm/STM3562520443.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://traffic.megaphone.fm/STM8617296631.mp3",
    "guid": "40ae5b0e-ca58-11f1-806b-eb5bc90437da",
    "title": "Why Do Trees Have Bark?"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 1040,
-   "enclosure": "https://traffic.megaphone.fm/STM1989563211.mp3",
-   "guid": "2130d61c-ca58-11f1-8ada-3f375fc26028",
-   "title": "Why Don't Tattoos Go Away?"
   }
  ]
 }

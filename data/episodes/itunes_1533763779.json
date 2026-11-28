@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3497,
+   "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/01e7e81c-45cf-442e-a24a-58984cf7259e/rssFileVip.mp3?timestamp=1795758235436",
+   "guid": "01e7e81c-45cf-442e-a24a-58984cf7259e",
+   "title": "EP.108 從皮克敏學民主、網路禮貌與法律責任"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 2343,
+   "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/d64a6950-fe0c-4147-a9ca-2ad9c5462c80/rssFileVip.mp3?timestamp=1795750675998",
+   "guid": "d64a6950-fe0c-4147-a9ca-2ad9c5462c80",
+   "title": "課本沒教你的綠能大小事  EP.16：從皮克敏學民主、網路禮貌與法律責任"
+  },
+  {
    "date": "2026-11-20",
    "durationSec": 2989,
    "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/51237cae-2d04-40f5-9276-0a391214c227/rssFileVip.mp3?timestamp=1795083221877",
@@ -195,20 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/717af38f-ef7b-495e-91b6-ad19c514071e/rssFileVip.mp3?timestamp=1793954080191",
    "guid": "717af38f-ef7b-495e-91b6-ad19c514071e",
    "title": "EP.89｜訪NIRAS王穎達談藏在細節裡的魔鬼—3.3 選商新局與非核週年談能源政策"
-  },
-  {
-   "date": "2026-05-08",
-   "durationSec": 3799,
-   "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/77078123-c827-444c-887d-73fcd1319e46/rssFileVip.mp3?timestamp=1793954080191",
-   "guid": "77078123-c827-444c-887d-73fcd1319e46",
-   "title": "EP.88｜屋頂上的綠能革命：8/1 光電新制如何改變我們的生活？"
-  },
-  {
-   "date": "2026-05-04",
-   "durationSec": 3789,
-   "enclosure": "https://rss.soundon.fm/rssf/30ab4d45-759f-4526-8faa-1c6976f76f2f/feedurl/f14c1ed1-69a8-494c-9341-07646e70cda9/rssFileVip.mp3?timestamp=1793954080191",
-   "guid": "f14c1ed1-69a8-494c-9341-07646e70cda9",
-   "title": "EP.87｜談地底下的小巨人：伊格尼斯 Ignis與他的再生能源夥伴~獻給所有「想一起改變世界的人」feat.王守誠"
   }
  ]
 }

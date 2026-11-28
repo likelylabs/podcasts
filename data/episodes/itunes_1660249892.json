@@ -1,9 +1,16 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3051,
+   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/48cb5942-7d73-4b2d-afd6-e0355c619f89/rssFileVip.mp3?timestamp=1795752919428",
+   "guid": "48cb5942-7d73-4b2d-afd6-e0355c619f89",
+   "title": "雜學系 EP01 獨立遊戲是門好生意？ 專訪 G-Eight 巨霸娛樂負責人 湯瑪士"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 3359,
-   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/acb0ce64-7d41-4413-a12b-f0a2b11213c7/rssFileVip.mp3?timestamp=1795666452582",
+   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/acb0ce64-7d41-4413-a12b-f0a2b11213c7/rssFileVip.mp3?timestamp=1795749850486",
    "guid": "acb0ce64-7d41-4413-a12b-f0a2b11213c7",
    "title": "今天認真講146 選舉最後一週還有哪些變數？ 周偉航 Josefina"
   },
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/dc03489e-0583-4336-a6c6-5dc4a0c0a109/rssFileVip.mp3?timestamp=1791781814054",
    "guid": "dc03489e-0583-4336-a6c6-5dc4a0c0a109",
    "title": "匪情研究 EP24 十萬台幣買套房的鶴崗 周偉航"
-  },
-  {
-   "date": "2026-10-08",
-   "durationSec": 5583,
-   "enclosure": "https://rss.soundon.fm/rssf/2a9fb5ca-a9a9-4952-8dec-a42053797b6c/feedurl/82ec92ab-2559-4fcc-92b6-a8f271538649/rssFileVip.mp3?timestamp=1791446261450",
-   "guid": "82ec92ab-2559-4fcc-92b6-a8f271538649",
-   "title": "今天認真講139 蔣萬安這樣組競選辦公室會不會挫起來？ 周偉航 Josefina"
   }
  ]
 }

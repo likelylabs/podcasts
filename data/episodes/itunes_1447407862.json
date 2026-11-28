@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1248,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261110 - Talking Markets podcast_FS.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261110 - Talking Markets podcast_FS.mp3",
+   "title": "Talking Markets podcast with Troy Gayeski of Future Standard"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 336,
+   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261127-back-to-inflation.mp3",
+   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261127-back-to-inflation.mp3",
+   "title": "UBS On-Air: Paul Donovan Daily Audio 'Back to inflation'"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 305,
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261126-consuming-all-the-way.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261110-inflation-fantasies.mp3",
    "guid": "https://www.ubs.com/content/dam/podcasts/wma/261110-inflation-fantasies.mp3",
    "title": "UBS On-Air: Paul Donovan Daily Audio 'Inflation fantasies'"
-  },
-  {
-   "date": "2026-11-10",
-   "durationSec": 898,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261109 - Top of the Morning.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261109 - Top of the Morning.mp3",
-   "title": "Top of the Morning: CIO Strategy Snapshot - Weeks when decades happen"
-  },
-  {
-   "date": "2026-11-09",
-   "durationSec": 332,
-   "enclosure": "https://www.ubs.com/content/dam/podcasts/wma/261109-uncertainty-continues.mp3",
-   "guid": "https://www.ubs.com/content/dam/podcasts/wma/261109-uncertainty-continues.mp3",
-   "title": "UBS On-Air: Paul Donovan Daily Audio 'Uncertainty continues'"
   }
  ]
 }

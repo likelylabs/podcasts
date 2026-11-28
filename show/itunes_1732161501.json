@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1732161501",
- "generatedAt": "2026-11-27T10:47:40+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "撒种",
+   "date": "2026-11-28",
+   "enclosure": "https://media.transistor.fm/4418eab5/43b02c13.mp3",
+   "durationSec": 358,
+   "guid": "519a400b-5288-46a9-9eaf-efa05dad373c"
+  },
   {
    "title": "奇妙的造物主",
    "date": "2026-11-27",
@@ -205,13 +212,6 @@
    "enclosure": "https://media.transistor.fm/175c36e4/756f989c.mp3",
    "durationSec": 382,
    "guid": "41059615-d4db-4a79-a1bb-8a1cce8595d0"
-  },
-  {
-   "title": "仍有盼望",
-   "date": "2026-10-29",
-   "enclosure": "https://media.transistor.fm/4a2e95b2/eb09b422.mp3",
-   "durationSec": 380,
-   "guid": "72b9968b-3265-4f38-9f36-fd98aa6e3222"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1637,
+   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130211103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F437768288-44100-2-88439098df2f68.mp3",
+   "guid": "686ac867-b3c2-4fbf-b575-0e6e19b10291",
+   "title": "AI is Too Big to Fail"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1179,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130104672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437622914-44100-2-85d3ae3be3d62.mp3",
@@ -12,7 +19,7 @@
    "durationSec": 1678,
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/130122747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437646451-44100-2-5bfe36b839b42.mp3",
    "guid": "eda4b892-9917-49c9-b82e-6a2f5e6ac0c0",
-   "title": "How to Talk About AI at Thanksgiving"
+   "title": "How to Talk About AI with Your Family"
   },
   {
    "date": "2026-11-25",
@@ -202,13 +209,6 @@
    "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/128111532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435024080-44100-2-8b9418d4e908.mp3",
    "guid": "7145131c-3627-480a-b971-01a5203fe41f",
    "title": "Introducing How We Got Here -- NLW's new podcast"
-  },
-  {
-   "date": "2026-10-25",
-   "durationSec": 1948,
-   "enclosure": "https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3",
-   "guid": "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
-   "title": "How I'm Actually Using AI Right Now (Including Claude Duet)"
   }
  ]
 }

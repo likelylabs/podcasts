@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 2289,
+   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b09d4b40fb5b55df19c72ed/media.mp3",
+   "guid": "6b09d4b40fb5b55df19c72ed",
+   "title": "Reaction to Qatar GP practice"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 2148,
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6b05ad94f402e492d24439b9/media.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6ac50459583cd93e79bd4a8d/media.mp3",
    "guid": "6ac50459583cd93e79bd4a8d",
    "title": "Bahrain GP (in Malaysia) Driver Ratings"
-  },
-  {
-   "date": "2026-10-05",
-   "durationSec": 4179,
-   "enclosure": "https://sphinx.acast.com/p/open/s/63e24225436c36001119fc66/e/6ac27d3b4a18a6b7a38bca6f/media.mp3",
-   "guid": "6ac27d3b4a18a6b7a38bca6f",
-   "title": "Bahrain GP (in Malaysia) Race Review"
   }
  ]
 }

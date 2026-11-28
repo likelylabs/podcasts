@@ -1,11 +1,18 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 2839,
+   "enclosure": "https://episodes.captivate.fm/episode/7cf2c193-af3c-407a-90e8-6da192d50572.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=7cf2c193-af3c-407a-90e8-6da192d50572",
+   "guid": "7cf2c193-af3c-407a-90e8-6da192d50572",
+   "title": "The Huw Edwards documentary: is it too soon?"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 2042,
    "enclosure": "https://dax.captivate.fm/101d8a40-2b48-4e62-b064-db679d9cc4a0/POD-2026-11-26-SPORTS-AGENTS-AUDIO-FiNAL-encoded.mp3?aw_0_1st.showid=7772fc46-ea54-4d40-88c5-4fb111af73a8&aw_0_1st.episodeid=ce330e32-d3ed-4fef-8745-2e6fe086147c&played_on=c49390b9-6909-4cd3-a974-e270cf686f27",
    "guid": "ce330e32-d3ed-4fef-8745-2e6fe086147c",
-   "title": "How Jamal Musiala's illness tested Bayern's 'Family Values' - The Sports Agents"
+   "title": "Why Jamal Musiala's illness tested Bayern's 'Family Values' - The Sports Agents"
   },
   {
    "date": "2026-11-27",
@@ -202,13 +209,6 @@
    "enclosure": "https://episodes.captivate.fm/episode/472ca5c4-fa18-4c0a-acfb-e574eccd8d2d.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=472ca5c4-fa18-4c0a-acfb-e574eccd8d2d",
    "guid": "472ca5c4-fa18-4c0a-acfb-e574eccd8d2d",
    "title": "Burnham's first Budget: 'Is that it?'"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 2447,
-   "enclosure": "https://episodes.captivate.fm/episode/8d39c978-c779-4329-b39a-4506c404cb49.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=8d39c978-c779-4329-b39a-4506c404cb49",
-   "guid": "8d39c978-c779-4329-b39a-4506c404cb49",
-   "title": "Is Andy Burnham all over the place on Brexit?"
   }
  ]
 }

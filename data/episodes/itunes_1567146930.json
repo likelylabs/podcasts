@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 3591,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/2c03d1df-8221-46a2-b611-33fd473c35e5/rssFileVip.mp3?timestamp=1795757556985",
+   "guid": "2c03d1df-8221-46a2-b611-33fd473c35e5",
+   "title": "台灣羚聲播客第4467-專訪INLW亞太區副主席吳惠芳Joseohine Wu"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 3590,
+   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/7f54df9f-0590-4d06-85b6-4be60bd079e1/rssFileVip.mp3?timestamp=1795757551872",
+   "guid": "7f54df9f-0590-4d06-85b6-4be60bd079e1",
+   "title": "台灣羚聲播客-2026年11月27日新聞評論"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 3591,
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/0a87b7f5-f923-4361-8570-625c0f57ee36/rssFileVip.mp3?timestamp=1795746478463",
@@ -195,20 +209,6 @@
    "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/70035676-b47e-4837-a19d-5ef6cef17f15/rssFileVip.mp3?timestamp=1794808059970",
    "guid": "70035676-b47e-4837-a19d-5ef6cef17f15",
    "title": "台灣羚聲播客第4447-專訪台北市松山信義區議員洪健益"
-  },
-  {
-   "date": "2026-11-16",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/79c3cb8e-54c8-44ff-a184-89636566628c/rssFileVip.mp3?timestamp=1794808055110",
-   "guid": "79c3cb8e-54c8-44ff-a184-89636566628c",
-   "title": "台灣羚聲播客第4446-專訪台北市內湖南港區候選人陳又新"
-  },
-  {
-   "date": "2026-11-16",
-   "durationSec": 3601,
-   "enclosure": "https://track.fstry.me/p/9kyc89fr/rss.soundon.fm/rssf/6aef195e-9b4b-484f-a6e1-6c077a433b02/feedurl/0d1d553f-105c-4eec-b6c6-adca28e00b46/rssFileVip.mp3?timestamp=1794808053117",
-   "guid": "0d1d553f-105c-4eec-b6c6-adca28e00b46",
-   "title": "台灣羚聲播客第4445-專訪台中市大里霧峰議員林德宇"
   }
  ]
 }

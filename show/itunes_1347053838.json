@@ -1,8 +1,15 @@
 {
  "showId": "itunes_1347053838",
- "generatedAt": "2026-11-27T10:47:40+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
+  {
+   "title": "2７11 放手才能拥有",
+   "date": "2026-11-27",
+   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/c636e0f7-5fc6-4a28-b419-b50100814072/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
+   "durationSec": 193,
+   "guid": "c636e0f7-5fc6-4a28-b419-b50100814072"
+  },
   {
    "title": "2６11 大脑记录你的重复",
    "date": "2026-11-26",
@@ -205,13 +212,6 @@
    "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/67cb732a-6874-4847-b54d-b4da0088eb6f/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
    "durationSec": 207,
    "guid": "67cb732a-6874-4847-b54d-b4da0088eb6f"
-  },
-  {
-   "title": "0710 狗屎主义",
-   "date": "2026-10-07",
-   "enclosure": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/81618c77-6f12-4b1a-944d-adc6007bf797/c232e032-a9fc-4300-93a8-b4da0086cb3e/audio.mp3?utm_source=Podcast&in_playlist=aff0c08f-867a-43c3-a731-adc6007cc58c",
-   "durationSec": 182,
-   "guid": "c232e032-a9fc-4300-93a8-b4da0086cb3e"
   }
  ]
 }

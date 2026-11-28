@@ -1,6 +1,20 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1818,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq8rz2.mp3",
+   "guid": "urn:bbc:podcast:p0pq8vbc",
+   "title": "Can Pedro Sanchez hold on to Spain?"
+  },
+  {
+   "date": "2026-11-27",
+   "durationSec": 1573,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq5lc7.mp3",
+   "guid": "urn:bbc:podcast:p0pq5lhm",
+   "title": "President Zelensky voices his frustration with the US"
+  },
+  {
    "date": "2026-11-27",
    "durationSec": 1665,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq2tz0.mp3",
@@ -195,20 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3",
    "guid": "urn:bbc:podcast:p0pmwsp6",
    "title": "Microsoft outage: Millions affected in over 70 countries"
-  },
-  {
-   "date": "2026-11-13",
-   "durationSec": 1700,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3",
-   "guid": "urn:bbc:podcast:p0pmr8st",
-   "title": "Putin lets Europe join Ukraine peace talks"
-  },
-  {
-   "date": "2026-11-13",
-   "durationSec": 1722,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3",
-   "guid": "urn:bbc:podcast:p0pmn84n",
-   "title": "Nvidia CEO Jensen Huang resigns"
   }
  ]
 }

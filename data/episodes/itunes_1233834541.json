@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1476,
+   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/42e4992b-ae71-4e18-8049-a65d6ca69cc8.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+   "guid": "gid://art19-episode-locator/V0/cfTMx3BhoFqHevS4RdkI3BicdRVz7Y7A6vlOQeDzLgo",
+   "title": "Two Whats?! And A Wow! People Who Wow Edition – Author and Illustrator Raina Telgemeier"
+  },
+  {
    "date": "2026-11-25",
    "durationSec": 258,
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/a89acfff-6a93-45c6-bba9-136abfa4bd40.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
@@ -202,13 +209,6 @@
    "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/9719844f-c9df-407a-a94d-4d2bd5520f03.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
    "guid": "gid://art19-episode-locator/V0/Mvr4l8o1xxlSFYhU9aixYyAOqdFafGDD__N6XE5iP1o",
    "title": "Two Whats?! And A Wow! - World Wide Web (Encore)"
-  },
-  {
-   "date": "2026-10-07",
-   "durationSec": 313,
-   "enclosure": "https://pscrb.fm/rss/p/rss.art19.com/episodes/35ebb5c7-1b17-4a41-8c01-45ac4f90d268.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
-   "guid": "gid://art19-episode-locator/V0/ufNC9iJ6lPiXK1lTv7wdH5tSk3qsqdo-st-BsL8xcMI",
-   "title": "Sneak Peek: World Organization of Wowzers Members-Only Meeting - October 2026"
   }
  ]
 }

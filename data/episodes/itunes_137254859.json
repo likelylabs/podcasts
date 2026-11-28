@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1858,
+   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/cd32fabd-5939-42a1-810c-b509010daf12/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
+   "guid": "cd32fabd-5939-42a1-810c-b509010daf12",
+   "title": "You Have Inside Information | Joel Osteen"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1858,
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/672567c4-17a4-4a40-8c59-b509010998f3/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
@@ -202,13 +209,6 @@
    "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/cd0b69aa-235a-43d1-a798-b4f101793202/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
    "guid": "cd0b69aa-235a-43d1-a798-b4f101793202",
    "title": "God Will Finish What He Started | Joel Osteen"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 1812,
-   "enclosure": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/912d5041-e9da-4949-9ea2-b4f000f4fb40/audio.mp3?utm_source=Podcast&in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "guid": "912d5041-e9da-4949-9ea2-b4f000f4fb40",
-   "title": "Faithful In The Routine | Joel Osteen"
   }
  ]
 }

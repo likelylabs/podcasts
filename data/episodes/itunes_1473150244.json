@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1772,
+   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq2jvt.mp3",
+   "guid": "urn:bbc:podcast:w3ct8m04",
+   "title": "Marco Rubio v JD Vance… who will replace Trump in 2028?"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1593,
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppy2zf.mp3",
@@ -202,13 +209,6 @@
    "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcxs02.mp3",
    "guid": "urn:bbc:podcast:p0pcxtf0",
    "title": "Americanswers! Why don't the Democrats have a new leader yet?"
-  },
-  {
-   "date": "2026-09-25",
-   "durationSec": 2062,
-   "enclosure": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pchv3q.mp3",
-   "guid": "urn:bbc:podcast:w3ct8lzp",
-   "title": "Has Trump’s ban against the media backfired?"
   }
  ]
 }

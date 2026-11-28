@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-28",
+   "durationSec": 1358,
+   "enclosure": "https://rss.soundon.fm/rssf/a7a83aa1-0784-4f86-a7f0-807af1a78541/feedurl/98517c07-f944-4ecd-991b-d06a354e715e/rssFileVip.mp3?timestamp=1795832571269",
+   "guid": "98517c07-f944-4ecd-991b-d06a354e715e",
+   "title": "Ep252- 台灣綜合新聞"
+  },
+  {
    "date": "2026-11-21",
    "durationSec": 1220,
    "enclosure": "https://rss.soundon.fm/rssf/a7a83aa1-0784-4f86-a7f0-807af1a78541/feedurl/ff4c90ac-f0db-4ea2-a1c9-efbd01ed099d/rssFileVip.mp3?timestamp=1795247298663",
@@ -202,13 +209,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/a7a83aa1-0784-4f86-a7f0-807af1a78541/feedurl/0f7ef7b7-d12f-4c5b-8c48-fe7f17f0dfa3/rssFileVip.mp3?timestamp=1778368052502",
    "guid": "0f7ef7b7-d12f-4c5b-8c48-fe7f17f0dfa3",
    "title": "Ep223- 掰掰海豚秀！"
-  },
-  {
-   "date": "2026-05-02",
-   "durationSec": 841,
-   "enclosure": "https://rss.soundon.fm/rssf/a7a83aa1-0784-4f86-a7f0-807af1a78541/feedurl/e7f30c96-47ba-4db7-8a93-8346289e5742/rssFileVip.mp3?timestamp=1777762566725",
-   "guid": "e7f30c96-47ba-4db7-8a93-8346289e5742",
-   "title": "Ep222- 國際綜合新聞"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 1526,
+   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b095726becb6df492c658d1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=a6hjOQLYudmgMC9paI5ytcOgTFrVis-OE5aljNqH9X0",
+   "guid": "6b095726becb6df492c658d1",
+   "title": "Social-insecurity numbers: the money behind the manosphere"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1050,
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0810df19eabcafe8be2474/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mHb4dHPX-wOOavfgdUc8ZQq4Ay5bnboUWs_NCJNlJbo",
@@ -202,13 +209,6 @@
    "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad5db120c6b30397bf5bec0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OGrQoR-ByrkdkPonJ2ti2Mkhg4I7IOALIeOb_vCSgRw",
    "guid": "6ad5db120c6b30397bf5bec0",
    "title": "Independence eh? Canada’s referendum"
-  },
-  {
-   "date": "2026-10-16",
-   "durationSec": 1673,
-   "enclosure": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ad1fd1765f99a36ebb7243f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WyVJjAhuCsDXxJ7hffRS7iXD9hXx61nBA2GrUmSLQBE",
-   "guid": "6ad1fd1765f99a36ebb7243f",
-   "title": "Schrödinger’s chat: can AI and scientists co-exist?"
   }
  ]
 }

@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 2120,
+   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/98bf16ed-d8a2-43ce-9bb8-26117da993a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=98bf16ed-d8a2-43ce-9bb8-26117da993a8&feed=dloY8UYJ",
+   "guid": "e7692bdb-f1bb-4d93-ac8c-e75155334f32",
+   "title": "The Last Sound You Hear (PODCAST EXCLUSIVE EPISODE)"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 1955,
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/2b76340a-c6ff-4ab1-a018-09ec45f095e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=2b76340a-c6ff-4ab1-a018-09ec45f095e2&feed=dloY8UYJ",
@@ -202,13 +209,6 @@
    "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4fca8765-b089-4e44-800c-0c0c2c19e485/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=4fca8765-b089-4e44-800c-0c0c2c19e485&feed=dloY8UYJ",
    "guid": "76dd00dd-3af8-44cb-98cc-cd8b4327388e",
    "title": "Reality Glitch Vol. II"
-  },
-  {
-   "date": "2026-09-30",
-   "durationSec": 1647,
-   "enclosure": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/0bff8699-f940-47eb-bb98-938f1acdf62a/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=0bff8699-f940-47eb-bb98-938f1acdf62a&feed=dloY8UYJ",
-   "guid": "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
-   "title": "Brutal Mercy (PODCAST EXCLUSIVE EPISODE)"
   }
  ]
 }

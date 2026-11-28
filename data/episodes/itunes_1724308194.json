@@ -1,6 +1,12 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "enclosure": "https://sw.soundon.fm/p/FNLD9K/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261127_2130_1731_tw.mp3",
+   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=119352",
+   "title": "【台灣怎麼想】從德國困境到台灣病 看懂全球經濟轉向"
+  },
+  {
    "date": "2026-11-20",
    "enclosure": "https://sw.soundon.fm/p/FNLD9K/d1qd3zoyy91a2c.cloudfront.net/audio/program/20261120_2130_1731_tw.mp3",
    "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=118659",
@@ -173,12 +179,6 @@
    "enclosure": "https://sw.soundon.fm/p/FNLD9K/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260508_2130_1731_tw.mp3",
    "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=103943",
    "title": "【台灣怎麼想】轉型正義是台灣的道德責任"
-  },
-  {
-   "date": "2026-05-01",
-   "enclosure": "https://sw.soundon.fm/p/FNLD9K/d1qd3zoyy91a2c.cloudfront.net/audio/program/20260501_2130_1731_tw.mp3",
-   "guid": "https://www.rti.org.tw/programnews?uid=4&amp;pid=103329",
-   "title": "【台灣怎麼想】解析台灣社會分歧 缺乏共享的苦難記憶"
   }
  ]
 }

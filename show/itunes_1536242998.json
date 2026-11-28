@@ -1,12 +1,19 @@
 {
  "showId": "itunes_1536242998",
- "generatedAt": "2026-11-27T10:47:40+08:00",
+ "generatedAt": "2026-11-28T10:37:21+08:00",
  "catalogVersion": 1,
  "episodes": [
   {
+   "title": "EP2587【吳淡如】來跟金銀淑學一億元一集的技巧",
+   "date": "2026-11-28",
+   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/8290fe5a-f17b-4b4f-b017-c1ff5aed18cf/rssFileVip.mp3?timestamp=1795824057118",
+   "durationSec": 1188,
+   "guid": "8290fe5a-f17b-4b4f-b017-c1ff5aed18cf"
+  },
+  {
    "title": "EP2586【吳淡如】什麼地方會跌？什麼地方會漲",
    "date": "2026-11-27",
-   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/44f1e626-41c7-4902-8984-686f7fd38caa/rssFileVip.mp3?timestamp=1795741804141",
+   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/44f1e626-41c7-4902-8984-686f7fd38caa/rssFileVip.mp3?timestamp=1795759126655",
    "durationSec": 1133,
    "guid": "44f1e626-41c7-4902-8984-686f7fd38caa"
   },
@@ -205,13 +212,6 @@
    "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/67c2f8b3-bf6e-4396-81b7-6247853ec5ee/rssFileVip.mp3?timestamp=1793568458644",
    "durationSec": 1634,
    "guid": "67c2f8b3-bf6e-4396-81b7-6247853ec5ee"
-  },
-  {
-   "title": "EP2558【吳淡如】學習馬斯克功利型讀書法！",
-   "date": "2026-10-31",
-   "enclosure": "https://rss.soundon.fm/rssf/73930beb-4136-4b36-a910-39984335b7bb/feedurl/677c7a34-aed3-43e0-82cd-40e9e752cd79/rssFileVip.mp3?timestamp=1793433037245",
-   "durationSec": 980,
-   "guid": "677c7a34-aed3-43e0-82cd-40e9e752cd79"
   }
  ]
 }

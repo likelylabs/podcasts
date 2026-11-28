@@ -1,6 +1,13 @@
 {
  "episodes": [
   {
+   "date": "2026-11-27",
+   "durationSec": 371,
+   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/2ee155b2-bac1-44d6-ae60-73eb241c6910/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=2ee155b2-bac1-44d6-ae60-73eb241c6910&feed=fFPK3rs_",
+   "guid": "36b3a17a-66bd-4f1c-b378-2969e80ee365",
+   "title": "The Flashlight, Floodlight and Juggler in Your Brain | Dr. Amishi Jha"
+  },
+  {
    "date": "2026-11-26",
    "durationSec": 466,
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/8a10d6f1-37b5-465b-92cc-51106f4a42d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=8a10d6f1-37b5-465b-92cc-51106f4a42d9&feed=fFPK3rs_",
@@ -202,13 +209,6 @@
    "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/8076a1f5-794d-4223-ba81-6830bb2ea7c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=8076a1f5-794d-4223-ba81-6830bb2ea7c6&feed=fFPK3rs_",
    "guid": "0656e146-6018-413d-ba59-c583e842223d",
    "title": "What 3 Family Meals a Week Do for Your Kids | Shawn Stevenson"
-  },
-  {
-   "date": "2026-10-28",
-   "durationSec": 432,
-   "enclosure": "https://pdst.fm/e/stitcher.simplecastaudio.com/c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4/episodes/039f9371-2a55-4fba-8fc7-30b9706ebd48/audio/128/default.mp3?aid=rss_feed&awCollectionId=c15f81c9-8d65-4cd9-b8dc-49f981d5a9e4&awEpisodeId=039f9371-2a55-4fba-8fc7-30b9706ebd48&feed=fFPK3rs_",
-   "guid": "0ce3a1b5-91f5-4e67-89c7-156fbcc76079",
-   "title": "Turn Rejection Into Feedback And Make Every Yes Count | Katt Williams"
   }
  ]
 }
